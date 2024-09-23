@@ -14,10 +14,22 @@ const MY_FAVORITE_DEALERS = [
     'url': 'https://www.avenuedelabrique.com/promotions-et-bons-plans-lego'
   }
 ];
+const BEST_DEALS = [
+  {
+    'name':'Dealabs',
+    'url': 'https://www.dealabs.com/bons-plans/lego-animal-crossing-gouter-danniversaire-de-lico-2862873'
+  },
+  {
+    'name':'Avenue de la brique',
+    'url':'https://www.avenuedelabrique.com/objets-divers/630-separateur-de-briques/p3501'
+  }
+];
 
 console.table(MY_FAVORITE_DEALERS);
 console.log(MY_FAVORITE_DEALERS[0]);
 
+console.table(BEST_DEALS);
+console.log(BEST_DEALS[0]);
 /**
  * 🌱
  * Let's go with a very very simple first todo
