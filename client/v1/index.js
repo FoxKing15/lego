@@ -61,9 +61,8 @@ console.log(BEST_DEALS[0]);
 // 1. Create a variable and assign it the number of deals
 // 2. Log the variable
 
-
 const NumberOfDeals = deals.length;
-console.log(`Number of deals :${NumberOfDeals}`);
+console.log("Number of deals :",NumberOfDeals);
 
 // 🎯 TODO 3: Website name
 // 1. Create a variable and assign it the list of shopping community name only
@@ -79,14 +78,45 @@ console.log("Total number of shopping communities:", ListShoppingCommu.length);
 // 2. Create a variable and assign it the list of sets by price from lowest to highest
 // 3. Log the variable
 
+function sortByPrice(deals) {
+  return deals.sort((a, b) => a.price - b.price);
+}
+const sortedDealsByPrice = sortByPrice(deals).map(deal => ({
+  community: deal.community,
+  name: deal.title,
+  price: deal.price
+}));
+console.log("Sorted deals by price :", sortedDealsByPrice);
+
+
 // 🎯 TODO 5: Sort by date
 // 1. Create a function to sort the deals by date
 // 2. Create a variable and assign it the list of deals by date from recent to old
 // 3. Log the variable
 
+function sortByDate(deals) {
+  return deals.sort((a, b) => new Date(b.published) - new Date(a.published));
+}
+const sortedDealsByDate = sortByDate(deals).map(deal => ({
+  community: deal.community,
+  name: deal.title,
+  published: deal.published
+}));
+console.log("Sorted deals by date :", sortedDealsByDate);
+
 // 🎯 TODO 6: Filter a specific percentage discount range
 // 1. Filter the list of deals between 50% and 75%
 // 2. Log the list
+function sortByDeals(deals) {
+  return deals.sort((a, b) => a.discount - b.discount);
+}
+const filteredDeals = sortByDeals(deals).filter(deal => deal.discount >= 50 && deal.discount <= 75);
+const sortedDeals = filteredDeals.map(deal => ({
+  community: deal.community,
+  name: deal.title,
+  discount : deal.discount
+}));
+console.log("Filtered deals between 50% and 75% :", sortedDeals);
 
 // 🎯 TODO 7: Average percentage discount
 // 1. Determine the average percentage discount of the deals
