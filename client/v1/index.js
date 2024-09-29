@@ -515,9 +515,18 @@ const deal = {
 
 // 1. Compute the potential highest profitability based on the VINTED items
 // 2. Log the value
+let highestProfitability = 0;
+let bestDeal = null;
 
+for (const item of VINTED) {
+  const profitability = deal.retail - item.price; 
 
-
+  if (profitability > highestProfitability) { 
+    highestProfitability = profitability;
+    bestDeal = item;
+  }
+}
+console.log("Highest profitability:", highestProfitability.toFixed(2),"is thanks to this item: ",bestDeal);
 /**
  * 🎬
  * The End: last thing to do
@@ -527,3 +536,5 @@ const deal = {
 // 🎯 LAST TODO: Save in localStorage
 // 1. Save MY_FAVORITE_DEALERS in the localStorage
 // 2. log the localStorage
+localStorage.setItem('MY_FAVORITE_DEALERS', JSON.stringify(MY_FAVORITE_DEALERS));
+console.log("LocalStorage contents:", localStorage);
