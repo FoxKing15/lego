@@ -422,9 +422,23 @@ const VINTED = [
 
 // 🎯 TODO 11: Compute the average, the p95 and the p99 price value
 // 1. Compute the average price value of the listing
+const Vintedprices = VINTED.map(item => item.price);
+const Vintedtotal = Vintedprices.reduce((sum, price) => sum + price, 0);
+const Vintedaverage = Vintedtotal / Vintedprices.length;
+console.log("Average price:",Vintedaverage.toFixed(2));
+
+Vintedprices.sort((a, b) => a - b);
+function getPercentile(arr, percentile) {
+  const index = Math.ceil(percentile / 100 * arr.length) - 1;
+  return arr[index];
+}
 // 2. Compute the p95 price value of the listing
+const p95 = getPercentile(Vintedprices, 95);
+console.log("95th percentile:",p95.toFixed(2));
 // 3. Compute the p99 price value of the listing
 // The p95 value (95th percentile) is the lower value expected to be exceeded in 95% of the vinted items
+const p99 = getPercentile(Vintedprices, 99);
+console.log("99th percentile:",p99.toFixed(2));
 
 // 🎯 TODO 12: Very old listed items
 // // 1. Log if we have very old items (true or false)
@@ -438,7 +452,7 @@ const VINTED = [
 // 1. Delete the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
 // 2. Log the new list of items
 
-// 🎯 TODO 5: Save a favorite item
+// 🎯 TODO 15: Save a favorite item
 // We declare and assign a variable called `sealedCamera`
 let sealedCamera = {
   title: 'La caméra Hommage à Walt Disney lego set 43230',
@@ -469,7 +483,7 @@ sealedCamera = {
 // 3. Update `camera` property with `favorite` to true WITHOUT changing sealedCamera properties
 
 
-// 🎯 TODO 11: Compute the profitability
+// 🎯 TODO 16: Compute the profitability
 // From a specific deal called `deal`
 const deal = {
   'title':  'La caméra Hommage à Walt Disney',
