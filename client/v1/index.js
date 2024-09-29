@@ -470,14 +470,6 @@ if (specificItem) {
 const updatedVinted = VINTED.filter(item => item.uuid !== targetUUID);
 console.log("Updated VINTED list:", updatedVinted);
 
-const sppecificItem = updatedVinted.find(item => item.uuid === targetUUID);
-if (sppecificItem) {
-  console.log("Found item:", sppecificItem);
-} else {
-  console.log("Item not found.");
-}
-
-
 // 🎯 TODO 15: Save a favorite item
 // We declare and assign a variable called `sealedCamera`
 let sealedCamera = {
@@ -487,16 +479,17 @@ let sealedCamera = {
   released: '2024-09-15',
   uuid: '5357bbf5-7232-5a6a-b48c-1e4f9a26ac68'
 };
-
 // we make a copy of `sealedCamera` to `camera` variable
 // and set a new property `favorite` to true
 let camera = sealedCamera;
-
 camera.favorite = true;
+
 
 // 1. Log `sealedCamera` and `camera` variables
 // 2. What do you notice?
-
+console.log("sealedCamera: ",sealedCamera);
+console.log("camera: ",camera);
+//I can notice that the sealed camera properties have changed with the addition of the favorite property.
 // we make (again) a new assignment again
 sealedCamera = {
   title: 'La caméra Hommage à Walt Disney lego set 43230',
@@ -505,9 +498,11 @@ sealedCamera = {
   released: '2024-09-15',
   uuid: '5357bbf5-7232-5a6a-b48c-1e4f9a26ac68'
 };
-
 // 3. Update `camera` property with `favorite` to true WITHOUT changing sealedCamera properties
-
+let camera2 = { ...sealedCamera};
+camera2.favorite=true;
+console.log("Updated sealedCamera: ",sealedCamera);
+console.log("Updated camera: ",camera2);
 
 // 🎯 TODO 16: Compute the profitability
 // From a specific deal called `deal`
