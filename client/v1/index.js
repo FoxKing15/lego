@@ -175,10 +175,35 @@ Object.keys(communities).forEach(community => {
 // 1. For each community, sort the deals by discount price, from highest to lowest
 // 2. Log the sort
 
+function sortDealsByPriceForCommunity(communities) {
+  const sortedCommunities = {};
+  Object.keys(communities).forEach(community => {
+    
+    sortedCommunities[community] = sortByPrice(communities[community]);
+  });
+
+  return sortedCommunities;
+}
+const sortedCommunitiesByPrice = sortDealsByPriceForCommunity(communities);
+console.log(sortedCommunitiesByPrice);
+
 // 🎯 TODO 10: Sort by date for each community
 // 1. For each set, sort the deals by date, from old to recent
 // 2. Log the sort
+function sortByDateReverse(deals) {
+  return deals.sort((a, b) => new Date(a.published) - new Date(b.published));
+}
+function sortDealsByDateForCommunity(communities) {
+  const sortedCommunities = {};
+  Object.keys(communities).forEach(community => {
+    
+    sortedCommunities[community] = sortByDateReverse(communities[community]);
+  });
 
+  return sortedCommunities;
+}
+const sortedCommunitiesByDate = sortDealsByDateForCommunity(communities);
+console.log(sortedCommunitiesByDate);
 
 /**
  * 🧥
