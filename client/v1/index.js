@@ -443,6 +443,15 @@ console.log("99th percentile:",p99.toFixed(2));
 // 🎯 TODO 12: Very old listed items
 // // 1. Log if we have very old items (true or false)
 // // A very old item is an item `released` more than 3 weeks ago.
+const currentDate = new Date();
+function isVeryOld(item) {
+  const releaseDate = new Date(item.released);
+  const diffInTime = currentDate - releaseDate; 
+  const diffInWeeks = diffInTime / (1000 * 60 * 60 * 24 * 7); 
+  return diffInWeeks > 3;
+}
+const hasVeryOldItems = VINTED.some(isVeryOld);
+console.log("Are there very old items?", hasVeryOldItems);
 
 // 🎯 TODO 13: Find a specific item
 // 1. Find the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
