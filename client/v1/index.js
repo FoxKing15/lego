@@ -456,10 +456,27 @@ console.log("Are there very old items?", hasVeryOldItems);
 // 🎯 TODO 13: Find a specific item
 // 1. Find the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
 // 2. Log the item
+const targetUUID = 'f2c5377c-84f9-571d-8712-98902dcbb913';
+const specificItem = VINTED.find(item => item.uuid === targetUUID);
+if (specificItem) {
+  console.log("Found item:", specificItem);
+} else {
+  console.log("Item not found.");
+}
 
 // 🎯 TODO 14: Delete a specific item
 // 1. Delete the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
 // 2. Log the new list of items
+const updatedVinted = VINTED.filter(item => item.uuid !== targetUUID);
+console.log("Updated VINTED list:", updatedVinted);
+
+const sppecificItem = updatedVinted.find(item => item.uuid === targetUUID);
+if (sppecificItem) {
+  console.log("Found item:", sppecificItem);
+} else {
+  console.log("Item not found.");
+}
+
 
 // 🎯 TODO 15: Save a favorite item
 // We declare and assign a variable called `sealedCamera`
