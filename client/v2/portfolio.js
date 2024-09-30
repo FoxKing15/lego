@@ -157,3 +157,11 @@ document.addEventListener('DOMContentLoaded', async () => {
   setCurrentDeals(deals);
   render(currentDeals, currentPagination);
 });
+
+//Feature 1 Browse pages
+selectPage.addEventListener('change', async (event) => {
+  const selectedPage = parseInt(event.target.value);
+  const deals = await fetchDeals(selectedPage, selectShow.value);
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
+});
