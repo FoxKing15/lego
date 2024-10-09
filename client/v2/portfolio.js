@@ -78,9 +78,13 @@ const renderDeals = deals => {
     .map(deal => {
       return `
       <div class="deal" id=${deal.uuid}>
-        <span>${deal.id}</span>
-        <a href="${deal.link}">${deal.title}</a>
-        <span>${deal.price}</span>
+        <img src="${deal.photo}" alt="Deal Image"/>
+        <div style="display: flex; flex-direction: column; gap: 20px;">
+          <span>${"ID : "}${deal.id}</span>
+          <a href="${deal.link}">${deal.title}</a>
+          <span>${"Price : "}${deal.price}${"€"}</span>
+          <span>${"Comments : "}${deal.comments}</span>
+        </div>
       </div>
     `;
     })
@@ -156,12 +160,57 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   setCurrentDeals(deals);
   render(currentDeals, currentPagination);
+  
 });
 
-//Feature 1 Browse pages
+/**
+ * Feature 1 - Browse pages
+As a user
+I want to browse available pages
+So that I can load more deals
+*/
 selectPage.addEventListener('change', async (event) => {
   const selectedPage = parseInt(event.target.value);
   const deals = await fetchDeals(selectedPage, selectShow.value);
   setCurrentDeals(deals);
   render(currentDeals, currentPagination);
+  
 });
+
+/**Feature 2 - Filter by best discount
+As a user
+I want to filter by best discount
+So that I can browse deals with a discount more important than 50% */
+const filterDiscountBtn = document.getElementById('filter-discount-btn');
+
+filterDiscountBtn.addEventListener('click', handleDiscountFilter);
+function handleDiscountFilter() {
+  // 1. Filter deals with discount greater than 50%
+  const filteredDeals = currentDeals.filter(deal => deal.discount > 50);
+
+  // 2. Update currentDeals and render the filtered list
+  setCurrentDeals({ result: filteredDeals, meta: currentPagination });
+  render(filteredDeals, currentPagination);
+}
+
+/**Feature 3 - Filter by most commented
+As a user
+I want to filter by most commented deals
+So that I can browse deals with more than 15 comments */
+const mostCommentedBtn = document.getElementById('most-commented-btn');
+
+mostCommentedBtn.addEventListener('click', handleMostCommented);
+function handleMostCommented() {
+ 
+  const mostCommented = currentDeals.filter(deal => deal.comments > 15);
+
+  setCurrentDeals({ result: mostCommented, meta: currentPagination });
+  render(mostCommented, currentPagination);
+}
+
+/**
+ Feature 4 - Filter by hot deals
+As a user
+I want to filter by hot deals
+So that I can browse deals with a temperature more important than 100
+ */

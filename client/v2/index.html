@@ -3,6 +3,25 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>🧱 Lego | Predictability of a lego set deal</title>
+    <style>
+      
+      .deal {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 20px;
+        border: 1px solid #ddd; 
+        border-radius: 5px; 
+        padding: 10px; 
+        background-color: #f9f9f9;
+      }
+      .deal img {
+        max-width: 150px;
+        margin-right: 20px; 
+      }
+      
+
+     
+    </style>
   </head>
   <body>
     <h1>Lego</h1>
@@ -20,9 +39,9 @@
         <select name="page" id="page-select"> </select>
       </div>
       <div id="filters">
-        <span>By best discount</span>
-        <span>By most commented</span>
-        <span>By hot deals</span>
+        <button id="filter-discount-btn">By best discount</button>
+        <button id="most-commented-btn">By most commented</button>
+        <button id="hot-deals-btn">By hot deals</button>
       </div>
       <div id="sort">
         <label for="sort-select">Sort:</label>
