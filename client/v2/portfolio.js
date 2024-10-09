@@ -79,11 +79,12 @@ const renderDeals = deals => {
       return `
       <div class="deal" id=${deal.uuid}>
         <img src="${deal.photo}" alt="Deal Image"/>
-        <div style="display: flex; flex-direction: column; gap: 20px;">
+        <div style="display: flex; flex-direction: column; gap: 10px;">
           <span>${"ID : "}${deal.id}</span>
           <a href="${deal.link}">${deal.title}</a>
           <span>${"Price : "}${deal.price}${"€"}</span>
           <span>${"Comments : "}${deal.comments}</span>
+          <span>${"Hotness : "}${deal.temperature}${"°C"}</span>
         </div>
       </div>
     `;
@@ -214,3 +215,13 @@ As a user
 I want to filter by hot deals
 So that I can browse deals with a temperature more important than 100
  */
+const hotDealsBtn = document.getElementById('hot-deals-btn');
+
+hotDealsBtn.addEventListener('click', handleHotDeals);
+function handleHotDeals() {
+ 
+  const hotDeals = currentDeals.filter(deal => deal.temperature > 100);
+
+  setCurrentDeals({ result: hotDeals, meta: currentPagination });
+  render(hotDeals, currentPagination);
+}
