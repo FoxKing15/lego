@@ -31,6 +31,8 @@ const selectPage = document.querySelector('#page-select');
 const selectLegoSetIds = document.querySelector('#lego-set-id-select');
 const sectionDeals= document.querySelector('#deals');
 const spanNbDeals = document.querySelector('#nbDeals');
+const sectionSales= document.querySelector('#sales');
+
 
 /**
  * Set global value
@@ -82,7 +84,7 @@ const renderDeals = deals => {
         <div style="display: flex; flex-direction: column; gap: 10px;">
           <span>${"ID : "}${deal.id}</span>
           <a href="${deal.link}">${deal.title}</a>
-          <span>${"Price : "}${deal.price}${"€"}</span>
+          <span>${"Price : "}${deal.price}€</span>
           <span>${"Comments : "}${deal.comments}</span>
           <span>${"Hotness : "}${deal.temperature}${"°C"}</span>
           <span>${" Date : "}${formatDateFromTimestamp(deal.published)}</span>
@@ -187,10 +189,7 @@ const filterDiscountBtn = document.getElementById('filter-discount-btn');
 
 filterDiscountBtn.addEventListener('click', handleDiscountFilter);
 function handleDiscountFilter() {
-  // 1. Filter deals with discount greater than 50%
   const filteredDeals = currentDeals.filter(deal => deal.discount > 50);
-
-  // 2. Update currentDeals and render the filtered list
   setCurrentDeals({ result: filteredDeals, meta: currentPagination });
   render(filteredDeals, currentPagination);
 }
@@ -228,7 +227,7 @@ function handleHotDeals() {
 }
 
 /**
- Feature 5 - Sort by price/ Feature 5 - Sort by date
+ Feature 5 - Sort by price/ Feature 6 - Sort by date
  As a user
 I want to sort by price
 So that I can easily identify cheapest and expensive deals
@@ -260,16 +259,71 @@ function sortDeals(criteria) {
       sortedDeals = currentDeals; 
   }
 
-  // Met à jour les offres actuelles après le tri
+  
   setCurrentDeals({ result: sortedDeals, meta: currentPagination });
-  render(sortedDeals, currentPagination); // Mets à jour l'affichage
+  render(sortedDeals, currentPagination); 
 }
 function formatDateFromTimestamp(timestamp) {
-  const date = new Date(timestamp * 1000); // Multiplier par 1000 si le timestamp est en secondes
+  const date = new Date(timestamp * 1000); 
 
-  const day = ('0' + date.getDate()).slice(-2); // Récupère le jour avec un 0 en préfixe si nécessaire
-  const month = ('0' + (date.getMonth() + 1)).slice(-2); // Les mois commencent à 0 donc on ajoute 1
-  const year = date.getFullYear(); // Récupère l'année
+  const day = ('0' + date.getDate()).slice(-2); 
+  const month = ('0' + (date.getMonth() + 1)).slice(-2); 
+  const year = date.getFullYear(); 
 
-  return `${day}/${month}/${year}`; // Retourne la date formatée
+  return `${day}/${month}/${year}`; 
 }
+
+/**
+ Feature 7 - Display Vinted sales
+ */
+ // Fetch sales for a specific Lego set ID
+ const fetchSales = async (legoSetId) => {
+  try {
+    const response = await fetch(`https://lego-api-blue.vercel.app/sales?id=${legoSetId}`); 
+    const body = await response.json();
+
+    if (body.success !== true) {
+      console.error(body);
+      return [];
+    }
+
+    return body.data.result; 
+  } catch (error) {
+    console.error(error);
+    return [];
+  }
+};
+
+const renderSales = (sales) => {
+  const salesArray = Array.isArray(sales) ? sales : [sales];
+
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement('div');
+
+  const template = salesArray
+    .map(sale => {
+      console.log("link : ",sale.link,"title : ",sale.title,"price : ", sale.price);
+      return `
+      <div class="deal" id=${sale.uuid}>
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+          <a href="${sale.link}" target="_blank">${sale.title}</a>
+          <span>${"Price: "}${sale.price}€</span>
+          <span>${"Published: "}${formatDateFromTimestamp(sale.published)}</span>
+        </div>
+      </div>
+      `;
+      
+    })
+    .join('');
+
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionSales.innerHTML = '<h2>Vinted Sales</h2>';
+  sectionSales.appendChild(fragment);
+};
+
+selectLegoSetIds.addEventListener('change', async (event) => {
+  const selectedLegoSetId = event.target.value;
+  const sales = await fetchSales(selectedLegoSetId);
+  renderSales(sales);
+});
