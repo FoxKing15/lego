@@ -285,12 +285,16 @@ function formatDateFromTimestamp(timestamp) {
 
     if (body.success !== true) {
       console.error(body);
+      document.getElementById('nbSales').innerText='0';
       return[];
     }
+    const salesArray = Array.isArray(body.data.result) ? body.data.result : [body.data.result];
     spanNbSales.innerHTML = salesArray.length;
 
     return body.data.result; 
   } catch (error) {
+    console.error('Error fetching sales:', error);
+    document.getElementById('nbSales').innerText = '0';
     console.error(error);
     return [];
   }
