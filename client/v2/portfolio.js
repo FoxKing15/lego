@@ -31,6 +31,7 @@ const selectPage = document.querySelector('#page-select');
 const selectLegoSetIds = document.querySelector('#lego-set-id-select');
 const sectionDeals= document.querySelector('#deals');
 const spanNbDeals = document.querySelector('#nbDeals');
+const spanNbSales = document.querySelector('#nbSales');
 const sectionSales= document.querySelector('#sales');
 
 
@@ -274,7 +275,7 @@ function formatDateFromTimestamp(timestamp) {
 }
 
 /**
- Feature 7 - Display Vinted sales
+ Feature 7 and 8(and my understanding of feature 8)- Display Vinted sales and Specific indicators
  */
  // Fetch sales for a specific Lego set ID
  const fetchSales = async (legoSetId) => {
@@ -284,8 +285,9 @@ function formatDateFromTimestamp(timestamp) {
 
     if (body.success !== true) {
       console.error(body);
-      return [];
+      return[];
     }
+    spanNbSales.innerHTML = salesArray.length;
 
     return body.data.result; 
   } catch (error) {
@@ -317,7 +319,16 @@ const renderSales = (sales) => {
 
   div.innerHTML = template;
   fragment.appendChild(div);
-  sectionSales.innerHTML = `<h2>Vinted Sales : ${salesArray.length}</h2>`;
+  if(salesArray.length == 0){
+    sectionSales.innerHTML = `<h2>Vinted Sales : no sales</h2>`;
+    
+  }else if(salesArray.length == 1){
+    sectionSales.innerHTML = `<h2>Vinted Sales : ${salesArray.length} sale</h2>`;
+  }
+  else{
+    sectionSales.innerHTML = `<h2>Vinted Sales : ${salesArray.length} sales</h2>`;
+  }
+  
   sectionSales.appendChild(fragment);
 };
 
@@ -326,3 +337,7 @@ selectLegoSetIds.addEventListener('change', async (event) => {
   const sales = await fetchSales(selectedLegoSetId);
   renderSales(sales);
 });
+
+/**
+ Feature 9 - average, p25, p50 and p95 price value indicators
+ */
