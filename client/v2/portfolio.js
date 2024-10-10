@@ -29,10 +29,16 @@ let currentPagination = {};
 const selectShow = document.querySelector('#show-select');
 const selectPage = document.querySelector('#page-select');
 const selectLegoSetIds = document.querySelector('#lego-set-id-select');
-const sectionDeals= document.querySelector('#deals');
+const sectionDeals = document.querySelector('#deals');
 const spanNbDeals = document.querySelector('#nbDeals');
 const spanNbSales = document.querySelector('#nbSales');
-const sectionSales= document.querySelector('#sales');
+const sectionSales = document.querySelector('#sales');
+const spanavgSalesPrice = document.querySelector('#avgSalesPrice')
+const spanp5Sales = document.querySelector('#p5Sales');
+const spanp25Sales = document.querySelector('#p25Sales');
+const spanp50Sales = document.querySelector('#p50Sales');
+
+
 
 
 /**
@@ -323,6 +329,7 @@ const renderSales = (sales) => {
 
   div.innerHTML = template;
   fragment.appendChild(div);
+  //Start Feature 8
   if(salesArray.length == 0){
     sectionSales.innerHTML = `<h2>Vinted Sales : no sales</h2>`;
     
@@ -332,8 +339,15 @@ const renderSales = (sales) => {
   else{
     sectionSales.innerHTML = `<h2>Vinted Sales : ${salesArray.length} sales</h2>`;
   }
+  //End
   
   sectionSales.appendChild(fragment);
+  //Start Feature 9
+  spanavgSalesPrice.innerHTML = `${(calculatePriceStatistics(salesArray).average).toFixed(2)} €`;
+  spanp5Sales.innerHTML = `${(calculatePriceStatistics(salesArray).p5).toFixed(2)} €`;
+  spanp25Sales.innerHTML = `${(calculatePriceStatistics(salesArray).p25).toFixed(2)} €`;
+  spanp50Sales.innerHTML = `${(calculatePriceStatistics(salesArray).p50).toFixed(2)} €`;
+  //End
 };
 
 selectLegoSetIds.addEventListener('change', async (event) => {
@@ -345,3 +359,23 @@ selectLegoSetIds.addEventListener('change', async (event) => {
 /**
  Feature 9 - average, p25, p50 and p95 price value indicators
  */
+ function calculatePriceStatistics(salesArray) {
+  const prices = salesArray.map(sale => parseFloat(sale.price)); // Convert prices to float
+  prices.sort((a, b) => a - b); // Sort prices in ascending order
+
+  const average = prices.reduce((sum, price) => sum + price, 0) / salesArray.length; // Calculate average
+
+  const p5 = calculatePercentile(prices, 5);
+  const p25 = calculatePercentile(prices, 25);
+  const p50 = calculatePercentile(prices, 50);
+
+  return { average, p5, p25, p50 };
+}
+
+function calculatePercentile(arr, percentile) {
+  const index = (percentile / 100) * arr.length;
+  if (arr.length === 0) return 0; // Avoid division by zero
+  return arr[Math.floor(index)]; // Return the value at the calculated index
+}
+
+
