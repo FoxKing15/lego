@@ -85,6 +85,7 @@ const renderDeals = deals => {
           <span>${"Price : "}${deal.price}${"€"}</span>
           <span>${"Comments : "}${deal.comments}</span>
           <span>${"Hotness : "}${deal.temperature}${"°C"}</span>
+          <span>${" Date : "}${formatDateFromTimestamp(deal.published)}</span>
         </div>
       </div>
     `;
@@ -224,4 +225,51 @@ function handleHotDeals() {
 
   setCurrentDeals({ result: hotDeals, meta: currentPagination });
   render(hotDeals, currentPagination);
+}
+
+/**
+ Feature 5 - Sort by price/ Feature 5 - Sort by date
+ As a user
+I want to sort by price
+So that I can easily identify cheapest and expensive deals
+ */
+const sortSelect= document.getElementById('sort-select');
+
+sortSelect.addEventListener('change', (event) => {
+  const selectedValue = event.target.value;
+  sortDeals(selectedValue);
+});
+
+function sortDeals(criteria) {
+  let sortedDeals;
+
+  switch (criteria) {
+    case 'price-asc': 
+      sortedDeals = [...currentDeals].sort((a, b) => a.price - b.price);
+      break;
+    case 'price-desc': 
+      sortedDeals = [...currentDeals].sort((a, b) => b.price - a.price);
+      break;
+    case 'date-asc':
+      sortedDeals = [...currentDeals].sort((a, b) => new Date(b.published) - new Date(a.published));
+      break;
+    case 'date-desc': 
+      sortedDeals = [...currentDeals].sort((a, b) =>new Date(a.published) - new Date(b.published) ); 
+      break;
+    default:
+      sortedDeals = currentDeals; 
+  }
+
+  // Met à jour les offres actuelles après le tri
+  setCurrentDeals({ result: sortedDeals, meta: currentPagination });
+  render(sortedDeals, currentPagination); // Mets à jour l'affichage
+}
+function formatDateFromTimestamp(timestamp) {
+  const date = new Date(timestamp * 1000); // Multiplier par 1000 si le timestamp est en secondes
+
+  const day = ('0' + date.getDate()).slice(-2); // Récupère le jour avec un 0 en préfixe si nécessaire
+  const month = ('0' + (date.getMonth() + 1)).slice(-2); // Les mois commencent à 0 donc on ajoute 1
+  const year = date.getFullYear(); // Récupère l'année
+
+  return `${day}/${month}/${year}`; // Retourne la date formatée
 }
