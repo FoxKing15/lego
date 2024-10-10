@@ -302,9 +302,8 @@ const renderSales = (sales) => {
 
   const template = salesArray
     .map(sale => {
-      console.log("link : ",sale.link,"title : ",sale.title,"price : ", sale.price);
       return `
-      <div class="deal" id=${sale.uuid}>
+      <div class="sale" id=${sale.uuid}>
         <div style="display: flex; flex-direction: column; gap: 10px;">
           <a href="${sale.link}" target="_blank">${sale.title}</a>
           <span>${"Price: "}${sale.price}€</span>
@@ -318,7 +317,7 @@ const renderSales = (sales) => {
 
   div.innerHTML = template;
   fragment.appendChild(div);
-  sectionSales.innerHTML = '<h2>Vinted Sales</h2>';
+  sectionSales.innerHTML = `<h2>Vinted Sales : ${salesArray.length}</h2>`;
   sectionSales.appendChild(fragment);
 };
 
