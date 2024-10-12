@@ -33,10 +33,11 @@ const sectionDeals = document.querySelector('#deals');
 const spanNbDeals = document.querySelector('#nbDeals');
 const spanNbSales = document.querySelector('#nbSales');
 const sectionSales = document.querySelector('#sales');
-const spanavgSalesPrice = document.querySelector('#avgSalesPrice')
+const spanavgSalesPrice = document.querySelector('#avgSalesPrice');
 const spanp5Sales = document.querySelector('#p5Sales');
 const spanp25Sales = document.querySelector('#p25Sales');
 const spanp50Sales = document.querySelector('#p50Sales');
+const spanlifetimeValue = document.querySelector("#lifetime-value");
 
 
 
@@ -296,7 +297,13 @@ function formatDateFromTimestamp(timestamp) {
     }
     const salesArray = Array.isArray(body.data.result) ? body.data.result : [body.data.result];
     spanNbSales.innerHTML = salesArray.length;
+    const averageDays = calculateAverageDaysBetweenSales(salesArray);
+    if(averageDays == "Pas assez de données pour calculer la moyenne" )
+    {
 
+    }
+    spanlifetimeValue.innerHTML = `${averageDays} days`;
+   
     return body.data.result; 
   } catch (error) {
     console.error('Error fetching sales:', error);
@@ -341,6 +348,7 @@ const renderSales = (sales) => {
   }
   //End
   
+  
   sectionSales.appendChild(fragment);
   //Start Feature 9
   spanavgSalesPrice.innerHTML = `${(calculatePriceStatistics(salesArray).average).toFixed(2)} €`;
@@ -377,5 +385,52 @@ function calculatePercentile(arr, percentile) {
   if (arr.length === 0) return 0; // Avoid division by zero
   return arr[Math.floor(index)]; // Return the value at the calculated index
 }
+/**
+ * Feature 10 - lifetime value
+ */
+// Fonction pour calculer la moyenne des jours entre les ventes
+function calculateAverageDaysBetweenSales(sales) {
+  if (sales.length < 2) {
+    const givenDate = (sales.map(sale => sale.published)*1000); // * 1000 car le timestamp est en secondes
 
+  // Obtenir la date actuelle
+  const currentDate = new Date();
+
+  // Calculer la différence en millisecondes entre la date actuelle et la date donnée
+  const differenceInMs = currentDate - givenDate;
+
+  // Convertir la différence en jours (ms -> s -> min -> heures -> jours)
+  const differenceInDays = differenceInMs / (1000 * 60 * 60 * 24);
+
+  return Math.floor(differenceInDays);
+  } else 
+  {
+    // Extraire les dates de publication (UNIX timestamp)
+  const publishedDates = sales.map(sale => sale.published);
+
+  // Trier les dates dans l'ordre chronologique
+  const sortedDates = publishedDates.sort((a, b) => a - b);
+
+  let totalDaysBetweenSales = 0;
+  let totalIntervals = 0;
+
+  // Parcourir les dates triées et calculer les différences entre les ventes
+  for (let i = 1; i < sortedDates.length; i++) {
+    const firstSaleDate = new Date(sortedDates[i - 1] * 1000);
+    const secondSaleDate = new Date(sortedDates[i] * 1000);
+
+    // Calculer la différence en millisecondes puis convertir en jours
+    const differenceInMs = secondSaleDate - firstSaleDate;
+    const differenceInDays = differenceInMs / (1000 * 60 * 60 * 24);
+
+    totalDaysBetweenSales += differenceInDays;
+    totalIntervals++;
+  }
+
+  // Calculer la moyenne des jours entre les ventes
+  const averageDays = totalDaysBetweenSales / totalIntervals;
+
+  return Math.round(averageDays); // Arrondir le résultat
+  }
+}
 
