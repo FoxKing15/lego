@@ -86,16 +86,23 @@ const renderDeals = deals => {
   const div = document.createElement('div');
   const template = deals
     .map(deal => {
+      const isFavorite = localStorage.getItem(`favorite-${deal.id}`) ? '#CD7F32' : 'gray';
       return `
       <div class="deal" id=${deal.uuid}>
         <img src="${deal.photo}" alt="Deal Image"/>
         <div style="display: flex; flex-direction: column; gap: 10px;">
-          <span>${"ID : "}${deal.id}</span>
-          <a href="${deal.link}">${deal.title}</a>
+        <div class="id-star-container">
+            <span>ID: ${deal.id}</span>
+            <span class="favorite-star" data-id="${deal.id}" style="color: ${isFavorite}; cursor: pointer;">&#9733;</span>
+          </div>
+          <!-- Start Feature 11 and 12 -->
+          <a href="${deal.link}" target="_blank">${deal.title}</a>
+          <!-- End -->
           <span>${"Price : "}${deal.price}€</span>
           <span>${"Comments : "}${deal.comments}</span>
           <span>${"Hotness : "}${deal.temperature}${"°C"}</span>
           <span>${" Date : "}${formatDateFromTimestamp(deal.published)}</span>
+          
         </div>
       </div>
     `;
@@ -106,6 +113,9 @@ const renderDeals = deals => {
   fragment.appendChild(div);
   sectionDeals.innerHTML = '<h2>Deals</h2>';
   sectionDeals.appendChild(fragment);
+  document.querySelectorAll('.favorite-star').forEach(star => {
+    star.addEventListener('click', toggleFavorite);
+  });
 };
 
 /**
@@ -324,7 +334,9 @@ const renderSales = (sales) => {
       return `
       <div class="sale" id=${sale.uuid}>
         <div style="display: flex; flex-direction: column; gap: 10px;">
+          <!-- Start Feature 11 and 12 -->
           <a href="${sale.link}" target="_blank">${sale.title}</a>
+          <!-- End -->
           <span>${"Price: "}${sale.price}€</span>
           <span>${"Published: "}${formatDateFromTimestamp(sale.published)}</span>
         </div>
@@ -386,51 +398,80 @@ function calculatePercentile(arr, percentile) {
   return arr[Math.floor(index)]; // Return the value at the calculated index
 }
 /**
- * Feature 10 - lifetime value
+ * Feature 10 - Lifetime value
+As a user for a given set id
+I want to indicate the Lifetime value
+So that I can understand how long a set exists on Vinted
  */
-// Fonction pour calculer la moyenne des jours entre les ventes
+
 function calculateAverageDaysBetweenSales(sales) {
   if (sales.length < 2) {
-    const givenDate = (sales.map(sale => sale.published)*1000); // * 1000 car le timestamp est en secondes
-
-  // Obtenir la date actuelle
-  const currentDate = new Date();
-
-  // Calculer la différence en millisecondes entre la date actuelle et la date donnée
-  const differenceInMs = currentDate - givenDate;
-
-  // Convertir la différence en jours (ms -> s -> min -> heures -> jours)
-  const differenceInDays = differenceInMs / (1000 * 60 * 60 * 24);
+    const givenDate = (sales.map(sale => sale.published)*1000); 
+    const currentDate = new Date();
+    const differenceInMs = currentDate - givenDate;
+    const differenceInDays = differenceInMs / (1000 * 60 * 60 * 24);
 
   return Math.floor(differenceInDays);
   } else 
   {
-    // Extraire les dates de publication (UNIX timestamp)
-  const publishedDates = sales.map(sale => sale.published);
+    const publishedDates = sales.map(sale => sale.published);
+    const sortedDates = publishedDates.sort((a, b) => a - b);
+    let totalDaysBetweenSales = 0;
+    let totalIntervals = 0;
 
-  // Trier les dates dans l'ordre chronologique
-  const sortedDates = publishedDates.sort((a, b) => a - b);
-
-  let totalDaysBetweenSales = 0;
-  let totalIntervals = 0;
-
-  // Parcourir les dates triées et calculer les différences entre les ventes
-  for (let i = 1; i < sortedDates.length; i++) {
-    const firstSaleDate = new Date(sortedDates[i - 1] * 1000);
-    const secondSaleDate = new Date(sortedDates[i] * 1000);
-
-    // Calculer la différence en millisecondes puis convertir en jours
-    const differenceInMs = secondSaleDate - firstSaleDate;
-    const differenceInDays = differenceInMs / (1000 * 60 * 60 * 24);
-
-    totalDaysBetweenSales += differenceInDays;
-    totalIntervals++;
+    for (let i = 1; i < sortedDates.length; i++) {
+      const firstSaleDate = new Date(sortedDates[i - 1] * 1000);
+      const secondSaleDate = new Date(sortedDates[i] * 1000);
+      const differenceInMs = secondSaleDate - firstSaleDate;
+      const differenceInDays = differenceInMs / (1000 * 60 * 60 * 24);
+      totalDaysBetweenSales += differenceInDays;
+      totalIntervals++;
   }
-
-  // Calculer la moyenne des jours entre les ventes
   const averageDays = totalDaysBetweenSales / totalIntervals;
 
   return Math.round(averageDays); // Arrondir le résultat
   }
 }
 
+/**
+ * Feature 11 - Open product link
+As a user
+I want to open deal link in a new page
+So that I can buy the product easily
+ */
+
+/**
+ * Feature 12 - Open sold item link
+As a user
+I want to open sold item link in a new page
+So that I can understand the sold item easily
+ */
+
+/**
+ * Feature 13 - Save as favorite
+As a user
+I want to save a deal as favorite
+So that I can retreive this deal later
+ */
+function toggleFavorite(event) {
+  const star = event.target;
+  const dealId = star.getAttribute('data-id');
+  
+  // Vérifier si le deal est déjà dans les favoris
+  if (localStorage.getItem(`favorite-${dealId}`)) {
+    // Si oui, retirer des favoris
+    localStorage.removeItem(`favorite-${dealId}`);
+    star.style.color = 'gray'; // Rendre l'étoile grise
+  } else {
+    // Si non, ajouter aux favoris
+    localStorage.setItem(`favorite-${dealId}`, 'true');
+    star.style.color = '#CD7F32'; // Rendre l'étoile jaune
+  }
+}
+
+/**
+ * Feature 14 - Filter by favorite
+As a user
+I want to filter by favorite deals
+So that I can load only my favorite deals
+ */
