@@ -1,11 +1,14 @@
 /* eslint-disable no-console, no-process-exit */
-const avenuedelabrique = require('./websites/avenuedelabrique');
+import {scrape} from './websites/avenuedelabrique.js';
+//import avenuedelabrique from './websites/avenuedelabrique.js';
+//const avenuedelabrique = require('./websites/avenuedelabrique');
 
 async function sandbox (website = 'https://www.avenuedelabrique.com/nouveautes-lego') {
   try {
     console.log(`🕵️‍♀️  browsing ${website} website`);
 
-    const deals = await avenuedelabrique.scrape(website);
+    const deals = await scrape(website);
+    //const deals = await avenuedelabrique.scrape(website);
 
     console.log(deals);
     console.log('done');

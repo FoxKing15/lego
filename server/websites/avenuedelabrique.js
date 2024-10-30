@@ -1,6 +1,7 @@
-const fetch = require('node-fetch');
-const cheerio = require('cheerio');
-
+//const fetch = require('node-fetch');
+//const cheerio = require('cheerio');
+import fetch from 'node-fetch';
+import * as cheerio from 'cheerio';
 /**
  * Parse webpage data response
  * @param  {String} data - html response
@@ -37,8 +38,10 @@ const parse = data => {
  * @param {String} url - url to parse
  * @returns 
  */
-module.exports.scrape = async url => {
-  const response = await fetch(url);
+//module.exports.scrape = async url => {
+  //const response = await fetch(url);
+  export const scrape = async url => { 
+    const response = await fetch(url);
 
   if (response.ok) {
     const body = await response.text();
