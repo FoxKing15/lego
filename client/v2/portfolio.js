@@ -42,6 +42,8 @@ const spanlifetimeValue = document.querySelector("#lifetime-value");
 
 
 
+
+
 /**
  * Set global value
  * @param {Array} result - deals to display
@@ -475,3 +477,11 @@ As a user
 I want to filter by favorite deals
 So that I can load only my favorite deals
  */
+const filterFavoriteBtn = document.getElementById('favorite-btn');
+filterFavoriteBtn.addEventListener('click', favoriteFilter);
+function favoriteFilter() {
+  const favoriteDeals = currentDeals.filter(deal =>localStorage.getItem(`favorite-${deal.id}`));
+  
+  setCurrentDeals({ result: favoriteDeals, meta: currentPagination });
+  render(favoriteDeals, currentPagination);
+}
