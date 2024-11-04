@@ -3,7 +3,7 @@ import {scrape} from './websites/dealabs.js';
 //import avenuedelabrique from './websites/avenuedelabrique.js';
 //const avenuedelabrique = require('./websites/avenuedelabrique');
 
-async function sandbox (website = 'https://www.dealabs.com/groupe/lego') {
+async function sandbox (website = 'https://www.dealabs.com/groupe/lego?hide_expired=true&time_frame=30') {
   try {
     console.log(`🕵️‍♀️  browsing ${website} website`);
 
