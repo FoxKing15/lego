@@ -1,6 +1,6 @@
 
 import * as cheerio from 'cheerio';
-
+import fs from 'fs';
 /**
  * Parse webpage data response
  * @param  {String} data - HTML response
@@ -51,7 +51,11 @@ const parse = (data) => {
  * @param {String} url - URL to parse
  * @returns {Object[]} - List of extracted deals
  */
-export const scrape = async url => { 
+const writeToJsonFile = (data, filename) => {
+    fs.writeFileSync(filename, JSON.stringify(data, null, 2), 'utf8');
+};
+
+export const scrape = async (baseUrl, maxPages=9)=> { 
     const agent = {
         method: "GET",
         headers: {
@@ -60,13 +64,23 @@ export const scrape = async url => {
         }
     }
     let allDeals=[];
-    const response = await fetch(url,agent)
-    if (response.ok) {
-    const body = await response.text();
-    allDeals = parse(body);
-    }else{
-    console.error(response);
+   
+    for (let page = 1; page <= maxPages; page++) {
+        const url = `${baseUrl}?page=${page}`; // Générer l'URL pour chaque page
+        const response = await fetch(url, agent);
+        
+        if (response.ok) {
+            const body = await response.text();
+            const deals = parse(body);
+            allDeals = allDeals.concat(deals); // Ajouter les nouvelles offres au tableau total
+        } else {
+            console.error(`Error fetching page ${page}:`, response.statusText);
+            break; // Sortir d e la boucle si la requête échoue
+        }
     }
+    writeToJsonFile(allDeals,'ParseDealabs.json');
+    console.log("Fichier JSON crée !");
+  
     return allDeals;
   
 };
