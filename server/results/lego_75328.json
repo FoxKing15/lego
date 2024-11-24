@@ -1,19 +1,5 @@
 [
   {
-    "id": 4798267817,
-    "title": "LEGO® Star Wars 75328 - Mandalorianer Helm",
-    "price": "28.63",
-    "imgURL": "https://images1.vinted.net/t/03_00b33_etoBTGE1vU6ABGhm5Vy5RAsY/f800/1721725049.jpeg?s=c56b2463022554758b3fd4ef6bf95fec7b295f29",
-    "itemURL": "https://www.vinted.fr/items/4798267817-legor-star-wars-75328-mandalorianer-helm"
-  },
-  {
-    "id": 5319670460,
-    "title": "Lego Star wars helme",
-    "price": "1.75",
-    "imgURL": "https://images1.vinted.net/t/02_019cb_ibWVRDD1p2WG8ZoCYsqv3NF1/f800/1730584231.jpeg?s=75adf2a2a49b1ffba404b408f6be642eeefd113c",
-    "itemURL": "https://www.vinted.fr/items/5319670460-lego-star-wars-helme"
-  },
-  {
     "id": 4458879103,
     "title": "Lego Boite VIDE le casque du Mandalorien 75328",
     "price": "5.95",
@@ -28,6 +14,13 @@
     "itemURL": "https://www.vinted.fr/items/4872261678-lego-star-wars-the-mandalorian-75328"
   },
   {
+    "id": 5319670460,
+    "title": "Lego Star wars helme",
+    "price": "1.75",
+    "imgURL": "https://images1.vinted.net/t/02_019cb_ibWVRDD1p2WG8ZoCYsqv3NF1/f800/1730584231.jpeg?s=75adf2a2a49b1ffba404b408f6be642eeefd113c",
+    "itemURL": "https://www.vinted.fr/items/5319670460-lego-star-wars-helme"
+  },
+  {
     "id": 5356732420,
     "title": "Lego star wars 75328 le mandalorien",
     "price": "37.45",
@@ -35,18 +28,18 @@
     "itemURL": "https://www.vinted.fr/items/5356732420-lego-star-wars-75328-le-mandalorien"
   },
   {
-    "id": 5388280787,
-    "title": "Lego 75328 the mandalorian helm",
-    "price": "37.45",
-    "imgURL": "https://images1.vinted.net/t/04_01a4d_71S1zhZ2JJzRCUfgLoCZ8haj/f800/1731702373.jpeg?s=858ac86c306963abffcda56a688a389cbf544f99",
-    "itemURL": "https://www.vinted.fr/items/5388280787-lego-75328-the-mandalorian-helm"
-  },
-  {
     "id": 3156147251,
     "title": "Notice Lego 75328 - Le casque du Mandalorien - Star Wars",
     "price": "5.95",
     "imgURL": "https://images1.vinted.net/t/03_0161b_YhB5G691TRDXtdbhuSAmYac2/f800/1687241165.jpeg?s=e1bfc73301a4ceccbc341747656be9ddd6556088",
     "itemURL": "https://www.vinted.fr/items/3156147251-notice-lego-75328-le-casque-du-mandalorien-star-wars"
+  },
+  {
+    "id": 5388280787,
+    "title": "Lego 75328 the mandalorian helm",
+    "price": "35.35",
+    "imgURL": "https://images1.vinted.net/t/04_01a4d_71S1zhZ2JJzRCUfgLoCZ8haj/f800/1731702373.jpeg?s=858ac86c306963abffcda56a688a389cbf544f99",
+    "itemURL": "https://www.vinted.fr/items/5388280787-lego-75328-the-mandalorian-helm"
   },
   {
     "id": 4965868736,
@@ -70,11 +63,18 @@
     "itemURL": "https://www.vinted.fr/items/2624057094-boite-vide-lego-star-wars"
   },
   {
-    "id": 5205747728,
-    "title": "Lego 75328: Buste Mandalorian neuf en boîte",
-    "price": "47.85",
-    "imgURL": "https://images1.vinted.net/t/01_00ba2_JkdX4233Www3cnnBQWRyACoJ/f800/1728761841.jpeg?s=42f00fac4a3047b8ca4d14642eda97ab48a1e0cc",
-    "itemURL": "https://www.vinted.fr/items/5205747728-lego-75328-buste-mandalorian-neuf-en-boite"
+    "id": 5352901812,
+    "title": "Lego The Mandalorian 75328",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/04_012d9_c7TCPjbFj5JJXDF3agWV5szM/f800/1731161398.jpeg?s=b96d4e76685757dbe2973441d0a30899b3a824ef",
+    "itemURL": "https://www.vinted.fr/items/5352901812-lego-the-mandalorian-75328"
+  },
+  {
+    "id": 5392588401,
+    "title": "Lego star wars casque the Mandalorian",
+    "price": "38.5",
+    "imgURL": "https://images1.vinted.net/t/04_00f0b_tkFzE2Zqt7yzuBN5AYHKBQU5/f800/1731775131.jpeg?s=de5392711c2895341cae3cb20768ff5025b7e38c",
+    "itemURL": "https://www.vinted.fr/items/5392588401-lego-star-wars-casque-the-mandalorian"
   },
   {
     "id": 5356024432,
@@ -82,6 +82,13 @@
     "price": "37.45",
     "imgURL": "https://images1.vinted.net/t/02_0128f_83F2udup1fpmDTuwbSg8AGct/f800/1731226132.jpeg?s=8ff98ae16d9329d96bcf40340a27687ded3b4eb3",
     "itemURL": "https://www.vinted.fr/items/5356024432-lego-star-wars-casque-mandalorien-75328"
+  },
+  {
+    "id": 4798267817,
+    "title": "LEGO® Star Wars 75328 - Mandalorianer Helm",
+    "price": "28.63",
+    "imgURL": "https://images1.vinted.net/t/03_00b33_etoBTGE1vU6ABGhm5Vy5RAsY/f800/1721725049.jpeg?s=c56b2463022554758b3fd4ef6bf95fec7b295f29",
+    "itemURL": "https://www.vinted.fr/items/4798267817-legor-star-wars-75328-mandalorianer-helm"
   },
   {
     "id": 5394305721,
@@ -98,11 +105,11 @@
     "itemURL": "https://www.vinted.fr/items/5185217372-lego-75328"
   },
   {
-    "id": 5352901812,
-    "title": "Lego The Mandalorian 75328",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/04_012d9_c7TCPjbFj5JJXDF3agWV5szM/f800/1731161398.jpeg?s=b96d4e76685757dbe2973441d0a30899b3a824ef",
-    "itemURL": "https://www.vinted.fr/items/5352901812-lego-the-mandalorian-75328"
+    "id": 5205747728,
+    "title": "Lego 75328: Buste Mandalorian neuf en boîte",
+    "price": "47.85",
+    "imgURL": "https://images1.vinted.net/t/01_00ba2_JkdX4233Www3cnnBQWRyACoJ/f800/1728761841.jpeg?s=42f00fac4a3047b8ca4d14642eda97ab48a1e0cc",
+    "itemURL": "https://www.vinted.fr/items/5205747728-lego-75328-buste-mandalorian-neuf-en-boite"
   },
   {
     "id": 5275756637,
@@ -140,13 +147,6 @@
     "itemURL": "https://www.vinted.fr/items/4026597818-lego-star-wars-75328-the-mandalorian"
   },
   {
-    "id": 5384646285,
-    "title": "Lego star wars 75328",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/04_0140e_yeuPN1zVxrTfuBkNmFre8ZV1/f800/1731658720.jpeg?s=68a8c9719861bee801d0f090449d047589830dff",
-    "itemURL": "https://www.vinted.fr/items/5384646285-lego-star-wars-75328"
-  },
-  {
     "id": 5365552435,
     "title": "Lego Star Wars the mandalorian 75328",
     "price": "51.1",
@@ -161,11 +161,18 @@
     "itemURL": "https://www.vinted.fr/items/3923125226-caixa-mais-manual-lego-star-wars-capacete-do-mandaloriano-75328"
   },
   {
-    "id": 5316544076,
-    "title": "Lego 75328",
-    "price": "52.15",
-    "imgURL": "https://images1.vinted.net/t/04_0058e_jKtRjcER8G3ZdietVxyfspxd/f800/1730552707.jpeg?s=57d0ca87ed6dd07de666eb439f6d0ae78135d78c",
-    "itemURL": "https://www.vinted.fr/items/5316544076-lego-75328"
+    "id": 5384646285,
+    "title": "Lego star wars 75328",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/04_0140e_yeuPN1zVxrTfuBkNmFre8ZV1/f800/1731658720.jpeg?s=68a8c9719861bee801d0f090449d047589830dff",
+    "itemURL": "https://www.vinted.fr/items/5384646285-lego-star-wars-75328"
+  },
+  {
+    "id": 5039227131,
+    "title": "Lego star Wars 75328",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/02_02033_wZYoBpawnuG9F6hih1wNDQMq/f800/1726302286.jpeg?s=07c28e6fefe7073e587a643876309e6be826533a",
+    "itemURL": "https://www.vinted.fr/items/5039227131-lego-star-wars-75328"
   },
   {
     "id": 5233765748,
@@ -182,39 +189,11 @@
     "itemURL": "https://www.vinted.fr/items/5388511603-lego-star-wars-75328"
   },
   {
-    "id": 5384835834,
-    "title": "Lego star wars 75328",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/02_004a4_u5tXnWUEkUSQMH3zwt3tLAMu/f800/1731661900.jpeg?s=e152062012b04b8700f202dba034023ab9d6b818",
-    "itemURL": "https://www.vinted.fr/items/5384835834-lego-star-wars-75328"
-  },
-  {
     "id": 4414960351,
     "title": "Lego 75328 Mandalorian Star Wars guerre stellari",
     "price": "50.05",
     "imgURL": "https://images1.vinted.net/t/03_0005a_irPdYF8BzTmkKMSZZBWVeknb/f800/1714044635.jpeg?s=a2dbd72912a0a05a08fc2a6c75e9f766ad430731",
     "itemURL": "https://www.vinted.fr/items/4414960351-lego-75328-mandalorian-star-wars-guerre-stellari"
-  },
-  {
-    "id": 5039227131,
-    "title": "Lego star Wars 75328",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/02_02033_wZYoBpawnuG9F6hih1wNDQMq/f800/1726302286.jpeg?s=07c28e6fefe7073e587a643876309e6be826533a",
-    "itemURL": "https://www.vinted.fr/items/5039227131-lego-star-wars-75328"
-  },
-  {
-    "id": 5387427367,
-    "title": "Lego star wars",
-    "price": "42.7",
-    "imgURL": "https://images1.vinted.net/t/02_00fe9_gBqvqdfnCzUiuzQWgt6e4cvT/f800/1731690724.jpeg?s=8867a51e4d52e34d1e891673aca8f2a2e6df1fc1",
-    "itemURL": "https://www.vinted.fr/items/5387427367-lego-star-wars"
-  },
-  {
-    "id": 5255613954,
-    "title": "Lego 75328 Star Wars The Mandalorian",
-    "price": "42.7",
-    "imgURL": "https://images1.vinted.net/t/02_01d29_ZQYwBxEhkhj1b2QSaVsrZewK/f800/1729518745.jpeg?s=2d2f8d2f67433c659114915522c99ee02a0bea08",
-    "itemURL": "https://www.vinted.fr/items/5255613954-lego-75328-star-wars-the-mandalorian"
   },
   {
     "id": 4645735602,
@@ -224,11 +203,32 @@
     "itemURL": "https://www.vinted.fr/items/4645735602-lego-star-wars-75328"
   },
   {
-    "id": 5359350374,
-    "title": "Lego Star Wars 75328 - The Mandalorian Helm",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/03_01073_MMuV8q9wj2PijKfsZgVByT1L/f800/1731250180.jpeg?s=9a5e2c0a6aea7c6342d471a5c11164bfa0b9239d",
-    "itemURL": "https://www.vinted.fr/items/5359350374-lego-star-wars-75328-the-mandalorian-helm"
+    "id": 5255613954,
+    "title": "Lego 75328 Star Wars The Mandalorian",
+    "price": "42.7",
+    "imgURL": "https://images1.vinted.net/t/02_01d29_ZQYwBxEhkhj1b2QSaVsrZewK/f800/1729518745.jpeg?s=2d2f8d2f67433c659114915522c99ee02a0bea08",
+    "itemURL": "https://www.vinted.fr/items/5255613954-lego-75328-star-wars-the-mandalorian"
+  },
+  {
+    "id": 5384835834,
+    "title": "Lego star wars 75328",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/02_004a4_u5tXnWUEkUSQMH3zwt3tLAMu/f800/1731661900.jpeg?s=e152062012b04b8700f202dba034023ab9d6b818",
+    "itemURL": "https://www.vinted.fr/items/5384835834-lego-star-wars-75328"
+  },
+  {
+    "id": 5387427367,
+    "title": "Lego star wars",
+    "price": "42.7",
+    "imgURL": "https://images1.vinted.net/t/02_00fe9_gBqvqdfnCzUiuzQWgt6e4cvT/f800/1731690724.jpeg?s=8867a51e4d52e34d1e891673aca8f2a2e6df1fc1",
+    "itemURL": "https://www.vinted.fr/items/5387427367-lego-star-wars"
+  },
+  {
+    "id": 5316544076,
+    "title": "Lego 75328",
+    "price": "52.15",
+    "imgURL": "https://images1.vinted.net/t/04_0058e_jKtRjcER8G3ZdietVxyfspxd/f800/1730552707.jpeg?s=57d0ca87ed6dd07de666eb439f6d0ae78135d78c",
+    "itemURL": "https://www.vinted.fr/items/5316544076-lego-75328"
   },
   {
     "id": 5301433497,
@@ -238,6 +238,27 @@
     "itemURL": "https://www.vinted.fr/items/5301433497-lego-star-wars"
   },
   {
+    "id": 4514240975,
+    "title": "Lego star wars 75328",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/01_01873_WHMXGr9BdeYPxjrGwTgdMRmo/f800/1715932138.jpeg?s=4758fb83f2f3adf234fe8f0c546c67e70be272d1",
+    "itemURL": "https://www.vinted.fr/items/4514240975-lego-star-wars-75328"
+  },
+  {
+    "id": 5107703466,
+    "title": "Lot lego star wars 75304 75328 neuf sceller",
+    "price": "100.45",
+    "imgURL": "https://images1.vinted.net/t/03_02193_ExncSnR5c68bfkpKTjqG7rRy/f800/1728421958.jpeg?s=f3d3da44453ac76c3bf921f4ac8db840abaf07fd",
+    "itemURL": "https://www.vinted.fr/items/5107703466-lot-lego-star-wars-75304-75328-neuf-sceller"
+  },
+  {
+    "id": 5359350374,
+    "title": "Lego Star Wars 75328 - The Mandalorian Helm",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/03_01073_MMuV8q9wj2PijKfsZgVByT1L/f800/1731250180.jpeg?s=9a5e2c0a6aea7c6342d471a5c11164bfa0b9239d",
+    "itemURL": "https://www.vinted.fr/items/5359350374-lego-star-wars-75328-the-mandalorian-helm"
+  },
+  {
     "id": 5180801460,
     "title": "The Mandalorian 75328",
     "price": "51.1",
@@ -245,18 +266,11 @@
     "itemURL": "https://www.vinted.fr/items/5180801460-the-mandalorian-75328"
   },
   {
-    "id": 5264821060,
-    "title": "LEGO 75328 - The Mandalorian helm (nieuw en ongeopend)",
-    "price": "45.85",
-    "imgURL": "https://images1.vinted.net/t/03_00ebd_m7uha8td15thaKRtwDnPg9CG/f800/1729678953.jpeg?s=d1457905236bddcb5d51602eeec96a37d7cd0f7e",
-    "itemURL": "https://www.vinted.fr/items/5264821060-lego-75328-the-mandalorian-helm-nieuw-en-ongeopend"
-  },
-  {
-    "id": 4514240975,
-    "title": "Lego star wars 75328",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/01_01873_WHMXGr9BdeYPxjrGwTgdMRmo/f800/1715932138.jpeg?s=4758fb83f2f3adf234fe8f0c546c67e70be272d1",
-    "itemURL": "https://www.vinted.fr/items/4514240975-lego-star-wars-75328"
+    "id": 5401485204,
+    "title": "LEGO Star Wars 75328 The Mandalorian Helmet",
+    "price": "47.94",
+    "imgURL": "https://images1.vinted.net/t/04_020a4_g5LxTDfru1EAs89c82AXpiio/f800/1731877483.jpeg?s=06f80693db4c91746368ed8cd63ae44a533f8fee",
+    "itemURL": "https://www.vinted.fr/items/5401485204-lego-star-wars-75328-the-mandalorian-helmet"
   },
   {
     "id": 4667906460,
@@ -273,25 +287,11 @@
     "itemURL": "https://www.vinted.fr/items/5155076429-lego-tout-neuf-75328-star-wars"
   },
   {
-    "id": 5343325290,
-    "title": "Lego star wars 6 sets helmen nieuw",
-    "price": "362.95",
-    "imgURL": "https://images1.vinted.net/t/04_0052b_FpAkemZQqvkZaiHb9H619BzA/f800/1730986675.jpeg?s=678bb956e81805796919d6fd5d575cfd644b844d",
-    "itemURL": "https://www.vinted.fr/items/5343325290-lego-star-wars-6-sets-helmen-nieuw"
-  },
-  {
     "id": 5380735184,
     "title": "Lot lego star wars 75327 75328 75304 neuf sceller",
     "price": "189.7",
     "imgURL": "https://images1.vinted.net/t/04_01cea_Dxo5E3oU4KAdS4v7rS6GSm3X/f800/1731582891.jpeg?s=5d204d8776bafb6046515b00c1754676dc233495",
     "itemURL": "https://www.vinted.fr/items/5380735184-lot-lego-star-wars-75327-75328-75304-neuf-sceller"
-  },
-  {
-    "id": 5107703466,
-    "title": "Lot lego star wars 75304 75328 neuf sceller",
-    "price": "100.45",
-    "imgURL": "https://images1.vinted.net/t/03_02193_ExncSnR5c68bfkpKTjqG7rRy/f800/1728421958.jpeg?s=f3d3da44453ac76c3bf921f4ac8db840abaf07fd",
-    "itemURL": "https://www.vinted.fr/items/5107703466-lot-lego-star-wars-75304-75328-neuf-sceller"
   },
   {
     "id": 3534665393,
@@ -301,25 +301,32 @@
     "itemURL": "https://www.vinted.fr/items/3534665393-lego-casque-mandalorien-75328"
   },
   {
-    "id": 5396067006,
-    "title": "Lego 75328",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/03_022f9_Qv7PGtJamEHYAEWKxsPJRQzb/f800/1731842647.jpeg?s=c10e5490f71e2bd5ec9c2259090203fa98d1c6d2",
-    "itemURL": "https://www.vinted.fr/items/5396067006-lego-75328"
-  },
-  {
-    "id": 3401076456,
-    "title": "Lego 75328",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/02_01984_rFHS2BXMMP2vWfWDBxbu8WiE/f800/1693213748.jpeg?s=66ce998f484cb374856336cc96802dccb952a99c",
-    "itemURL": "https://www.vinted.fr/items/3401076456-lego-75328"
-  },
-  {
     "id": 5397132952,
     "title": "Lego Star wars",
     "price": "57.93",
     "imgURL": "https://images1.vinted.net/t/01_014c2_kJSBwmZJRHmqTPYPsXtfVkkd/f800/1731848986.jpeg?s=59500a1c5cc3e47ab7f46a9ad56b38dfc0b913c3",
     "itemURL": "https://www.vinted.fr/items/5397132952-lego-star-wars"
+  },
+  {
+    "id": 5374036925,
+    "title": "Lego The Mandalorian 75328 mit Beleuchtung",
+    "price": "31.15",
+    "imgURL": "https://images1.vinted.net/t/03_01bfc_6GrPRoeBaPg3Gr1Cy39GHFbM/f800/1731445736.jpeg?s=367d874662dfb277499c079e144b9167b7920891",
+    "itemURL": "https://www.vinted.fr/items/5374036925-lego-the-mandalorian-75328-mit-beleuchtung"
+  },
+  {
+    "id": 5343325290,
+    "title": "Lego star wars 6 sets helmen nieuw",
+    "price": "362.95",
+    "imgURL": "https://images1.vinted.net/t/04_0052b_FpAkemZQqvkZaiHb9H619BzA/f800/1730986675.jpeg?s=678bb956e81805796919d6fd5d575cfd644b844d",
+    "itemURL": "https://www.vinted.fr/items/5343325290-lego-star-wars-6-sets-helmen-nieuw"
+  },
+  {
+    "id": 4995424878,
+    "title": "Lego 75328 The Mandalorian Helmet",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/02_0052e_5qcvDF2gJ6KuYAnFnFmsjvJH/f800/1725625745.jpeg?s=f7ab2bd1fb9db4996088a53509f035f39b31f78a",
+    "itemURL": "https://www.vinted.fr/items/4995424878-lego-75328-the-mandalorian-helmet"
   },
   {
     "id": 4155868802,
@@ -343,13 +350,6 @@
     "itemURL": "https://www.vinted.fr/items/4901643438-lego-star-wars-75328-the-mandalorian"
   },
   {
-    "id": 4995424878,
-    "title": "Lego 75328 The Mandalorian Helmet",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/02_0052e_5qcvDF2gJ6KuYAnFnFmsjvJH/f800/1725625745.jpeg?s=f7ab2bd1fb9db4996088a53509f035f39b31f78a",
-    "itemURL": "https://www.vinted.fr/items/4995424878-lego-75328-the-mandalorian-helmet"
-  },
-  {
     "id": 4987979663,
     "title": "Lego 75328",
     "price": "53.2",
@@ -357,46 +357,11 @@
     "itemURL": "https://www.vinted.fr/items/4987979663-lego-75328"
   },
   {
-    "id": 4926163176,
-    "title": "LEGO 75328 Star Wars the mandalorian - buste",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/03_00ec5_usByTfQmSDBUMMhjA9TWbf8G/f800/1724410401.jpeg?s=5a32fcd14239888393ffd2739ced52ef47198044",
-    "itemURL": "https://www.vinted.fr/items/4926163176-lego-75328-star-wars-the-mandalorian-buste"
-  },
-  {
-    "id": 5328032829,
-    "title": "Lego Star Wars Helmet Collection - The Mandalorian",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/04_0063e_9QRFyS2GZwZkdUfWGn4csphq/f800/1730717447.jpeg?s=c2a9ff6a0deb52b64de04239cff18e79aa8183fa",
-    "itemURL": "https://www.vinted.fr/items/5328032829-lego-star-wars-helmet-collection-the-mandalorian"
-  },
-  {
-    "id": 5231737142,
+    "id": 5396067006,
     "title": "Lego 75328",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/02_003e4_TYaYsiuJHpekefbwCYDeaqbv/f800/1729164109.jpeg?s=2064c47f31dedda018a77898ee27414a62a258fd",
-    "itemURL": "https://www.vinted.fr/items/5231737142-lego-75328"
-  },
-  {
-    "id": 4425732255,
-    "title": "Lego 75328 Casco the Mandalorian MISB",
     "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/02_0223a_6qDMShLHnBYZmLrvNJqU51jr/f800/1714245020.jpeg?s=169b6acf31c32c51e7ac2154f674e20c3c60dd88",
-    "itemURL": "https://www.vinted.fr/items/4425732255-lego-75328-casco-the-mandalorian-misb"
-  },
-  {
-    "id": 5382408993,
-    "title": "75328 Lego",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/03_008f5_UecRcjHuMhPYFLKAyBqrqqEL/f800/1731600014.jpeg?s=56ea1552bc0a46c9d00715220a8963ee0a0b9719",
-    "itemURL": "https://www.vinted.fr/items/5382408993-75328-lego"
-  },
-  {
-    "id": 5374036925,
-    "title": "Lego The Mandalorian 75328 mit Beleuchtung",
-    "price": "34.3",
-    "imgURL": "https://images1.vinted.net/t/03_01bfc_6GrPRoeBaPg3Gr1Cy39GHFbM/f800/1731445736.jpeg?s=367d874662dfb277499c079e144b9167b7920891",
-    "itemURL": "https://www.vinted.fr/items/5374036925-lego-the-mandalorian-75328-mit-beleuchtung"
+    "imgURL": "https://images1.vinted.net/t/03_022f9_Qv7PGtJamEHYAEWKxsPJRQzb/f800/1731842647.jpeg?s=c10e5490f71e2bd5ec9c2259090203fa98d1c6d2",
+    "itemURL": "https://www.vinted.fr/items/5396067006-lego-75328"
   },
   {
     "id": 5390058174,
@@ -406,11 +371,74 @@
     "itemURL": "https://www.vinted.fr/items/5390058174-lego-star-wars-the-mandalorian-75328"
   },
   {
+    "id": 3401076456,
+    "title": "Lego 75328",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/02_01984_rFHS2BXMMP2vWfWDBxbu8WiE/f800/1693213748.jpeg?s=66ce998f484cb374856336cc96802dccb952a99c",
+    "itemURL": "https://www.vinted.fr/items/3401076456-lego-75328"
+  },
+  {
+    "id": 5180841428,
+    "title": "75328 LEGO Star Wars Le casque du Mandalorien",
+    "price": "67.89",
+    "imgURL": "https://images1.vinted.net/t/03_01895_jKdjGSNpbgLWjUhidGoQArSS/f800/1728382974.jpeg?s=2ba79485edc25a7990221edbaee0a0f9c61ce75d",
+    "itemURL": "https://www.vinted.fr/items/5180841428-75328-lego-star-wars-le-casque-du-mandalorien"
+  },
+  {
+    "id": 5237334915,
+    "title": "Lego 75328 Star wars The Mandalorian.",
+    "price": "53.19",
+    "imgURL": "https://images1.vinted.net/t/03_0225f_Aip2q4HkBdb5jpWz3cpF4Sew/f800/1729257921.jpeg?s=944169cf3204e12e8a63a23da918c03fee8c3072",
+    "itemURL": "https://www.vinted.fr/items/5237334915-lego-75328-star-wars-the-mandalorian"
+  },
+  {
+    "id": 4425732255,
+    "title": "Lego 75328 Casco the Mandalorian MISB",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/02_0223a_6qDMShLHnBYZmLrvNJqU51jr/f800/1714245020.jpeg?s=169b6acf31c32c51e7ac2154f674e20c3c60dd88",
+    "itemURL": "https://www.vinted.fr/items/4425732255-lego-75328-casco-the-mandalorian-misb"
+  },
+  {
+    "id": 4926163176,
+    "title": "LEGO 75328 Star Wars the mandalorian - buste",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/03_00ec5_usByTfQmSDBUMMhjA9TWbf8G/f800/1724410401.jpeg?s=5a32fcd14239888393ffd2739ced52ef47198044",
+    "itemURL": "https://www.vinted.fr/items/4926163176-lego-75328-star-wars-the-mandalorian-buste"
+  },
+  {
+    "id": 5231737142,
+    "title": "Lego 75328",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/02_003e4_TYaYsiuJHpekefbwCYDeaqbv/f800/1729164109.jpeg?s=2064c47f31dedda018a77898ee27414a62a258fd",
+    "itemURL": "https://www.vinted.fr/items/5231737142-lego-75328"
+  },
+  {
+    "id": 5382408993,
+    "title": "75328 Lego",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/03_008f5_UecRcjHuMhPYFLKAyBqrqqEL/f800/1731600014.jpeg?s=56ea1552bc0a46c9d00715220a8963ee0a0b9719",
+    "itemURL": "https://www.vinted.fr/items/5382408993-75328-lego"
+  },
+  {
+    "id": 3697225060,
+    "title": "Lego Star Wars 75328 Casque du Mandalorian NEUF et scellé",
+    "price": "55.3",
+    "imgURL": "https://images1.vinted.net/t/02_01738_4yHUjKGqfv4C2qWeA75MHo16/f800/1698861785.jpeg?s=36f04e72a295ef223a96c665edf7cbf7b0eaadb8",
+    "itemURL": "https://www.vinted.fr/items/3697225060-lego-star-wars-75328-casque-du-mandalorian-neuf-et-scelle"
+  },
+  {
     "id": 3833469490,
     "title": "Lego 75328",
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/02_01808_Rsz8QASsXKFQ5UVSppyK9FU7/f800/1701454760.jpeg?s=6ec86adb9fa273cc7de84597ee9ac9fcb50143fc",
     "itemURL": "https://www.vinted.fr/items/3833469490-lego-75328"
+  },
+  {
+    "id": 5328032829,
+    "title": "Lego Star Wars Helmet Collection - The Mandalorian",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/04_0063e_9QRFyS2GZwZkdUfWGn4csphq/f800/1730717447.jpeg?s=c2a9ff6a0deb52b64de04239cff18e79aa8183fa",
+    "itemURL": "https://www.vinted.fr/items/5328032829-lego-star-wars-helmet-collection-the-mandalorian"
   },
   {
     "id": 5334703118,
@@ -427,18 +455,18 @@
     "itemURL": "https://www.vinted.fr/items/3579517298-lego-75328-mandalorian"
   },
   {
-    "id": 4835060860,
-    "title": "Lego star wars 75328 le casque mandalorian",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/03_0195e_S45qoqZ7v3xhP1zrdgEHRVqQ/f800/1722526748.jpeg?s=e1c8681cbd1e6e2cdb9e759c3d4a4658a5522b43",
-    "itemURL": "https://www.vinted.fr/items/4835060860-lego-star-wars-75328-le-casque-mandalorian"
-  },
-  {
     "id": 2561511495,
     "title": "Lego Star Wars Le Mandalorian 75328",
     "price": "58.44",
     "imgURL": "https://images1.vinted.net/t/02_0089a_4KFLAZCjYdJS6rCoSyNkcvRt/f800/1672956873.jpeg?s=6ebccf05ba72514aac353ad1806fd47c578ca22d",
     "itemURL": "https://www.vinted.fr/items/2561511495-lego-star-wars-le-mandalorian-75328"
+  },
+  {
+    "id": 4835060860,
+    "title": "Lego star wars 75328 le casque mandalorian",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/03_0195e_S45qoqZ7v3xhP1zrdgEHRVqQ/f800/1722526748.jpeg?s=e1c8681cbd1e6e2cdb9e759c3d4a4658a5522b43",
+    "itemURL": "https://www.vinted.fr/items/4835060860-lego-star-wars-75328-le-casque-mandalorian"
   },
   {
     "id": 4180683558,
@@ -462,6 +490,13 @@
     "itemURL": "https://www.vinted.fr/items/4741351584-lego-75328-mandalorian"
   },
   {
+    "id": 3915753947,
+    "title": "Casque lego The Mandalorian",
+    "price": "61.6",
+    "imgURL": "https://images1.vinted.net/t/02_011d0_sK7CD7K55QdThAG29vAnhEML/f800/1703781709.jpeg?s=92f6e7f5a0f10c2b3305b87d2ecd4eb027954226",
+    "itemURL": "https://www.vinted.fr/items/3915753947-casque-lego-the-mandalorian"
+  },
+  {
     "id": 5343839657,
     "title": "Lego 75328 Star Wars Novo Selado",
     "price": "63.7",
@@ -476,20 +511,6 @@
     "itemURL": "https://www.vinted.fr/items/4044147089-lego-le-casque-du-mandalorien-75328-neuf"
   },
   {
-    "id": 3915753947,
-    "title": "Casque lego The Mandalorian",
-    "price": "61.6",
-    "imgURL": "https://images1.vinted.net/t/02_011d0_sK7CD7K55QdThAG29vAnhEML/f800/1703781709.jpeg?s=92f6e7f5a0f10c2b3305b87d2ecd4eb027954226",
-    "itemURL": "https://www.vinted.fr/items/3915753947-casque-lego-the-mandalorian"
-  },
-  {
-    "id": 5127471242,
-    "title": "lego 75328 the mandalorian casque star wars",
-    "price": "42.7",
-    "imgURL": "https://images1.vinted.net/t/03_0198d_TUkCZcLHwdMW6oVUz6fRX5WC/f800/1727611255.jpeg?s=bc6abee1823d56a7766f3f5ca87dee3274d8ebf5",
-    "itemURL": "https://www.vinted.fr/items/5127471242-lego-75328-the-mandalorian-casque-star-wars"
-  },
-  {
     "id": 4070814476,
     "title": "LEGO The Mandalorian",
     "price": "63.7",
@@ -502,6 +523,27 @@
     "price": "55.3",
     "imgURL": "https://images1.vinted.net/t/01_01b2f_pz1KfbHyeCE1zFzAYsiohcUt/f800/1712483899.jpeg?s=4f4d0164392be5f36acf37c9ba7c37818f72c303",
     "itemURL": "https://www.vinted.fr/items/4327755197-lego-the-mandalorian-75328"
+  },
+  {
+    "id": 5127471242,
+    "title": "lego 75328 the mandalorian casque star wars",
+    "price": "42.7",
+    "imgURL": "https://images1.vinted.net/t/03_0198d_TUkCZcLHwdMW6oVUz6fRX5WC/f800/1727611255.jpeg?s=bc6abee1823d56a7766f3f5ca87dee3274d8ebf5",
+    "itemURL": "https://www.vinted.fr/items/5127471242-lego-75328-the-mandalorian-casque-star-wars"
+  },
+  {
+    "id": 4451930414,
+    "title": "Lego Star Wars 75328 Mandalorian NEUF et scellé",
+    "price": "54.25",
+    "imgURL": "https://images1.vinted.net/t/01_01ff9_YzAepo67UtTbRNYHniJvSyfJ/f800/1714748547.jpeg?s=cc0b80dd6aeedd5aa521a52905fd58f469c62a5e",
+    "itemURL": "https://www.vinted.fr/items/4451930414-lego-star-wars-75328-mandalorian-neuf-et-scelle"
+  },
+  {
+    "id": 5394184861,
+    "title": "Lego Star Wars Helmets Collection 75343 75328 NEW!",
+    "price": "126.7",
+    "imgURL": "https://images1.vinted.net/t/04_002c9_1iugZvn6LMYc5vmjVJhtAoq8/f800/1731794847.jpeg?s=7511f0b0be90c870bfda372c77c73d8d17ace794",
+    "itemURL": "https://www.vinted.fr/items/5394184861-lego-star-wars-helmets-collection-75343-75328-new"
   },
   {
     "id": 5011880634,
@@ -525,18 +567,25 @@
     "itemURL": "https://www.vinted.fr/items/4350857797-lego-star-wars-mandalorian-75328"
   },
   {
-    "id": 5394184861,
-    "title": "Lego Star Wars Helmets Collection 75343 75328 NEW!",
-    "price": "126.7",
-    "imgURL": "https://images1.vinted.net/t/04_002c9_1iugZvn6LMYc5vmjVJhtAoq8/f800/1731794847.jpeg?s=7511f0b0be90c870bfda372c77c73d8d17ace794",
-    "itemURL": "https://www.vinted.fr/items/5394184861-lego-star-wars-helmets-collection-75343-75328-new"
-  },
-  {
     "id": 4427010885,
     "title": "Lego Star Wars The Mandalorian 75328",
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/03_018eb_NXwVTwU4ucUXGfw5VzK56FFe/f800/1714295611.jpeg?s=83faecb0072b1da573c490cb2142d9b567029bb6",
     "itemURL": "https://www.vinted.fr/items/4427010885-lego-star-wars-the-mandalorian-75328"
+  },
+  {
+    "id": 3756682403,
+    "title": "Lego Star Wars The mandalorian 75328",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/01_00191_kSqbrbK4gNfAse26nZ58Tkip/f800/1699906955.jpeg?s=fba9e95265c8d45c2891886f8079d2d26c4668c9",
+    "itemURL": "https://www.vinted.fr/items/3756682403-lego-star-wars-the-mandalorian-75328"
+  },
+  {
+    "id": 4407528151,
+    "title": "Lego 75328 - Mandalorian helmet neuf",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/03_00b1d_aQ4Fkf17BiJQ965nSv6zAwkB/f800/1713887208.jpeg?s=6af05d491e5db5851642735d0d64e46b82da8eea",
+    "itemURL": "https://www.vinted.fr/items/4407528151-lego-75328-mandalorian-helmet-neuf"
   },
   {
     "id": 5196339582,
@@ -546,11 +595,11 @@
     "itemURL": "https://www.vinted.fr/items/5196339582-lego-star-wars-75328"
   },
   {
-    "id": 3756682403,
-    "title": "Lego Star Wars The mandalorian 75328",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/01_00191_kSqbrbK4gNfAse26nZ58Tkip/f800/1699906955.jpeg?s=fba9e95265c8d45c2891886f8079d2d26c4668c9",
-    "itemURL": "https://www.vinted.fr/items/3756682403-lego-star-wars-the-mandalorian-75328"
+    "id": 4174114687,
+    "title": "Lego Star Wars 75328 Mandalorian NEUF et scellé",
+    "price": "55.3",
+    "imgURL": "https://images1.vinted.net/t/03_01b83_TcjNmvyzuTQFhJBVrWiDAdz3/f800/1709459787.jpeg?s=e7e00eceb2bda2cf14e2e4e18f7f92e996766aa2",
+    "itemURL": "https://www.vinted.fr/items/4174114687-lego-star-wars-75328-mandalorian-neuf-et-scelle"
   },
   {
     "id": 4655696833,
@@ -567,18 +616,18 @@
     "itemURL": "https://www.vinted.fr/items/5186720105-lego-star-wars-mandalorian-75328"
   },
   {
-    "id": 4407528151,
-    "title": "Lego 75328 - Mandalorian helmet neuf",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/03_00b1d_aQ4Fkf17BiJQ965nSv6zAwkB/f800/1713887208.jpeg?s=6af05d491e5db5851642735d0d64e46b82da8eea",
-    "itemURL": "https://www.vinted.fr/items/4407528151-lego-75328-mandalorian-helmet-neuf"
-  },
-  {
     "id": 4824262477,
     "title": "The Mandalorian Helmet - Lego Star Wars 75328",
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/03_018bd_hgUEkfzDZD6w7ZFzSmBDtu2x/f800/1722274090.jpeg?s=7156a9732db5f47f8cd2ce4af1ab85b65cc7beae",
     "itemURL": "https://www.vinted.fr/items/4824262477-the-mandalorian-helmet-lego-star-wars-75328"
+  },
+  {
+    "id": 3862420833,
+    "title": "Lego 75328 The Mandalorian Helmet casque Star Wars",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/03_0120b_g7tRypkNs1HjqTkVAKz9dLN4/f800/1702129278.jpeg?s=77ad1b4daeb4c974d2842842bea191765000bfa5",
+    "itemURL": "https://www.vinted.fr/items/3862420833-lego-75328-the-mandalorian-helmet-casque-star-wars"
   },
   {
     "id": 4410078724,
@@ -595,27 +644,6 @@
     "itemURL": "https://www.vinted.fr/items/3874827251-lego-75328-star-wars-mandalorian-nuovo-c"
   },
   {
-    "id": 3454824216,
-    "title": "Lego 75328",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/01_01b6f_7BcmoM7ivQYgDQJ3kPZ9mqk3/f800/1694339629.jpeg?s=c82241cef5ad86b6635c414c8b6990b0d5bc1819",
-    "itemURL": "https://www.vinted.fr/items/3454824216-lego-75328"
-  },
-  {
-    "id": 3862420833,
-    "title": "Lego 75328 The Mandalorian Helmet casque Star Wars",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/03_0120b_g7tRypkNs1HjqTkVAKz9dLN4/f800/1702129278.jpeg?s=77ad1b4daeb4c974d2842842bea191765000bfa5",
-    "itemURL": "https://www.vinted.fr/items/3862420833-lego-75328-the-mandalorian-helmet-casque-star-wars"
-  },
-  {
-    "id": 4206839306,
-    "title": "Set lego 75328 The Mandalorian casco star wars",
-    "price": "62.65",
-    "imgURL": "https://images1.vinted.net/t/01_00870_RJWmk9h39CrG2PzRoo6E9RBE/f800/1710089605.jpeg?s=becada0c7082d7974e4d968faea5abde08c3763c",
-    "itemURL": "https://www.vinted.fr/items/4206839306-set-lego-75328-the-mandalorian-casco-star-wars"
-  },
-  {
     "id": 2716179828,
     "title": "Lego 75328 The Mandalorian Helmet",
     "price": "63.7",
@@ -623,11 +651,39 @@
     "itemURL": "https://www.vinted.fr/items/2716179828-lego-75328-the-mandalorian-helmet"
   },
   {
-    "id": 4833737653,
-    "title": "Lego Star Wars 75328 The mandalorian helmet",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/02_0103d_A4YbKdnrFU2gk6eaHhmcHiWP/f800/1722510073.jpeg?s=c71316edbe9701b2f0b30db0fdf14a900955c0d1",
-    "itemURL": "https://www.vinted.fr/items/4833737653-lego-star-wars-75328-the-mandalorian-helmet"
+    "id": 3454824216,
+    "title": "Lego 75328",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/01_01b6f_7BcmoM7ivQYgDQJ3kPZ9mqk3/f800/1694339629.jpeg?s=c82241cef5ad86b6635c414c8b6990b0d5bc1819",
+    "itemURL": "https://www.vinted.fr/items/3454824216-lego-75328"
+  },
+  {
+    "id": 3904511409,
+    "title": "Lego star wars 75328 le casque du Mandalorien ",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/01_01345_BvaQYXwMdFHcrVeqc88af4gW/f800/1703339930.jpeg?s=8c27811673ede6ae318329a60c00cf53298ebbcc",
+    "itemURL": "https://www.vinted.fr/items/3904511409-lego-star-wars-75328-le-casque-du-mandalorien"
+  },
+  {
+    "id": 3812885810,
+    "title": "Lego star wars 75328 le casque du Mandalorien ",
+    "price": "73.15",
+    "imgURL": "https://images1.vinted.net/t/01_018dd_UVsuuJjqk8SetzHJkTmRx3tN/f800/1701015315.jpeg?s=631c40582adb16a34c4b3b239b53bb1c30d44f0c",
+    "itemURL": "https://www.vinted.fr/items/3812885810-lego-star-wars-75328-le-casque-du-mandalorien"
+  },
+  {
+    "id": 2664432574,
+    "title": "Lego star wars 75328",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/03_016a8_HV7G87uttCsbUC6LTERakVor/f800/1675674683.jpeg?s=03a831f483f98d7c0a5faea470c4c6ca6d2b1f57",
+    "itemURL": "https://www.vinted.fr/items/2664432574-lego-star-wars-75328"
+  },
+  {
+    "id": 4522201449,
+    "title": "Set 6 caschi lego star wars - 3 fuori produzione",
+    "price": "795.6",
+    "imgURL": "https://images1.vinted.net/t/02_0165d_1dBwGMo7FWA69SEbHUCygDgR/f800/1716074077.jpeg?s=020318a14e09810c0fabc6b38ebdbd471ae1a0e5",
+    "itemURL": "https://www.vinted.fr/items/4522201449-set-6-caschi-lego-star-wars-3-fuori-produzione"
   },
   {
     "id": 4964377729,
@@ -635,6 +691,13 @@
     "price": "182.35",
     "imgURL": "https://images1.vinted.net/t/01_01301_KBSHB1bzFUXfPEwpHy7GVghv/f800/1725093855.jpeg?s=a49699ed841c636d581e8d041ae7d95655e60a0b",
     "itemURL": "https://www.vinted.fr/items/4964377729-lego-star-wars-kopfe-75327-75304-75328"
+  },
+  {
+    "id": 4833737653,
+    "title": "Lego Star Wars 75328 The mandalorian helmet",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/02_0103d_A4YbKdnrFU2gk6eaHhmcHiWP/f800/1722510073.jpeg?s=c71316edbe9701b2f0b30db0fdf14a900955c0d1",
+    "itemURL": "https://www.vinted.fr/items/4833737653-lego-star-wars-75328-the-mandalorian-helmet"
   },
   {
     "id": 5173890851,
@@ -649,76 +712,6 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/01_01514_4JLNZDVU1P5wpFC952PtftMy/f800/1704808833.jpeg?s=97008492711711fde302ab222ea997fac0ef9005",
     "itemURL": "https://www.vinted.fr/items/3959149230-lego-75328"
-  },
-  {
-    "id": 2315094638,
-    "title": "Lego 75328",
-    "price": "63.69",
-    "imgURL": "https://images1.vinted.net/t/03_0126b_YPvQh6EmsTpL7ZKaLEeYEPCd/f800/1665859523.jpeg?s=f5395e939d4f82643558aeaa7708e8224304d54e",
-    "itemURL": "https://www.vinted.fr/items/2315094638-lego-75328"
-  },
-  {
-    "id": 4522201449,
-    "title": "Set 6 caschi lego star wars - 3 fuori produzione",
-    "price": "795.6",
-    "imgURL": "https://images1.vinted.net/t/02_0165d_1dBwGMo7FWA69SEbHUCygDgR/f800/1716074077.jpeg?s=020318a14e09810c0fabc6b38ebdbd471ae1a0e5",
-    "itemURL": "https://www.vinted.fr/items/4522201449-set-6-caschi-lego-star-wars-3-fuori-produzione"
-  },
-  {
-    "id": 5279104431,
-    "title": "Lot lego venom mandalorian 76187 75328 neuf",
-    "price": "126.7",
-    "imgURL": "https://images1.vinted.net/t/04_0126f_DnwRKL4NQMp7GmJiqz1dmGiS/f800/1729937956.jpeg?s=ad6723822704168e3d894f5f3e71fbaf3d5d1e57",
-    "itemURL": "https://www.vinted.fr/items/5279104431-lot-lego-venom-mandalorian-76187-75328-neuf"
-  },
-  {
-    "id": 4833737653,
-    "title": "Lego Star Wars 75328 The mandalorian helmet",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/02_0103d_A4YbKdnrFU2gk6eaHhmcHiWP/f800/1722510073.jpeg?s=c71316edbe9701b2f0b30db0fdf14a900955c0d1",
-    "itemURL": "https://www.vinted.fr/items/4833737653-lego-star-wars-75328-the-mandalorian-helmet"
-  },
-  {
-    "id": 4964377729,
-    "title": "Lego Star Wars Köpfe 75327 75304 75328",
-    "price": "182.35",
-    "imgURL": "https://images1.vinted.net/t/01_01301_KBSHB1bzFUXfPEwpHy7GVghv/f800/1725093855.jpeg?s=a49699ed841c636d581e8d041ae7d95655e60a0b",
-    "itemURL": "https://www.vinted.fr/items/4964377729-lego-star-wars-kopfe-75327-75304-75328"
-  },
-  {
-    "id": 5173890851,
-    "title": "Starwars Mandalorian lego nr 75328",
-    "price": "52.15",
-    "imgURL": "https://images1.vinted.net/t/03_01975_nt9eX7XKFwZC1Dihsqyt67oZ/f800/1728277503.jpeg?s=440cb2f9fc1f6f1c2b687bea35d1fa5a09e3168c",
-    "itemURL": "https://www.vinted.fr/items/5173890851-starwars-mandalorian-lego-nr-75328"
-  },
-  {
-    "id": 3959149230,
-    "title": "Lego 75328",
-    "price": "74.2",
-    "imgURL": "https://images1.vinted.net/t/01_01514_4JLNZDVU1P5wpFC952PtftMy/f800/1704808833.jpeg?s=97008492711711fde302ab222ea997fac0ef9005",
-    "itemURL": "https://www.vinted.fr/items/3959149230-lego-75328"
-  },
-  {
-    "id": 2315094638,
-    "title": "Lego 75328",
-    "price": "63.69",
-    "imgURL": "https://images1.vinted.net/t/03_0126b_YPvQh6EmsTpL7ZKaLEeYEPCd/f800/1665859523.jpeg?s=f5395e939d4f82643558aeaa7708e8224304d54e",
-    "itemURL": "https://www.vinted.fr/items/2315094638-lego-75328"
-  },
-  {
-    "id": 4522201449,
-    "title": "Set 6 caschi lego star wars - 3 fuori produzione",
-    "price": "795.6",
-    "imgURL": "https://images1.vinted.net/t/02_0165d_1dBwGMo7FWA69SEbHUCygDgR/f800/1716074077.jpeg?s=020318a14e09810c0fabc6b38ebdbd471ae1a0e5",
-    "itemURL": "https://www.vinted.fr/items/4522201449-set-6-caschi-lego-star-wars-3-fuori-produzione"
-  },
-  {
-    "id": 5279104431,
-    "title": "Lot lego venom mandalorian 76187 75328 neuf",
-    "price": "126.7",
-    "imgURL": "https://images1.vinted.net/t/04_0126f_DnwRKL4NQMp7GmJiqz1dmGiS/f800/1729937956.jpeg?s=ad6723822704168e3d894f5f3e71fbaf3d5d1e57",
-    "itemURL": "https://www.vinted.fr/items/5279104431-lot-lego-venom-mandalorian-76187-75328-neuf"
   },
   {
     "id": 4839684535,
@@ -735,11 +728,11 @@
     "itemURL": "https://www.vinted.fr/items/4809929536-the-mandalorian-lego-75328"
   },
   {
-    "id": 5107729401,
-    "title": "Lot lego star wars 75350 75328 75304 neuf sceller",
-    "price": "168.7",
-    "imgURL": "https://images1.vinted.net/t/02_01b8b_ygaa4VNBBqxjPM8yXGdDTfFc/f800/1727286890.jpeg?s=025b8f829fc745e2ec783c43fd5cf01a7267c56f",
-    "itemURL": "https://www.vinted.fr/items/5107729401-lot-lego-star-wars-75350-75328-75304-neuf-sceller"
+    "id": 2315094638,
+    "title": "Lego 75328",
+    "price": "63.69",
+    "imgURL": "https://images1.vinted.net/t/03_0126b_YPvQh6EmsTpL7ZKaLEeYEPCd/f800/1665859523.jpeg?s=f5395e939d4f82643558aeaa7708e8224304d54e",
+    "itemURL": "https://www.vinted.fr/items/2315094638-lego-75328"
   },
   {
     "id": 4150000427,
@@ -749,32 +742,11 @@
     "itemURL": "https://www.vinted.fr/items/4150000427-lego-starwars-the-mandalorian-75328"
   },
   {
-    "id": 2664432574,
-    "title": "Lego star wars 75328",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/03_016a8_HV7G87uttCsbUC6LTERakVor/f800/1675674683.jpeg?s=03a831f483f98d7c0a5faea470c4c6ca6d2b1f57",
-    "itemURL": "https://www.vinted.fr/items/2664432574-lego-star-wars-75328"
-  },
-  {
-    "id": 3482636209,
-    "title": "Lego Casques Star Wars 75328 75349 75350 Rex, Cody et Mandalorian NEUFS et scellés",
-    "price": "178.15",
-    "imgURL": "https://images1.vinted.net/t/02_00fd4_8sp5gbMwQp6puuBBLWxrhZpS/f800/1694941290.jpeg?s=63cf41f7666576090ff194ac32e8083eba949ac2",
-    "itemURL": "https://www.vinted.fr/items/3482636209-lego-casques-star-wars-75328-75349-75350-rex-cody-et-mandalorian-neufs-et-scelles"
-  },
-  {
     "id": 4563523243,
     "title": "Casco lego 75328 the mandalorian star wars",
     "price": "51.1",
     "imgURL": "https://images1.vinted.net/t/03_00b1e_yKzhYrQAZ7tYGSw8HtZrooNn/f800/1716833778.jpeg?s=7b7a65b4a052833b6eb4e8ec1ec1ef8483a19d58",
     "itemURL": "https://www.vinted.fr/items/4563523243-casco-lego-75328-the-mandalorian-star-wars"
-  },
-  {
-    "id": 4858236598,
-    "title": "lego Star Wars The Mandalorian",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/01_012e3_J9JNSYvxKfn6qjXwUBQ9LiWQ/f800/1723028645.jpeg?s=298657f47f4377691afce8cf49d6d56a79112495",
-    "itemURL": "https://www.vinted.fr/items/4858236598-lego-star-wars-the-mandalorian"
   },
   {
     "id": 5049895984,
@@ -784,11 +756,18 @@
     "itemURL": "https://www.vinted.fr/items/5049895984-lego-star-wars-75328-the-mandalorian"
   },
   {
-    "id": 3963142827,
-    "title": "Lego 75328 the mandalorian helmet misb nuovo sigillato",
-    "price": "74.2",
-    "imgURL": "https://images1.vinted.net/t/01_02049_xJ8SRzty2fKuFyv7fDoFrxXc/f800/1704902785.jpeg?s=03072ec6f955f6060b5b0f496e02c71e5144c40c",
-    "itemURL": "https://www.vinted.fr/items/3963142827-lego-75328-the-mandalorian-helmet-misb-nuovo-sigillato"
+    "id": 5279104431,
+    "title": "Lot lego venom mandalorian 76187 75328 neuf",
+    "price": "126.7",
+    "imgURL": "https://images1.vinted.net/t/04_0126f_DnwRKL4NQMp7GmJiqz1dmGiS/f800/1729937956.jpeg?s=ad6723822704168e3d894f5f3e71fbaf3d5d1e57",
+    "itemURL": "https://www.vinted.fr/items/5279104431-lot-lego-venom-mandalorian-76187-75328-neuf"
+  },
+  {
+    "id": 4206839306,
+    "title": "Set lego 75328 The Mandalorian casco star wars",
+    "price": "62.65",
+    "imgURL": "https://images1.vinted.net/t/01_00870_RJWmk9h39CrG2PzRoo6E9RBE/f800/1710089605.jpeg?s=becada0c7082d7974e4d968faea5abde08c3763c",
+    "itemURL": "https://www.vinted.fr/items/4206839306-set-lego-75328-the-mandalorian-casco-star-wars"
   },
   {
     "id": 3992031462,
@@ -798,11 +777,11 @@
     "itemURL": "https://www.vinted.fr/items/3992031462-lego-star-wars-75328-new"
   },
   {
-    "id": 2994601170,
-    "title": "Lego 75328 the mandolarian",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/03_025e2_E7SLpkR76adBxjf1JdQxQYtF/f800/1683542979.jpeg?s=192b010b24a5a81573c7be9430fcc90078ba87ba",
-    "itemURL": "https://www.vinted.fr/items/2994601170-lego-75328-the-mandolarian"
+    "id": 3963142827,
+    "title": "Lego 75328 the mandalorian helmet misb nuovo sigillato",
+    "price": "74.2",
+    "imgURL": "https://images1.vinted.net/t/01_02049_xJ8SRzty2fKuFyv7fDoFrxXc/f800/1704902785.jpeg?s=03072ec6f955f6060b5b0f496e02c71e5144c40c",
+    "itemURL": "https://www.vinted.fr/items/3963142827-lego-75328-the-mandalorian-helmet-misb-nuovo-sigillato"
   },
   {
     "id": 3870001696,
@@ -812,18 +791,11 @@
     "itemURL": "https://www.vinted.fr/items/3870001696-lego-75328-casco-mandaloriano-star-wars-nuovo-sigillato"
   },
   {
-    "id": 4150531728,
-    "title": "The mandalorian helmet Lego 75328",
+    "id": 2994601170,
+    "title": "Lego 75328 the mandolarian",
     "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/01_00c09_tB4KHnNdcE337dZ6GpAJXn1n/f800/1708950775.jpeg?s=4c80e19e385b367eee0865423ca304c19f8b631c",
-    "itemURL": "https://www.vinted.fr/items/4150531728-the-mandalorian-helmet-lego-75328"
-  },
-  {
-    "id": 3857542359,
-    "title": "Lego 75328 Capacete Mandaloriano ",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/01_0058d_JRxB13G4ma5tUbKERQaBBgnx/f800/1701990301.jpeg?s=f4b9c314ea1af0a6a0aae36b26132b63e0948186",
-    "itemURL": "https://www.vinted.fr/items/3857542359-lego-75328-capacete-mandaloriano"
+    "imgURL": "https://images1.vinted.net/t/03_025e2_E7SLpkR76adBxjf1JdQxQYtF/f800/1683542979.jpeg?s=192b010b24a5a81573c7be9430fcc90078ba87ba",
+    "itemURL": "https://www.vinted.fr/items/2994601170-lego-75328-the-mandolarian"
   },
   {
     "id": 2503458616,
@@ -833,11 +805,53 @@
     "itemURL": "https://www.vinted.fr/items/2503458616-lego-star-wars-the-mandalorian-helmet-set-75328"
   },
   {
+    "id": 3857542359,
+    "title": "Lego 75328 Capacete Mandaloriano ",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/01_0058d_JRxB13G4ma5tUbKERQaBBgnx/f800/1701990301.jpeg?s=f4b9c314ea1af0a6a0aae36b26132b63e0948186",
+    "itemURL": "https://www.vinted.fr/items/3857542359-lego-75328-capacete-mandaloriano"
+  },
+  {
+    "id": 5107729401,
+    "title": "Lot lego star wars 75350 75328 75304 neuf sceller",
+    "price": "168.7",
+    "imgURL": "https://images1.vinted.net/t/02_01b8b_ygaa4VNBBqxjPM8yXGdDTfFc/f800/1727286890.jpeg?s=025b8f829fc745e2ec783c43fd5cf01a7267c56f",
+    "itemURL": "https://www.vinted.fr/items/5107729401-lot-lego-star-wars-75350-75328-75304-neuf-sceller"
+  },
+  {
     "id": 2422549954,
     "title": "LEGO 75328 Star Wars Le Casque du Mandalorien - Neuf et scellé",
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/03_01fbb_tVaxJmN5zCkx2otrjrPBpcnq/f800/1668558082.jpeg?s=58487acd120e2d643f977368302af7ea80202785",
     "itemURL": "https://www.vinted.fr/items/2422549954-lego-75328-star-wars-le-casque-du-mandalorien-neuf-et-scelle"
+  },
+  {
+    "id": 3899457668,
+    "title": "Lego Star Wars 75328 Casco del Mandaloriano ",
+    "price": "62.65",
+    "imgURL": "https://images1.vinted.net/t/02_0241a_neGMRZX62yacfXFWBjcyg9dF/f800/1703094794.jpeg?s=3b78cf3c23b9be6cda9314fde4dc20d361f823f5",
+    "itemURL": "https://www.vinted.fr/items/3899457668-lego-star-wars-75328-casco-del-mandaloriano"
+  },
+  {
+    "id": 3482636209,
+    "title": "Lego Casques Star Wars 75328 75349 75350 Rex, Cody et Mandalorian NEUFS et scellés",
+    "price": "178.15",
+    "imgURL": "https://images1.vinted.net/t/02_00fd4_8sp5gbMwQp6puuBBLWxrhZpS/f800/1694941290.jpeg?s=63cf41f7666576090ff194ac32e8083eba949ac2",
+    "itemURL": "https://www.vinted.fr/items/3482636209-lego-casques-star-wars-75328-75349-75350-rex-cody-et-mandalorian-neufs-et-scelles"
+  },
+  {
+    "id": 4858236598,
+    "title": "lego Star Wars The Mandalorian",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/01_012e3_J9JNSYvxKfn6qjXwUBQ9LiWQ/f800/1723028645.jpeg?s=298657f47f4377691afce8cf49d6d56a79112495",
+    "itemURL": "https://www.vinted.fr/items/4858236598-lego-star-wars-the-mandalorian"
+  },
+  {
+    "id": 4150531728,
+    "title": "The mandalorian helmet Lego 75328",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/01_00c09_tB4KHnNdcE337dZ6GpAJXn1n/f800/1708950775.jpeg?s=4c80e19e385b367eee0865423ca304c19f8b631c",
+    "itemURL": "https://www.vinted.fr/items/4150531728-the-mandalorian-helmet-lego-75328"
   },
   {
     "id": 5190475772,
@@ -847,11 +861,11 @@
     "itemURL": "https://www.vinted.fr/items/5190475772-casque-lego"
   },
   {
-    "id": 3899457668,
-    "title": "Lego Star Wars 75328 Casco del Mandaloriano ",
-    "price": "62.65",
-    "imgURL": "https://images1.vinted.net/t/02_0241a_neGMRZX62yacfXFWBjcyg9dF/f800/1703094794.jpeg?s=3b78cf3c23b9be6cda9314fde4dc20d361f823f5",
-    "itemURL": "https://www.vinted.fr/items/3899457668-lego-star-wars-75328-casco-del-mandaloriano"
+    "id": 4300254070,
+    "title": "Lego Casques Star Wars NEUFS Mandalorian et Leïa 75328 75351",
+    "price": "120.4",
+    "imgURL": "https://images1.vinted.net/t/01_00338_2SywXppt4EXuH6zu4rff8wg1/f800/1711974041.jpeg?s=beef1137c018ddc4e3e55c01984a69006da0d23c",
+    "itemURL": "https://www.vinted.fr/items/4300254070-lego-casques-star-wars-neufs-mandalorian-et-leia-75328-75351"
   },
   {
     "id": 3783982065,
@@ -866,13 +880,6 @@
     "price": "84.7",
     "imgURL": "https://images1.vinted.net/t/02_010f6_z5NDaAccijS43KMwXiHQFUPe/f800/1709058009.jpeg?s=2fd8ac6199f0b70498ce265c236c4169aee12020",
     "itemURL": "https://www.vinted.fr/items/4156528884-lego-casco-the-mandalorian-75328"
-  },
-  {
-    "id": 4300254070,
-    "title": "Lego Casques Star Wars NEUFS Mandalorian et Leïa 75328 75351",
-    "price": "120.4",
-    "imgURL": "https://images1.vinted.net/t/01_00338_2SywXppt4EXuH6zu4rff8wg1/f800/1711974041.jpeg?s=beef1137c018ddc4e3e55c01984a69006da0d23c",
-    "itemURL": "https://www.vinted.fr/items/4300254070-lego-casques-star-wars-neufs-mandalorian-et-leia-75328-75351"
   },
   {
     "id": 4545128928,
@@ -896,11 +903,11 @@
     "itemURL": "https://www.vinted.fr/items/4954900967-lego-75328-casco-del-mandaloriano-sigillato"
   },
   {
-    "id": 5374036925,
-    "title": "Lego The Mandalorian 75328 mit Beleuchtung",
-    "price": "34.3",
-    "imgURL": "https://images1.vinted.net/t/03_01bfc_6GrPRoeBaPg3Gr1Cy39GHFbM/f800/1731445736.jpeg?s=367d874662dfb277499c079e144b9167b7920891",
-    "itemURL": "https://www.vinted.fr/items/5374036925-lego-the-mandalorian-75328-mit-beleuchtung"
+    "id": 5264821060,
+    "title": "LEGO 75328 - The Mandalorian helm (nieuw en ongeopend)",
+    "price": "45.85",
+    "imgURL": "https://images1.vinted.net/t/03_00ebd_m7uha8td15thaKRtwDnPg9CG/f800/1729678953.jpeg?s=d1457905236bddcb5d51602eeec96a37d7cd0f7e",
+    "itemURL": "https://www.vinted.fr/items/5264821060-lego-75328-the-mandalorian-helm-nieuw-en-ongeopend"
   },
   {
     "id": 5021033804,

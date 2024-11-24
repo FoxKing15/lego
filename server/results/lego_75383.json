@@ -7,20 +7,6 @@
     "itemURL": "https://www.vinted.fr/items/4503890735-lego-75383"
   },
   {
-    "id": 5349229401,
-    "title": "Set 75383 lego",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/03_00a34_WZ2zWnbxFJJk4wpJyVJhZ5pz/f800/1731088837.jpeg?s=4511f2dbc59784656e8aeac33a8fc1c2b9e51482",
-    "itemURL": "https://www.vinted.fr/items/5349229401-set-75383-lego"
-  },
-  {
-    "id": 5329292460,
-    "title": "Lego 75383 Darth Mauls Infiltrator",
-    "price": "31.82",
-    "imgURL": "https://images1.vinted.net/t/04_0170c_K8pmDMTAZ86qmmnZ286eesMy/f800/1730729664.jpeg?s=392a11678121114e35f5e0b9ea4974a77d2284e6",
-    "itemURL": "https://www.vinted.fr/items/5329292460-lego-75383-darth-mauls-infiltrator"
-  },
-  {
     "id": 4780891170,
     "title": "Lego Star Wars 75383",
     "price": "26.95",
@@ -35,13 +21,6 @@
     "itemURL": "https://www.vinted.fr/items/5129527055-lego-star-wars-linfiltrateur-sith-de-dark-maul"
   },
   {
-    "id": 4469759855,
-    "title": "lego star wars 75383",
-    "price": "37.45",
-    "imgURL": "https://images1.vinted.net/t/03_016da_w7b15CcBdECtRcKsuutTpw5R/f800/1715069971.jpeg?s=d95e201726e9f2c4c3b729c6ed84439980423b03",
-    "itemURL": "https://www.vinted.fr/items/4469759855-lego-star-wars-75383"
-  },
-  {
     "id": 5319966249,
     "title": "Lego 75383 Darth Mauls Infiltrator",
     "price": "30.43",
@@ -49,18 +28,11 @@
     "itemURL": "https://www.vinted.fr/items/5319966249-lego-75383-darth-mauls-infiltrator"
   },
   {
-    "id": 5359681631,
-    "title": "Lego 75383 Darth Mauls Infiltrator",
-    "price": "34.29",
-    "imgURL": "https://images1.vinted.net/t/04_02356_9ajvxnWxG5VFivwmA2CX6Mi3/f800/1731252074.jpeg?s=060cc768b6052b2216d47629995465acc04d03b0",
-    "itemURL": "https://www.vinted.fr/items/5359681631-lego-75383-darth-mauls-infiltrator"
-  },
-  {
-    "id": 5346889539,
-    "title": "Lego officiel star wars 75383 \"Dark Maul's Sith Infiltrator\"",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/04_00650_QYsSRSoGfA3jNZJomtJk59C5/f800/1731062298.jpeg?s=2f18f0265f525fd09a13a56dd473dc91388e19e7",
-    "itemURL": "https://www.vinted.fr/items/5346889539-lego-officiel-star-wars-75383-dark-mauls-sith-infiltrator"
+    "id": 4469759855,
+    "title": "lego star wars 75383",
+    "price": "37.45",
+    "imgURL": "https://images1.vinted.net/t/03_016da_w7b15CcBdECtRcKsuutTpw5R/f800/1715069971.jpeg?s=d95e201726e9f2c4c3b729c6ed84439980423b03",
+    "itemURL": "https://www.vinted.fr/items/4469759855-lego-star-wars-75383"
   },
   {
     "id": 5378239830,
@@ -77,11 +49,32 @@
     "itemURL": "https://www.vinted.fr/items/5350170923-lego-star-wars-set"
   },
   {
+    "id": 5346889539,
+    "title": "Lego officiel star wars 75383 \"Dark Maul's Sith Infiltrator\"",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/04_00650_QYsSRSoGfA3jNZJomtJk59C5/f800/1731062298.jpeg?s=2f18f0265f525fd09a13a56dd473dc91388e19e7",
+    "itemURL": "https://www.vinted.fr/items/5346889539-lego-officiel-star-wars-75383-dark-mauls-sith-infiltrator"
+  },
+  {
+    "id": 5329292460,
+    "title": "Lego 75383 Darth Mauls Infiltrator",
+    "price": "31.82",
+    "imgURL": "https://images1.vinted.net/t/04_0170c_K8pmDMTAZ86qmmnZ286eesMy/f800/1730729664.jpeg?s=392a11678121114e35f5e0b9ea4974a77d2284e6",
+    "itemURL": "https://www.vinted.fr/items/5329292460-lego-75383-darth-mauls-infiltrator"
+  },
+  {
     "id": 5324486275,
     "title": "LEGO Star Wars 75383 Darth Mauls Sith Infiltrator",
     "price": "48.53",
     "imgURL": "https://images1.vinted.net/t/04_0260b_GN2VtLXdVAtkrEHnAXav2uUj/f800/1730650643.jpeg?s=ba9a7479ca569c77a89155d927b1ac85dd621576",
     "itemURL": "https://www.vinted.fr/items/5324486275-lego-star-wars-75383-darth-mauls-sith-infiltrator"
+  },
+  {
+    "id": 5386207886,
+    "title": "Darth Maul’s Sith Infiltrator - 75383 [Neuf/Scelled]",
+    "price": "55.3",
+    "imgURL": "https://images1.vinted.net/t/04_01c1b_MY4grxyrB4WjhDgFjNPEy9E1/f800/1731677367.jpeg?s=58863eef2e79720ec8db71d3fa0e38e83e6bc5fc",
+    "itemURL": "https://www.vinted.fr/items/5386207886-darth-mauls-sith-infiltrator-75383-neufscelled"
   },
   {
     "id": 4956399694,
@@ -91,18 +84,25 @@
     "itemURL": "https://www.vinted.fr/items/4956399694-75383-lego-star-wars-darth-mauls-sith-infiltrator"
   },
   {
+    "id": 5349229401,
+    "title": "Set 75383 lego",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/03_00a34_WZ2zWnbxFJJk4wpJyVJhZ5pz/f800/1731088837.jpeg?s=4511f2dbc59784656e8aeac33a8fc1c2b9e51482",
+    "itemURL": "https://www.vinted.fr/items/5349229401-set-75383-lego"
+  },
+  {
+    "id": 5359681631,
+    "title": "Lego 75383 Darth Mauls Infiltrator",
+    "price": "34.29",
+    "imgURL": "https://images1.vinted.net/t/04_02356_9ajvxnWxG5VFivwmA2CX6Mi3/f800/1731252074.jpeg?s=060cc768b6052b2216d47629995465acc04d03b0",
+    "itemURL": "https://www.vinted.fr/items/5359681631-lego-75383-darth-mauls-infiltrator"
+  },
+  {
     "id": 5371554255,
     "title": "Lego Star wars 75383",
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/01_01f3e_Zx48ADXDGNdhLT8kZg1WUnp8/f800/1731419663.jpeg?s=03bafbf9b67483feaa654b52d3096890833ccabe",
     "itemURL": "https://www.vinted.fr/items/5371554255-lego-star-wars-75383"
-  },
-  {
-    "id": 5386207886,
-    "title": "Darth Maul’s Sith Infiltrator - 75383 [Neuf/Scelled]",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_01c1b_MY4grxyrB4WjhDgFjNPEy9E1/f800/1731677367.jpeg?s=58863eef2e79720ec8db71d3fa0e38e83e6bc5fc",
-    "itemURL": "https://www.vinted.fr/items/5386207886-darth-mauls-sith-infiltrator-75383-neufscelled"
   },
   {
     "id": 5278258616,
@@ -133,18 +133,18 @@
     "itemURL": "https://www.vinted.fr/items/5225249148-lego-star-wars-75383"
   },
   {
-    "id": 5246081528,
-    "title": "75383 LEGO Sith Infiltrator di Darth Maul.",
-    "price": "74.19",
-    "imgURL": "https://images1.vinted.net/t/03_0257c_UojmDjRjE8sNm1Qtcj7ohJ7H/f800/1729413059.jpeg?s=9a1458b134d5f199a35407b5505cc2e7b67f967e",
-    "itemURL": "https://www.vinted.fr/items/5246081528-75383-lego-sith-infiltrator-di-darth-maul"
-  },
-  {
     "id": 5267026750,
     "title": "Lego Minifigure Anakin set 75383",
     "price": "26.95",
     "imgURL": "https://images1.vinted.net/t/01_00837_xEx9jJjz3LvJkpNdrkACsKrv/f800/1729699254.jpeg?s=46dfa29f668af11e2cf98a3713357ff56cb4fb8d",
     "itemURL": "https://www.vinted.fr/items/5267026750-lego-minifigure-anakin-set-75383"
+  },
+  {
+    "id": 5246081528,
+    "title": "75383 LEGO Sith Infiltrator di Darth Maul.",
+    "price": "74.19",
+    "imgURL": "https://images1.vinted.net/t/03_0257c_UojmDjRjE8sNm1Qtcj7ohJ7H/f800/1729413059.jpeg?s=9a1458b134d5f199a35407b5505cc2e7b67f967e",
+    "itemURL": "https://www.vinted.fr/items/5246081528-75383-lego-sith-infiltrator-di-darth-maul"
   },
   {
     "id": 4989682234,

@@ -21,13 +21,6 @@
     "itemURL": "https://www.vinted.fr/items/4245657169-lego-75354"
   },
   {
-    "id": 5149820420,
-    "title": "LEGO Star Wars Clone Shock Trooper, Coruscant Guard 75354",
-    "price": "7.0",
-    "imgURL": "https://images1.vinted.net/t/03_022ca_dZSkSgYuPtzwF59s8HTabF2W/f800/1727943094.jpeg?s=aae1d2696617a75184dec653e345b9c9c17f4620",
-    "itemURL": "https://www.vinted.fr/items/5149820420-lego-star-wars-clone-shock-trooper-coruscant-guard-75354"
-  },
-  {
     "id": 5285388318,
     "title": "Supporto lego 75354 Star wars",
     "price": "15.4",
@@ -40,6 +33,13 @@
     "price": "7.0",
     "imgURL": "https://images1.vinted.net/t/03_0090c_qkNU8vgmjL3UwXodrLbVi4We/f800/1727943162.jpeg?s=56caf5c5161190340ad48db02c529324a887467d",
     "itemURL": "https://www.vinted.fr/items/5149825671-lego-star-wars-clone-shock-trooper-coruscant-guard-75354"
+  },
+  {
+    "id": 5149820420,
+    "title": "LEGO Star Wars Clone Shock Trooper, Coruscant Guard 75354",
+    "price": "7.0",
+    "imgURL": "https://images1.vinted.net/t/03_022ca_dZSkSgYuPtzwF59s8HTabF2W/f800/1727943094.jpeg?s=aae1d2696617a75184dec653e345b9c9c17f4620",
+    "itemURL": "https://www.vinted.fr/items/5149820420-lego-star-wars-clone-shock-trooper-coruscant-guard-75354"
   },
   {
     "id": 5149829744,
@@ -63,11 +63,11 @@
     "itemURL": "https://www.vinted.fr/items/5149817143-lego-star-wars-clone-shock-trooper-coruscant-guard-75354"
   },
   {
-    "id": 5400969014,
-    "title": "Lego, Star Wars",
-    "price": "116.2",
-    "imgURL": "https://images1.vinted.net/t/03_00aa8_eCuiHQM7YHhA4y9q4pt2zXoP/f800/1731872637.jpeg?s=7a74f25c1bf03c2561b209c220991379ccf2adcb",
-    "itemURL": "https://www.vinted.fr/items/5400969014-lego-star-wars"
+    "id": 5334107758,
+    "title": "Lego 75354 - Coruscant Guard Gunship",
+    "price": "89.95",
+    "imgURL": "https://images1.vinted.net/t/04_013db_UhiDZupwJ1KCm1wqy6KyJbxe/f800/1730814993.jpeg?s=52accd8969d1f173cb663d604ad15723a35143e3",
+    "itemURL": "https://www.vinted.fr/items/5334107758-lego-75354-coruscant-guard-gunship"
   },
   {
     "id": 4214551414,
@@ -82,13 +82,6 @@
     "price": "76.3",
     "imgURL": "https://images1.vinted.net/t/02_00262_JuKQiujHs6qDQDoH8BfvqzdS/f800/1729929349.jpeg?s=2a02c9e93347998e03e92ae66a640a52b339457a",
     "itemURL": "https://www.vinted.fr/items/5278258616-lego-75337-sans-figurines"
-  },
-  {
-    "id": 5334107758,
-    "title": "Lego 75354 - Coruscant Guard Gunship",
-    "price": "89.95",
-    "imgURL": "https://images1.vinted.net/t/04_013db_UhiDZupwJ1KCm1wqy6KyJbxe/f800/1730814993.jpeg?s=52accd8969d1f173cb663d604ad15723a35143e3",
-    "itemURL": "https://www.vinted.fr/items/5334107758-lego-75354-coruscant-guard-gunship"
   },
   {
     "id": 5261640042,
@@ -140,13 +133,6 @@
     "itemURL": "https://www.vinted.fr/items/5298834371-lego-75354-starwars-coruscant-guard-gunship"
   },
   {
-    "id": 5158553976,
-    "title": "21 clones lego Star Wars officiel",
-    "price": "121.45",
-    "imgURL": "https://images1.vinted.net/t/01_023f8_N5tL4q9C5svpBfpsTGDjvxk8/f800/1728063989.jpeg?s=7cda948fb90279fc04dab4acd39ce2a9d0e95814",
-    "itemURL": "https://www.vinted.fr/items/5158553976-21-clones-lego-star-wars-officiel"
-  },
-  {
     "id": 5027335464,
     "title": "12 clones corruscant lego",
     "price": "95.2",
@@ -161,18 +147,25 @@
     "itemURL": "https://www.vinted.fr/items/5191088606-lego-clone-star-wars-75354"
   },
   {
-    "id": 5369444117,
-    "title": "Lego Star Wars lot",
-    "price": "210.7",
-    "imgURL": "https://images1.vinted.net/t/04_01628_YfXvmKwL73zQ9JxEEG1FNDY4/f800/1731370445.jpeg?s=948ba28eedeb9ed243b14dc7baaf4cc55549f198",
-    "itemURL": "https://www.vinted.fr/items/5369444117-lego-star-wars-lot"
-  },
-  {
     "id": 4703977357,
     "title": "Lego Star Wars Chancellor Palpatine - Skirt sw1306 75354",
     "price": "32.2",
     "imgURL": "https://images1.vinted.net/t/03_009b0_iQsuuFDhEDYNnUAZgz5bjVQN/f800/1719742978.jpeg?s=b7e145d4009798dbfbaa83eab562fd1e22b72310",
     "itemURL": "https://www.vinted.fr/items/4703977357-lego-star-wars-chancellor-palpatine-skirt-sw1306-75354"
+  },
+  {
+    "id": 5158553976,
+    "title": "21 clones lego Star Wars officiel",
+    "price": "121.45",
+    "imgURL": "https://images1.vinted.net/t/01_023f8_N5tL4q9C5svpBfpsTGDjvxk8/f800/1728063989.jpeg?s=7cda948fb90279fc04dab4acd39ce2a9d0e95814",
+    "itemURL": "https://www.vinted.fr/items/5158553976-21-clones-lego-star-wars-officiel"
+  },
+  {
+    "id": 5369444117,
+    "title": "Lego Star Wars lot",
+    "price": "210.7",
+    "imgURL": "https://images1.vinted.net/t/04_01628_YfXvmKwL73zQ9JxEEG1FNDY4/f800/1731370445.jpeg?s=948ba28eedeb9ed243b14dc7baaf4cc55549f198",
+    "itemURL": "https://www.vinted.fr/items/5369444117-lego-star-wars-lot"
   },
   {
     "id": 3620737969,
