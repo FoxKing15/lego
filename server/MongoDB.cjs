@@ -70,6 +70,7 @@ async function main2(){
     }
 }
 
+//Method 1
 async function findBestDiscountDeals(){
     client = await MongoClient.connect(MONGODB_URI, {'useNewUrlParser': true});
     const db =  client.db(MONGODB_DB_NAME);
@@ -79,6 +80,7 @@ async function findBestDiscountDeals(){
     process.exit()
 }
 
+//Method 2
 async function mostCommentedDeals(){
     client = await MongoClient.connect(MONGODB_URI, {'useNewUrlParser': true});
     const db =  client.db(MONGODB_DB_NAME);
@@ -88,6 +90,27 @@ async function mostCommentedDeals(){
     process.exit()
 }
 
+//Method 3
+async function sortedByPriceAsc(){
+    client = await MongoClient.connect(MONGODB_URI, {'useNewUrlParser': true});
+    const db =  client.db(MONGODB_DB_NAME);
+    const collection = db.collection('deals');
+    const bestDeals = await collection.find({}).sort({price:1}).toArray();
+    console.log('Most Commented Deals:', bestDeals);
+    process.exit()
+}
+
+//Method 3b
+async function sortedByPriceDesc(){
+    client = await MongoClient.connect(MONGODB_URI, {'useNewUrlParser': true});
+    const db =  client.db(MONGODB_DB_NAME);
+    const collection = db.collection('deals');
+    const bestDeals = await collection.find({}).sort({price: -1}).toArray();
+    console.log('Most Commented Deals:', bestDeals);
+    process.exit()
+}
 
 //findBestDiscountDeals();
-mostCommentedDeals();
+//mostCommentedDeals();
+//sortedByPriceAsc();
+sortedByPriceDesc();
