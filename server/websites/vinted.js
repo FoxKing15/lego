@@ -64,11 +64,13 @@ async function parseAndSaveLegoData(legoId) {
 
         const items = responseBody.items.map((item) => {
             return {
+                legoid : legoId,
                 id: item.id,
                 title: item.title,
                 price: item.total_item_price.amount,
                 imgURL: item.photo.url,
                 itemURL: item.url,
+                publication: item.photo.high_resolution.timestamp,
             };
         });
 
