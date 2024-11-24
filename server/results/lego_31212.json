@@ -6,7 +6,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/04_02697_Pjeqaf5BcdSSiCoFGrnewiF3/f800/1731925508.jpeg?s=f1448362d351599dbbdc8468900ef3e7dcfeb0fd",
     "itemURL": "https://www.vinted.fr/items/5402852834-lego-31212-solo-scatola-e-istruzioni",
-    "publication": 1731925508
+    "publication": 1731925508,
+    "scraping_data": 1732471009
   },
   {
     "legoid": 31212,
@@ -15,7 +16,8 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/02_01134_jpDgDwmzmrbKkjWUPrUoge1R/f800/1720615826.jpeg?s=a415e778f44c07168c387578cbf779749e1e479b",
     "itemURL": "https://www.vinted.fr/items/4747796488-boite-en-carton-lego-31212-galaxie-voie-lactee-milky-way",
-    "publication": 1720615826
+    "publication": 1720615826,
+    "scraping_data": 1732471009
   },
   {
     "legoid": 31212,
@@ -24,7 +26,18 @@
     "price": "179.2",
     "imgURL": "https://images1.vinted.net/t/02_003d4_vKrMmpUbspfmL2DRKCJypNdK/f800/1732110199.jpeg?s=30027ae92d495d1d6f80aad4beb010594fe143b5",
     "itemURL": "https://www.vinted.fr/items/5388872517-the-milky-way",
-    "publication": 1732110199
+    "publication": 1732110199,
+    "scraping_data": 1732471009
+  },
+  {
+    "legoid": 31212,
+    "id": 5436007263,
+    "title": "Lego 31212 la Voie lactée",
+    "price": "158.2",
+    "imgURL": "https://images1.vinted.net/t/04_007bb_cgVB8sdSX9ziEGZRuqeDV7EQ/f800/1732463828.jpeg?s=10417134fbfdb78efd1fb16fe0a0f40c3caac919",
+    "itemURL": "https://www.vinted.fr/items/5436007263-lego-31212-la-voie-lactee",
+    "publication": 1732463828,
+    "scraping_data": 1732471009
   },
   {
     "legoid": 31212,
@@ -33,7 +46,8 @@
     "price": "179.2",
     "imgURL": "https://images1.vinted.net/t/04_00cff_UsehwVXUvAvkrHdTkV9TDEvc/f800/1732355221.jpeg?s=4cd6989fe14d7eec74f09b07fcd0c501434456a5",
     "itemURL": "https://www.vinted.fr/items/5427060574-lego-31212-voie-lactee",
-    "publication": 1732355221
+    "publication": 1732355221,
+    "scraping_data": 1732471009
   },
   {
     "legoid": 31212,
@@ -42,7 +56,8 @@
     "price": "168.69",
     "imgURL": "https://images1.vinted.net/t/04_0220f_jPr3UzW5NwHMrCacGF4rAvcv/f800/1732127061.jpeg?s=f925bce7e1907d7573204c9c0fe33a80cc8a5c57",
     "itemURL": "https://www.vinted.fr/items/5416071183-31212-lego-art-the-milky-way-galaxy",
-    "publication": 1732127061
+    "publication": 1732127061,
+    "scraping_data": 1732471009
   },
   {
     "legoid": 31212,
@@ -51,7 +66,8 @@
     "price": "194.95",
     "imgURL": "https://images1.vinted.net/t/04_014aa_oYiRC3x17z8z9k8w5nXywygm/f800/1731691990.jpeg?s=5842d6e2aa9e09026b92d81cc781c26071d10fe3",
     "itemURL": "https://www.vinted.fr/items/5387529599-lego-art-31212-voie-lactee",
-    "publication": 1731691990
+    "publication": 1731691990,
+    "scraping_data": 1732471009
   },
   {
     "legoid": 31212,
@@ -60,7 +76,8 @@
     "price": "163.44",
     "imgURL": "https://images1.vinted.net/t/04_01d2d_CqeqwBRukgoDS8Efuqe8Z6Uk/f800/1732206610.jpeg?s=38aee3e2f83d873619134fc04086f289616a9eb9",
     "itemURL": "https://www.vinted.fr/items/5420254822-lego-31212-milk-way",
-    "publication": 1732206610
+    "publication": 1732206610,
+    "scraping_data": 1732471009
   },
   {
     "legoid": 31212,
@@ -69,7 +86,8 @@
     "price": "189.7",
     "imgURL": "https://images1.vinted.net/t/04_001c1_TbrSUSausu65LiTDZLHKDeNq/f800/1731943419.jpeg?s=f8ccdaa02a0090b8a25467f34dacdf0cebe73512",
     "itemURL": "https://www.vinted.fr/items/5404783743-lego-31212-a-galaxia-da-via-lactea",
-    "publication": 1731943419
+    "publication": 1731943419,
+    "scraping_data": 1732471009
   },
   {
     "legoid": 31212,
@@ -78,7 +96,8 @@
     "price": "189.7",
     "imgURL": "https://images1.vinted.net/t/02_00895_7Euna6PCuVAcQrJiQhsGMeao/f800/1729282870.jpeg?s=de5e609ab2bb64e22750f9e4ac60190c5ba6c040",
     "itemURL": "https://www.vinted.fr/items/5239397227-lego-milky-way-31212",
-    "publication": 1729282870
+    "publication": 1729282870,
+    "scraping_data": 1732471009
   },
   {
     "legoid": 31212,
@@ -87,6 +106,7 @@
     "price": "221.2",
     "imgURL": "https://images1.vinted.net/t/04_00188_r1JcdKTNYYyLEnQ3yJfHYiD5/f800/1731598303.jpeg?s=439acc9b1f64cb12a77e296deb3d3948a7ba9546",
     "itemURL": "https://www.vinted.fr/items/5382253027-lego-super-mario-nintendo-ref-71374-scelle",
-    "publication": 1731598303
+    "publication": 1731598303,
+    "scraping_data": 1732471009
   }
 ]

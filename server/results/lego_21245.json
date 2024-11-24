@@ -6,7 +6,18 @@
     "price": "5.95",
     "imgURL": "https://images1.vinted.net/t/01_0268c_gskDgYi4fokYgYb8c1Kamvb5/f800/1716126780.jpeg?s=d9c1cd4996f9e05c5bfc9a75c4c57fdf3c616c1b",
     "itemURL": "https://www.vinted.fr/items/4524810173-boite-lego-minecraft-21245-vide-avec-manuel",
-    "publication": 1716126780
+    "publication": 1716126780,
+    "scraping_data": 1732470400
+  },
+  {
+    "legoid": 21245,
+    "id": 5436339620,
+    "title": "Lego minecraft 21245",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/02_024ce_x2R7tF82eFjq5JXpPxjCfFLr/f800/1732465928.jpeg?s=15977b09c5d8aabbd049fe377670dd663b4738a3",
+    "itemURL": "https://www.vinted.fr/items/5436339620-lego-minecraft-21245",
+    "publication": 1732465928,
+    "scraping_data": 1732470400
   },
   {
     "legoid": 21245,
@@ -15,7 +26,8 @@
     "price": "53.19",
     "imgURL": "https://images1.vinted.net/t/02_000fb_BvV44qBgRi2gYH2GPtGt51HF/f800/1732289970.jpeg?s=ad229f2b54df127504cf8c78a9703d5f58c0656c",
     "itemURL": "https://www.vinted.fr/items/5424565450-lego-21245-minecraft-le-refuge-panda",
-    "publication": 1732289970
+    "publication": 1732289970,
+    "scraping_data": 1732470400
   },
   {
     "legoid": 21245,
@@ -24,7 +36,8 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/03_00fa8_K5jphh95fRWZtUqNHRvDBxgr/f800/1719668572.jpeg?s=3703c6875ab2c8acd7a4d1d3d18b95b0fdfc2eb5",
     "itemURL": "https://www.vinted.fr/items/4701117846-lego-21245-minecraft",
-    "publication": 1719668572
+    "publication": 1719668572,
+    "scraping_data": 1732470400
   },
   {
     "legoid": 21245,
@@ -33,7 +46,8 @@
     "price": "42.7",
     "imgURL": "https://images1.vinted.net/t/01_01b54_gm7cikmidKBRSpLJ7bdKd26P/f800/1713709467.jpeg?s=c1c9c9f1fcf968a73faef7d1a4da1c4d738b9e0e",
     "itemURL": "https://www.vinted.fr/items/4396978662-minecraft-21245-das-panda-haus",
-    "publication": 1713709467
+    "publication": 1713709467,
+    "scraping_data": 1732470400
   },
   {
     "legoid": 21245,
@@ -42,7 +56,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/02_00005_EaLbxNDwYBHyPJSxenC7TkDh/f800/1729420962.jpeg?s=25b3e4e9d917fbcb085e79d300b92b4e20cb1a19",
     "itemURL": "https://www.vinted.fr/items/5247217715-lego-minecraft-21245",
-    "publication": 1729420962
+    "publication": 1729420962,
+    "scraping_data": 1732470400
   },
   {
     "legoid": 21245,
@@ -51,7 +66,8 @@
     "price": "58.44",
     "imgURL": "https://images1.vinted.net/t/04_02252_VRZTAFD17WkxF973H82mAcoj/f800/1730709022.jpeg?s=aeff2ccd2d94ed0f6dc9e6f372f2691a8a729d10",
     "itemURL": "https://www.vinted.fr/items/5327338556-lego-minecraft-21245-the-panda-haven-neuf",
-    "publication": 1730709022
+    "publication": 1730709022,
+    "scraping_data": 1732470400
   },
   {
     "legoid": 21245,
@@ -60,7 +76,8 @@
     "price": "44.8",
     "imgURL": "https://images1.vinted.net/t/02_01578_NgV6H2Vi5qYPq6hwmcbSHKzT/f800/1732277332.jpeg?s=be1e8cf2945044af85d68e100a783e92bc354cb9",
     "itemURL": "https://www.vinted.fr/items/5423388562-lego-minecraft-21245-sin-abrir",
-    "publication": 1732277332
+    "publication": 1732277332,
+    "scraping_data": 1732470400
   },
   {
     "legoid": 21245,
@@ -69,6 +86,7 @@
     "price": "221.2",
     "imgURL": "https://images1.vinted.net/t/01_01702_9LwYkVv5Wnm7RRhnim5nHofa/f800/1722007950.jpeg?s=51a4f71117c9969d12079545210ade8cb5ce3468",
     "itemURL": "https://www.vinted.fr/items/4812168509-lot-lego-minecraft-neuf-en-boite",
-    "publication": 1722007950
+    "publication": 1722007950,
+    "scraping_data": 1732470400
   }
 ]

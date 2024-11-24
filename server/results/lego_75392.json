@@ -1,21 +1,13 @@
 [
   {
     "legoid": 75392,
-    "id": 5421732162,
-    "title": "LEGO Star Wars: Kreativer Droidenbauer (75392) Ungeöffnet OVP",
-    "price": "89.41",
-    "imgURL": "https://images1.vinted.net/t/02_00a35_S4qzyP93XH4LY9gYA3Sfujk5/f800/1732224933.jpeg?s=e74ef4a690e55192ae749d78224135314b704122",
-    "itemURL": "https://www.vinted.fr/items/5421732162-lego-star-wars-kreativer-droidenbauer-75392-ungeoffnet-ovp",
-    "publication": 1732224933
-  },
-  {
-    "legoid": 75392,
     "id": 5091704968,
     "title": "75392-3",
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/01_00c3f_2ofXmMBrfPXcT1qKS5RKE1rX/f800/1727034825.jpeg?s=e426296f22aaeef4aa0600a3a3172feb2a7e7e5e",
     "itemURL": "https://www.vinted.fr/items/5091704968-75392-3",
-    "publication": 1727034825
+    "publication": 1727034825,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -24,7 +16,8 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/01_023af_n5DZWmTHpDDaFa4LPiUEneaw/f800/1731750041.jpeg?s=c9bb5efa9e17b058a54d78f0c07f2fa85ac9580b",
     "itemURL": "https://www.vinted.fr/items/5389436299-lego-75392",
-    "publication": 1731750041
+    "publication": 1731750041,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -33,7 +26,8 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/01_002b6_z4fBjDtQxoQbDsp8epv98DFy/f800/1726143064.jpeg?s=13db9a4f6bc9875e0771389e02158aab22223c6d",
     "itemURL": "https://www.vinted.fr/items/5030105500-lego-star-wars-75392-droid-builder-sans-leia",
-    "publication": 1726143064
+    "publication": 1726143064,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -42,7 +36,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/02_005c2_3cxBWhEmAYWNJWNbnjUU2cni/f800/1727034564.jpeg?s=3e6b97e64dfd5c424f768c6a0c923791b83303ca",
     "itemURL": "https://www.vinted.fr/items/5091680867-75392-2",
-    "publication": 1727034564
+    "publication": 1727034564,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -51,16 +46,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/02_004d6_YqHvTPWYRCeZDoEeRUYXwooF/f800/1727034959.jpeg?s=dec37ebb60a82d3ea431dc608c78e84ce398ff47",
     "itemURL": "https://www.vinted.fr/items/5091717061-75392-4",
-    "publication": 1727034959
-  },
-  {
-    "legoid": 75392,
-    "id": 5037527063,
-    "title": "Lego Star Wars Creative play droid builder 75392",
-    "price": "52.15",
-    "imgURL": "https://images1.vinted.net/t/01_0031b_ow8YR38Bo5dsmiW8jVhQDh6E/f800/1726248827.jpeg?s=32a2cf33f42b48a94a95e562acad547fc09d2c2b",
-    "itemURL": "https://www.vinted.fr/items/5037527063-lego-star-wars-creative-play-droid-builder-75392",
-    "publication": 1726248827
+    "publication": 1727034959,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -69,7 +56,18 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/02_01e3a_d2PY4pU4B8NyjM3BMaKDGMxf/f800/1725207918.jpeg?s=fbc88540c44826e78002aa761b0d97435001a1b6",
     "itemURL": "https://www.vinted.fr/items/4972761916-lego-star-wars-75392-creative-play-droid-builder",
-    "publication": 1725207918
+    "publication": 1725207918,
+    "scraping_data": 1732470511
+  },
+  {
+    "legoid": 75392,
+    "id": 5037527063,
+    "title": "Lego Star Wars Creative play droid builder 75392",
+    "price": "52.15",
+    "imgURL": "https://images1.vinted.net/t/01_0031b_ow8YR38Bo5dsmiW8jVhQDh6E/f800/1726248827.jpeg?s=32a2cf33f42b48a94a95e562acad547fc09d2c2b",
+    "itemURL": "https://www.vinted.fr/items/5037527063-lego-star-wars-creative-play-droid-builder-75392",
+    "publication": 1726248827,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -78,7 +76,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/03_01cf2_12QABcR4qcNUmwiuVsGMhPuS/f800/1730047209.jpeg?s=f8507073c5539698b2d2143526c38e02b9449512",
     "itemURL": "https://www.vinted.fr/items/5288084088-lego-75392-droide-2",
-    "publication": 1730047209
+    "publication": 1730047209,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -87,7 +86,8 @@
     "price": "19.6",
     "imgURL": "https://images1.vinted.net/t/03_017d2_KvcKweWCaknCR37DqH2m82BT/f800/1730047290.jpeg?s=e83552c94bbd1bc68e3ef7fa87e79c3398647a5b",
     "itemURL": "https://www.vinted.fr/items/5288095868-lego-75392-droide-4-chopper",
-    "publication": 1730047290
+    "publication": 1730047290,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -96,7 +96,8 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/02_0171e_s7NgaTVjhnhX6eikEWPJ5Ypp/f800/1728713654.jpeg?s=f913239281662369afcf6f1e8610b4aec196c2ca",
     "itemURL": "https://www.vinted.fr/items/5200499367-lego-star-wars-75392",
-    "publication": 1728713654
+    "publication": 1728713654,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -105,7 +106,8 @@
     "price": "68.95",
     "imgURL": "https://images1.vinted.net/t/04_02311_Kw4VG3SBEqGDXXuAZRc9nGrv/f800/1730738474.jpeg?s=02d5bd0240ba0147ab515cb63693e646e7086fcf",
     "itemURL": "https://www.vinted.fr/items/5330202812-lego-75392-creative-play-droid-builder",
-    "publication": 1730738474
+    "publication": 1730738474,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -114,7 +116,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/01_01d64_vJeUZ2Lnz6sc4kH773VeK5d3/f800/1725103341.jpeg?s=d44b578aa60389db9c00b1bcdaf48700c8f8f154",
     "itemURL": "https://www.vinted.fr/items/4965269954-lego-star-wars-captain-rex-75391",
-    "publication": 1725103341
+    "publication": 1725103341,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -123,7 +126,8 @@
     "price": "79.45",
     "imgURL": "https://images1.vinted.net/t/04_024db_iu4Fm9va6UMX5q5voCrnDhZi/f800/1731862043.jpeg?s=6975778640225a3ae469d6f90ae4081be60250eb",
     "itemURL": "https://www.vinted.fr/items/5399513396-lego-star-wars-75392-la-fabrique-de-droides-creative",
-    "publication": 1731862043
+    "publication": 1731862043,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -132,16 +136,8 @@
     "price": "79.35",
     "imgURL": "https://images1.vinted.net/t/03_0082f_7Zqy2yhibcuamW7eWJPtpChx/f800/1732009362.jpeg?s=85ecf1db19abe24f3c7f61903c17fb7ecc8b392a",
     "itemURL": "https://www.vinted.fr/items/5407894107-lego-75392",
-    "publication": 1732009362
-  },
-  {
-    "legoid": 75392,
-    "id": 5287173177,
-    "title": "Lego Star Wars \"Droid builder\" Rif. 75392",
-    "price": "76.3",
-    "imgURL": "https://images1.vinted.net/t/04_023dd_DGBcnW2rcrVLzLMhU1SP5RxF/f800/1730041404.jpeg?s=a391f8e03a75ab1ee1b242f44bc9fb975aafda6d",
-    "itemURL": "https://www.vinted.fr/items/5287173177-lego-star-wars-droid-builder-rif-75392",
-    "publication": 1730041404
+    "publication": 1732009362,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -150,7 +146,18 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/02_01b5e_wxaj6DZDjajhoBEpXdw57hYW/f800/1724580109.jpeg?s=b50821e8e74fcdb8228a5f2187eae45bf68cf4f7",
     "itemURL": "https://www.vinted.fr/items/4912066952-lego-75392-star-wars-creative-play-droid-builder-senza-minifigure",
-    "publication": 1724580109
+    "publication": 1724580109,
+    "scraping_data": 1732470511
+  },
+  {
+    "legoid": 75392,
+    "id": 5287173177,
+    "title": "Lego Star Wars \"Droid builder\" Rif. 75392",
+    "price": "76.3",
+    "imgURL": "https://images1.vinted.net/t/04_023dd_DGBcnW2rcrVLzLMhU1SP5RxF/f800/1730041404.jpeg?s=a391f8e03a75ab1ee1b242f44bc9fb975aafda6d",
+    "itemURL": "https://www.vinted.fr/items/5287173177-lego-star-wars-droid-builder-rif-75392",
+    "publication": 1730041404,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -159,7 +166,8 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/01_0264c_ZEKXad8dsVTV641tMgWt15ER/f800/1725888790.jpeg?s=b0388508536c530308d0ad576e1865f1d833aaf0",
     "itemURL": "https://www.vinted.fr/items/5012845688-lego-star-wars-droid-builder-75392",
-    "publication": 1725888790
+    "publication": 1725888790,
+    "scraping_data": 1732470511
   },
   {
     "legoid": 75392,
@@ -168,6 +176,17 @@
     "price": "77.35",
     "imgURL": "https://images1.vinted.net/t/03_02478_Rp2GGiRhzUhN3zEgKaKiQ7bG/f800/1731789629.jpeg?s=6d7e96a3e9cec6e24ca6ea59a9359a604d06d15a",
     "itemURL": "https://www.vinted.fr/items/5393876652-lego-star-wars-75392-neuf-emballe",
-    "publication": 1731789629
+    "publication": 1731789629,
+    "scraping_data": 1732470511
+  },
+  {
+    "legoid": 75392,
+    "id": 5421732162,
+    "title": "LEGO Star Wars: Kreativer Droidenbauer (75392) Ungeöffnet OVP",
+    "price": "89.41",
+    "imgURL": "https://images1.vinted.net/t/02_00a35_S4qzyP93XH4LY9gYA3Sfujk5/f800/1732224933.jpeg?s=e74ef4a690e55192ae749d78224135314b704122",
+    "itemURL": "https://www.vinted.fr/items/5421732162-lego-star-wars-kreativer-droidenbauer-75392-ungeoffnet-ovp",
+    "publication": 1732224933,
+    "scraping_data": 1732470511
   }
 ]

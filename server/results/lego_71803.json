@@ -6,7 +6,8 @@
     "price": "7.53",
     "imgURL": "https://images1.vinted.net/t/02_002ce_FPuiMoScVNkmUvzviScLBVRn/f800/1727279306.jpeg?s=9c0ee893f5d9f845b64255dcc7dd6190feb9d614",
     "itemURL": "https://www.vinted.fr/items/5106920830-lego-ninjago",
-    "publication": 1727279306
+    "publication": 1727279306,
+    "scraping_data": 1732470446
   },
   {
     "legoid": 71803,
@@ -15,34 +16,8 @@
     "price": "8.05",
     "imgURL": "https://images1.vinted.net/t/02_0168a_RdfM5CY5otdbXUesan5w5AFb/f800/1732363503.jpeg?s=688526b24b9a36fa8f807a7bdb267593c1527c07",
     "itemURL": "https://www.vinted.fr/items/5428004391-lego-ninjago-arins-rising-dragon-strike",
-    "publication": 1732363503
-  },
-  {
-    "legoid": 71803,
-    "id": 4524142029,
-    "title": "Lego ninjago 71803 l'attaque du dragon rebelle d'Arin",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/03_0169f_CoAjw1dCUEjPDENqmwTSjaos/f800/1716121013.jpeg?s=066441cceebe42963e720c352e767b624230e566",
-    "itemURL": "https://www.vinted.fr/items/4524142029-lego-ninjago-71803-lattaque-du-dragon-rebelle-darin",
-    "publication": 1716121013
-  },
-  {
-    "legoid": 71803,
-    "id": 5194320097,
-    "title": "Lego Ninjago Dragons Rising 71803 Arin’s Rising Dragon Strike neuf",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/03_00b01_DWe4nar7YhSWPaZF951KSmxc/f800/1728580510.jpeg?s=d085af2b6b0979cfbf0df889cf6c2cd93658282e",
-    "itemURL": "https://www.vinted.fr/items/5194320097-lego-ninjago-dragons-rising-71803-arins-rising-dragon-strike-neuf",
-    "publication": 1728580510
-  },
-  {
-    "legoid": 71803,
-    "id": 5099465848,
-    "title": "Lego 71802 neuf",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/01_00866_9oS4BZmPmPHLcS1Z16CCaD8j/f800/1727176406.jpeg?s=f7556969c6250aac762165d125db10e13176fbaf",
-    "itemURL": "https://www.vinted.fr/items/5099465848-lego-71802-neuf",
-    "publication": 1727176406
+    "publication": 1732363503,
+    "scraping_data": 1732470446
   },
   {
     "legoid": 71803,
@@ -51,7 +26,38 @@
     "price": "4.9",
     "imgURL": "https://images1.vinted.net/t/03_02279_aqQ16wHUMSmBoAfQRGevh3ZB/f800/1712327044.jpeg?s=c87ba9a49d8172ce05f1327ac9e77aba710f00e7",
     "itemURL": "https://www.vinted.fr/items/4320114907-lego-figurine-ninjago-njo851",
-    "publication": 1712327044
+    "publication": 1712327044,
+    "scraping_data": 1732470446
+  },
+  {
+    "legoid": 71803,
+    "id": 4524142029,
+    "title": "Lego ninjago 71803 l'attaque du dragon rebelle d'Arin",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/03_0169f_CoAjw1dCUEjPDENqmwTSjaos/f800/1716121013.jpeg?s=066441cceebe42963e720c352e767b624230e566",
+    "itemURL": "https://www.vinted.fr/items/4524142029-lego-ninjago-71803-lattaque-du-dragon-rebelle-darin",
+    "publication": 1716121013,
+    "scraping_data": 1732470446
+  },
+  {
+    "legoid": 71803,
+    "id": 5194320097,
+    "title": "Lego Ninjago Dragons Rising 71803 Arin’s Rising Dragon Strike neuf",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/03_00b01_DWe4nar7YhSWPaZF951KSmxc/f800/1728580510.jpeg?s=d085af2b6b0979cfbf0df889cf6c2cd93658282e",
+    "itemURL": "https://www.vinted.fr/items/5194320097-lego-ninjago-dragons-rising-71803-arins-rising-dragon-strike-neuf",
+    "publication": 1728580510,
+    "scraping_data": 1732470446
+  },
+  {
+    "legoid": 71803,
+    "id": 5099465848,
+    "title": "Lego 71802 neuf",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/01_00866_9oS4BZmPmPHLcS1Z16CCaD8j/f800/1727176406.jpeg?s=f7556969c6250aac762165d125db10e13176fbaf",
+    "itemURL": "https://www.vinted.fr/items/5099465848-lego-71802-neuf",
+    "publication": 1727176406,
+    "scraping_data": 1732470446
   },
   {
     "legoid": 71803,
@@ -60,7 +66,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/01_01f3e_cZySiHWnrBuJUrjGBZP1joyb/f800/1719776697.jpeg?s=0ec5e1edea052186ac2b1a20d6636dce3beebed9",
     "itemURL": "https://www.vinted.fr/items/4707410033-lego-ninjago-nr-71803-en-2-tijdschriften",
-    "publication": 1719776697
+    "publication": 1719776697,
+    "scraping_data": 1732470446
   },
   {
     "legoid": 71803,
@@ -69,7 +76,8 @@
     "price": "13.3",
     "imgURL": "https://images1.vinted.net/t/01_00bb0_8FryiosKiXe8kGEU7PciRmpo/f800/1723209016.jpeg?s=907379f5dec765e930d90536bbc41a1bd1964e51",
     "itemURL": "https://www.vinted.fr/items/4867303831-lego-sets-7180371802-without-2-ninjagofig-rest-is-new",
-    "publication": 1723209016
+    "publication": 1723209016,
+    "scraping_data": 1732470446
   },
   {
     "legoid": 71803,
@@ -78,6 +86,7 @@
     "price": "42.69",
     "imgURL": "https://images1.vinted.net/t/01_00dcf_Kfiky9ohDHaGzqgCYZVEPF97/f800/1730574109.jpeg?s=8be76088bc8fad7d01131d60cb0ebaf60334557d",
     "itemURL": "https://www.vinted.fr/items/5319011688-misb-lego-ninjago-dragons-rising-bundle",
-    "publication": 1730574109
+    "publication": 1730574109,
+    "scraping_data": 1732470446
   }
 ]

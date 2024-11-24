@@ -6,7 +6,8 @@
     "price": "3.85",
     "imgURL": "https://images1.vinted.net/t/03_019f2_LdJRFgYzJSMTM8Hv9VVkogZZ/f800/1711382896.jpeg?s=5545dc477d08c60a270384527e19217173a46de6",
     "itemURL": "https://www.vinted.fr/items/4272793555-notice-lego-75357-ghost-phantom-ii",
-    "publication": 1711382896
+    "publication": 1711382896,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -15,7 +16,8 @@
     "price": "13.3",
     "imgURL": "https://images1.vinted.net/t/04_01fde_CnqaRPVfz8eNieYsewHwomS9/f800/1730633223.jpeg?s=52fe24aa315fd680ceab079f0cc1e2fe2bba6e5b",
     "itemURL": "https://www.vinted.fr/items/5321571134-kit-led-lego",
-    "publication": 1730633223
+    "publication": 1730633223,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -24,7 +26,8 @@
     "price": "89.95",
     "imgURL": "https://images1.vinted.net/t/03_0147d_WgRrsrHFfoggGY3CqM3K9n1W/f800/1727626413.jpeg?s=7663697990dea621110294ffe518320adf17cc9f",
     "itemURL": "https://www.vinted.fr/items/5130445675-lego-75357-ghost-sans-figurines",
-    "publication": 1727626413
+    "publication": 1727626413,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -33,7 +36,8 @@
     "price": "121.45",
     "imgURL": "https://images1.vinted.net/t/02_01ba6_pgbrtC1SCMTwZUZbnDBiR94j/f800/1725526711.jpeg?s=d011c225409c0af8a55caa1f3298177c3e321cac",
     "itemURL": "https://www.vinted.fr/items/4989682234-lego-75357-et-lego-75383",
-    "publication": 1725526711
+    "publication": 1725526711,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -42,7 +46,8 @@
     "price": "142.45",
     "imgURL": "https://images1.vinted.net/t/02_00fb3_xe9GCZqD6jqXUVYoymQQxtsc/f800/1728814813.jpeg?s=c17e4c77136d6a6cf61e0e9c76bebd757d72f195",
     "itemURL": "https://www.vinted.fr/items/5207853649-lego-star-wars-75357-ghost-and-phantom-ii",
-    "publication": 1728814813
+    "publication": 1728814813,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -51,25 +56,8 @@
     "price": "147.65",
     "imgURL": "https://images1.vinted.net/t/04_0086c_btTcq3b6NaSiMRZ3VYX2gQaG/f800/1731159132.jpeg?s=8c7e9b7aa16400c7ff5dc7e5a446af9c906e5751",
     "itemURL": "https://www.vinted.fr/items/5352603864-lego-75357-ghost-phantom-ii",
-    "publication": 1731159132
-  },
-  {
-    "legoid": 75357,
-    "id": 5070544104,
-    "title": "Lego 75357 Star Wars Ahsoka: Ghost & Phantom II",
-    "price": "105.7",
-    "imgURL": "https://images1.vinted.net/t/03_00c9e_P8U8cRC7EnnGmg3jPZzTFUHV/f800/1726741109.jpeg?s=ecc7b308e8aab6eeb47a005fdd14af117b147ffb",
-    "itemURL": "https://www.vinted.fr/items/5070544104-lego-75357-star-wars-ahsoka-ghost-phantom-ii",
-    "publication": 1726741109
-  },
-  {
-    "legoid": 75357,
-    "id": 5352679651,
-    "title": "Lego Star Wars Ghost & Phantom II (75357)",
-    "price": "147.7",
-    "imgURL": "https://images1.vinted.net/t/03_00d03_svkHx48Gv6PGWnW6hA5nNdTs/f800/1731159713.jpeg?s=dd8a1307ffbf641604d39567e7497b0d1af4755b",
-    "itemURL": "https://www.vinted.fr/items/5352679651-lego-star-wars-ghost-phantom-ii-75357",
-    "publication": 1731159713
+    "publication": 1731159132,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -78,7 +66,28 @@
     "price": "32.2",
     "imgURL": "https://images1.vinted.net/t/01_01c60_6YepmVDvvPYSDbMtiozKXNiX/f800/1713795549.jpeg?s=79b005c653d6c02ad59cf0e3cb0fa898be176196",
     "itemURL": "https://www.vinted.fr/items/4402392064-lego-76911-007-aston-martin-misb-new-perfetto-per-tutti-fan-di-james-bond-sigillato",
-    "publication": 1713795549
+    "publication": 1713795549,
+    "scraping_data": 1732470357
+  },
+  {
+    "legoid": 75357,
+    "id": 5070544104,
+    "title": "Lego 75357 Star Wars Ahsoka: Ghost & Phantom II",
+    "price": "105.7",
+    "imgURL": "https://images1.vinted.net/t/03_00c9e_P8U8cRC7EnnGmg3jPZzTFUHV/f800/1726741109.jpeg?s=ecc7b308e8aab6eeb47a005fdd14af117b147ffb",
+    "itemURL": "https://www.vinted.fr/items/5070544104-lego-75357-star-wars-ahsoka-ghost-phantom-ii",
+    "publication": 1726741109,
+    "scraping_data": 1732470357
+  },
+  {
+    "legoid": 75357,
+    "id": 5352679651,
+    "title": "Lego Star Wars Ghost & Phantom II (75357)",
+    "price": "147.7",
+    "imgURL": "https://images1.vinted.net/t/03_00d03_svkHx48Gv6PGWnW6hA5nNdTs/f800/1731159713.jpeg?s=dd8a1307ffbf641604d39567e7497b0d1af4755b",
+    "itemURL": "https://www.vinted.fr/items/5352679651-lego-star-wars-ghost-phantom-ii-75357",
+    "publication": 1731159713,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -87,7 +96,8 @@
     "price": "105.7",
     "imgURL": "https://images1.vinted.net/t/01_017fd_Z7Cte8RnNcjgGzHAM9jooqtT/f800/1724263532.jpeg?s=06db3e1b4397dc59559efb056bf28b878fe3c268",
     "itemURL": "https://www.vinted.fr/items/4919392589-lego-75357",
-    "publication": 1724263532
+    "publication": 1724263532,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -96,7 +106,8 @@
     "price": "121.45",
     "imgURL": "https://images1.vinted.net/t/01_01403_WX9DHN3D81FvF7fU3Ukr8YSC/f800/1702319914.jpeg?s=0934ebdae44128ca61a6b4971a1b80b306362913",
     "itemURL": "https://www.vinted.fr/items/3872801377-75357-ghost-e-phantom-ii-star-wars",
-    "publication": 1702319914
+    "publication": 1702319914,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -105,7 +116,8 @@
     "price": "152.95",
     "imgURL": "https://images1.vinted.net/t/01_02407_vAsUfmcbM5s4JwpFHXPKgXvm/f800/1721325297.jpeg?s=2944da08c6ca6f8ede352aaf83e8e5f83076ee3e",
     "itemURL": "https://www.vinted.fr/items/4781402417-lego-75357-ghost-en-phantom-ii",
-    "publication": 1721325297
+    "publication": 1721325297,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -114,7 +126,8 @@
     "price": "170.8",
     "imgURL": "https://images1.vinted.net/t/04_02355_nbEsiq3LbsaZbrhXQrzeSrLe/f800/1729721490.jpeg?s=1a6e0d4f33b5efb2d67525a10516cdcf605d0cce",
     "itemURL": "https://www.vinted.fr/items/5268666707-lego-star-wars-the-ghost",
-    "publication": 1729721490
+    "publication": 1729721490,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -123,7 +136,8 @@
     "price": "147.7",
     "imgURL": "https://images1.vinted.net/t/03_01083_apBiScDZ8ipzkcBQtzBEGDxt/f800/1725199032.jpeg?s=babb76113e26b585affd965ee7c22ef9c9955584",
     "itemURL": "https://www.vinted.fr/items/4971445385-lego-star-wars-75357-ghost-phantom-ii",
-    "publication": 1725199032
+    "publication": 1725199032,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -132,7 +146,8 @@
     "price": "165.55",
     "imgURL": "https://images1.vinted.net/t/02_00bd0_dNHNdiW2qFto58knHFZMbvKm/f800/1729002229.jpeg?s=2816aeaa5c4cdb0f49e15ccdb2f4bbbfaba6c00c",
     "itemURL": "https://www.vinted.fr/items/5222388325-lego-star-wars-ghost-et-phantom-ii",
-    "publication": 1729002229
+    "publication": 1729002229,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -141,7 +156,8 @@
     "price": "152.95",
     "imgURL": "https://images1.vinted.net/t/01_0153c_WfUYRf2FQTzfpYjrgxhUerA9/f800/1724524256.jpeg?s=6d655e12f7f6cb994b4d6cf1a6e74a8fabdb7010",
     "itemURL": "https://www.vinted.fr/items/4933263703-lego-star-wars-75357-ghost-et-fantome-2",
-    "publication": 1724524256
+    "publication": 1724524256,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -150,16 +166,8 @@
     "price": "152.95",
     "imgURL": "https://images1.vinted.net/t/03_01849_P3xGon5BbLPgKonksFArAvAD/f800/1715197985.jpeg?s=5cea9c7a667ac79b63be35f0d2eb5250856e8311",
     "itemURL": "https://www.vinted.fr/items/4474222763-espiritu-y-fantasma",
-    "publication": 1715197985
-  },
-  {
-    "legoid": 75357,
-    "id": 5035532308,
-    "title": "Lego star wars 75357",
-    "price": "163.45",
-    "imgURL": "https://images1.vinted.net/t/01_0220a_ozp62Jirk9wgn98EXJfsgigr/f800/1726230186.jpeg?s=9976aed09d8a66c92a346d65077fc43487ce43b3",
-    "itemURL": "https://www.vinted.fr/items/5035532308-lego-star-wars-75357",
-    "publication": 1726230186
+    "publication": 1715197985,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -168,7 +176,8 @@
     "price": "148.75",
     "imgURL": "https://images1.vinted.net/t/01_014e0_JmPaSrFsETTbFx9tFrmY7ATg/f800/1719054508.jpeg?s=118fb4fa58bf1479cba4d49bd90e01995c488793",
     "itemURL": "https://www.vinted.fr/items/4672892787-lego-75357-star-wars-ghost",
-    "publication": 1719054508
+    "publication": 1719054508,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -177,7 +186,18 @@
     "price": "179.2",
     "imgURL": "https://images1.vinted.net/t/01_0077a_Atph9gLDXGp2YPH8uwtRGMXM/f800/1729629092.jpeg?s=635390b0f177f077823e64e9636fab1208128589",
     "itemURL": "https://www.vinted.fr/items/5263296762-gohst-phantom-ii-lego-star-wars-75357",
-    "publication": 1729629092
+    "publication": 1729629092,
+    "scraping_data": 1732470357
+  },
+  {
+    "legoid": 75357,
+    "id": 5035532308,
+    "title": "Lego star wars 75357",
+    "price": "163.45",
+    "imgURL": "https://images1.vinted.net/t/01_0220a_ozp62Jirk9wgn98EXJfsgigr/f800/1726230186.jpeg?s=9976aed09d8a66c92a346d65077fc43487ce43b3",
+    "itemURL": "https://www.vinted.fr/items/5035532308-lego-star-wars-75357",
+    "publication": 1726230186,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -186,7 +206,8 @@
     "price": "152.95",
     "imgURL": "https://images1.vinted.net/t/02_0161b_GBWfSu9V788KyiCY4daYCJsh/f800/1722336573.jpeg?s=93960e6ede96cc66ffda3d0490e17171753247fb",
     "itemURL": "https://www.vinted.fr/items/4826249999-lego-75357-star-wars-ghost-e-phantom-nuovo",
-    "publication": 1722336573
+    "publication": 1722336573,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -195,7 +216,8 @@
     "price": "158.2",
     "imgURL": "https://images1.vinted.net/t/03_00675_J8RUsNMZ9WQhxPRAc6MsFHGJ/f800/1717146409.jpeg?s=92eaddfe8b76399367028c0aa7fa85dea41480fe",
     "itemURL": "https://www.vinted.fr/items/4500784646-nuevo-lego-ghost-and-phantom-ii-75357",
-    "publication": 1717146409
+    "publication": 1717146409,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -204,7 +226,8 @@
     "price": "173.95",
     "imgURL": "https://images1.vinted.net/t/01_0039f_smKvaL2GR33wZ5UbjnrdDPNM/f800/1715630587.jpeg?s=d581d2b235141058f2434bced5447a6058f332e6",
     "itemURL": "https://www.vinted.fr/items/4500116704-lego-75357-ghost-and-phantom-ii",
-    "publication": 1715630587
+    "publication": 1715630587,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -213,7 +236,8 @@
     "price": "205.45",
     "imgURL": "https://images1.vinted.net/t/03_00015_BdmBg9riyRzLdEmShB9GdR75/f800/1721405601.jpeg?s=8b2ecdc2301ff8bd5b53f558b184e6781c49d621",
     "itemURL": "https://www.vinted.fr/items/4784306085-lego-75357-ghost-and-phantom-2-star-war",
-    "publication": 1721405601
+    "publication": 1721405601,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -222,7 +246,8 @@
     "price": "168.7",
     "imgURL": "https://images1.vinted.net/t/03_00488_78xsqEabQdvjckay7hAoFZnw/f800/1723732432.jpeg?s=f84f30527ff9169afdaae0327be47bc69329eb12",
     "itemURL": "https://www.vinted.fr/items/4890804736-lego-star-wars-75357-ghost-phantom-ii-selado-e-em-excelente-estado",
-    "publication": 1723732432
+    "publication": 1723732432,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -231,7 +256,8 @@
     "price": "158.2",
     "imgURL": "https://images1.vinted.net/t/01_02466_rYEMm7d2Sewv3jiC56ZGNUjd/f800/1717143288.jpeg?s=88cff814c9f621792068f9b0c177cfb11540bcb7",
     "itemURL": "https://www.vinted.fr/items/4578270540-lego-75357-ghost-et-phantom-ii",
-    "publication": 1717143288
+    "publication": 1717143288,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -240,7 +266,8 @@
     "price": "147.7",
     "imgURL": "https://images1.vinted.net/t/03_0181d_7BFwMUiaEMPTaQmn68QMVzH8/f800/1716232041.jpeg?s=5995fe114f634f00151932310b7c5f393742b3f7",
     "itemURL": "https://www.vinted.fr/items/4532598181-lego-75357-ghost-phantom-ii-star-wars",
-    "publication": 1716232041
+    "publication": 1716232041,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -249,7 +276,8 @@
     "price": "157.15",
     "imgURL": "https://images1.vinted.net/t/03_01477_QCqBaKGQwGqcdHSyd2as8iSN/f800/1720383762.jpeg?s=686a65e68823ae80c3951adf4b321c630c69f7b2",
     "itemURL": "https://www.vinted.fr/items/4737347951-lego-star-wars-75357",
-    "publication": 1720383762
+    "publication": 1720383762,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -258,7 +286,8 @@
     "price": "155.05",
     "imgURL": "https://images1.vinted.net/t/03_00564_2PNaVsWwHAdH76nvkSems8Uu/f800/1716647708.jpeg?s=5ad25b5dcdace2240f7d3508d8fc4489a7b2785d",
     "itemURL": "https://www.vinted.fr/items/4552586900-lego-75357-star-wars-ghost-phantom-ii-nuovo-sigillato-in-brownbox",
-    "publication": 1716647708
+    "publication": 1716647708,
+    "scraping_data": 1732470357
   },
   {
     "legoid": 75357,
@@ -267,6 +296,7 @@
     "price": "158.19",
     "imgURL": "https://images1.vinted.net/t/03_022b3_okLKPME56APZDEbDQwTrbKsn/f800/1714910692.jpeg?s=30e678a8d5046affbb858ddd50d6b621e29150ae",
     "itemURL": "https://www.vinted.fr/items/4460281801-lego-star-wars-ghost-and-phantom-ii-75357",
-    "publication": 1714910692
+    "publication": 1714910692,
+    "scraping_data": 1732470357
   }
 ]

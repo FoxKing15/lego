@@ -6,7 +6,8 @@
     "price": "31.15",
     "imgURL": "https://images1.vinted.net/t/04_01150_1BRqjHYgput3pHW2SKzn6xHu/f800/1732261221.jpeg?s=848367cd693708270a97d1066d79d9aa0c3ba692",
     "itemURL": "https://www.vinted.fr/items/5422202905-lego-creative-sonic-the-hedgehog-21331",
-    "publication": 1732261221
+    "publication": 1732261221,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -15,7 +16,8 @@
     "price": "5.69",
     "imgURL": "https://images1.vinted.net/t/01_00aad_GTLyeGuBSypK3L3zE6MqrH2z/f800/1722627769.jpeg?s=b8d915efdbcee3bc3b124cb576a4503b6a22a577",
     "itemURL": "https://www.vinted.fr/items/4839614070-caja-lego-sonic-the-hedgehog",
-    "publication": 1722627769
+    "publication": 1722627769,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -24,7 +26,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/04_01751_Bc5iWfMrE6SQ4YztLQfdBLqV/f800/1732214170.jpeg?s=37d9429d798cd17d7d5b382c394fab37aa933453",
     "itemURL": "https://www.vinted.fr/items/5420833087-lego-21331-sonic-neuf",
-    "publication": 1732214170
+    "publication": 1732214170,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -33,7 +36,8 @@
     "price": "32.2",
     "imgURL": "https://images1.vinted.net/t/02_0062f_qxKfZHvoc9T2sxU3puPq5Lrf/f800/1714050706.jpeg?s=4dac03b72997b97225497e3aef44ed8bbd473359",
     "itemURL": "https://www.vinted.fr/items/4415475655-lego-sonic-21331",
-    "publication": 1714050706
+    "publication": 1714050706,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -42,7 +46,8 @@
     "price": "41.65",
     "imgURL": "https://images1.vinted.net/t/02_01058_HJ8SAnynQ8LgLMkyAnkz5Y1W/f800/1731577655.jpeg?s=2c7b68e5199f372a540f9dbe4360d08c4623fad9",
     "itemURL": "https://www.vinted.fr/items/5380247965-lego-21331",
-    "publication": 1731577655
+    "publication": 1731577655,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -51,16 +56,8 @@
     "price": "32.2",
     "imgURL": "https://images1.vinted.net/t/02_00d44_5cuY79eM7ixg4ov6PhZpTzpP/f800/1726993926.jpeg?s=b503f4244af64467c62f7425f12ec7c20f1b3033",
     "itemURL": "https://www.vinted.fr/items/5085150791-lego-sonic-21331-ideas-complete-no-box-no-instructions",
-    "publication": 1726993926
-  },
-  {
-    "legoid": 21331,
-    "id": 5413193838,
-    "title": "Lego sonic 21331",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/04_01c19_sJKeUXYSccM8aXq8oTK2gsPs/f800/1732098981.jpeg?s=d98a870d854b33b0db0f71909bc1ad255803f09e",
-    "itemURL": "https://www.vinted.fr/items/5413193838-lego-sonic-21331",
-    "publication": 1732098981
+    "publication": 1726993926,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -69,7 +66,18 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/04_00b99_pFpARRCbtF8oGAMFXbBM5Kqu/f800/r3/1732459089.jpeg?s=9e0a65ed4e271c825b8bab8a94f31ec5509181a4",
     "itemURL": "https://www.vinted.fr/items/5435193624-lego-sonic-21331-the-hedgedog",
-    "publication": 1732459089
+    "publication": 1732459089,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 5413193838,
+    "title": "Lego sonic 21331",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/04_01c19_sJKeUXYSccM8aXq8oTK2gsPs/f800/1732098981.jpeg?s=d98a870d854b33b0db0f71909bc1ad255803f09e",
+    "itemURL": "https://www.vinted.fr/items/5413193838-lego-sonic-21331",
+    "publication": 1732098981,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -78,7 +86,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/02_00f47_KvzQxzVsD4BmCgjdda5GpLTz/f800/1723563742.jpeg?s=cade6e74d47033139e3f398188799d558eeffc83",
     "itemURL": "https://www.vinted.fr/items/4883140923-lego-21331-sonic-the-hedgehog-green-hill-zone",
-    "publication": 1723563742
+    "publication": 1723563742,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -87,52 +96,18 @@
     "price": "42.7",
     "imgURL": "https://images1.vinted.net/t/02_01ba5_8kxRHaiVR67KP3gg3mgGnweH/f800/1721737887.jpeg?s=bd8a0cc2ce9c52e3eb996da9cd437ed6d0babe10",
     "itemURL": "https://www.vinted.fr/items/4799286509-lego-sonic-21331",
-    "publication": 1721737887
+    "publication": 1721737887,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
-    "id": 4505064995,
-    "title": "Lego 21331 Sonic the Hedgehog neuf",
-    "price": "51.09",
-    "imgURL": "https://images1.vinted.net/t/03_01bd8_r3cSVXDZVuSf2BFmNJiZMGwd/f800/1715748000.jpeg?s=3953310a5d276cc02f28e6c5070e46e6e30f3c89",
-    "itemURL": "https://www.vinted.fr/items/4505064995-lego-21331-sonic-the-hedgehog-neuf",
-    "publication": 1715748000
-  },
-  {
-    "legoid": 21331,
-    "id": 5178016362,
-    "title": "Lego Ideas 21331 Sonic The Hedgehog",
-    "price": "34.3",
-    "imgURL": "https://images1.vinted.net/t/02_02545_RWodJnVoBRdyLakNH8FoeCjM/f800/1728321203.jpeg?s=c6bbf9b978c7fe02b0f25e1839447ffb32b5f4be",
-    "itemURL": "https://www.vinted.fr/items/5178016362-lego-ideas-21331-sonic-the-hedgehog",
-    "publication": 1728321203
-  },
-  {
-    "legoid": 21331,
-    "id": 5432703672,
-    "title": "21331 LEGO Ideas Sonic the Hedgehog - Green Hill Zone",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_02472_BUc8iMTqUJWFX3gfiGvqZoD1/f800/1732443356.jpeg?s=11073b6b9b516d62961e994e2fbd7d0ac69834e6",
-    "itemURL": "https://www.vinted.fr/items/5432703672-21331-lego-ideas-sonic-the-hedgehog-green-hill-zone",
-    "publication": 1732443356
-  },
-  {
-    "legoid": 21331,
-    "id": 5309458501,
-    "title": "Lego ideas Sonic",
-    "price": "44.8",
-    "imgURL": "https://images1.vinted.net/t/04_0221c_jhgdc7of7oWCrRHZkrorZ92V/f800/1730438222.jpeg?s=5ee256b2d8a3d2c7ca4cbebea571fc88f88ff71c",
-    "itemURL": "https://www.vinted.fr/items/5309458501-lego-ideas-sonic",
-    "publication": 1730438222
-  },
-  {
-    "legoid": 21331,
-    "id": 3866182443,
-    "title": "Lego 21331 Sonic",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/01_016e1_VADTFgqE7ogQsAY4VY7YWfvh/f800/1702208374.jpeg?s=e8b007c96b5544344550c8079883f17d3ac499ed",
-    "itemURL": "https://www.vinted.fr/items/3866182443-lego-21331-sonic",
-    "publication": 1702208374
+    "id": 5435993567,
+    "title": "Lego sonic 21331",
+    "price": "74.2",
+    "imgURL": "https://images1.vinted.net/t/01_00ca1_Wjbd9bm8rWUFgpPhfpSg5E2W/f800/1732463744.jpeg?s=4d91dad6dac0123675870092bdfcd2ab5804371d",
+    "itemURL": "https://www.vinted.fr/items/5435993567-lego-sonic-21331",
+    "publication": 1732463744,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -141,7 +116,58 @@
     "price": "42.7",
     "imgURL": "https://images1.vinted.net/t/01_01421_NbD4GRuJYVsoo2d812W2ZSgS/f800/1732384798.jpeg?s=85b522d7366884127c183be037b94a9bc31e50de",
     "itemURL": "https://www.vinted.fr/items/5430509053-lego-21331-sonic",
-    "publication": 1732384798
+    "publication": 1732384798,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 4505064995,
+    "title": "Lego 21331 Sonic the Hedgehog neuf",
+    "price": "51.09",
+    "imgURL": "https://images1.vinted.net/t/03_01bd8_r3cSVXDZVuSf2BFmNJiZMGwd/f800/1715748000.jpeg?s=3953310a5d276cc02f28e6c5070e46e6e30f3c89",
+    "itemURL": "https://www.vinted.fr/items/4505064995-lego-21331-sonic-the-hedgehog-neuf",
+    "publication": 1715748000,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 5178016362,
+    "title": "Lego Ideas 21331 Sonic The Hedgehog",
+    "price": "34.3",
+    "imgURL": "https://images1.vinted.net/t/02_02545_RWodJnVoBRdyLakNH8FoeCjM/f800/1728321203.jpeg?s=c6bbf9b978c7fe02b0f25e1839447ffb32b5f4be",
+    "itemURL": "https://www.vinted.fr/items/5178016362-lego-ideas-21331-sonic-the-hedgehog",
+    "publication": 1728321203,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 5432703672,
+    "title": "21331 LEGO Ideas Sonic the Hedgehog - Green Hill Zone",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/04_02472_BUc8iMTqUJWFX3gfiGvqZoD1/f800/1732443356.jpeg?s=11073b6b9b516d62961e994e2fbd7d0ac69834e6",
+    "itemURL": "https://www.vinted.fr/items/5432703672-21331-lego-ideas-sonic-the-hedgehog-green-hill-zone",
+    "publication": 1732443356,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 5309458501,
+    "title": "Lego ideas Sonic",
+    "price": "44.8",
+    "imgURL": "https://images1.vinted.net/t/04_0221c_jhgdc7of7oWCrRHZkrorZ92V/f800/1730438222.jpeg?s=5ee256b2d8a3d2c7ca4cbebea571fc88f88ff71c",
+    "itemURL": "https://www.vinted.fr/items/5309458501-lego-ideas-sonic",
+    "publication": 1730438222,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 3866182443,
+    "title": "Lego 21331 Sonic",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/01_016e1_VADTFgqE7ogQsAY4VY7YWfvh/f800/1702208374.jpeg?s=e8b007c96b5544344550c8079883f17d3ac499ed",
+    "itemURL": "https://www.vinted.fr/items/3866182443-lego-21331-sonic",
+    "publication": 1702208374,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -150,7 +176,8 @@
     "price": "45.33",
     "imgURL": "https://images1.vinted.net/t/04_00a20_EAgJJqZ24oTKNhDgAvNPaXKW/f800/1729677523.jpeg?s=58aa4ae080b998860ef5de83a4bc03ede84a4b75",
     "itemURL": "https://www.vinted.fr/items/5264675989-sonic-the-hedgehog-lego-21331",
-    "publication": 1729677523
+    "publication": 1729677523,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -159,7 +186,8 @@
     "price": "21.69",
     "imgURL": "https://images1.vinted.net/t/02_01022_wFgSy6VJp7ve2xhVJxRrnGDq/f800/1670588871.jpeg?s=02398a4b51c334d6dd7058ccd9b9f8d677c4624c",
     "itemURL": "https://www.vinted.fr/items/2496668346-le-camping-car-lego-city-60283",
-    "publication": 1670588871
+    "publication": 1670588871,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -168,7 +196,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/01_022f0_4ooEdTvdbbrbpk7oLKYCyWUu/f800/1730539573.jpeg?s=237d4393800612120631049961d34e09a55372ef",
     "itemURL": "https://www.vinted.fr/items/5315013515-lego-21331-sonic",
-    "publication": 1730539573
+    "publication": 1730539573,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -177,7 +206,8 @@
     "price": "42.7",
     "imgURL": "https://images1.vinted.net/t/02_00a22_3eUY1dvZC48iMNx6JkcZFkCV/f800/1727627637.jpeg?s=ff1c2612f53bb2ffc2aee8929292dad9234c9495",
     "itemURL": "https://www.vinted.fr/items/5130680102-lego-21331-sonic-green-hill-zone",
-    "publication": 1727627637
+    "publication": 1727627637,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -186,7 +216,8 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/03_01727_XNCv1AZivHezF5gqa3uBeCxX/f800/1720689651.jpeg?s=02e0dd4823c80c4de6d6597855be4309c5749f3a",
     "itemURL": "https://www.vinted.fr/items/4750969240-lego-ideas-21331-sonic-the-hedgehog",
-    "publication": 1720689651
+    "publication": 1720689651,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -195,16 +226,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/01_00ed3_iEGD5cgwTSZFEvduJyzJxt1C/f800/1731856085.jpeg?s=3b20847f08382a216348e66b4c06009fa8c2fbaa",
     "itemURL": "https://www.vinted.fr/items/5398452828-lego-sonic-21331-green-hill-zone-neuf",
-    "publication": 1731856085
-  },
-  {
-    "legoid": 21331,
-    "id": 5247100372,
-    "title": "Lego Sonic 21331 neu & ovp",
-    "price": "53.19",
-    "imgURL": "https://images1.vinted.net/t/03_018d4_KWkUiejUfCW6uMBVm6s6RBSs/f800/1729420227.jpeg?s=5d1e8a8686c80359b96bd3c9c025ac49487cfc60",
-    "itemURL": "https://www.vinted.fr/items/5247100372-lego-sonic-21331-neu-ovp",
-    "publication": 1729420227
+    "publication": 1731856085,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -213,7 +236,18 @@
     "price": "37.45",
     "imgURL": "https://images1.vinted.net/t/04_00baa_eZaVsxehfcNwb2wc3SRW9Dmr/f800/1730635222.jpeg?s=1cfe2b027e279ebdc3757e93ed947199a9bee479",
     "itemURL": "https://www.vinted.fr/items/5321880281-lego-sonic",
-    "publication": 1730635222
+    "publication": 1730635222,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 5247100372,
+    "title": "Lego Sonic 21331 neu & ovp",
+    "price": "53.19",
+    "imgURL": "https://images1.vinted.net/t/03_018d4_KWkUiejUfCW6uMBVm6s6RBSs/f800/1729420227.jpeg?s=5d1e8a8686c80359b96bd3c9c025ac49487cfc60",
+    "itemURL": "https://www.vinted.fr/items/5247100372-lego-sonic-21331-neu-ovp",
+    "publication": 1729420227,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -222,7 +256,8 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/02_01fa8_XaJdy16P8asBr8q9dZWZRaEe/f800/1699982169.jpeg?s=ae109585f675e03226485904d6045669b9dc681e",
     "itemURL": "https://www.vinted.fr/items/3760114331-lego-21331",
-    "publication": 1699982169
+    "publication": 1699982169,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -231,7 +266,8 @@
     "price": "50.05",
     "imgURL": "https://images1.vinted.net/t/02_024b8_7svmYB4BWNTQeqL8xTNuM3R4/f800/1709309198.jpeg?s=b0a75da0eaf0a99ded8f234efc359fd37ca36475",
     "itemURL": "https://www.vinted.fr/items/4167678166-lego-ideas-sonic-21331",
-    "publication": 1709309198
+    "publication": 1709309198,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -240,43 +276,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/03_0109b_w9SRvaGPSh6rN4tEvoUZbdXe/f800/1723468866.jpeg?s=5f8ff8358b37f977128ecf5375e1070833195a0c",
     "itemURL": "https://www.vinted.fr/items/4878427150-lego-21331-sonic-the-hedgehog-green-hill-zone-new",
-    "publication": 1723468866
-  },
-  {
-    "legoid": 21331,
-    "id": 4265854864,
-    "title": "LEGO 21331 SONIC The Hedgehod Neuf et Scellé",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/03_00a87_MvwMK6KXimGqYsNe5TKTH6Nn/f800/1711283302.jpeg?s=ae256ae4d331cea7c22635a84a5d6c39a1efc386",
-    "itemURL": "https://www.vinted.fr/items/4265854864-lego-21331-sonic-the-hedgehod-neuf-et-scelle",
-    "publication": 1711283302
-  },
-  {
-    "legoid": 21331,
-    "id": 4730543791,
-    "title": "Lego ideas 21331",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/03_01174_SusGhWp6UFdo1kfBgtGs7jhh/f800/1720274489.jpeg?s=264b40426e29f11a956664f9682c509a2c3d1309",
-    "itemURL": "https://www.vinted.fr/items/4730543791-lego-ideas-21331",
-    "publication": 1720274489
-  },
-  {
-    "legoid": 21331,
-    "id": 5272055028,
-    "title": "NIEUW! Lego Sonic 21331",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_00e75_L64RaL85TKFPX26UbxfbGinf/f800/1729787129.jpeg?s=fa96647082fac7f747c9fbf1341702e5d8e08686",
-    "itemURL": "https://www.vinted.fr/items/5272055028-nieuw-lego-sonic-21331",
-    "publication": 1729787129
-  },
-  {
-    "legoid": 21331,
-    "id": 4635310302,
-    "title": "Lego 21331 Sonic",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/01_01542_kmsdM9y55MWW8jHvMAtNquki/f800/1718225390.jpeg?s=2fd4f2c21c1d9ca9aa650f8b581eaf00978b2a29",
-    "itemURL": "https://www.vinted.fr/items/4635310302-lego-21331-sonic",
-    "publication": 1718225390
+    "publication": 1723468866,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -285,7 +286,48 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/04_00df1_jQiKrerp61bBU52V3LNfjF1Z/f800/1730875956.jpeg?s=256d004c1be2c81a496b03dd02fba5c8df014012",
     "itemURL": "https://www.vinted.fr/items/5336861339-lego-ideas-21331-sonic-the-hedgehog",
-    "publication": 1730875956
+    "publication": 1730875956,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 4730543791,
+    "title": "Lego ideas 21331",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/03_01174_SusGhWp6UFdo1kfBgtGs7jhh/f800/1720274489.jpeg?s=264b40426e29f11a956664f9682c509a2c3d1309",
+    "itemURL": "https://www.vinted.fr/items/4730543791-lego-ideas-21331",
+    "publication": 1720274489,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 4265854864,
+    "title": "LEGO 21331 SONIC The Hedgehod Neuf et Scellé",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/03_00a87_MvwMK6KXimGqYsNe5TKTH6Nn/f800/1711283302.jpeg?s=ae256ae4d331cea7c22635a84a5d6c39a1efc386",
+    "itemURL": "https://www.vinted.fr/items/4265854864-lego-21331-sonic-the-hedgehod-neuf-et-scelle",
+    "publication": 1711283302,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 5272055028,
+    "title": "NIEUW! Lego Sonic 21331",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/04_00e75_L64RaL85TKFPX26UbxfbGinf/f800/1729787129.jpeg?s=fa96647082fac7f747c9fbf1341702e5d8e08686",
+    "itemURL": "https://www.vinted.fr/items/5272055028-nieuw-lego-sonic-21331",
+    "publication": 1729787129,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 4635310302,
+    "title": "Lego 21331 Sonic",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/01_01542_kmsdM9y55MWW8jHvMAtNquki/f800/1718225390.jpeg?s=2fd4f2c21c1d9ca9aa650f8b581eaf00978b2a29",
+    "itemURL": "https://www.vinted.fr/items/4635310302-lego-21331-sonic",
+    "publication": 1718225390,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -294,7 +336,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/01_0227d_TVhw4Loi8R2MbvrcPGD9HR1V/f800/1702396238.jpeg?s=74dcd24364e2ad4bfa063b652fa1aa8212b3eea0",
     "itemURL": "https://www.vinted.fr/items/3875764956-lego-sonic-ideas-21331-nuovo",
-    "publication": 1702396238
+    "publication": 1702396238,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -303,7 +346,8 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/02_01a51_eqPERsSHW8QYhNNAQXZKWNCm/f800/1729443360.jpeg?s=40a74c454e8f1d15e8bf550ffce9561f091157c0",
     "itemURL": "https://www.vinted.fr/items/5251117122-lego-sonic-21331-new-in-box",
-    "publication": 1729443360
+    "publication": 1729443360,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -312,7 +356,8 @@
     "price": "61.59",
     "imgURL": "https://images1.vinted.net/t/03_023a3_4K2bwzzsZkiGxHnPdbvMCk4i/f800/1712587618.jpeg?s=1fb27aedf01c6aadc168715da0d51260b41e89f9",
     "itemURL": "https://www.vinted.fr/items/4335359579-lego-sonic-the-hedgehog-21331",
-    "publication": 1712587618
+    "publication": 1712587618,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -321,7 +366,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/01_01d4d_zfx8gzwm1n6vBPJ5nBFGx9nJ/f800/1731535428.jpeg?s=a3a86b9ac4d0601cdde62dec105be3afdd7ad870",
     "itemURL": "https://www.vinted.fr/items/5379382662-lego-21331-sonic",
-    "publication": 1731535428
+    "publication": 1731535428,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -330,7 +376,8 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/03_00650_NFWqaLcuTGLDi32ttsVnCFov/f800/1718550702.jpeg?s=d7c3f3bf5da9fb1f096a72415cd5c2809c179420",
     "itemURL": "https://www.vinted.fr/items/4650269042-lego-ideas-21331-sonic-the-hedgehog-green-hill-zone",
-    "publication": 1718550702
+    "publication": 1718550702,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -339,16 +386,8 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/03_01e3b_X3g857AgXBScjPwqPw7Bwem2/f800/1727711334.jpeg?s=6809a3f506dc0db8cbd9897286cd51a33a572dba",
     "itemURL": "https://www.vinted.fr/items/5136407785-lego-ideas-sonic-21331-nuovo",
-    "publication": 1727711334
-  },
-  {
-    "legoid": 21331,
-    "id": 4801494007,
-    "title": "Set Lego sonic",
-    "price": "56.35",
-    "imgURL": "https://images1.vinted.net/t/02_01155_8GRJwk9AZyJtEpSVnym6S7Sq/f800/1721764725.jpeg?s=9c7b9dc4126d5d44348809df74f3947c90f1a163",
-    "itemURL": "https://www.vinted.fr/items/4801494007-set-lego-sonic",
-    "publication": 1721764725
+    "publication": 1727711334,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -357,16 +396,18 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/01_025c9_YcF6CCjR8iNpBV86fB4xWBFQ/f800/1693655599.jpeg?s=a3421549867c7f62db0cbac1287c10f6c2272a12",
     "itemURL": "https://www.vinted.fr/items/3424600514-lego-sonic-the-hedgehog-green-hill-zone-21331",
-    "publication": 1693655599
+    "publication": 1693655599,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
-    "id": 3860350645,
-    "title": "Lego Ideas 21331 Sonic the Hedgehog",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/01_00b13_pbdmgHLKAMxY98kV9Vrc3WTH/f800/1702063284.jpeg?s=4c7a8e2345521705eaffe721d73a711da4202e97",
-    "itemURL": "https://www.vinted.fr/items/3860350645-lego-ideas-21331-sonic-the-hedgehog",
-    "publication": 1702063284
+    "id": 4801494007,
+    "title": "Set Lego sonic",
+    "price": "56.35",
+    "imgURL": "https://images1.vinted.net/t/02_01155_8GRJwk9AZyJtEpSVnym6S7Sq/f800/1721764725.jpeg?s=9c7b9dc4126d5d44348809df74f3947c90f1a163",
+    "itemURL": "https://www.vinted.fr/items/4801494007-set-lego-sonic",
+    "publication": 1721764725,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -375,7 +416,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/04_0197f_SzFYqKM4fB734dQVBcWAhKjL/f800/1730981716.jpeg?s=ba64610e5d3c04c81af176f7cda00bf6e6a1ccbc",
     "itemURL": "https://www.vinted.fr/items/5342850110-lego-spnic-the-hedgehog",
-    "publication": 1730981716
+    "publication": 1730981716,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -384,7 +426,18 @@
     "price": "68.95",
     "imgURL": "https://images1.vinted.net/t/01_0218b_tLCUYjSLdLf7cF9yJyjSbcFu/f800/1728934089.jpeg?s=de6304477ebe8aed0a6636c22df0560ab66b0fa8",
     "itemURL": "https://www.vinted.fr/items/5218949760-lego-sonic-21331",
-    "publication": 1728934089
+    "publication": 1728934089,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 3860350645,
+    "title": "Lego Ideas 21331 Sonic the Hedgehog",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/01_00b13_pbdmgHLKAMxY98kV9Vrc3WTH/f800/1702063284.jpeg?s=4c7a8e2345521705eaffe721d73a711da4202e97",
+    "itemURL": "https://www.vinted.fr/items/3860350645-lego-ideas-21331-sonic-the-hedgehog",
+    "publication": 1702063284,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -393,25 +446,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/03_020e9_iWRLWFVTkWeeWEQeNH8mamfj/f800/1700393224.jpeg?s=b7cd0483ce85a3498119a970c08f6a9878d928e1",
     "itemURL": "https://www.vinted.fr/items/3779713505-lego-sonic-21331-comme-neuf",
-    "publication": 1700393224
-  },
-  {
-    "legoid": 21331,
-    "id": 4535057491,
-    "title": "Lego ideas sonic the hedgehog",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/03_026a3_8gsD9UoTosL6vZDC25Ei81w4/f800/1716295623.jpeg?s=d50e0e873856ddda640e61846fc2261910547dc2",
-    "itemURL": "https://www.vinted.fr/items/4535057491-lego-ideas-sonic-the-hedgehog",
-    "publication": 1716295623
-  },
-  {
-    "legoid": 21331,
-    "id": 4435419664,
-    "title": "LEGO Ideas 21331 Sonic The Hedgehog Green Hill Zone SEALED",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/02_0126d_zhZHf8JrMfvvPzEJffQhqPAc/f800/1714413123.jpeg?s=c7cbcd0a30e6c3d9aeb7850e50be4128451d9573",
-    "itemURL": "https://www.vinted.fr/items/4435419664-lego-ideas-21331-sonic-the-hedgehog-green-hill-zone-sealed",
-    "publication": 1714413123
+    "publication": 1700393224,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -420,7 +456,18 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/01_003de_tC8vKvg3yew8YbxVEAEWCYj1/f800/1701375220.jpeg?s=3d22a4b0db4205e5b756bdf861f07290da13a724",
     "itemURL": "https://www.vinted.fr/items/3830454377-lego-sonic-21331",
-    "publication": 1701375220
+    "publication": 1701375220,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 4435419664,
+    "title": "LEGO Ideas 21331 Sonic The Hedgehog Green Hill Zone SEALED",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/02_0126d_zhZHf8JrMfvvPzEJffQhqPAc/f800/1714413123.jpeg?s=c7cbcd0a30e6c3d9aeb7850e50be4128451d9573",
+    "itemURL": "https://www.vinted.fr/items/4435419664-lego-ideas-21331-sonic-the-hedgehog-green-hill-zone-sealed",
+    "publication": 1714413123,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -429,7 +476,18 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/01_014c0_D8vkMPs3E4YvWDyQvzGUA2dz/f800/1708853077.jpeg?s=aa2b413155a63cf3be94feae11ac70c9b1912ff2",
     "itemURL": "https://www.vinted.fr/items/4143916248-lego-ideas-21331-sonic-the-hedgehog",
-    "publication": 1708853077
+    "publication": 1708853077,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 4535057491,
+    "title": "Lego ideas sonic the hedgehog",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/03_026a3_8gsD9UoTosL6vZDC25Ei81w4/f800/1716295623.jpeg?s=d50e0e873856ddda640e61846fc2261910547dc2",
+    "itemURL": "https://www.vinted.fr/items/4535057491-lego-ideas-sonic-the-hedgehog",
+    "publication": 1716295623,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -438,16 +496,8 @@
     "price": "75.25",
     "imgURL": "https://images1.vinted.net/t/04_00b31_LZwywGbdVp9CmiJfs1P5pH5r/f800/1731337936.jpeg?s=e0d5027a916d254e987412eb2e250ae98869cf68",
     "itemURL": "https://www.vinted.fr/items/5366455836-lego-sonic-21331-novoselado",
-    "publication": 1731337936
-  },
-  {
-    "legoid": 21331,
-    "id": 5407574805,
-    "title": "Lego 21331 sonic nuovo mai aperto",
-    "price": "55.3",
-    "imgURL": "https://images1.vinted.net/t/04_015ed_Wxzu5kFar1wht5CYqjwswnQv/f800/1732004677.jpeg?s=cd73e0836af0761b8d951b0f391415dc2f7bdffe",
-    "itemURL": "https://www.vinted.fr/items/5407574805-lego-21331-sonic-nuovo-mai-aperto",
-    "publication": 1732004677
+    "publication": 1731337936,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -456,7 +506,18 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/01_00313_Mo2McfV2EMVcRZLiCaKQiAja/f800/1675624050.jpeg?s=b572aaed03b70650658f17b740318a05f72d0874",
     "itemURL": "https://www.vinted.fr/items/2663389422-lego-sonic-21331",
-    "publication": 1675624050
+    "publication": 1675624050,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 5407574805,
+    "title": "Lego 21331 sonic nuovo mai aperto",
+    "price": "55.3",
+    "imgURL": "https://images1.vinted.net/t/04_015ed_Wxzu5kFar1wht5CYqjwswnQv/f800/1732004677.jpeg?s=cd73e0836af0761b8d951b0f391415dc2f7bdffe",
+    "itemURL": "https://www.vinted.fr/items/5407574805-lego-21331-sonic-nuovo-mai-aperto",
+    "publication": 1732004677,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -465,7 +526,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/03_00a7d_3jgHH5r3KCgUm6iV6JsakgKY/f800/1718010133.jpeg?s=77a5fe95b0fdcd136a76a5ed23108e0f939b49e5",
     "itemURL": "https://www.vinted.fr/items/4622561276-lego-sonic-the-hedgehog-21331",
-    "publication": 1718010133
+    "publication": 1718010133,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -474,7 +536,8 @@
     "price": "56.25",
     "imgURL": "https://images1.vinted.net/t/01_00414_4iPRnzCaAJZzC7SLNNssspVB/f800/1719230648.jpeg?s=23c85306c96609241a91b2d63f00ec587c95a436",
     "itemURL": "https://www.vinted.fr/items/4351549476-21331-lego-new-sonic",
-    "publication": 1719230648
+    "publication": 1719230648,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -483,7 +546,8 @@
     "price": "66.85",
     "imgURL": "https://images1.vinted.net/t/03_00864_eXsimnLAcJRPEHBAWMfpYtUT/f800/1731842551.jpeg?s=99eb18e5d25b58fa42a7a9b543257db74c0ed82f",
     "itemURL": "https://www.vinted.fr/items/5396046817-lego-21331",
-    "publication": 1731842551
+    "publication": 1731842551,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -492,7 +556,8 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/03_012b7_QkXBwP6ShQCqe9yS5TxUuKY8/f800/1730641805.jpeg?s=220a072bfbc0cf14cefe7cf9dad38e4a82158699",
     "itemURL": "https://www.vinted.fr/items/5322935710-lego-ideas-21331-sonic",
-    "publication": 1730641805
+    "publication": 1730641805,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -501,7 +566,8 @@
     "price": "62.65",
     "imgURL": "https://images1.vinted.net/t/03_014bf_DegAbPrSRjunW1PHAjE4iJfL/f800/1713690525.jpeg?s=7017af04178007165d80f4ac12a13a64d66563aa",
     "itemURL": "https://www.vinted.fr/items/4394375521-lego-21331-sonic-green-hill-zone",
-    "publication": 1713690525
+    "publication": 1713690525,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -510,7 +576,8 @@
     "price": "61.6",
     "imgURL": "https://images1.vinted.net/t/04_014e3_vYjfGa2GUC8FapmS43nvgsDE/f800/1730484658.jpeg?s=076c194904e218aece72b19ac5c5e32407823fd5",
     "itemURL": "https://www.vinted.fr/items/5313340383-lego-21331-nuovo-new-ideas-sonic",
-    "publication": 1730484658
+    "publication": 1730484658,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -519,7 +586,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/02_016dc_VKUF1u3B4HsJi9k3boMWok3Q/f800/1707926180.jpeg?s=9775516d9772f7f13e000796955cad70d29579fd",
     "itemURL": "https://www.vinted.fr/items/4101227028-lego-ideas-sonic-the-hedgedog-21331",
-    "publication": 1707926180
+    "publication": 1707926180,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -528,7 +596,8 @@
     "price": "75.67",
     "imgURL": "https://images1.vinted.net/t/01_0179d_osvhQxJg2RLCBYnZeEhgav6V/f800/1709400341.jpeg?s=9a0049e2860178a3161a1b9b8164095071e8e229",
     "itemURL": "https://www.vinted.fr/items/4172339228-lego-21331-sonic-the-hedgehog-green-hill-zone",
-    "publication": 1709400341
+    "publication": 1709400341,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -537,16 +606,8 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/02_0091d_5kGmHnsrvuZ4443QHYUTL23W/f800/1709981952.jpeg?s=e02777a447dbdfa8ef27ebad75daa04c432e5b97",
     "itemURL": "https://www.vinted.fr/items/4199543097-set-21331-green-hill-zone",
-    "publication": 1709981952
-  },
-  {
-    "legoid": 21331,
-    "id": 4721584397,
-    "title": "NIEUW Lego Sonic the Hedgehog 21331",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/03_01a1f_zU1b13CzpH5k2MyVF1kGKUMn/f800/1720084832.jpeg?s=20ac2efffeea0c69a91dc97b94628c147271f2a2",
-    "itemURL": "https://www.vinted.fr/items/4721584397-nieuw-lego-sonic-the-hedgehog-21331",
-    "publication": 1720084832
+    "publication": 1709981952,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -555,7 +616,18 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/02_0002b_dB8yQ6VSqs6UXxqLExyT4gev/f800/1724598945.jpeg?s=652e0fb405c2a07241d4c459e31114c430a9941b",
     "itemURL": "https://www.vinted.fr/items/4937409106-lego-sonic-21331-neuf",
-    "publication": 1724598945
+    "publication": 1724598945,
+    "scraping_data": 1732470564
+  },
+  {
+    "legoid": 21331,
+    "id": 4721584397,
+    "title": "NIEUW Lego Sonic the Hedgehog 21331",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/03_01a1f_zU1b13CzpH5k2MyVF1kGKUMn/f800/1720084832.jpeg?s=20ac2efffeea0c69a91dc97b94628c147271f2a2",
+    "itemURL": "https://www.vinted.fr/items/4721584397-nieuw-lego-sonic-the-hedgehog-21331",
+    "publication": 1720084832,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -564,7 +636,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/02_02477_ih5uwet9vt7mZZynsBZEq31Q/f800/1718959070.jpeg?s=87fa329cdb0d51794fedf47add7ccff43109e22e",
     "itemURL": "https://www.vinted.fr/items/4669205825-lego-21331-sonics-the-hedgehog-green-hill-zone",
-    "publication": 1718959070
+    "publication": 1718959070,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -573,7 +646,8 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/01_00295_5KFzyaA6NteeiCSZWC4m7MzC/f800/1708460609.jpeg?s=d3481d0b8eace91e5da27ec75832a9fc2153ebec",
     "itemURL": "https://www.vinted.fr/items/4126817122-lego-ideas-21331-green-hill-zone",
-    "publication": 1708460609
+    "publication": 1708460609,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -582,7 +656,8 @@
     "price": "68.94",
     "imgURL": "https://images1.vinted.net/t/03_02325_EbGKdHE9SxJ79QjqhHN1yYiV/f800/1718301311.jpeg?s=40766d3e5fbabac7a3e758b62677ce3efa1a5c0a",
     "itemURL": "https://www.vinted.fr/items/4638642053-lego-21331-sonic",
-    "publication": 1718301311
+    "publication": 1718301311,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -591,7 +666,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/03_025cb_QTpm9uE7cnpNsrU1Bhi3uXMt/f800/1713771218.jpeg?s=b4a99e1ba29c00a9f687fd66441e6ee483507017",
     "itemURL": "https://www.vinted.fr/items/4400289031-lego-ideas-21331-sonic-green-hill-zone",
-    "publication": 1713771218
+    "publication": 1713771218,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -600,7 +676,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/01_02601_foQ2c7Js8WtiJq6qhBchvA8h/f800/1673951543.jpeg?s=c3ff513afb9e24ca4147a57e099c90092b5f3ab0",
     "itemURL": "https://www.vinted.fr/items/2598446428-lego-21331-sonic-the-hedgehog",
-    "publication": 1673951543
+    "publication": 1673951543,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -609,7 +686,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/01_02054_yCRBZriGeHiAVu6cmbNTLwBt/f800/1709147688.jpeg?s=5a7033a9ba0f52cfff497a5fc76eb33584737cb0",
     "itemURL": "https://www.vinted.fr/items/4160787502-lego-set-21331",
-    "publication": 1709147688
+    "publication": 1709147688,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -618,7 +696,8 @@
     "price": "68.9",
     "imgURL": "https://images1.vinted.net/t/03_01887_RWzAPwQmKdEtpD1vRMHc82a6/f800/1678012168.jpeg?s=aa78796658bc1e51168db396573dafc2be6d2fbc",
     "itemURL": "https://www.vinted.fr/items/2753902070-lego-ideas-sonic-the-hedgehog-21331",
-    "publication": 1678012168
+    "publication": 1678012168,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -627,7 +706,8 @@
     "price": "84.69",
     "imgURL": "https://images1.vinted.net/t/03_00c30_47j64ch5j19RVRdqKVyvAci8/f800/1704379266.jpeg?s=1cbb66deee0a729aead48d6c3d2163d9f7f7a37f",
     "itemURL": "https://www.vinted.fr/items/3938517256-lego-sonic-the-hedgehog",
-    "publication": 1704379266
+    "publication": 1704379266,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -636,7 +716,8 @@
     "price": "105.7",
     "imgURL": "https://images1.vinted.net/t/01_00e17_N4uijBhbhgWf4Ui5spNXc7Yo/f800/1702749834.jpeg?s=7c6a09a19f39342bf2c91cc1ae3fb1d9c4935965",
     "itemURL": "https://www.vinted.fr/items/3888485419-lego-sonic-the-hedgedog-21331-nuovo",
-    "publication": 1702749834
+    "publication": 1702749834,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -645,7 +726,8 @@
     "price": "68.95",
     "imgURL": "https://images1.vinted.net/t/01_00187_yzPhZw99tzjEWM2sFcarMW6o/f800/1681640795.jpeg?s=4687d238779e252dc0ee2cac7c96128e399bb7b5",
     "itemURL": "https://www.vinted.fr/items/2909130937-lego-ideas-sonic-the-hedgehog-21331",
-    "publication": 1681640795
+    "publication": 1681640795,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -654,7 +736,8 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/03_025d5_5gmC87WSbeLbiLmpoaekJJdP/f800/1670688414.jpeg?s=30e1f1a626dd1275ec30e8b165ccc07223eadcb7",
     "itemURL": "https://www.vinted.fr/items/2500110312-lego-ideas-21331-sonic-the-hedgehog",
-    "publication": 1670688414
+    "publication": 1670688414,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -663,7 +746,8 @@
     "price": "68.95",
     "imgURL": "https://images1.vinted.net/t/02_00d35_UpQqnC6qZtmgurKXjLNhzTW2/f800/1668674909.jpeg?s=8e312df0e4d767944cd8cbe63532a7ba7f7985c9",
     "itemURL": "https://www.vinted.fr/items/2426168304-lego-21331-sonic-the-hedgehog",
-    "publication": 1668674909
+    "publication": 1668674909,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -672,7 +756,8 @@
     "price": "168.7",
     "imgURL": "https://images1.vinted.net/t/04_00957_nKWFTf6BE4BQUpZc5wBn4yLS/f800/1730641150.jpeg?s=d2e1a49cebd8cc8622e0cd4cb7f2a07c13bd97b4",
     "itemURL": "https://www.vinted.fr/items/5322824609-lego-ideas-cuusoo-009-21301-birdsvogels-nieuw",
-    "publication": 1730641150
+    "publication": 1730641150,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -681,7 +766,8 @@
     "price": "74.19",
     "imgURL": "https://images1.vinted.net/t/01_01d89_9zwerqoUAcPTigAnkR2r7ePH/f800/1696439748.jpeg?s=a40bea91a92011f0dd6bbe6173d60f6600fe31db",
     "itemURL": "https://www.vinted.fr/items/3563244296-lego-ideas-sonic-the-hedgehod-21331-per-adulti-18",
-    "publication": 1696439748
+    "publication": 1696439748,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -690,7 +776,8 @@
     "price": "84.6",
     "imgURL": "https://images1.vinted.net/t/02_01fb5_541EvXVEi3LyLVXST9CDPGTc/f800/1670589110.jpeg?s=01e5cd73cbf7b41c7418b9b07a29e375d19dd552",
     "itemURL": "https://www.vinted.fr/items/2496680605-lego-sonic-21331-neuf",
-    "publication": 1670589110
+    "publication": 1670589110,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -699,7 +786,8 @@
     "price": "104.65",
     "imgURL": "https://images1.vinted.net/t/02_0146c_WGyDJMCiNAaTe1unvbrC5JJ3/f800/1729526190.jpeg?s=23ba1f7312d3466f1b6cdd75b02288571c8be771",
     "itemURL": "https://www.vinted.fr/items/5256505646-lego-71244-sonic-the-hedgehog-dimensions-level-pack-nieuw",
-    "publication": 1729526190
+    "publication": 1729526190,
+    "scraping_data": 1732470564
   },
   {
     "legoid": 21331,
@@ -708,6 +796,7 @@
     "price": "95.2",
     "imgURL": "https://images1.vinted.net/t/01_00039_tS6UtZRiiSZQyzozq6maANvh/f800/1674838089.jpeg?s=de57ee29ff0ed2a3ad4dbc7fec89a35df8fd2e8c",
     "itemURL": "https://www.vinted.fr/items/2631497255-lego-21331-sonic-green-hill",
-    "publication": 1674838089
+    "publication": 1674838089,
+    "scraping_data": 1732470564
   }
 ]

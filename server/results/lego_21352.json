@@ -1,48 +1,13 @@
 [
   {
     "legoid": 21352,
-    "id": 5435269541,
-    "title": "Lego Disney Lilo stitch figurine 21352",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/04_013fe_v2xEN8znEVPv6VihzMvJw7kc/f800/1732459522.jpeg?s=a704a27e04b25bcfec4b683ac0d593371503738c",
-    "itemURL": "https://www.vinted.fr/items/5435269541-lego-disney-lilo-stitch-figurine-21352",
-    "publication": 1732459522
-  },
-  {
-    "legoid": 21352,
-    "id": 5435252655,
-    "title": "Lego figurine encanto Disney 21352",
-    "price": "26.95",
-    "imgURL": "https://images1.vinted.net/t/04_0164e_xUxXrrEEEFBDUeFzS11kZoZM/f800/1732459426.jpeg?s=4725809613c3ea49b8ecc39fb346a3cc2bea71d2",
-    "itemURL": "https://www.vinted.fr/items/5435252655-lego-figurine-encanto-disney-21352",
-    "publication": 1732459426
-  },
-  {
-    "legoid": 21352,
-    "id": 5435182403,
-    "title": "Lego Disney Mickey 21352",
-    "price": "26.95",
-    "imgURL": "https://images1.vinted.net/t/04_008f2_tDMy5pj3ukNaFnWNMvUDaTxC/f800/1732459025.jpeg?s=87fe2abc89a6c254b8ff11ed8e226463c96641c5",
-    "itemURL": "https://www.vinted.fr/items/5435182403-lego-disney-mickey-21352",
-    "publication": 1732459025
-  },
-  {
-    "legoid": 21352,
-    "id": 5435289200,
-    "title": "Lego simba roi lion Disney 21352",
-    "price": "26.95",
-    "imgURL": "https://images1.vinted.net/t/04_01ae1_SqBwmHj4CnpFkB2g5S9tmT5M/f800/1732459635.jpeg?s=894a27691e2e81daf7cff2ee4a9aa419110d615c",
-    "itemURL": "https://www.vinted.fr/items/5435289200-lego-simba-roi-lion-disney-21352",
-    "publication": 1732459635
-  },
-  {
-    "legoid": 21352,
     "id": 5214577639,
     "title": "Lego ideas 21352 Magic of Disney SANS personnages",
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/02_00971_LyVGXFwrKn7UpTPqbHFUHS5W/f800/1728894667.jpeg?s=a2a4d7bb8ce39e85eeb07bd7ca64985461b519b8",
     "itemURL": "https://www.vinted.fr/items/5214577639-lego-ideas-21352-magic-of-disney-sans-personnages",
-    "publication": 1728894667
+    "publication": 1728894667,
+    "scraping_data": 1732471402
   },
   {
     "legoid": 21352,
@@ -51,7 +16,38 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/04_00573_V39Ut48KatMey3NPPeJXiZde/f800/1732381085.jpeg?s=d2771b843f1cab1a00aa4a1ca6023ec51425fbae",
     "itemURL": "https://www.vinted.fr/items/5430136189-lego-21352",
-    "publication": 1732381085
+    "publication": 1732381085,
+    "scraping_data": 1732471402
+  },
+  {
+    "legoid": 21352,
+    "id": 5435289200,
+    "title": "Lego simba roi lion Disney 21352",
+    "price": "26.95",
+    "imgURL": "https://images1.vinted.net/t/04_01ae1_SqBwmHj4CnpFkB2g5S9tmT5M/f800/1732459635.jpeg?s=894a27691e2e81daf7cff2ee4a9aa419110d615c",
+    "itemURL": "https://www.vinted.fr/items/5435289200-lego-simba-roi-lion-disney-21352",
+    "publication": 1732459635,
+    "scraping_data": 1732471402
+  },
+  {
+    "legoid": 21352,
+    "id": 5435182403,
+    "title": "Lego Disney Mickey 21352",
+    "price": "26.95",
+    "imgURL": "https://images1.vinted.net/t/04_008f2_tDMy5pj3ukNaFnWNMvUDaTxC/f800/1732459025.jpeg?s=87fe2abc89a6c254b8ff11ed8e226463c96641c5",
+    "itemURL": "https://www.vinted.fr/items/5435182403-lego-disney-mickey-21352",
+    "publication": 1732459025,
+    "scraping_data": 1732471402
+  },
+  {
+    "legoid": 21352,
+    "id": 5435252655,
+    "title": "Lego figurine encanto Disney 21352",
+    "price": "26.95",
+    "imgURL": "https://images1.vinted.net/t/04_0164e_xUxXrrEEEFBDUeFzS11kZoZM/f800/1732459426.jpeg?s=4725809613c3ea49b8ecc39fb346a3cc2bea71d2",
+    "itemURL": "https://www.vinted.fr/items/5435252655-lego-figurine-encanto-disney-21352",
+    "publication": 1732459426,
+    "scraping_data": 1732471402
   },
   {
     "legoid": 21352,
@@ -60,7 +56,18 @@
     "price": "84.7",
     "imgURL": "https://images1.vinted.net/t/02_001b7_8UPGumSdMie14yTNpZE2fqvu/f800/1729887905.jpeg?s=35238fb097c15f2fd036d5653d92ffd898831451",
     "itemURL": "https://www.vinted.fr/items/5277609958-lego-magic-of-disney-21352",
-    "publication": 1729887905
+    "publication": 1729887905,
+    "scraping_data": 1732471402
+  },
+  {
+    "legoid": 21352,
+    "id": 5435269541,
+    "title": "Lego Disney Lilo stitch figurine 21352",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/04_013fe_v2xEN8znEVPv6VihzMvJw7kc/f800/1732459522.jpeg?s=a704a27e04b25bcfec4b683ac0d593371503738c",
+    "itemURL": "https://www.vinted.fr/items/5435269541-lego-disney-lilo-stitch-figurine-21352",
+    "publication": 1732459522,
+    "scraping_data": 1732471402
   },
   {
     "legoid": 21352,
@@ -69,7 +76,8 @@
     "price": "17.5",
     "imgURL": "https://images1.vinted.net/t/03_02060_yFrRaXQcJotRp8fT6tFMHEvc/f800/1730641164.jpeg?s=e0a2ec3a38dc24af8a5667e8436425af6f4716ce",
     "itemURL": "https://www.vinted.fr/items/5322826932-lego-minifigure-disney-del-set-magic-of-disney-re-leone",
-    "publication": 1730641164
+    "publication": 1730641164,
+    "scraping_data": 1732471402
   },
   {
     "legoid": 21352,
@@ -78,16 +86,18 @@
     "price": "17.5",
     "imgURL": "https://images1.vinted.net/t/04_01113_JmiGNL6CXmn48wNhvEE7aQXG/f800/1730641093.jpeg?s=bef0e9f63988ac7ce7dceab20f87eee3f7a228c5",
     "itemURL": "https://www.vinted.fr/items/5322814990-lego-minifigure-disney-del-set-magic-of-disney",
-    "publication": 1730641093
+    "publication": 1730641093,
+    "scraping_data": 1732471402
   },
   {
     "legoid": 21352,
     "id": 5419259608,
     "title": "Lego 21352",
-    "price": "84.7",
+    "price": "86.8",
     "imgURL": "https://images1.vinted.net/t/04_010c5_4rVBYvQkp6NVu2oCrZqP33rm/f800/1732196313.jpeg?s=d1d58610bab17e36a841caefa67b5a8315a1b73b",
     "itemURL": "https://www.vinted.fr/items/5419259608-lego-21352",
-    "publication": 1732196313
+    "publication": 1732196313,
+    "scraping_data": 1732471402
   },
   {
     "legoid": 21352,
@@ -96,7 +106,8 @@
     "price": "84.7",
     "imgURL": "https://images1.vinted.net/t/04_01950_G2awJgAwpCf7yWZ42TmpELSA/f800/r3/1732361473.jpeg?s=90f823907f10dfe5b8ab3a226f94b97f2afd9ef0",
     "itemURL": "https://www.vinted.fr/items/5427760107-lego-ideas-21352-disney-magie",
-    "publication": 1732361473
+    "publication": 1732361473,
+    "scraping_data": 1732471402
   },
   {
     "legoid": 21352,
@@ -105,7 +116,8 @@
     "price": "95.2",
     "imgURL": "https://images1.vinted.net/t/03_019a8_SeTHh8rn8gF1wh8uo2Nvht6B/f800/1729103618.jpeg?s=26e67209a36b945a502bbaf0d7fc052899fecc41",
     "itemURL": "https://www.vinted.fr/items/5229279279-lego-magic-of-disney-21352-neuf",
-    "publication": 1729103618
+    "publication": 1729103618,
+    "scraping_data": 1732471402
   },
   {
     "legoid": 21352,
@@ -114,6 +126,7 @@
     "price": "89.95",
     "imgURL": "https://images1.vinted.net/t/02_0224d_XLNFBixo3FCq5wVAs8a2VWMn/f800/1732363734.jpeg?s=66f7dbc68db25866b0e1f5c857def09fa5b84045",
     "itemURL": "https://www.vinted.fr/items/5428032225-lego-ideas-magic-of-disney-modele-21352-boite-neuve-jamais-ouverte",
-    "publication": 1732363734
+    "publication": 1732363734,
+    "scraping_data": 1732471402
   }
 ]

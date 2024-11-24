@@ -6,7 +6,8 @@
     "price": "79.45",
     "imgURL": "https://images1.vinted.net/t/03_0050e_JJB3zuKvpaMu8uWdJakeFv3c/f800/1732381688.jpeg?s=45fe3507d248b0abea85cfd31e90029c477ef46e",
     "itemURL": "https://www.vinted.fr/items/5430200553-lego-71820-ninjago-vehiculo-combinado-del-equipo-ninja",
-    "publication": 1732381688
+    "publication": 1732381688,
+    "scraping_data": 1732471322
   },
   {
     "legoid": 71820,
@@ -15,6 +16,7 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/04_0018d_TPFzsHGAF1ft736LKMMPGPXQ/f800/1730906328.jpeg?s=7b14b6c01c71c6501e07ef23b192fee5db9538a5",
     "itemURL": "https://www.vinted.fr/items/5339137731-lego-71820-cole-mech",
-    "publication": 1730906328
+    "publication": 1730906328,
+    "scraping_data": 1732471322
   }
 ]

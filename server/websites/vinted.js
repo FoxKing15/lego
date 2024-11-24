@@ -61,7 +61,7 @@ async function parseAndSaveLegoData(legoId) {
             console.log(`No items found for LEGO ID ${legoId} on page ${currentPage}.`);
             break;
         }
-
+        const scrapingDate = Math.floor(Date.now() / 1000);
         const items = responseBody.items.map((item) => {
             return {
                 legoid : legoId,
@@ -71,6 +71,7 @@ async function parseAndSaveLegoData(legoId) {
                 imgURL: item.photo.url,
                 itemURL: item.url,
                 publication: item.photo.high_resolution.timestamp,
+                scraping_data: scrapingDate,
             };
         });
 

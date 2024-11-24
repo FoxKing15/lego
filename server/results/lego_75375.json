@@ -1,30 +1,23 @@
 [
   {
     "legoid": 75375,
+    "id": 5435623602,
+    "title": "Lego 75375 Millenium Falcon Star Wars",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/02_0049f_LGb4Fv379bDjCU7eiqa7smZT/f800/1732461679.jpeg?s=be1e7b556086c7a9c9d8314cf134b88eac81f4e4",
+    "itemURL": "https://www.vinted.fr/items/5435623602-lego-75375-millenium-falcon-star-wars",
+    "publication": 1732461679,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
     "id": 5105344586,
     "title": "Boîte Lego VIDE",
     "price": "4.9",
     "imgURL": "https://images1.vinted.net/t/01_00ade_c948epRpjanGHKLjLtmLpPzs/f800/r1/1727266171.jpeg?s=18a1a896885ea90173728dc76b55822fa7d854f9",
     "itemURL": "https://www.vinted.fr/items/5105344586-boite-lego-vide",
-    "publication": 1727266171
-  },
-  {
-    "legoid": 75375,
-    "id": 5415137663,
-    "title": "Légo 75375 neuf",
-    "price": "14.35",
-    "imgURL": "https://images1.vinted.net/t/04_005da_kTUXJiBjdaStBoMYLGU9xqvC/f800/1732117464.jpeg?s=de7c778613d6b33702f1ee5769c37194fe1e7cf6",
-    "itemURL": "https://www.vinted.fr/items/5415137663-lego-75375-neuf",
-    "publication": 1732117464
-  },
-  {
-    "legoid": 75375,
-    "id": 5430581211,
-    "title": "Lego faucon millenium 75375",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_01239_7EkFRYGzF1ggTh785ZRQuSz7/f800/1732385588.jpeg?s=8b917c98b05e54286f7f03754a9969091439b48c",
-    "itemURL": "https://www.vinted.fr/items/5430581211-lego-faucon-millenium-75375",
-    "publication": 1732385588
+    "publication": 1727266171,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -33,7 +26,8 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/04_009a5_PQxDKS7JUZ9UN5rALwpXPU1t/f800/1732435891.jpeg?s=2785aa119d4cf9fae2d485c351a43e2693b34cd2",
     "itemURL": "https://www.vinted.fr/items/5432034594-lego-faucon-millenium-75375",
-    "publication": 1732435891
+    "publication": 1732435891,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -42,7 +36,18 @@
     "price": "59.5",
     "imgURL": "https://images1.vinted.net/t/02_00945_UfTuvTH74UehiafssJdE41bS/f800/1732037628.jpeg?s=84e1d4c679c9e2e79946ea5dec32b4aa23d306cd",
     "itemURL": "https://www.vinted.fr/items/5410682178-lego-75375",
-    "publication": 1732037628
+    "publication": 1732037628,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5415137663,
+    "title": "Légo 75375 neuf",
+    "price": "14.35",
+    "imgURL": "https://images1.vinted.net/t/04_005da_kTUXJiBjdaStBoMYLGU9xqvC/f800/1732117464.jpeg?s=de7c778613d6b33702f1ee5769c37194fe1e7cf6",
+    "itemURL": "https://www.vinted.fr/items/5415137663-lego-75375-neuf",
+    "publication": 1732117464,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -51,61 +56,8 @@
     "price": "60.55",
     "imgURL": "https://images1.vinted.net/t/01_00eaa_ecGC57z52GoxwANrWYwKsNzz/f800/1727535883.jpeg?s=a0791ba86d5721cd9c1f6c9ff9b4abc1d4b06886",
     "itemURL": "https://www.vinted.fr/items/5122510006-lego-star-wars-75375-millenium-falcon-scelle",
-    "publication": 1727535883
-  },
-  {
-    "legoid": 75375,
-    "id": 5415351683,
-    "title": "Lego star wars faucon millénium 75375",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/02_023a4_q6ZjivBgWDPdKnLn2REqDax9/f800/1732119553.jpeg?s=1d6d234dc4c0747bc4ac48ee6b35a40cfb72b834",
-    "itemURL": "https://www.vinted.fr/items/5415351683-lego-star-wars-faucon-millenium-75375",
-    "publication": 1732119553
-  },
-  {
-    "legoid": 75375,
-    "id": 5092604900,
-    "title": "Boîte vide Lego falcon millennium star Wars 75375",
-    "price": "8.05",
-    "imgURL": "https://images1.vinted.net/t/02_0038e_zBSzZwyfZHNSu6ZSdNQKjEu2/f800/1727076906.jpeg?s=bc69994d5b60ef01c9de3f9260368c61fe717eb9",
-    "itemURL": "https://www.vinted.fr/items/5092604900-boite-vide-lego-falcon-millennium-star-wars-75375",
-    "publication": 1727076906
-  },
-  {
-    "legoid": 75375,
-    "id": 5435623602,
-    "title": "Lego 75375 Millenium Falcon Star Wars",
-    "price": "47.95",
-    "imgURL": "https://images1.vinted.net/t/02_0049f_LGb4Fv379bDjCU7eiqa7smZT/f800/1732461679.jpeg?s=be1e7b556086c7a9c9d8314cf134b88eac81f4e4",
-    "itemURL": "https://www.vinted.fr/items/5435623602-lego-75375-millenium-falcon-star-wars",
-    "publication": 1732461679
-  },
-  {
-    "legoid": 75375,
-    "id": 5217609570,
-    "title": "Lego 75375",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/02_015fa_cuywWB8rweEtBmstvhDKinHh/f800/1728921265.jpeg?s=574400b5729c68f3c49c496aa6b90d95f4192ab7",
-    "itemURL": "https://www.vinted.fr/items/5217609570-lego-75375",
-    "publication": 1728921265
-  },
-  {
-    "legoid": 75375,
-    "id": 5349871540,
-    "title": "Star wars",
-    "price": "65.8",
-    "imgURL": "https://images1.vinted.net/t/01_003f7_2VmfjN2R9yNGyELkCfPsb87L/f800/1731098217.jpeg?s=9673993f1cc608832d0a9d5fdfb15ca88a6a91e3",
-    "itemURL": "https://www.vinted.fr/items/5349871540-star-wars",
-    "publication": 1731098217
-  },
-  {
-    "legoid": 75375,
-    "id": 5414553860,
-    "title": "Lego StarWars 75375 (new)",
-    "price": "63.69",
-    "imgURL": "https://images1.vinted.net/t/04_0028d_Ewzc2p7F5Rg7arL6cwhuFuqt/f800/1732112148.jpeg?s=0bf00ce2690ffa8ee7e57434acfe2340d9980c1b",
-    "itemURL": "https://www.vinted.fr/items/5414553860-lego-starwars-75375-new",
-    "publication": 1732112148
+    "publication": 1727535883,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -114,7 +66,58 @@
     "price": "73.94",
     "imgURL": "https://images1.vinted.net/t/03_011fc_pNxA4hT9JGZv7ZRzGrhtk5ka/f800/1731849404.jpeg?s=41a231260f2b6129b66301387120d72541e6703c",
     "itemURL": "https://www.vinted.fr/items/5397206591-millennium-falcom-lego",
-    "publication": 1731849404
+    "publication": 1731849404,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5415351683,
+    "title": "Lego star wars faucon millénium 75375",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/02_023a4_q6ZjivBgWDPdKnLn2REqDax9/f800/1732119553.jpeg?s=1d6d234dc4c0747bc4ac48ee6b35a40cfb72b834",
+    "itemURL": "https://www.vinted.fr/items/5415351683-lego-star-wars-faucon-millenium-75375",
+    "publication": 1732119553,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5092604900,
+    "title": "Boîte vide Lego falcon millennium star Wars 75375",
+    "price": "8.05",
+    "imgURL": "https://images1.vinted.net/t/02_0038e_zBSzZwyfZHNSu6ZSdNQKjEu2/f800/1727076906.jpeg?s=bc69994d5b60ef01c9de3f9260368c61fe717eb9",
+    "itemURL": "https://www.vinted.fr/items/5092604900-boite-vide-lego-falcon-millennium-star-wars-75375",
+    "publication": 1727076906,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5217609570,
+    "title": "Lego 75375",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/02_015fa_cuywWB8rweEtBmstvhDKinHh/f800/1728921265.jpeg?s=574400b5729c68f3c49c496aa6b90d95f4192ab7",
+    "itemURL": "https://www.vinted.fr/items/5217609570-lego-75375",
+    "publication": 1728921265,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5414553860,
+    "title": "Lego StarWars 75375 (new)",
+    "price": "63.69",
+    "imgURL": "https://images1.vinted.net/t/04_0028d_Ewzc2p7F5Rg7arL6cwhuFuqt/f800/1732112148.jpeg?s=0bf00ce2690ffa8ee7e57434acfe2340d9980c1b",
+    "itemURL": "https://www.vinted.fr/items/5414553860-lego-starwars-75375-new",
+    "publication": 1732112148,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5349871540,
+    "title": "Star wars",
+    "price": "65.8",
+    "imgURL": "https://images1.vinted.net/t/01_003f7_2VmfjN2R9yNGyELkCfPsb87L/f800/1731098217.jpeg?s=9673993f1cc608832d0a9d5fdfb15ca88a6a91e3",
+    "itemURL": "https://www.vinted.fr/items/5349871540-star-wars",
+    "publication": 1731098217,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -123,7 +126,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/03_01d23_NEECEMtUBjMsn8UNYN5g2YP4/f800/1732454501.jpeg?s=d3f74b04fe6b123c3816b0c98602d4e03a396efe",
     "itemURL": "https://www.vinted.fr/items/5434412464-lego-set-75375-millennium-falcon",
-    "publication": 1732454501
+    "publication": 1732454501,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -132,25 +136,8 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/03_00050_CbvYEoWoiLDxPBTBTFqbSc5n/f800/1717056654.jpeg?s=f67baba0a293e55b262a74e5c098ab82fcba2459",
     "itemURL": "https://www.vinted.fr/items/4573796984-lego-75375-faucon-millenium-25-ans",
-    "publication": 1717056654
-  },
-  {
-    "legoid": 75375,
-    "id": 5298887753,
-    "title": "Lego star wars 75375 Le Faucon Millennium Neuf",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/04_01780_DxGRoLi5zhLKToBqXfHLGVTm/f800/1730219851.jpeg?s=ca0284a1265b625bec1719a463df560ad35ad5ff",
-    "itemURL": "https://www.vinted.fr/items/5298887753-lego-star-wars-75375-le-faucon-millennium-neuf",
-    "publication": 1730219851
-  },
-  {
-    "legoid": 75375,
-    "id": 5331792737,
-    "title": "Millenium Falcon 75375 Lego",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/04_01cb5_mZnxKc5iQfxTEFxpZ8wUraDP/f800/1730756830.jpeg?s=c502fdbb6e0d790588138a6c812e5d65478e44dc",
-    "itemURL": "https://www.vinted.fr/items/5331792737-millenium-falcon-75375-lego",
-    "publication": 1730756830
+    "publication": 1717056654,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -159,52 +146,18 @@
     "price": "58.44",
     "imgURL": "https://images1.vinted.net/t/02_01edc_bsuSKzaYzaV1UMNiP1mMWdSo/f800/1730824644.jpeg?s=12bbb38e40c1cb664d2dad2c79722bd86b3f1020",
     "itemURL": "https://www.vinted.fr/items/5335026591-lego-75375-millennium-falcon",
-    "publication": 1730824644
+    "publication": 1730824644,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 5289631666,
-    "title": "Lego starwars 75375",
+    "id": 5298887753,
+    "title": "Lego star wars 75375 Le Faucon Millennium Neuf",
     "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/04_01353_UJVdPQvwjcfx3PdN4dc2tnM3/f800/1730061085.jpeg?s=dfa54fb1e3f016a945d864fc57c20db877d0c0ac",
-    "itemURL": "https://www.vinted.fr/items/5289631666-lego-starwars-75375",
-    "publication": 1730061085
-  },
-  {
-    "legoid": 75375,
-    "id": 4910394837,
-    "title": "Lego.",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/02_00af1_hHiYt9HfmAM9FnZfdV8DNzsC/f800/1724101068.jpeg?s=7cb52714999d1b25ee5d58673cf6c104ae00cdeb",
-    "itemURL": "https://www.vinted.fr/items/4910394837-lego",
-    "publication": 1724101068
-  },
-  {
-    "legoid": 75375,
-    "id": 5405109835,
-    "title": "Lego 75375 Millennium Falcon 25 anniversario",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/04_008a4_hDuNLKzKcPkAD8X6zYNp5h2N/f800/1731946672.jpeg?s=09a22b369c7b42aaa788f45cd6b9b0b131d79545",
-    "itemURL": "https://www.vinted.fr/items/5405109835-lego-75375-millennium-falcon-25-anniversario",
-    "publication": 1731946672
-  },
-  {
-    "legoid": 75375,
-    "id": 4885700307,
-    "title": "Lego 75375 Star Wars",
-    "price": "78.06",
-    "imgURL": "https://images1.vinted.net/t/01_01645_LpCZSxYwo1GL2MSSe5WTaKE4/f800/1723632960.jpeg?s=c4227db4f07358ec9f17d83f2e2f3d865862d8d5",
-    "itemURL": "https://www.vinted.fr/items/4885700307-lego-75375-star-wars",
-    "publication": 1723632960
-  },
-  {
-    "legoid": 75375,
-    "id": 4313442480,
-    "title": "Lego 75375 Star Wars Falcon Millennium",
-    "price": "65.8",
-    "imgURL": "https://images1.vinted.net/t/01_02621_J88fPxrmm3R2fgNAnN1m8QXQ/f800/1712185855.jpeg?s=ba8ba5042dfdc5bf981cecc8f451b66351fef627",
-    "itemURL": "https://www.vinted.fr/items/4313442480-lego-75375-star-wars-falcon-millennium",
-    "publication": 1712185855
+    "imgURL": "https://images1.vinted.net/t/04_01780_DxGRoLi5zhLKToBqXfHLGVTm/f800/1730219851.jpeg?s=ca0284a1265b625bec1719a463df560ad35ad5ff",
+    "itemURL": "https://www.vinted.fr/items/5298887753-lego-star-wars-75375-le-faucon-millennium-neuf",
+    "publication": 1730219851,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -213,97 +166,48 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/04_0149d_MGi43iRYngT1VqC1QE9q6q4U/f800/1732413923.jpeg?s=cdf80661d5eb1c5bd1364d9219628f75b7fe915f",
     "itemURL": "https://www.vinted.fr/items/5431829541-lego-star-wars-75375-millennium-falcon-25years",
-    "publication": 1732413923
+    "publication": 1732413923,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 4624171623,
-    "title": "Lego 75375 - Millennium Falcon",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/01_015ae_1C2grexD64SB6HMpz4fE6Tm2/f800/1718028621.jpeg?s=8aba7b416098da1e54f5e22bf5cbdd02a0f4d306",
-    "itemURL": "https://www.vinted.fr/items/4624171623-lego-75375-millennium-falcon",
-    "publication": 1718028621
-  },
-  {
-    "legoid": 75375,
-    "id": 5112636408,
-    "title": "LEGO Star Wars 75375 Millennium Falcon,",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/01_01f8c_rDk7L6eQBkhEbzqNWVMcQZob/f800/1727370003.jpeg?s=884a28abf98583e5c6c45e3fe1502d982d87f5fd",
-    "itemURL": "https://www.vinted.fr/items/5112636408-lego-star-wars-75375-millennium-falcon",
-    "publication": 1727370003
-  },
-  {
-    "legoid": 75375,
-    "id": 4442194674,
-    "title": "Lego 75375 Faucon Star Wars NEUF",
+    "id": 5289631666,
+    "title": "Lego starwars 75375",
     "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/02_013c3_3d1f1tfEpa1CrP8kKwLWB6Qc/f800/1714566321.jpeg?s=752871db1306a18ecd52347e67ab1071f5bb5d33",
-    "itemURL": "https://www.vinted.fr/items/4442194674-lego-75375-faucon-star-wars-neuf",
-    "publication": 1714566321
+    "imgURL": "https://images1.vinted.net/t/04_01353_UJVdPQvwjcfx3PdN4dc2tnM3/f800/1730061085.jpeg?s=dfa54fb1e3f016a945d864fc57c20db877d0c0ac",
+    "itemURL": "https://www.vinted.fr/items/5289631666-lego-starwars-75375",
+    "publication": 1730061085,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 5113924059,
-    "title": "Lego Halcón Milenario 75375",
-    "price": "73.15",
-    "imgURL": "https://images1.vinted.net/t/02_019e2_vHXQMYdZRf2aa2toM2XnLTsk/f800/1727389353.jpeg?s=7326f95e043f4f0364e3498ceeb18ee2b02e7d90",
-    "itemURL": "https://www.vinted.fr/items/5113924059-lego-halcon-milenario-75375",
-    "publication": 1727389353
+    "id": 4313442480,
+    "title": "Lego 75375 Star Wars Falcon Millennium",
+    "price": "65.8",
+    "imgURL": "https://images1.vinted.net/t/01_02621_J88fPxrmm3R2fgNAnN1m8QXQ/f800/1712185855.jpeg?s=ba8ba5042dfdc5bf981cecc8f451b66351fef627",
+    "itemURL": "https://www.vinted.fr/items/4313442480-lego-75375-star-wars-falcon-millennium",
+    "publication": 1712185855,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 5079655957,
-    "title": "LEGO 75375 - Millennium Falcon",
-    "price": "59.5",
-    "imgURL": "https://images1.vinted.net/t/01_016d4_mFznUjBEcPJmR8ZNM97nEFBr/f800/1726908903.jpeg?s=a81c1f0ce80c53f08a3450967137015ecb5641fe",
-    "itemURL": "https://www.vinted.fr/items/5079655957-lego-75375-millennium-falcon",
-    "publication": 1726908903
+    "id": 5331792737,
+    "title": "Millenium Falcon 75375 Lego",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/04_01cb5_mZnxKc5iQfxTEFxpZ8wUraDP/f800/1730756830.jpeg?s=c502fdbb6e0d790588138a6c812e5d65478e44dc",
+    "itemURL": "https://www.vinted.fr/items/5331792737-millenium-falcon-75375-lego",
+    "publication": 1730756830,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 5368307584,
-    "title": "Lego star wars 75375 Millennium falcon",
-    "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/02_00078_PE4f68KghhFriZf78ApeYv2d/f800/1731352251.jpeg?s=1e9dec594e1884e93e92afe198022a01905cd2ca",
-    "itemURL": "https://www.vinted.fr/items/5368307584-lego-star-wars-75375-millennium-falcon",
-    "publication": 1731352251
-  },
-  {
-    "legoid": 75375,
-    "id": 5359871337,
-    "title": "Lego StarWars 75375 & 75377 (new)",
-    "price": "103.38",
-    "imgURL": "https://images1.vinted.net/t/03_01fe7_uZSVmKxAShxm97pqwwEdQj9K/f800/1731253176.jpeg?s=1e295cdf03e39d27cca815ab9ea1cf02c3e6f4d9",
-    "itemURL": "https://www.vinted.fr/items/5359871337-lego-starwars-75375-75377-new",
-    "publication": 1731253176
-  },
-  {
-    "legoid": 75375,
-    "id": 5332699160,
-    "title": "Millenium Falcon - Star Wars (LEGO - 75375)",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/04_01f2d_Lxc7qhCfP8wfyKpax2WZdMzx/f800/1730800076.jpeg?s=4e9780d720e86e1868cc4b83da5982f2a7f3dcff",
-    "itemURL": "https://www.vinted.fr/items/5332699160-millenium-falcon-star-wars-lego-75375",
-    "publication": 1730800076
-  },
-  {
-    "legoid": 75375,
-    "id": 4670582887,
-    "title": "Lego star wars 75375 new!",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/03_025ac_ayfcvM5tXpqzMuvQh15s43qU/f800/1718979799.jpeg?s=534637799ec78214dd336d6479b8f01a935905aa",
-    "itemURL": "https://www.vinted.fr/items/4670582887-lego-star-wars-75375-new",
-    "publication": 1718979799
-  },
-  {
-    "legoid": 75375,
-    "id": 5254735038,
-    "title": "LEGO Millénium Falcon 75375 Star Wars",
-    "price": "74.19",
-    "imgURL": "https://images1.vinted.net/t/03_02342_3ry2MeGJzwnTn2eyRwPtsUod/f800/1729511344.jpeg?s=58c53815199959fde6af2f0ae31cf6ace7bfecff",
-    "itemURL": "https://www.vinted.fr/items/5254735038-lego-millenium-falcon-75375-star-wars",
-    "publication": 1729511344
+    "id": 4885700307,
+    "title": "Lego 75375 Star Wars",
+    "price": "78.06",
+    "imgURL": "https://images1.vinted.net/t/01_01645_LpCZSxYwo1GL2MSSe5WTaKE4/f800/1723632960.jpeg?s=c4227db4f07358ec9f17d83f2e2f3d865862d8d5",
+    "itemURL": "https://www.vinted.fr/items/4885700307-lego-75375-star-wars",
+    "publication": 1723632960,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -312,25 +216,48 @@
     "price": "76.3",
     "imgURL": "https://images1.vinted.net/t/02_00f9c_6HT9CtXZvVqxipdHoqEmbpwK/f800/1731149100.jpeg?s=7333c85f40be7e7573dd2aa142e6c6d6121d9534",
     "itemURL": "https://www.vinted.fr/items/5351388080-lego-star-wars-75375-le-faucon-millenium-special-anniversaire-25-ans-neuf-et-scelle",
-    "publication": 1731149100
+    "publication": 1731149100,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 5420403853,
-    "title": "lego 75375",
+    "id": 4910394837,
+    "title": "Lego.",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/02_00af1_hHiYt9HfmAM9FnZfdV8DNzsC/f800/1724101068.jpeg?s=7cb52714999d1b25ee5d58673cf6c104ae00cdeb",
+    "itemURL": "https://www.vinted.fr/items/4910394837-lego",
+    "publication": 1724101068,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5112636408,
+    "title": "LEGO Star Wars 75375 Millennium Falcon,",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/01_01f8c_rDk7L6eQBkhEbzqNWVMcQZob/f800/1727370003.jpeg?s=884a28abf98583e5c6c45e3fe1502d982d87f5fd",
+    "itemURL": "https://www.vinted.fr/items/5112636408-lego-star-wars-75375-millennium-falcon",
+    "publication": 1727370003,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5359871337,
+    "title": "Lego StarWars 75375 & 75377 (new)",
+    "price": "103.38",
+    "imgURL": "https://images1.vinted.net/t/03_01fe7_uZSVmKxAShxm97pqwwEdQj9K/f800/1731253176.jpeg?s=1e295cdf03e39d27cca815ab9ea1cf02c3e6f4d9",
+    "itemURL": "https://www.vinted.fr/items/5359871337-lego-starwars-75375-75377-new",
+    "publication": 1731253176,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5368307584,
+    "title": "Lego star wars 75375 Millennium falcon",
     "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/04_0235a_mjmxC1BfaM64nyMair8qF9ya/f800/1732208282.jpeg?s=0db96625c37512ae530bf49d5bcbf27815ea6459",
-    "itemURL": "https://www.vinted.fr/items/5420403853-lego-75375",
-    "publication": 1732208282
-  },
-  {
-    "legoid": 75375,
-    "id": 4503960578,
-    "title": "LEGO Star Wars Millennium Falcon",
-    "price": "73.15",
-    "imgURL": "https://images1.vinted.net/t/03_025f0_H113piYK3MZsjE95MgjBWp7H/f800/1715709541.jpeg?s=231f8081ece333417585d42755c8bb5d56b016e5",
-    "itemURL": "https://www.vinted.fr/items/4503960578-lego-star-wars-millennium-falcon",
-    "publication": 1715709541
+    "imgURL": "https://images1.vinted.net/t/02_00078_PE4f68KghhFriZf78ApeYv2d/f800/1731352251.jpeg?s=1e9dec594e1884e93e92afe198022a01905cd2ca",
+    "itemURL": "https://www.vinted.fr/items/5368307584-lego-star-wars-75375-millennium-falcon",
+    "publication": 1731352251,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -339,43 +266,78 @@
     "price": "68.85",
     "imgURL": "https://images1.vinted.net/t/03_02677_zqdEPxLWycRGk41t4svaGtVK/f800/1719239636.jpeg?s=7883acdf2828e08aec433efefb7aa2d82885bc4d",
     "itemURL": "https://www.vinted.fr/items/4569106082-75375-halcon-milenario-lego",
-    "publication": 1719239636
+    "publication": 1719239636,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 5367939093,
-    "title": "Nuovo Lego Star Wars Millennium Falcon",
-    "price": "94.15",
-    "imgURL": "https://images1.vinted.net/t/03_00455_Res2HQjwicXHgyQCUpfc3eGn/f800/1731348852.jpeg?s=db3d3ab2de70caf782fac40424c3c3d4a3862dba",
-    "itemURL": "https://www.vinted.fr/items/5367939093-nuovo-lego-star-wars-millennium-falcon",
-    "publication": 1731348852
-  },
-  {
-    "legoid": 75375,
-    "id": 4992597220,
-    "title": "Lego Star Wars Millennium Falcon #75375",
+    "id": 4442194674,
+    "title": "Lego 75375 Faucon Star Wars NEUF",
     "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/03_001e4_6USbuNe47vnxvjXPreiozVta/f800/1725557898.jpeg?s=9052e4a9b0b1a5fdea784e9b1a4ba0a640548723",
-    "itemURL": "https://www.vinted.fr/items/4992597220-lego-star-wars-millennium-falcon-75375",
-    "publication": 1725557898
+    "imgURL": "https://images1.vinted.net/t/02_013c3_3d1f1tfEpa1CrP8kKwLWB6Qc/f800/1714566321.jpeg?s=752871db1306a18ecd52347e67ab1071f5bb5d33",
+    "itemURL": "https://www.vinted.fr/items/4442194674-lego-75375-faucon-star-wars-neuf",
+    "publication": 1714566321,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 4485773582,
-    "title": "Lego 75375 le faucon millennium",
+    "id": 5405109835,
+    "title": "Lego 75375 Millennium Falcon 25 anniversario",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/04_008a4_hDuNLKzKcPkAD8X6zYNp5h2N/f800/1731946672.jpeg?s=09a22b369c7b42aaa788f45cd6b9b0b131d79545",
+    "itemURL": "https://www.vinted.fr/items/5405109835-lego-75375-millennium-falcon-25-anniversario",
+    "publication": 1731946672,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 4624171623,
+    "title": "Lego 75375 - Millennium Falcon",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/01_015ae_1C2grexD64SB6HMpz4fE6Tm2/f800/1718028621.jpeg?s=8aba7b416098da1e54f5e22bf5cbdd02a0f4d306",
+    "itemURL": "https://www.vinted.fr/items/4624171623-lego-75375-millennium-falcon",
+    "publication": 1718028621,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5420403853,
+    "title": "lego 75375",
     "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/02_003e8_YUwLSaWNvod5LcYp53ftb8sK/f800/1715364286.jpeg?s=0ee92cce82f7f54f1ff4eb2ee6673eb44b70134e",
-    "itemURL": "https://www.vinted.fr/items/4485773582-lego-75375-le-faucon-millennium",
-    "publication": 1715364286
+    "imgURL": "https://images1.vinted.net/t/04_0235a_mjmxC1BfaM64nyMair8qF9ya/f800/1732208282.jpeg?s=0db96625c37512ae530bf49d5bcbf27815ea6459",
+    "itemURL": "https://www.vinted.fr/items/5420403853-lego-75375",
+    "publication": 1732208282,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 4478468635,
-    "title": "Lego 75375 star wars",
-    "price": "66.85",
-    "imgURL": "https://images1.vinted.net/t/01_00a75_bZ5NdMWH4odAMWx2nf2Tywkz/f800/1715237669.jpeg?s=a46ef431f09d54e4fce8c0e44a38fcdd01bb81d5",
-    "itemURL": "https://www.vinted.fr/items/4478468635-lego-75375-star-wars",
-    "publication": 1715237669
+    "id": 5332699160,
+    "title": "Millenium Falcon - Star Wars (LEGO - 75375)",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/04_01f2d_Lxc7qhCfP8wfyKpax2WZdMzx/f800/1730800076.jpeg?s=4e9780d720e86e1868cc4b83da5982f2a7f3dcff",
+    "itemURL": "https://www.vinted.fr/items/5332699160-millenium-falcon-star-wars-lego-75375",
+    "publication": 1730800076,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5254735038,
+    "title": "LEGO Millénium Falcon 75375 Star Wars",
+    "price": "74.19",
+    "imgURL": "https://images1.vinted.net/t/03_02342_3ry2MeGJzwnTn2eyRwPtsUod/f800/1729511344.jpeg?s=58c53815199959fde6af2f0ae31cf6ace7bfecff",
+    "itemURL": "https://www.vinted.fr/items/5254735038-lego-millenium-falcon-75375-star-wars",
+    "publication": 1729511344,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5113924059,
+    "title": "Lego Halcón Milenario 75375",
+    "price": "73.15",
+    "imgURL": "https://images1.vinted.net/t/02_019e2_vHXQMYdZRf2aa2toM2XnLTsk/f800/1727389353.jpeg?s=7326f95e043f4f0364e3498ceeb18ee2b02e7d90",
+    "itemURL": "https://www.vinted.fr/items/5113924059-lego-halcon-milenario-75375",
+    "publication": 1727389353,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -384,25 +346,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/04_0216b_PwhejkXTFQ9YytUkCX8EPe5R/f800/1730464407.jpeg?s=8845b5d04e52df9a3f30c87580af96317038d899",
     "itemURL": "https://www.vinted.fr/items/5311157538-lego-75375",
-    "publication": 1730464407
-  },
-  {
-    "legoid": 75375,
-    "id": 4767965830,
-    "title": "Lego 75375",
-    "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/02_025f1_gRPGF2nDdbL4nfYUhJ58PBFR/f800/1721048909.jpeg?s=809f637a8aae6850de3f847880be12a8f27c0148",
-    "itemURL": "https://www.vinted.fr/items/4767965830-lego-75375",
-    "publication": 1721048909
-  },
-  {
-    "legoid": 75375,
-    "id": 5226361580,
-    "title": "Lego 75375",
-    "price": "84.7",
-    "imgURL": "https://images1.vinted.net/t/04_0216a_BhyCtomZ4wdfLWtUwJS7z7zA/f800/1730150288.jpeg?s=55c2bb41b894bc7a40ca52e0d269726e3664a698",
-    "itemURL": "https://www.vinted.fr/items/5226361580-lego-75375",
-    "publication": 1730150288
+    "publication": 1730464407,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -411,7 +356,18 @@
     "price": "79.45",
     "imgURL": "https://images1.vinted.net/t/04_01032_4HSxqZPEqz5YdcA96J4kkesR/f800/1731490076.jpeg?s=680195b6dbe4172e21b06a1e94def6563d87c754",
     "itemURL": "https://www.vinted.fr/items/5375039155-lego-millennium-falcon-75375",
-    "publication": 1731490076
+    "publication": 1731490076,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 4992597220,
+    "title": "Lego Star Wars Millennium Falcon #75375",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/03_001e4_6USbuNe47vnxvjXPreiozVta/f800/1725557898.jpeg?s=9052e4a9b0b1a5fdea784e9b1a4ba0a640548723",
+    "itemURL": "https://www.vinted.fr/items/4992597220-lego-star-wars-millennium-falcon-75375",
+    "publication": 1725557898,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -420,7 +376,28 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/04_010ae_3LWvu2Wz2xPM6sZtNA3hJ3Ej/f800/1729923383.jpeg?s=838b5847306b59d90c18841b9d494fd4376337bc",
     "itemURL": "https://www.vinted.fr/items/5278024302-lego-star-wars-75375",
-    "publication": 1729923383
+    "publication": 1729923383,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5367939093,
+    "title": "Nuovo Lego Star Wars Millennium Falcon",
+    "price": "94.15",
+    "imgURL": "https://images1.vinted.net/t/03_00455_Res2HQjwicXHgyQCUpfc3eGn/f800/1731348852.jpeg?s=db3d3ab2de70caf782fac40424c3c3d4a3862dba",
+    "itemURL": "https://www.vinted.fr/items/5367939093-nuovo-lego-star-wars-millennium-falcon",
+    "publication": 1731348852,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5079655957,
+    "title": "LEGO 75375 - Millennium Falcon",
+    "price": "59.5",
+    "imgURL": "https://images1.vinted.net/t/01_016d4_mFznUjBEcPJmR8ZNM97nEFBr/f800/1726908903.jpeg?s=a81c1f0ce80c53f08a3450967137015ecb5641fe",
+    "itemURL": "https://www.vinted.fr/items/5079655957-lego-75375-millennium-falcon",
+    "publication": 1726908903,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -429,25 +406,48 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/02_01617_pSrKBNdJRL7TXYjiswEFAPNP/f800/1728022953.jpeg?s=c797415c9677f305118e7cfd60da039a21f4a0e4",
     "itemURL": "https://www.vinted.fr/items/5154853788-lego-75375-nuevo",
-    "publication": 1728022953
+    "publication": 1728022953,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 4737688267,
-    "title": "Lego star wars millennium falcon",
+    "id": 4670582887,
+    "title": "Lego star wars 75375 new!",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/03_025ac_ayfcvM5tXpqzMuvQh15s43qU/f800/1718979799.jpeg?s=534637799ec78214dd336d6479b8f01a935905aa",
+    "itemURL": "https://www.vinted.fr/items/4670582887-lego-star-wars-75375-new",
+    "publication": 1718979799,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 4503960578,
+    "title": "LEGO Star Wars Millennium Falcon",
+    "price": "73.15",
+    "imgURL": "https://images1.vinted.net/t/03_025f0_H113piYK3MZsjE95MgjBWp7H/f800/1715709541.jpeg?s=231f8081ece333417585d42755c8bb5d56b016e5",
+    "itemURL": "https://www.vinted.fr/items/4503960578-lego-star-wars-millennium-falcon",
+    "publication": 1715709541,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 4485773582,
+    "title": "Lego 75375 le faucon millennium",
     "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/01_01cab_QpM4TtD8rFwhTfvfmoYqgDtF/f800/1720393860.jpeg?s=aea6ba186c8a633c7151ab037d34bd246cc36293",
-    "itemURL": "https://www.vinted.fr/items/4737688267-lego-star-wars-millennium-falcon",
-    "publication": 1720393860
+    "imgURL": "https://images1.vinted.net/t/02_003e8_YUwLSaWNvod5LcYp53ftb8sK/f800/1715364286.jpeg?s=0ee92cce82f7f54f1ff4eb2ee6673eb44b70134e",
+    "itemURL": "https://www.vinted.fr/items/4485773582-lego-75375-le-faucon-millennium",
+    "publication": 1715364286,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 4433776698,
-    "title": "Lego 75375 Millennium Falcon",
+    "id": 5226361580,
+    "title": "Lego 75375",
     "price": "84.7",
-    "imgURL": "https://images1.vinted.net/t/03_0132a_po1fEqjFRZXAtKnzvfP9MrWB/f800/1714395160.jpeg?s=92b0d062813db1b0dab95cd7ab213f27eecb0237",
-    "itemURL": "https://www.vinted.fr/items/4433776698-lego-75375-millennium-falcon",
-    "publication": 1714395160
+    "imgURL": "https://images1.vinted.net/t/04_0216a_BhyCtomZ4wdfLWtUwJS7z7zA/f800/1730150288.jpeg?s=55c2bb41b894bc7a40ca52e0d269726e3664a698",
+    "itemURL": "https://www.vinted.fr/items/5226361580-lego-75375",
+    "publication": 1730150288,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -456,34 +456,38 @@
     "price": "131.95",
     "imgURL": "https://images1.vinted.net/t/02_021a6_uekZkqK59WABojAqqsGfNpTp/f800/1716660263.jpeg?s=5885d02c7ff3e4935a89535d1a697a4e95b54895",
     "itemURL": "https://www.vinted.fr/items/4553634230-lego-75375-75376-tantive-iv-et-faucon-neufs-et-scelles",
-    "publication": 1716660263
+    "publication": 1716660263,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 4940672282,
-    "title": "Lego Star wars Millenium Falcón 75375",
+    "id": 4737688267,
+    "title": "Lego star wars millennium falcon",
     "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/03_022de_WmSastR3yWcnduaUA6JBqAcx/f800/1724666295.jpeg?s=79076a3cca4b67d0c03bdd3699e699efc4c2acfa",
-    "itemURL": "https://www.vinted.fr/items/4940672282-lego-star-wars-millenium-falcon-75375",
-    "publication": 1724666295
+    "imgURL": "https://images1.vinted.net/t/01_01cab_QpM4TtD8rFwhTfvfmoYqgDtF/f800/1720393860.jpeg?s=aea6ba186c8a633c7151ab037d34bd246cc36293",
+    "itemURL": "https://www.vinted.fr/items/4737688267-lego-star-wars-millennium-falcon",
+    "publication": 1720393860,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 5214075484,
-    "title": "Lego star wars",
-    "price": "263.2",
-    "imgURL": "https://images1.vinted.net/t/01_000b8_JH1tYM5b5WxtdaRLv99CDFJC/f800/1728880766.jpeg?s=37d3ce555c6a9b1a58617d42553997524891b7e3",
-    "itemURL": "https://www.vinted.fr/items/5214075484-lego-star-wars",
-    "publication": 1728880766
+    "id": 4433776698,
+    "title": "Lego 75375 Millennium Falcon",
+    "price": "84.7",
+    "imgURL": "https://images1.vinted.net/t/03_0132a_po1fEqjFRZXAtKnzvfP9MrWB/f800/1714395160.jpeg?s=92b0d062813db1b0dab95cd7ab213f27eecb0237",
+    "itemURL": "https://www.vinted.fr/items/4433776698-lego-75375-millennium-falcon",
+    "publication": 1714395160,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
-    "id": 5011007204,
-    "title": "(new, unopened) 75375 LEGO",
-    "price": "140.35",
-    "imgURL": "https://images1.vinted.net/t/03_01481_aXmKQVXK44SEXZbzguJiN8U1/f800/1725872317.jpeg?s=ec2b68344cececd4fd32b9ba30f1a90c6cedf86e",
-    "itemURL": "https://www.vinted.fr/items/5011007204-new-unopened-75375-lego",
-    "publication": 1725872317
+    "id": 4767965830,
+    "title": "Lego 75375",
+    "price": "79.45",
+    "imgURL": "https://images1.vinted.net/t/02_025f1_gRPGF2nDdbL4nfYUhJ58PBFR/f800/1721048909.jpeg?s=809f637a8aae6850de3f847880be12a8f27c0148",
+    "itemURL": "https://www.vinted.fr/items/4767965830-lego-75375",
+    "publication": 1721048909,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -492,7 +496,48 @@
     "price": "89.95",
     "imgURL": "https://images1.vinted.net/t/01_0083a_f88bFDty572QN5ugYv37cmom/f800/1728899113.jpeg?s=c100f7a711b91ca5210fca73d16fde88955f35b0",
     "itemURL": "https://www.vinted.fr/items/5215022919-lego-star-wars-75375-millennium-falcon",
-    "publication": 1728899113
+    "publication": 1728899113,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5214075484,
+    "title": "Lego star wars",
+    "price": "263.2",
+    "imgURL": "https://images1.vinted.net/t/01_000b8_JH1tYM5b5WxtdaRLv99CDFJC/f800/1728880766.jpeg?s=37d3ce555c6a9b1a58617d42553997524891b7e3",
+    "itemURL": "https://www.vinted.fr/items/5214075484-lego-star-wars",
+    "publication": 1728880766,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 4940672282,
+    "title": "Lego Star wars Millenium Falcón 75375",
+    "price": "79.45",
+    "imgURL": "https://images1.vinted.net/t/03_022de_WmSastR3yWcnduaUA6JBqAcx/f800/1724666295.jpeg?s=79076a3cca4b67d0c03bdd3699e699efc4c2acfa",
+    "itemURL": "https://www.vinted.fr/items/4940672282-lego-star-wars-millenium-falcon-75375",
+    "publication": 1724666295,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 4478468635,
+    "title": "Lego 75375 star wars",
+    "price": "66.85",
+    "imgURL": "https://images1.vinted.net/t/01_00a75_bZ5NdMWH4odAMWx2nf2Tywkz/f800/1715237669.jpeg?s=a46ef431f09d54e4fce8c0e44a38fcdd01bb81d5",
+    "itemURL": "https://www.vinted.fr/items/4478468635-lego-75375-star-wars",
+    "publication": 1715237669,
+    "scraping_data": 1732470529
+  },
+  {
+    "legoid": 75375,
+    "id": 5011007204,
+    "title": "(new, unopened) 75375 LEGO",
+    "price": "140.35",
+    "imgURL": "https://images1.vinted.net/t/03_01481_aXmKQVXK44SEXZbzguJiN8U1/f800/1725872317.jpeg?s=ec2b68344cececd4fd32b9ba30f1a90c6cedf86e",
+    "itemURL": "https://www.vinted.fr/items/5011007204-new-unopened-75375-lego",
+    "publication": 1725872317,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -501,7 +546,8 @@
     "price": "179.2",
     "imgURL": "https://images1.vinted.net/t/01_0009f_xqVcrcj74xAqR7jz6FdBSsH6/f800/1729946570.jpeg?s=16894bede9888f04c0a20fa6ebd48832b996cedc",
     "itemURL": "https://www.vinted.fr/items/5280131534-diorami-lego-star-wars",
-    "publication": 1729946570
+    "publication": 1729946570,
+    "scraping_data": 1732470529
   },
   {
     "legoid": 75375,
@@ -510,6 +556,7 @@
     "price": "368.2",
     "imgURL": "https://images1.vinted.net/t/02_0039e_ardhDHVyGHpHMRKRfr3Uu2eT/f800/1698422101.jpeg?s=72351080444beb69d612e89258bd7d559cab2a42",
     "itemURL": "https://www.vinted.fr/items/3673028896-lotte-lego-star-wars",
-    "publication": 1698422101
+    "publication": 1698422101,
+    "scraping_data": 1732470529
   }
 ]

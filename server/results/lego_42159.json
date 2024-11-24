@@ -6,7 +6,8 @@
     "price": "47.85",
     "imgURL": "https://images1.vinted.net/t/02_00bcf_3wPQGTc8VxMnSw42yLZJddWm/f800/1732160314.jpeg?s=204104262cbb13947501ef5dafde9dd52abb977c",
     "itemURL": "https://www.vinted.fr/items/5417371842-just-box-and-manual-boite-vide-et-notice-lego-technic-42159-yamaha",
-    "publication": 1732160314
+    "publication": 1732160314,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -15,7 +16,8 @@
     "price": "31.15",
     "imgURL": "https://images1.vinted.net/t/01_00ead_166PHJ2c1R88MKxXupPAARFJ/f800/1731962951.jpeg?s=800c22722531e8a1ec1575d51c73a196b96b155e",
     "itemURL": "https://www.vinted.fr/items/5406733027-no-lego-technic-42159-mt10",
-    "publication": 1731962951
+    "publication": 1731962951,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -24,34 +26,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/03_020eb_tEoH35ReKCEUUQeQDjZH27aZ/f800/r3/1729761026.jpeg?s=0deb296661d51107c35e33c920c4e9cf61fc28e1",
     "itemURL": "https://www.vinted.fr/items/5269452280-lego-technic-42159-monster-jam",
-    "publication": 1729761026
-  },
-  {
-    "legoid": 42159,
-    "id": 5433826025,
-    "title": "LEGO Technic 42159 Yamaha MT-10 SP",
-    "price": "146.65",
-    "imgURL": "https://images1.vinted.net/t/04_00e2c_Rpv9ruCSw1wZwvNj7fX27axe/f800/1732450806.jpeg?s=2c5d6d576f7463dbf85ce720a58395bf7918eb2d",
-    "itemURL": "https://www.vinted.fr/items/5433826025-lego-technic-42159-yamaha-mt-10-sp",
-    "publication": 1732450806
-  },
-  {
-    "legoid": 42159,
-    "id": 5414086574,
-    "title": "LEGO® Technic 42159 Yamaha MT-10 SP",
-    "price": "157.15",
-    "imgURL": "https://images1.vinted.net/t/04_01570_vQg5EcxnbS4adHdKuzuH6Q6i/f800/1732107925.jpeg?s=f2f6af5c7dc87751bcf9271643447c9615a9a40d",
-    "itemURL": "https://www.vinted.fr/items/5414086574-legor-technic-42159-yamaha-mt-10-sp",
-    "publication": 1732107925
-  },
-  {
-    "legoid": 42159,
-    "id": 5345983267,
-    "title": "Lego 42159",
-    "price": "158.2",
-    "imgURL": "https://images1.vinted.net/t/02_01238_kxcc583zd1AZJh28D1jSbi2n/f800/1731025122.jpeg?s=b7a5e5ddd26947568cb5312f9d2bfd5cb5f8ab5f",
-    "itemURL": "https://www.vinted.fr/items/5345983267-lego-42159",
-    "publication": 1731025122
+    "publication": 1729761026,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -60,7 +36,48 @@
     "price": "126.7",
     "imgURL": "https://images1.vinted.net/t/03_00808_K9QDpmHZY9Rfy2nkvJCbj9TQ/f800/1731426994.jpeg?s=51b21bc9232f8713288a6ded83a2c6207b2f9be1",
     "itemURL": "https://www.vinted.fr/items/5372312641-lego-yamaha-42159",
-    "publication": 1731426994
+    "publication": 1731426994,
+    "scraping_data": 1732470473
+  },
+  {
+    "legoid": 42159,
+    "id": 5433826025,
+    "title": "LEGO Technic 42159 Yamaha MT-10 SP",
+    "price": "146.65",
+    "imgURL": "https://images1.vinted.net/t/04_00e2c_Rpv9ruCSw1wZwvNj7fX27axe/f800/1732450806.jpeg?s=2c5d6d576f7463dbf85ce720a58395bf7918eb2d",
+    "itemURL": "https://www.vinted.fr/items/5433826025-lego-technic-42159-yamaha-mt-10-sp",
+    "publication": 1732450806,
+    "scraping_data": 1732470473
+  },
+  {
+    "legoid": 42159,
+    "id": 5414086574,
+    "title": "LEGO® Technic 42159 Yamaha MT-10 SP",
+    "price": "157.15",
+    "imgURL": "https://images1.vinted.net/t/04_01570_vQg5EcxnbS4adHdKuzuH6Q6i/f800/1732107925.jpeg?s=f2f6af5c7dc87751bcf9271643447c9615a9a40d",
+    "itemURL": "https://www.vinted.fr/items/5414086574-legor-technic-42159-yamaha-mt-10-sp",
+    "publication": 1732107925,
+    "scraping_data": 1732470473
+  },
+  {
+    "legoid": 42159,
+    "id": 5345983267,
+    "title": "Lego 42159",
+    "price": "158.2",
+    "imgURL": "https://images1.vinted.net/t/02_01238_kxcc583zd1AZJh28D1jSbi2n/f800/1731025122.jpeg?s=b7a5e5ddd26947568cb5312f9d2bfd5cb5f8ab5f",
+    "itemURL": "https://www.vinted.fr/items/5345983267-lego-42159",
+    "publication": 1731025122,
+    "scraping_data": 1732470473
+  },
+  {
+    "legoid": 42159,
+    "id": 5436203327,
+    "title": "Lego Technic 42159 - Yamaha MT-10 SP - Neuve",
+    "price": "158.2",
+    "imgURL": "https://images1.vinted.net/t/04_02697_q8HH9kGZ9sXFLz5Zyiq7nPKL/f800/1732465053.jpeg?s=3820d75a6a886415bbde4a28154996fcefdcafbd",
+    "itemURL": "https://www.vinted.fr/items/5436203327-lego-technic-42159-yamaha-mt-10-sp-neuve",
+    "publication": 1732465053,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -69,16 +86,8 @@
     "price": "173.95",
     "imgURL": "https://images1.vinted.net/t/04_013dc_HfPYtX63WXcxLv89As8Q4x1o/f800/1731974949.jpeg?s=3f0b67bc0e10aaff749b3f845b61773d4a3e1973",
     "itemURL": "https://www.vinted.fr/items/5407253657-lego-moto-yamaha-mt-10-sp-42159",
-    "publication": 1731974949
-  },
-  {
-    "legoid": 42159,
-    "id": 5292953332,
-    "title": "Lego Icons Ayrton Senna Formule 1",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/04_01f82_ACjiuntKUAAZyt2HG8gj2Qns/f800/1730126704.jpeg?s=57181b478240f025cca455d8ca7251ce11795d21",
-    "itemURL": "https://www.vinted.fr/items/5292953332-lego-icons-ayrton-senna-formule-1",
-    "publication": 1730126704
+    "publication": 1731974949,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -87,16 +96,8 @@
     "price": "165.55",
     "imgURL": "https://images1.vinted.net/t/04_007c0_qZa6hNAajvhJLWW2PqUN6jTQ/f800/1729865722.jpeg?s=691a202b920758b8b104ebe710fe6eab35ec3e96",
     "itemURL": "https://www.vinted.fr/items/5275900693-lego-42159-nuovo-yamaha-mt-10-sp",
-    "publication": 1729865722
-  },
-  {
-    "legoid": 42159,
-    "id": 5382575773,
-    "title": "LEGO 42159 Technic Yamaha MT10 SP Nuovo",
-    "price": "168.69",
-    "imgURL": "https://images1.vinted.net/t/04_00ea4_F8ueHEvwYpruSRPm9eRHcL4C/f800/1731601855.jpeg?s=37f5652a356748ba82d5744a89cf481352d69b93",
-    "itemURL": "https://www.vinted.fr/items/5382575773-lego-42159-technic-yamaha-mt10-sp-nuovo",
-    "publication": 1731601855
+    "publication": 1729865722,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -105,7 +106,18 @@
     "price": "89.95",
     "imgURL": "https://images1.vinted.net/t/01_01227_K3Hoyeq1TbEnqrU8Z8mbCruN/f800/1727030504.jpeg?s=3e0dd44279d5b5861efe6c3cd0eb1a114f85a42a",
     "itemURL": "https://www.vinted.fr/items/5091255897-lego-icons-vespa-10298-novoselado",
-    "publication": 1727030504
+    "publication": 1727030504,
+    "scraping_data": 1732470473
+  },
+  {
+    "legoid": 42159,
+    "id": 5382575773,
+    "title": "LEGO 42159 Technic Yamaha MT10 SP Nuovo",
+    "price": "168.69",
+    "imgURL": "https://images1.vinted.net/t/04_00ea4_F8ueHEvwYpruSRPm9eRHcL4C/f800/1731601855.jpeg?s=37f5652a356748ba82d5744a89cf481352d69b93",
+    "itemURL": "https://www.vinted.fr/items/5382575773-lego-42159-technic-yamaha-mt10-sp-nuovo",
+    "publication": 1731601855,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -114,7 +126,8 @@
     "price": "188.65",
     "imgURL": "https://images1.vinted.net/t/02_006d9_smW5UQa7DB2vQzrJjb6Gifga/f800/1728251117.jpeg?s=02be2837b0ae0ec2ae863fcaf0b93ed443a61885",
     "itemURL": "https://www.vinted.fr/items/5173656236-lego-technic-42159-yamaha-mt-10-sp",
-    "publication": 1728251117
+    "publication": 1728251117,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -123,16 +136,8 @@
     "price": "178.15",
     "imgURL": "https://images1.vinted.net/t/02_01071_TnNCMqsQ91ykCrRoyA6FcbzU/f800/1729281078.jpeg?s=a26e1776d57bdaa0f990e94333816323b07984d1",
     "itemURL": "https://www.vinted.fr/items/5239293813-lego-technic-yamaha-mt-10-sp-42159",
-    "publication": 1729281078
-  },
-  {
-    "legoid": 42159,
-    "id": 5354853342,
-    "title": "Lego Technic Audi",
-    "price": "105.7",
-    "imgURL": "https://images1.vinted.net/t/04_01d21_GpM3VThNtbrXzh5gxa4Ro8tw/f800/1731179222.jpeg?s=9d28bb310f25afd5bb8ace94c2be39f449042e1f",
-    "itemURL": "https://www.vinted.fr/items/5354853342-lego-technic-audi",
-    "publication": 1731179222
+    "publication": 1729281078,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -141,34 +146,8 @@
     "price": "147.7",
     "imgURL": "https://images1.vinted.net/t/02_00a8b_AR4i18EZfHp2LoNFTSzKp3g4/f800/1727029807.jpeg?s=6140a21e5b30e3f91d830e4ed95a87136288f4c7",
     "itemURL": "https://www.vinted.fr/items/5091176516-lego-harry-potter-castle-and-grounds-76149-novoselado",
-    "publication": 1727029807
-  },
-  {
-    "legoid": 42159,
-    "id": 5425007002,
-    "title": "Lego Technic Moto BMW M 1000 RR",
-    "price": "147.7",
-    "imgURL": "https://images1.vinted.net/t/04_00111_yCuKW2hetZr1GidmjKdGztiT/f800/1732295148.jpeg?s=6198805d60bbe081bd114d3564c49e58cb76f5b5",
-    "itemURL": "https://www.vinted.fr/items/5425007002-lego-technic-moto-bmw-m-1000-rr",
-    "publication": 1732295148
-  },
-  {
-    "legoid": 42159,
-    "id": 4003931611,
-    "title": "LEGO Technique Yamaha 42159",
-    "price": "210.7",
-    "imgURL": "https://images1.vinted.net/t/01_002bb_nKiwsdUCDLmPqvXzsxk3e9xN/f800/1705831153.jpeg?s=ccf1fe688df72612d3496ae0148178560bc9d18d",
-    "itemURL": "https://www.vinted.fr/items/4003931611-lego-technique-yamaha-42159",
-    "publication": 1705831153
-  },
-  {
-    "legoid": 42159,
-    "id": 4572936649,
-    "title": "Lego technic 42159",
-    "price": "167.65",
-    "imgURL": "https://images1.vinted.net/t/01_008c4_fBiiWEFZrcnynuSMg5yD7MCQ/f800/1717012451.jpeg?s=218088273e0612d5c13dd3f1ffee876dacb6ab66",
-    "itemURL": "https://www.vinted.fr/items/4572936649-lego-technic-42159",
-    "publication": 1717012451
+    "publication": 1727029807,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -177,7 +156,28 @@
     "price": "173.95",
     "imgURL": "https://images1.vinted.net/t/04_018aa_u2nJxX38WyESYX2dVHTgtbBs/f800/1730843484.jpeg?s=4a0307e54d52c2e732b43450494cb2ff0cb447fe",
     "itemURL": "https://www.vinted.fr/items/5336512992-lego-yamaha-mt-10-sp-set-42159",
-    "publication": 1730843484
+    "publication": 1730843484,
+    "scraping_data": 1732470473
+  },
+  {
+    "legoid": 42159,
+    "id": 4572936649,
+    "title": "Lego technic 42159",
+    "price": "167.65",
+    "imgURL": "https://images1.vinted.net/t/01_008c4_fBiiWEFZrcnynuSMg5yD7MCQ/f800/1717012451.jpeg?s=218088273e0612d5c13dd3f1ffee876dacb6ab66",
+    "itemURL": "https://www.vinted.fr/items/4572936649-lego-technic-42159",
+    "publication": 1717012451,
+    "scraping_data": 1732470473
+  },
+  {
+    "legoid": 42159,
+    "id": 4003931611,
+    "title": "LEGO Technique Yamaha 42159",
+    "price": "210.7",
+    "imgURL": "https://images1.vinted.net/t/01_002bb_nKiwsdUCDLmPqvXzsxk3e9xN/f800/1705831153.jpeg?s=ccf1fe688df72612d3496ae0148178560bc9d18d",
+    "itemURL": "https://www.vinted.fr/items/4003931611-lego-technique-yamaha-42159",
+    "publication": 1705831153,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -186,7 +186,8 @@
     "price": "179.2",
     "imgURL": "https://images1.vinted.net/t/01_023e1_Ui26w769yVcoWWSF5zJByGxu/f800/1728420705.jpeg?s=6c9710f6ed6ddbdaf9a4b3302e181fb9499dc14c",
     "itemURL": "https://www.vinted.fr/items/5184724310-lego-42159-yamaha-sp-10",
-    "publication": 1728420705
+    "publication": 1728420705,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -195,16 +196,8 @@
     "price": "173.95",
     "imgURL": "https://images1.vinted.net/t/04_00005_7sr31BjBMs5eDBhapsGrCFoD/f800/1730558073.jpeg?s=fd77321e13406a6c62ffccf1599e9fdd9df389ac",
     "itemURL": "https://www.vinted.fr/items/5317258459-lego-technic",
-    "publication": 1730558073
-  },
-  {
-    "legoid": 42159,
-    "id": 5305087267,
-    "title": "Lego Technic La débardeuse John Deere",
-    "price": "137.2",
-    "imgURL": "https://images1.vinted.net/t/01_005a3_e4DsrmqtSogtnm25D5MtY88P/f800/1730323087.jpeg?s=993d37ea0109b0d6d67d097dab1384faceeec4a3",
-    "itemURL": "https://www.vinted.fr/items/5305087267-lego-technic-la-debardeuse-john-deere",
-    "publication": 1730323087
+    "publication": 1730558073,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -213,7 +206,8 @@
     "price": "205.45",
     "imgURL": "https://images1.vinted.net/t/03_008bd_jbvqqErnYUQz3SVc5BHRUyvg/f800/1690285871.jpeg?s=f0b882535c73038a3d34a467a3ee390a4cc726af",
     "itemURL": "https://www.vinted.fr/items/3276420162-lego-42159",
-    "publication": 1690285871
+    "publication": 1690285871,
+    "scraping_data": 1732470473
   },
   {
     "legoid": 42159,
@@ -222,6 +216,7 @@
     "price": "189.7",
     "imgURL": "https://images1.vinted.net/t/03_0014e_czCvkZqpXjQcaRbmMyrUWkmk/f800/1727030593.jpeg?s=c8d03ec4ae0da151ac548169aa86bbd383d08588",
     "itemURL": "https://www.vinted.fr/items/5091266067-lego-technic-yamaha-mt-10-sp-42159-novoselado",
-    "publication": 1727030593
+    "publication": 1727030593,
+    "scraping_data": 1732470473
   }
 ]

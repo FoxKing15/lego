@@ -6,7 +6,8 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/04_02695_pjXHpq1MqmwpejtiYWCfcM3b/f800/1731880882.jpeg?s=8d0501d12e5ec23ec086a488f8168f760d9e4d7c",
     "itemURL": "https://www.vinted.fr/items/5401736414-lego-71440-super-mario-luigi-nuevo-precintado-sin-abrir",
-    "publication": 1731880882
+    "publication": 1731880882,
+    "scraping_data": 1732470661
   },
   {
     "legoid": 71440,
@@ -15,6 +16,7 @@
     "price": "3.12",
     "imgURL": "https://images1.vinted.net/t/01_012d7_iwX8VmGFhtyKwzsRo8nEtXjw/f800/1727767659.jpeg?s=7d9264fdacf7ec4fac8a6474244e8386da122422",
     "itemURL": "https://www.vinted.fr/items/5138796145-lego-super-mario-lot-2-plat-scanner-code-bowser",
-    "publication": 1727767659
+    "publication": 1727767659,
+    "scraping_data": 1732470661
   }
 ]

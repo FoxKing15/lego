@@ -6,16 +6,8 @@
     "price": "2.8",
     "imgURL": "https://images1.vinted.net/t/02_00649_d1H9EibhvcSA7TxKRymbLq9w/f800/1718798980.jpeg?s=7a569eccc868c046841fb344bc30d0058b99ec4b",
     "itemURL": "https://www.vinted.fr/items/4662341857-notice-lego-set-76428",
-    "publication": 1718798980
-  },
-  {
-    "legoid": 76428,
-    "id": 5416633198,
-    "title": "Lego 76428",
-    "price": "59.5",
-    "imgURL": "https://images1.vinted.net/t/04_01053_nGrP84fcd4m8aQmSD6BWh3Mp/f800/1732133400.jpeg?s=04de5846ec6f07353b4bc00940ae2f75d0dfd646",
-    "itemURL": "https://www.vinted.fr/items/5416633198-lego-76428",
-    "publication": 1732133400
+    "publication": 1718798980,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -24,25 +16,8 @@
     "price": "58.44",
     "imgURL": "https://images1.vinted.net/t/03_025b1_LTBS3LZ2xvr1ajeUuXppGsfm/f800/1730986274.jpeg?s=bc2f7427f6880e56d264eab662876dea9bccb256",
     "itemURL": "https://www.vinted.fr/items/5343285969-lego-76428-hagrids-hut-harry-potter",
-    "publication": 1730986274
-  },
-  {
-    "legoid": 76428,
-    "id": 5417021931,
-    "title": "Lego 76428 Harry Potter",
-    "price": "59.5",
-    "imgURL": "https://images1.vinted.net/t/04_01a16_dM1Qrred8ZK9yTBFMBR2GXZa/f800/1732138402.jpeg?s=5e7697c632f5ad719b7f6cd1d279016431b07ede",
-    "itemURL": "https://www.vinted.fr/items/5417021931-lego-76428-harry-potter",
-    "publication": 1732138402
-  },
-  {
-    "legoid": 76428,
-    "id": 5354910230,
-    "title": "Lego Harry Potter 76428",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_01f7e_qkhKQ6gfF93oJurU2zCg7fc9/f800/1731179960.jpeg?s=13e7553d3243975de24897997147f8412a1d8564",
-    "itemURL": "https://www.vinted.fr/items/5354910230-lego-harry-potter-76428",
-    "publication": 1731179960
+    "publication": 1730986274,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -51,7 +26,18 @@
     "price": "4.9",
     "imgURL": "https://images1.vinted.net/t/03_01dde_6UrbQVURJRcVPDTMRZuD1kn3/f800/1714393788.jpeg?s=c042b46d0023242214f29028b160da2f64b1b81c",
     "itemURL": "https://www.vinted.fr/items/4433648075-lego-minifigure-harry-potter-set-76428",
-    "publication": 1714393788
+    "publication": 1714393788,
+    "scraping_data": 1732470519
+  },
+  {
+    "legoid": 76428,
+    "id": 5434584366,
+    "title": "Lego harry Potter 76428 la maison de hagrid et supplement",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/04_005f6_BdCqzjMuyqViRjNtMV3pScZW/f800/1732455539.jpeg?s=2110b0009e81f2be28493dd36455d4f12096c862",
+    "itemURL": "https://www.vinted.fr/items/5434584366-lego-harry-potter-76428-la-maison-de-hagrid-et-supplement",
+    "publication": 1732455539,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -60,7 +46,18 @@
     "price": "4.9",
     "imgURL": "https://images1.vinted.net/t/03_014af_8Ghr3UTyHyfZGXRfaLu2ZfXr/f800/1714393669.jpeg?s=3a18842fe68c8d7ddc3a9999bc8eef60e8d4058e",
     "itemURL": "https://www.vinted.fr/items/4433636952-lego-minifigure-ron-weasley-set-76428",
-    "publication": 1714393669
+    "publication": 1714393669,
+    "scraping_data": 1732470519
+  },
+  {
+    "legoid": 76428,
+    "id": 5354910230,
+    "title": "Lego Harry Potter 76428",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/04_01f7e_qkhKQ6gfF93oJurU2zCg7fc9/f800/1731179960.jpeg?s=13e7553d3243975de24897997147f8412a1d8564",
+    "itemURL": "https://www.vinted.fr/items/5354910230-lego-harry-potter-76428",
+    "publication": 1731179960,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -69,25 +66,18 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/03_00278_qJ2dBRUusFmfWgjNWL8StSjh/f800/1731738489.jpeg?s=edafa92ee9169b803c40723c4fee3dbb3b54ecdd",
     "itemURL": "https://www.vinted.fr/items/5388899604-lego-hp-76428",
-    "publication": 1731738489
+    "publication": 1731738489,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
-    "id": 4622965530,
-    "title": "Lego harry potter 76428",
-    "price": "62.65",
-    "imgURL": "https://images1.vinted.net/t/01_00569_9ixGDF4yGBay3bBc3NVLfytF/f800/1718015175.jpeg?s=e6bd0636737e88ac9f4a00ba0c23b15c70eae19c",
-    "itemURL": "https://www.vinted.fr/items/4622965530-lego-harry-potter-76428",
-    "publication": 1718015175
-  },
-  {
-    "legoid": 76428,
-    "id": 5399402300,
-    "title": "Lego Harry Potter Fan set & gratis (76416. 76424. 76428)",
-    "price": "126.7",
-    "imgURL": "https://images1.vinted.net/t/01_02602_W6F6Xp8CK4K6X6RViRpuyobb/f800/1731861376.jpeg?s=9078f923bf352115e811da93f09e6eec61ea745a",
-    "itemURL": "https://www.vinted.fr/items/5399402300-lego-harry-potter-fan-set-gratis-76416-76424-76428",
-    "publication": 1731861376
+    "id": 5417021931,
+    "title": "Lego 76428 Harry Potter",
+    "price": "59.5",
+    "imgURL": "https://images1.vinted.net/t/04_01a16_dM1Qrred8ZK9yTBFMBR2GXZa/f800/1732138402.jpeg?s=5e7697c632f5ad719b7f6cd1d279016431b07ede",
+    "itemURL": "https://www.vinted.fr/items/5417021931-lego-76428-harry-potter",
+    "publication": 1732138402,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -96,16 +86,8 @@
     "price": "64.75",
     "imgURL": "https://images1.vinted.net/t/01_021db_y2YEAVqAN4Fnjh3WHBKVi93z/f800/1725314179.jpeg?s=6afd3f73a519292f0ece7be18ab1851024f75965",
     "itemURL": "https://www.vinted.fr/items/4979329780-lego-harry-potter-la-capanna-di-hagrid-una-visita-inattesa-76428",
-    "publication": 1725314179
-  },
-  {
-    "legoid": 76428,
-    "id": 5410866131,
-    "title": "Lego 76428 Hagrid Harry Potter",
-    "price": "70.0",
-    "imgURL": "https://images1.vinted.net/t/02_02553_njQ9nfMprZDudDLxqrQjbCQG/f800/1732039562.jpeg?s=b25227a5a45b7d5bf434a5120797a3d3e75dae7f",
-    "itemURL": "https://www.vinted.fr/items/5410866131-lego-76428-hagrid-harry-potter",
-    "publication": 1732039562
+    "publication": 1725314179,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -114,7 +96,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/03_00ff9_QWQ8kkbhVvj8wfHtvezCxD3j/f800/1725202650.jpeg?s=f7fc4f1b86dd8fad9658c0502946619b09da46ee",
     "itemURL": "https://www.vinted.fr/items/4971981080-76428-lego-harry-potter-hagrids-hutte",
-    "publication": 1725202650
+    "publication": 1725202650,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -123,16 +106,18 @@
     "price": "68.95",
     "imgURL": "https://images1.vinted.net/t/03_0208c_mC4oVnN4A6Gg6LoVNqeWWU62/f800/1723187140.jpeg?s=2dddea37f6bdf60a7877981094e64f2726954c1a",
     "itemURL": "https://www.vinted.fr/items/4865831922-lego-harry-potter-la-cabane-dhagrid-76428",
-    "publication": 1723187140
+    "publication": 1723187140,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
-    "id": 4957643426,
-    "title": "LEGO 76428 cabaña de Hagrid",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/02_01aa0_cZkYGPzdH3pTwt7ch7EWADQV/f800/1724944293.jpeg?s=51ceca00e473cfee1d2beafc9e17e129a828a689",
-    "itemURL": "https://www.vinted.fr/items/4957643426-lego-76428-cabana-de-hagrid",
-    "publication": 1724944293
+    "id": 4622965530,
+    "title": "Lego harry potter 76428",
+    "price": "62.65",
+    "imgURL": "https://images1.vinted.net/t/01_00569_9ixGDF4yGBay3bBc3NVLfytF/f800/1718015175.jpeg?s=e6bd0636737e88ac9f4a00ba0c23b15c70eae19c",
+    "itemURL": "https://www.vinted.fr/items/4622965530-lego-harry-potter-76428",
+    "publication": 1718015175,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -141,7 +126,18 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/04_011cf_SqUpzeeuww1ZMKGXafHvPzV9/f800/1731802127.jpeg?s=c940eabd003000b45ee087aadeca587b6437ed10",
     "itemURL": "https://www.vinted.fr/items/5394402668-lego-76428-hagrids-hut-an-unexpected-visit",
-    "publication": 1731802127
+    "publication": 1731802127,
+    "scraping_data": 1732470519
+  },
+  {
+    "legoid": 76428,
+    "id": 5399402300,
+    "title": "Lego Harry Potter Fan set & gratis (76416. 76424. 76428)",
+    "price": "126.7",
+    "imgURL": "https://images1.vinted.net/t/01_02602_W6F6Xp8CK4K6X6RViRpuyobb/f800/1731861376.jpeg?s=9078f923bf352115e811da93f09e6eec61ea745a",
+    "itemURL": "https://www.vinted.fr/items/5399402300-lego-harry-potter-fan-set-gratis-76416-76424-76428",
+    "publication": 1731861376,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -150,16 +146,8 @@
     "price": "68.95",
     "imgURL": "https://images1.vinted.net/t/01_00593_dWfP179nZgGBygG4nJ8Y1rkd/f800/1730453716.jpeg?s=8c097db89eeb9a4775106035a39ee70bf492a618",
     "itemURL": "https://www.vinted.fr/items/5310002771-lego-76428-cabana-de-hagrid",
-    "publication": 1730453716
-  },
-  {
-    "legoid": 76428,
-    "id": 5246259030,
-    "title": "76428 LEGO La Capanna di Hagrid: una visita inattesa",
-    "price": "79.44",
-    "imgURL": "https://images1.vinted.net/t/03_013ae_G93qg4UQKoeK9wLNSpMjFGQ9/f800/1729414598.jpeg?s=ab4fb81f8c4f35cf7456cc83e4c388905a1fc2d2",
-    "itemURL": "https://www.vinted.fr/items/5246259030-76428-lego-la-capanna-di-hagrid-una-visita-inattesa",
-    "publication": 1729414598
+    "publication": 1730453716,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -168,7 +156,28 @@
     "price": "65.8",
     "imgURL": "https://images1.vinted.net/t/03_0260e_zxq24rKB1Zdc6oC8fHcR3cZ6/f800/1725996460.jpeg?s=f289a15875bb437cf1f05a764fcd4f1e8a444fb4",
     "itemURL": "https://www.vinted.fr/items/5021364760-lego-76428",
-    "publication": 1725996460
+    "publication": 1725996460,
+    "scraping_data": 1732470519
+  },
+  {
+    "legoid": 76428,
+    "id": 4524571441,
+    "title": "Lego Harry Potter 76428 la cabane de Hagrid : une visite inattendue",
+    "price": "79.45",
+    "imgURL": "https://images1.vinted.net/t/02_02205_TwAnwKQdsFbPk1FLg63Kqom6/f800/1716124775.jpeg?s=5904a64035185f88bba85586d4ded5b6e92251c4",
+    "itemURL": "https://www.vinted.fr/items/4524571441-lego-harry-potter-76428-la-cabane-de-hagrid-une-visite-inattendue",
+    "publication": 1716124775,
+    "scraping_data": 1732470519
+  },
+  {
+    "legoid": 76428,
+    "id": 5246259030,
+    "title": "76428 LEGO La Capanna di Hagrid: una visita inattesa",
+    "price": "79.44",
+    "imgURL": "https://images1.vinted.net/t/03_013ae_G93qg4UQKoeK9wLNSpMjFGQ9/f800/1729414598.jpeg?s=ab4fb81f8c4f35cf7456cc83e4c388905a1fc2d2",
+    "itemURL": "https://www.vinted.fr/items/5246259030-76428-lego-la-capanna-di-hagrid-una-visita-inattesa",
+    "publication": 1729414598,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -177,7 +186,8 @@
     "price": "72.1",
     "imgURL": "https://images1.vinted.net/t/04_00bb3_7XpC5Q3hEFwJGbrom3r4f4bF/f800/1732211818.jpeg?s=fe15dba065bb11d1c8b1fa8001381fb5e9100a66",
     "itemURL": "https://www.vinted.fr/items/5420717754-lego-76428",
-    "publication": 1732211818
+    "publication": 1732211818,
+    "scraping_data": 1732470519
   },
   {
     "legoid": 76428,
@@ -186,6 +196,7 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/01_00d11_RNcDBAJG2DR4zuxzNvX2ifqK/f800/1731790277.jpeg?s=b1f5b39e9503592e9c4a44f0f3cba426f041d02f",
     "itemURL": "https://www.vinted.fr/items/5393922553-lego-76428-sealed",
-    "publication": 1731790277
+    "publication": 1731790277,
+    "scraping_data": 1732470519
   }
 ]

@@ -1,30 +1,23 @@
 [
   {
     "legoid": 42150,
+    "id": 5436838394,
+    "title": "Jeu lego",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/01_011a4_Cc3N67rzyyE9FPAW7QmMcyz4/f800/1732469273.jpeg?s=79d1103b621619a3e795b9327073be1a69331470",
+    "itemURL": "https://www.vinted.fr/items/5436838394-jeu-lego",
+    "publication": 1732469273,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
     "id": 5434491952,
     "title": "Lego 42150",
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/04_00e43_XjdXS6jHyDp7mJNyXbxBfaKM/f800/1732454986.jpeg?s=9d573556bab2fd0e87486f5d95d3cf7c70e36d20",
     "itemURL": "https://www.vinted.fr/items/5434491952-lego-42150",
-    "publication": 1732454986
-  },
-  {
-    "legoid": 42150,
-    "id": 5434432972,
-    "title": "Lego monster truck",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/04_00e7f_A5nyxVWUmcC5twG48Aioubb8/f800/1732454627.jpeg?s=582d8e863947886027929ceb2922fa9b2a017c3d",
-    "itemURL": "https://www.vinted.fr/items/5434432972-lego-monster-truck",
-    "publication": 1732454627
-  },
-  {
-    "legoid": 42150,
-    "id": 5411799616,
-    "title": "Lego Technik Monster Jam 42150 neu",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/01_003f0_QR9WaQXtCJU59AnPwNqFUFT6/f800/1732050135.jpeg?s=38945a127f0a85329e7e7e9a6f4507074dc1078d",
-    "itemURL": "https://www.vinted.fr/items/5411799616-lego-technik-monster-jam-42150-neu",
-    "publication": 1732050135
+    "publication": 1732454986,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -33,7 +26,18 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/02_010a5_uCBcUUUGNAUNKCQtfdQbVPxh/f800/1732441403.jpeg?s=2fc703fee744a245de6d39b54388f1852967c992",
     "itemURL": "https://www.vinted.fr/items/5432463165-lego-technic-monster-jam",
-    "publication": 1732441403
+    "publication": 1732441403,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5411799616,
+    "title": "Lego Technik Monster Jam 42150 neu",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/01_003f0_QR9WaQXtCJU59AnPwNqFUFT6/f800/1732050135.jpeg?s=38945a127f0a85329e7e7e9a6f4507074dc1078d",
+    "itemURL": "https://www.vinted.fr/items/5411799616-lego-technik-monster-jam-42150-neu",
+    "publication": 1732050135,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -42,7 +46,8 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/04_00871_mNBTtkEQ8Vd4SBf4GBezyNrs/f800/1730544700.jpeg?s=270978b93b6eba2899875f71529bfaf9340ef093",
     "itemURL": "https://www.vinted.fr/items/5315562972-lego-technic-monsterjam-42150",
-    "publication": 1730544700
+    "publication": 1730544700,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -51,7 +56,8 @@
     "price": "13.3",
     "imgURL": "https://images1.vinted.net/t/04_01707_SduXYmJ6YFot5zLNSthLCAT9/f800/1731242681.jpeg?s=1c61150e44d377dd7b7c935b0f0e5861484f8887",
     "itemURL": "https://www.vinted.fr/items/5358077740-lego-technic",
-    "publication": 1731242681
+    "publication": 1731242681,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -60,7 +66,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/04_01de7_HPB1U5iBxqkLtR3qjJxvUAsR/f800/1732032884.jpeg?s=9c08399204958507fa3b0572f0f9238304556f46",
     "itemURL": "https://www.vinted.fr/items/5410224225-lego-42150",
-    "publication": 1732032884
+    "publication": 1732032884,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -69,34 +76,8 @@
     "price": "10.15",
     "imgURL": "https://images1.vinted.net/t/03_00a98_xpapXgrXHfBJfCZpGmaKp4NQ/f800/1731426481.jpeg?s=839f10a841da20ba0e70df31aabe19f3a4fce747",
     "itemURL": "https://www.vinted.fr/items/5372263231-lego-technic-42150",
-    "publication": 1731426481
-  },
-  {
-    "legoid": 42150,
-    "id": 5378819541,
-    "title": "LEGO Technic 42150: Monster Jam - Monster Mutt Dalmatian",
-    "price": "13.83",
-    "imgURL": "https://images1.vinted.net/t/04_01e09_xCg1dgA3xeZ8LuNBFeCzGzMc/f800/r1/1731527896.jpeg?s=01c9dd7d88267ed10a1437af0e4b4564e5384b70",
-    "itemURL": "https://www.vinted.fr/items/5378819541-lego-technic-42150-monster-jam-monster-mutt-dalmatian",
-    "publication": 1731527896
-  },
-  {
-    "legoid": 42150,
-    "id": 5251642113,
-    "title": "Lego 42150",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/01_006af_ETjX7cfePDAFSGCbZhcXhECQ/f800/1729447337.jpeg?s=ca391484295dc345a0ffbaf7913d5050b6b1364a",
-    "itemURL": "https://www.vinted.fr/items/5251642113-lego-42150",
-    "publication": 1729447337
-  },
-  {
-    "legoid": 42150,
-    "id": 5397953321,
-    "title": "Lego Technik 42150 Monster Jam",
-    "price": "9.1",
-    "imgURL": "https://images1.vinted.net/t/02_00e4d_zHiGPa3Zip9XVs89kVpuidyd/f800/1731853454.jpeg?s=74b3b9e530e743113662b27d5968884a0949158b",
-    "itemURL": "https://www.vinted.fr/items/5397953321-lego-technik-42150-monster-jam",
-    "publication": 1731853454
+    "publication": 1731426481,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -105,295 +86,18 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/02_00e21_BEuPRWi7uy6KbSNy56QfBwcy/f800/1728139053.jpeg?s=228ef41f05e89f3bb267aecffaca4255fadb7a8a",
     "itemURL": "https://www.vinted.fr/items/5163030179-lego-technic",
-    "publication": 1728139053
+    "publication": 1728139053,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 5393580598,
-    "title": "Lego 42150 Monster Jam Dalmatian",
-    "price": "14.35",
-    "imgURL": "https://images1.vinted.net/t/04_01e02_CRLZ8Gw7rhTTJwn6nv5UzDKu/f800/1731785661.jpeg?s=d7dcc9232fde6bdb927a5b495bfda29c3cf68175",
-    "itemURL": "https://www.vinted.fr/items/5393580598-lego-42150-monster-jam-dalmatian",
-    "publication": 1731785661
-  },
-  {
-    "legoid": 42150,
-    "id": 5268816960,
-    "title": "Lego technic 42150",
-    "price": "14.88",
-    "imgURL": "https://images1.vinted.net/t/04_00d47_PhMVnJSPMnQfst7NNBSA7719/f800/1729747364.jpeg?s=0664bb03d9816b4f7098be516e51a0bda43d472d",
-    "itemURL": "https://www.vinted.fr/items/5268816960-lego-technic-42150",
-    "publication": 1729747364
-  },
-  {
-    "legoid": 42150,
-    "id": 5371401637,
-    "title": "Lego technic 42150",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/04_01746_Wfoqh3kM4via1Exo9hhUH4us/f800/1731418234.jpeg?s=c81c3ace5c6d06c2195aa374f7f9915c0719b062",
-    "itemURL": "https://www.vinted.fr/items/5371401637-lego-technic-42150",
-    "publication": 1731418234
-  },
-  {
-    "legoid": 42150,
-    "id": 5374479358,
-    "title": "Lego Technic Monster Jam",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/04_0155d_FhzvAiDHWy8dMvfPtztxL93o/f800/1731461342.jpeg?s=b02da16bac86e1ce22d523e99acb1be1f1818998",
-    "itemURL": "https://www.vinted.fr/items/5374479358-lego-technic-monster-jam",
-    "publication": 1731461342
-  },
-  {
-    "legoid": 42150,
-    "id": 5148868034,
-    "title": "Lego 42150",
-    "price": "10.15",
-    "imgURL": "https://images1.vinted.net/t/03_00473_tGMWopu68Yr5bKcKgTw1EQ2E/f800/1727899412.jpeg?s=590a7669c66c82219b03973e4f22f58f787cae7f",
-    "itemURL": "https://www.vinted.fr/items/5148868034-lego-42150",
-    "publication": 1727899412
-  },
-  {
-    "legoid": 42150,
-    "id": 5375127130,
-    "title": "Jeu lego",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/03_00d14_rjbU5ejJxJMPrcgpcN1kiaAZ/f800/1731491106.jpeg?s=ca3af4450e68996abd6854647a41a97a962e36cf",
-    "itemURL": "https://www.vinted.fr/items/5375127130-jeu-lego",
-    "publication": 1731491106
-  },
-  {
-    "legoid": 42150,
-    "id": 5417185331,
-    "title": "Lego technic 42150",
-    "price": "19.6",
-    "imgURL": "https://images1.vinted.net/t/04_01a18_3mJ4rHtbAm46ZBvMLXkgHsMV/f800/1732141647.jpeg?s=c8319c205b9a54e95c16ed03944b73baadc2f002",
-    "itemURL": "https://www.vinted.fr/items/5417185331-lego-technic-42150",
-    "publication": 1732141647
-  },
-  {
-    "legoid": 42150,
-    "id": 4863113025,
-    "title": "Lego Technic 42150 Monster Jam Monster Mutt Dalmatian",
-    "price": "10.15",
-    "imgURL": "https://images1.vinted.net/t/01_00a5e_wK3ehmTPrFSwzRnwJJmDhHsV/f800/1723121398.jpeg?s=c0b3fdfc9da5a951d42094e441fcdbb64af5f0c2",
-    "itemURL": "https://www.vinted.fr/items/4863113025-lego-technic-42150-monster-jam-monster-mutt-dalmatian",
-    "publication": 1723121398
-  },
-  {
-    "legoid": 42150,
-    "id": 5358716082,
-    "title": "Lego 42150",
-    "price": "14.09",
-    "imgURL": "https://images1.vinted.net/t/01_0033c_RfhKUEKQ7SdTkTA8CiUmdZUD/f800/1731246528.jpeg?s=51154696c4d8ebadd67b9800482d490115a70f16",
-    "itemURL": "https://www.vinted.fr/items/5358716082-lego-42150",
-    "publication": 1731246528
-  },
-  {
-    "legoid": 42150,
-    "id": 5363292094,
-    "title": "Lego technic 42150 Monster jam 2 in 1",
-    "price": "15.4",
-    "imgURL": "https://images1.vinted.net/t/04_01e34_9YumYG32EwQApB7ZgKhkNhDx/f800/1731314893.jpeg?s=0bb0f7f5186a55318eee44711b9c406506c66850",
-    "itemURL": "https://www.vinted.fr/items/5363292094-lego-technic-42150-monster-jam-2-in-1",
-    "publication": 1731314893
-  },
-  {
-    "legoid": 42150,
-    "id": 5195994847,
-    "title": "LEGO Technic Monster Jam Monster Mutt Dalmatien 42150",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/03_0234d_6zdp7Uau3qqf3YzqHw6XtvHn/f800/1728633093.jpeg?s=18b7f642ba36adf4c00ff02c1ef76c4fe7e5e1df",
-    "itemURL": "https://www.vinted.fr/items/5195994847-lego-technic-monster-jam-monster-mutt-dalmatien-42150",
-    "publication": 1728633093
-  },
-  {
-    "legoid": 42150,
-    "id": 5285824363,
-    "title": "Lego 42150",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/04_01306_xvS8zVjbVgoKeDYnyNQj3vmP/f800/1730032878.jpeg?s=b3ef35ebcee886b04cb7846e6148c0b97f9f48ed",
-    "itemURL": "https://www.vinted.fr/items/5285824363-lego-42150",
-    "publication": 1730032878
-  },
-  {
-    "legoid": 42150,
-    "id": 4890911961,
-    "title": "Lego 42150",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/02_010ca_VAH9psSRALWNB5xcNSppeKz1/f800/1723733628.jpeg?s=449b3aaef5b4e5d581033f476e16e029732c9027",
-    "itemURL": "https://www.vinted.fr/items/4890911961-lego-42150",
-    "publication": 1723733628
-  },
-  {
-    "legoid": 42150,
-    "id": 5088092197,
-    "title": "Lego Technics 42150",
-    "price": "10.15",
-    "imgURL": "https://images1.vinted.net/t/01_01445_XeLnqiYg89HPwxkd652vmMmE/f800/1727011966.jpeg?s=d2a7895f0c08ccaab6eb5649641ea22693d00d84",
-    "itemURL": "https://www.vinted.fr/items/5088092197-lego-technics-42150",
-    "publication": 1727011966
-  },
-  {
-    "legoid": 42150,
-    "id": 5324869233,
-    "title": "Lego Monster Jam Monster Mutt Dalmatien réf 42150",
-    "price": "10.15",
-    "imgURL": "https://images1.vinted.net/t/04_01958_87Ux6XqbQJkjtYf36EgiAiSy/f800/1730653052.jpeg?s=19dfdb0fddaea644a7990cbd7bf8f7bc674c3b8c",
-    "itemURL": "https://www.vinted.fr/items/5324869233-lego-monster-jam-monster-mutt-dalmatien-ref-42150",
-    "publication": 1730653052
-  },
-  {
-    "legoid": 42150,
-    "id": 5290384513,
-    "title": "Lego 42150",
-    "price": "14.35",
-    "imgURL": "https://images1.vinted.net/t/04_01a3e_bvY9RC2LFbMrPHnA6y5WW7hj/f800/1730101391.jpeg?s=ed2b33d8485a1140341f334acdb307b4f15ff5b9",
-    "itemURL": "https://www.vinted.fr/items/5290384513-lego-42150",
-    "publication": 1730101391
-  },
-  {
-    "legoid": 42150,
-    "id": 5405855418,
-    "title": "Lego technique 42150",
-    "price": "10.15",
-    "imgURL": "https://images1.vinted.net/t/04_011e9_QYD9H17zKzCqWnKwJv81kU1K/f800/1731953835.jpeg?s=cca9b008f29e66711e712fdf7048991f961502b6",
-    "itemURL": "https://www.vinted.fr/items/5405855418-lego-technique-42150",
-    "publication": 1731953835
-  },
-  {
-    "legoid": 42150,
-    "id": 5383393110,
-    "title": "Lego Monster Jam 42150 ab 7",
-    "price": "14.35",
-    "imgURL": "https://images1.vinted.net/t/04_00fe5_hwFQwy4MfkDr9QUGFmRnZGmS/f800/1731611379.jpeg?s=34fe031619c3372659ecc3a0711ce6db8e16af4b",
-    "itemURL": "https://www.vinted.fr/items/5383393110-lego-monster-jam-42150-ab-7",
-    "publication": 1731611379
-  },
-  {
-    "legoid": 42150,
-    "id": 4961374477,
-    "title": "Lego Technic 42150 Monster Jam",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/02_00fd3_tNbQpX8xTkC9A1z5Rxn9jJeK/f800/1725022678.jpeg?s=9896680bd76960bf6fbffad7d28f34c7a89d26a8",
-    "itemURL": "https://www.vinted.fr/items/4961374477-lego-technic-42150-monster-jam",
-    "publication": 1725022678
-  },
-  {
-    "legoid": 42150,
-    "id": 5373891355,
-    "title": "Lego Technic - 42150 - Monster Jam Monster Mutt Dalmatian | Technic",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/04_01545_mao9DYrRmXFUUq1H2uydvhgm/f800/1731443955.jpeg?s=ebfd2b202f4ba7568f3dc7521223dbc079f3bfcd",
-    "itemURL": "https://www.vinted.fr/items/5373891355-lego-technic-42150-monster-jam-monster-mutt-dalmatian-technic",
-    "publication": 1731443955
-  },
-  {
-    "legoid": 42150,
-    "id": 5129729163,
-    "title": "Lego technic 42150",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/01_01a33_4aEQSkfP8G11ypwQkCjrJbD1/f800/1727622923.jpeg?s=7421763495a703707a38161feb27230ebba5a490",
-    "itemURL": "https://www.vinted.fr/items/5129729163-lego-technic-42150",
-    "publication": 1727622923
-  },
-  {
-    "legoid": 42150,
-    "id": 5339749957,
-    "title": "Lego 42150 nuovo",
-    "price": "15.4",
-    "imgURL": "https://images1.vinted.net/t/03_01f12_SdxTJXMZ2d6Ec2Wjy8E5AQTH/f800/1730912657.jpeg?s=3d372484c2cb5552514fe2a50f3ef441ffacd8f3",
-    "itemURL": "https://www.vinted.fr/items/5339749957-lego-42150-nuovo",
-    "publication": 1730912657
-  },
-  {
-    "legoid": 42150,
-    "id": 5396699507,
-    "title": "Lego set technic monster jam monster mutt dalmatian set 42150",
-    "price": "12.25",
-    "imgURL": "https://images1.vinted.net/t/04_00e9f_dvxDcLEDM2YhWwXa76xgYZr1/f800/1731846465.jpeg?s=fc31a47edf509d456c8fd65557172cc0e4da4d03",
-    "itemURL": "https://www.vinted.fr/items/5396699507-lego-set-technic-monster-jam-monster-mutt-dalmatian-set-42150",
-    "publication": 1731846465
-  },
-  {
-    "legoid": 42150,
-    "id": 5391900066,
-    "title": "Lego Technic 42150 - Monster Jam",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/04_02124_gQuT3w4puk2pt5cyjVrm7Pqq/f800/1731769604.jpeg?s=5e4a081a34a742bb9e8c83c509cc628fa55f13eb",
-    "itemURL": "https://www.vinted.fr/items/5391900066-lego-technic-42150-monster-jam",
-    "publication": 1731769604
-  },
-  {
-    "legoid": 42150,
-    "id": 5396149201,
-    "title": "LEGO Technic Monster Jam Monster Mutt Dalmatian (42150)",
-    "price": "14.35",
-    "imgURL": "https://images1.vinted.net/t/04_003e6_iUFVvVoUnVZmMRXwcCtkf8Qd/f800/1731843140.jpeg?s=3e1bc95b5646035ef2a62b2447e3062efdfd3619",
-    "itemURL": "https://www.vinted.fr/items/5396149201-lego-technic-monster-jam-monster-mutt-dalmatian-42150",
-    "publication": 1731843140
-  },
-  {
-    "legoid": 42150,
-    "id": 5292074791,
-    "title": "Lego 42150",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/03_0170a_tbfrkWFtTSswMK8bk1zCN8Ku/f800/1730119137.jpeg?s=358706f3d7c98ec88f3f11936fd227ee2f0bc76b",
-    "itemURL": "https://www.vinted.fr/items/5292074791-lego-42150",
-    "publication": 1730119137
-  },
-  {
-    "legoid": 42150,
-    "id": 3428604856,
-    "title": "Lego Technic 42150 Neuf pull back",
-    "price": "19.6",
-    "imgURL": "https://images1.vinted.net/t/03_01801_yHTg8kwEtepU1e6g5nrSHT19/f800/1693737513.jpeg?s=ad2fdd7a37f45c460b08ce93eec1bf702c630433",
-    "itemURL": "https://www.vinted.fr/items/3428604856-lego-technic-42150-neuf-pull-back",
-    "publication": 1693737513
-  },
-  {
-    "legoid": 42150,
-    "id": 5245963369,
-    "title": "Lego 42150",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/02_01801_75cPtQYGDJ8DC8B6EDeEJ8CR/f800/1729411821.jpeg?s=e69f16a85f371b869bcb99b83f0c17c19dd7bf8f",
-    "itemURL": "https://www.vinted.fr/items/5245963369-lego-42150",
-    "publication": 1729411821
-  },
-  {
-    "legoid": 42150,
-    "id": 5008701048,
-    "title": "Lot Lego technic",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/01_0219a_cyRaXVHrcN7sw5uCWkt7UzfG/f800/1726509023.jpeg?s=50f8baee267d118425dc743b6aed82a0d52ddcfc",
-    "itemURL": "https://www.vinted.fr/items/5008701048-lot-lego-technic",
-    "publication": 1726509023
-  },
-  {
-    "legoid": 42150,
-    "id": 5375906181,
-    "title": "Lego Technic",
-    "price": "21.7",
-    "imgURL": "https://images1.vinted.net/t/04_01a2b_xe12dDnRhG3PuLdMHH8Ki6Pu/f800/1731499017.jpeg?s=ee39317098e304370093a9af8df3be2aac1469b4",
-    "itemURL": "https://www.vinted.fr/items/5375906181-lego-technic",
-    "publication": 1731499017
-  },
-  {
-    "legoid": 42150,
-    "id": 5099734575,
-    "title": "Lego 42150",
-    "price": "8.05",
-    "imgURL": "https://images1.vinted.net/t/02_016ae_7U3ExYsuNCydMWGJJ9dmbPTe/f800/1727178942.jpeg?s=048080f7d1f2cc770415a9f0412000d41a3e28c2",
-    "itemURL": "https://www.vinted.fr/items/5099734575-lego-42150",
-    "publication": 1727178942
-  },
-  {
-    "legoid": 42150,
-    "id": 5385320751,
-    "title": "Lego technic 42150 nieuw",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/01_0059a_rBudnTbpBkiJopLhJ3XwNFn3/f800/1731667697.jpeg?s=060266603334965471573ec27fe384590437cff8",
-    "itemURL": "https://www.vinted.fr/items/5385320751-lego-technic-42150-nieuw",
-    "publication": 1731667697
+    "id": 5397953321,
+    "title": "Lego Technik 42150 Monster Jam",
+    "price": "9.1",
+    "imgURL": "https://images1.vinted.net/t/02_00e4d_zHiGPa3Zip9XVs89kVpuidyd/f800/1731853454.jpeg?s=74b3b9e530e743113662b27d5968884a0949158b",
+    "itemURL": "https://www.vinted.fr/items/5397953321-lego-technik-42150-monster-jam",
+    "publication": 1731853454,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -402,25 +106,108 @@
     "price": "8.05",
     "imgURL": "https://images1.vinted.net/t/03_00626_G2GwpXZyoDa9m1KZXSLdRFw8/f800/1730376650.jpeg?s=4afcc7b29fc6ca56518d8abebfcd5dd283ad0757",
     "itemURL": "https://www.vinted.fr/items/5306836038-lego-technic-42150",
-    "publication": 1730376650
+    "publication": 1730376650,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 5417424621,
+    "id": 5268816960,
+    "title": "Lego technic 42150",
+    "price": "14.88",
+    "imgURL": "https://images1.vinted.net/t/04_00d47_PhMVnJSPMnQfst7NNBSA7719/f800/1729747364.jpeg?s=0664bb03d9816b4f7098be516e51a0bda43d472d",
+    "itemURL": "https://www.vinted.fr/items/5268816960-lego-technic-42150",
+    "publication": 1729747364,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5371401637,
+    "title": "Lego technic 42150",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/04_01746_Wfoqh3kM4via1Exo9hhUH4us/f800/1731418234.jpeg?s=c81c3ace5c6d06c2195aa374f7f9915c0719b062",
+    "itemURL": "https://www.vinted.fr/items/5371401637-lego-technic-42150",
+    "publication": 1731418234,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5374479358,
+    "title": "Lego Technic Monster Jam",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/04_0155d_FhzvAiDHWy8dMvfPtztxL93o/f800/1731461342.jpeg?s=b02da16bac86e1ce22d523e99acb1be1f1818998",
+    "itemURL": "https://www.vinted.fr/items/5374479358-lego-technic-monster-jam",
+    "publication": 1731461342,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5148868034,
+    "title": "Lego 42150",
+    "price": "10.15",
+    "imgURL": "https://images1.vinted.net/t/03_00473_tGMWopu68Yr5bKcKgTw1EQ2E/f800/1727899412.jpeg?s=590a7669c66c82219b03973e4f22f58f787cae7f",
+    "itemURL": "https://www.vinted.fr/items/5148868034-lego-42150",
+    "publication": 1727899412,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5417185331,
     "title": "Lego technic 42150",
     "price": "19.6",
-    "imgURL": "https://images1.vinted.net/t/04_02249_MLDwdmJdwCq8qhKMh74LuVTF/f800/1732170171.jpeg?s=a68545b1bbee265fba7fa2f5ba38ca8cb2bf1806",
-    "itemURL": "https://www.vinted.fr/items/5417424621-lego-technic-42150",
-    "publication": 1732170171
+    "imgURL": "https://images1.vinted.net/t/04_01a18_3mJ4rHtbAm46ZBvMLXkgHsMV/f800/1732141647.jpeg?s=c8319c205b9a54e95c16ed03944b73baadc2f002",
+    "itemURL": "https://www.vinted.fr/items/5417185331-lego-technic-42150",
+    "publication": 1732141647,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 5029133977,
-    "title": "Lego Technic",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/03_01ae1_ffZHQKyo3RXzHhC4CPiefTVB/f800/1726133805.jpeg?s=7c425733b1e193c95886132a9f50bf7538c6446f",
-    "itemURL": "https://www.vinted.fr/items/5029133977-lego-technic",
-    "publication": 1726133805
+    "id": 5375127130,
+    "title": "Jeu lego",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/03_00d14_rjbU5ejJxJMPrcgpcN1kiaAZ/f800/1731491106.jpeg?s=ca3af4450e68996abd6854647a41a97a962e36cf",
+    "itemURL": "https://www.vinted.fr/items/5375127130-jeu-lego",
+    "publication": 1731491106,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4863113025,
+    "title": "Lego Technic 42150 Monster Jam Monster Mutt Dalmatian",
+    "price": "10.15",
+    "imgURL": "https://images1.vinted.net/t/01_00a5e_wK3ehmTPrFSwzRnwJJmDhHsV/f800/1723121398.jpeg?s=c0b3fdfc9da5a951d42094e441fcdbb64af5f0c2",
+    "itemURL": "https://www.vinted.fr/items/4863113025-lego-technic-42150-monster-jam-monster-mutt-dalmatian",
+    "publication": 1723121398,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5363292094,
+    "title": "Lego technic 42150 Monster jam 2 in 1",
+    "price": "15.4",
+    "imgURL": "https://images1.vinted.net/t/04_01e34_9YumYG32EwQApB7ZgKhkNhDx/f800/1731314893.jpeg?s=0bb0f7f5186a55318eee44711b9c406506c66850",
+    "itemURL": "https://www.vinted.fr/items/5363292094-lego-technic-42150-monster-jam-2-in-1",
+    "publication": 1731314893,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5358716082,
+    "title": "Lego 42150",
+    "price": "14.09",
+    "imgURL": "https://images1.vinted.net/t/01_0033c_RfhKUEKQ7SdTkTA8CiUmdZUD/f800/1731246528.jpeg?s=51154696c4d8ebadd67b9800482d490115a70f16",
+    "itemURL": "https://www.vinted.fr/items/5358716082-lego-42150",
+    "publication": 1731246528,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5393580598,
+    "title": "Lego 42150 Monster Jam Dalmatian",
+    "price": "14.35",
+    "imgURL": "https://images1.vinted.net/t/04_01e02_CRLZ8Gw7rhTTJwn6nv5UzDKu/f800/1731785661.jpeg?s=d7dcc9232fde6bdb927a5b495bfda29c3cf68175",
+    "itemURL": "https://www.vinted.fr/items/5393580598-lego-42150-monster-jam-dalmatian",
+    "publication": 1731785661,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -429,88 +216,28 @@
     "price": "9.1",
     "imgURL": "https://images1.vinted.net/t/01_00e82_9qjiMXRD7VGzWzkZECZpzULv/f800/1730457551.jpeg?s=385b06001ac56cb33d20d1efc914da6318f9fa8a",
     "itemURL": "https://www.vinted.fr/items/5310397147-lego-technic-monster-jam-monster-mutt-dalmatian-42150",
-    "publication": 1730457551
+    "publication": 1730457551,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 5103993890,
-    "title": "Lego technic",
-    "price": "14.88",
-    "imgURL": "https://images1.vinted.net/t/01_020f4_fAbUSxppnfg1MYTZbgd7oMzf/f800/1727253550.jpeg?s=aedb65d3a82d284c1ffb266187ba591edae045e8",
-    "itemURL": "https://www.vinted.fr/items/5103993890-lego-technic",
-    "publication": 1727253550
-  },
-  {
-    "legoid": 42150,
-    "id": 5081671483,
-    "title": "Lego technic",
-    "price": "17.5",
-    "imgURL": "https://images1.vinted.net/t/01_011b0_Vf6ssFbz8SGX6d3r67XHAu4A/f800/1726925538.jpeg?s=1dd81119c86e91deac4e7d9ab10e7e71e41c83a8",
-    "itemURL": "https://www.vinted.fr/items/5081671483-lego-technic",
-    "publication": 1726925538
-  },
-  {
-    "legoid": 42150,
-    "id": 4150511808,
-    "title": "Lego technic Monster jam",
+    "id": 4890911961,
+    "title": "Lego 42150",
     "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/01_026d5_mSf5mdQEdfu3vXdGjYozqn2C/f800/1708950603.jpeg?s=fa25d9d03b4d9fcf7131d20c17eb7d7513448b22",
-    "itemURL": "https://www.vinted.fr/items/4150511808-lego-technic-monster-jam",
-    "publication": 1708950603
+    "imgURL": "https://images1.vinted.net/t/02_010ca_VAH9psSRALWNB5xcNSppeKz1/f800/1723733628.jpeg?s=449b3aaef5b4e5d581033f476e16e029732c9027",
+    "itemURL": "https://www.vinted.fr/items/4890911961-lego-42150",
+    "publication": 1723733628,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 5342949526,
-    "title": "Lego technic Monster truck",
+    "id": 5195994847,
+    "title": "LEGO Technic Monster Jam Monster Mutt Dalmatien 42150",
     "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/03_00b7d_KWVH618dUYK2eHkq8xwY3BkJ/f800/1730982775.jpeg?s=c9f79771540c8d640552a3a124317b22db8d8f1d",
-    "itemURL": "https://www.vinted.fr/items/5342949526-lego-technic-monster-truck",
-    "publication": 1730982775
-  },
-  {
-    "legoid": 42150,
-    "id": 5420290811,
-    "title": "LEGO Technic 42150 Monster Truck",
-    "price": "14.35",
-    "imgURL": "https://images1.vinted.net/t/04_0017b_QUaqMjxY156Bhh7vDYzVLWES/f800/1732207014.jpeg?s=2a9f85d2b92c7e20023c13b023c1524bb53f868e",
-    "itemURL": "https://www.vinted.fr/items/5420290811-lego-technic-42150-monster-truck",
-    "publication": 1732207014
-  },
-  {
-    "legoid": 42150,
-    "id": 5311535436,
-    "title": "Lego technic",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/04_00e8b_qEnvAhgqUU5si8SKmGY6dixU/f800/1730467796.jpeg?s=21db9a3bfe9f8d317246ac0cf0401ef1dd260162",
-    "itemURL": "https://www.vinted.fr/items/5311535436-lego-technic",
-    "publication": 1730467796
-  },
-  {
-    "legoid": 42150,
-    "id": 5277759585,
-    "title": "Lego 42150 Monster truck dalmatien",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/04_00cf4_WaLKeNDFxUmdB4kaTECEqbmf/f800/1729891483.jpeg?s=3c76efe20714afe736fd7c2721f88ce7ff9765ab",
-    "itemURL": "https://www.vinted.fr/items/5277759585-lego-42150-monster-truck-dalmatien",
-    "publication": 1729891483
-  },
-  {
-    "legoid": 42150,
-    "id": 4976040670,
-    "title": "LEGO 42150 Monster Jam Dalmatian",
-    "price": "17.5",
-    "imgURL": "https://images1.vinted.net/t/02_00330_oZaaNV15z5gzQWBdWcrohTGg/f800/1725277358.jpeg?s=07f1bbd28f22228ba898c6fe5edea77eab4c1157",
-    "itemURL": "https://www.vinted.fr/items/4976040670-lego-42150-monster-jam-dalmatian",
-    "publication": 1725277358
-  },
-  {
-    "legoid": 42150,
-    "id": 5283496427,
-    "title": "Monster Jam 42150",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/04_01630_a9X4GrjcfyvcKkGib3hRgVF5/f800/1730015428.jpeg?s=80187fb3e350ac70615ee68002d36b58c1e507b5",
-    "itemURL": "https://www.vinted.fr/items/5283496427-monster-jam-42150",
-    "publication": 1730015428
+    "imgURL": "https://images1.vinted.net/t/03_0234d_6zdp7Uau3qqf3YzqHw6XtvHn/f800/1728633093.jpeg?s=18b7f642ba36adf4c00ff02c1ef76c4fe7e5e1df",
+    "itemURL": "https://www.vinted.fr/items/5195994847-lego-technic-monster-jam-monster-mutt-dalmatien-42150",
+    "publication": 1728633093,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -519,16 +246,198 @@
     "price": "21.7",
     "imgURL": "https://images1.vinted.net/t/04_00d0d_3tkdrhHS6FAmFt3hkWvTdMvd/f800/1732355615.jpeg?s=68eee6ad292642ee2ea41301f4d9dcfb5c3b6372",
     "itemURL": "https://www.vinted.fr/items/5427097905-lego-technic-42150-monster-truck-dalmatien-2en1-neuf-et-scelle",
-    "publication": 1732355615
+    "publication": 1732355615,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 5318462524,
-    "title": "Lego technic 42150 neuf",
+    "id": 5324869233,
+    "title": "Lego Monster Jam Monster Mutt Dalmatien réf 42150",
+    "price": "10.15",
+    "imgURL": "https://images1.vinted.net/t/04_01958_87Ux6XqbQJkjtYf36EgiAiSy/f800/1730653052.jpeg?s=19dfdb0fddaea644a7990cbd7bf8f7bc674c3b8c",
+    "itemURL": "https://www.vinted.fr/items/5324869233-lego-monster-jam-monster-mutt-dalmatien-ref-42150",
+    "publication": 1730653052,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5088092197,
+    "title": "Lego Technics 42150",
+    "price": "10.15",
+    "imgURL": "https://images1.vinted.net/t/01_01445_XeLnqiYg89HPwxkd652vmMmE/f800/1727011966.jpeg?s=d2a7895f0c08ccaab6eb5649641ea22693d00d84",
+    "itemURL": "https://www.vinted.fr/items/5088092197-lego-technics-42150",
+    "publication": 1727011966,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5290384513,
+    "title": "Lego 42150",
+    "price": "14.35",
+    "imgURL": "https://images1.vinted.net/t/04_01a3e_bvY9RC2LFbMrPHnA6y5WW7hj/f800/1730101391.jpeg?s=ed2b33d8485a1140341f334acdb307b4f15ff5b9",
+    "itemURL": "https://www.vinted.fr/items/5290384513-lego-42150",
+    "publication": 1730101391,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5373891355,
+    "title": "Lego Technic - 42150 - Monster Jam Monster Mutt Dalmatian | Technic",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/04_01545_mao9DYrRmXFUUq1H2uydvhgm/f800/1731443955.jpeg?s=ebfd2b202f4ba7568f3dc7521223dbc079f3bfcd",
+    "itemURL": "https://www.vinted.fr/items/5373891355-lego-technic-42150-monster-jam-monster-mutt-dalmatian-technic",
+    "publication": 1731443955,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5405855418,
+    "title": "Lego technique 42150",
+    "price": "10.15",
+    "imgURL": "https://images1.vinted.net/t/04_011e9_QYD9H17zKzCqWnKwJv81kU1K/f800/1731953835.jpeg?s=cca9b008f29e66711e712fdf7048991f961502b6",
+    "itemURL": "https://www.vinted.fr/items/5405855418-lego-technique-42150",
+    "publication": 1731953835,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5099734575,
+    "title": "Lego 42150",
+    "price": "8.05",
+    "imgURL": "https://images1.vinted.net/t/02_016ae_7U3ExYsuNCydMWGJJ9dmbPTe/f800/1727178942.jpeg?s=048080f7d1f2cc770415a9f0412000d41a3e28c2",
+    "itemURL": "https://www.vinted.fr/items/5099734575-lego-42150",
+    "publication": 1727178942,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5129729163,
+    "title": "Lego technic 42150",
     "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/04_018fd_7jnKRS8jFhczoHrxX1kgan9y/f800/1730567890.jpeg?s=3d1d62fb8aa16a8bdf9d77d85798b017071b7671",
-    "itemURL": "https://www.vinted.fr/items/5318462524-lego-technic-42150-neuf",
-    "publication": 1730567890
+    "imgURL": "https://images1.vinted.net/t/01_01a33_4aEQSkfP8G11ypwQkCjrJbD1/f800/1727622923.jpeg?s=7421763495a703707a38161feb27230ebba5a490",
+    "itemURL": "https://www.vinted.fr/items/5129729163-lego-technic-42150",
+    "publication": 1727622923,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5285824363,
+    "title": "Lego 42150",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/04_01306_xvS8zVjbVgoKeDYnyNQj3vmP/f800/1730032878.jpeg?s=b3ef35ebcee886b04cb7846e6148c0b97f9f48ed",
+    "itemURL": "https://www.vinted.fr/items/5285824363-lego-42150",
+    "publication": 1730032878,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5396699507,
+    "title": "Lego set technic monster jam monster mutt dalmatian set 42150",
+    "price": "12.25",
+    "imgURL": "https://images1.vinted.net/t/04_00e9f_dvxDcLEDM2YhWwXa76xgYZr1/f800/1731846465.jpeg?s=fc31a47edf509d456c8fd65557172cc0e4da4d03",
+    "itemURL": "https://www.vinted.fr/items/5396699507-lego-set-technic-monster-jam-monster-mutt-dalmatian-set-42150",
+    "publication": 1731846465,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5383393110,
+    "title": "Lego Monster Jam 42150 ab 7",
+    "price": "14.35",
+    "imgURL": "https://images1.vinted.net/t/04_00fe5_hwFQwy4MfkDr9QUGFmRnZGmS/f800/1731611379.jpeg?s=34fe031619c3372659ecc3a0711ce6db8e16af4b",
+    "itemURL": "https://www.vinted.fr/items/5383393110-lego-monster-jam-42150-ab-7",
+    "publication": 1731611379,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5391900066,
+    "title": "Lego Technic 42150 - Monster Jam",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/04_02124_gQuT3w4puk2pt5cyjVrm7Pqq/f800/1731769604.jpeg?s=5e4a081a34a742bb9e8c83c509cc628fa55f13eb",
+    "itemURL": "https://www.vinted.fr/items/5391900066-lego-technic-42150-monster-jam",
+    "publication": 1731769604,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5245963369,
+    "title": "Lego 42150",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/02_01801_75cPtQYGDJ8DC8B6EDeEJ8CR/f800/1729411821.jpeg?s=e69f16a85f371b869bcb99b83f0c17c19dd7bf8f",
+    "itemURL": "https://www.vinted.fr/items/5245963369-lego-42150",
+    "publication": 1729411821,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5434432972,
+    "title": "Lego monster truck",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/04_00e7f_A5nyxVWUmcC5twG48Aioubb8/f800/1732454627.jpeg?s=582d8e863947886027929ceb2922fa9b2a017c3d",
+    "itemURL": "https://www.vinted.fr/items/5434432972-lego-monster-truck",
+    "publication": 1732454627,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5292074791,
+    "title": "Lego 42150",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/03_0170a_tbfrkWFtTSswMK8bk1zCN8Ku/f800/1730119137.jpeg?s=358706f3d7c98ec88f3f11936fd227ee2f0bc76b",
+    "itemURL": "https://www.vinted.fr/items/5292074791-lego-42150",
+    "publication": 1730119137,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4961374477,
+    "title": "Lego Technic 42150 Monster Jam",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/02_00fd3_tNbQpX8xTkC9A1z5Rxn9jJeK/f800/1725022678.jpeg?s=9896680bd76960bf6fbffad7d28f34c7a89d26a8",
+    "itemURL": "https://www.vinted.fr/items/4961374477-lego-technic-42150-monster-jam",
+    "publication": 1725022678,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 3428604856,
+    "title": "Lego Technic 42150 Neuf pull back",
+    "price": "19.6",
+    "imgURL": "https://images1.vinted.net/t/03_01801_yHTg8kwEtepU1e6g5nrSHT19/f800/1693737513.jpeg?s=ad2fdd7a37f45c460b08ce93eec1bf702c630433",
+    "itemURL": "https://www.vinted.fr/items/3428604856-lego-technic-42150-neuf-pull-back",
+    "publication": 1693737513,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5417424621,
+    "title": "Lego technic 42150",
+    "price": "19.6",
+    "imgURL": "https://images1.vinted.net/t/04_02249_MLDwdmJdwCq8qhKMh74LuVTF/f800/1732170171.jpeg?s=a68545b1bbee265fba7fa2f5ba38ca8cb2bf1806",
+    "itemURL": "https://www.vinted.fr/items/5417424621-lego-technic-42150",
+    "publication": 1732170171,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5385320751,
+    "title": "Lego technic 42150 nieuw",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/01_0059a_rBudnTbpBkiJopLhJ3XwNFn3/f800/1731667697.jpeg?s=060266603334965471573ec27fe384590437cff8",
+    "itemURL": "https://www.vinted.fr/items/5385320751-lego-technic-42150-nieuw",
+    "publication": 1731667697,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5396149201,
+    "title": "LEGO Technic Monster Jam Monster Mutt Dalmatian (42150)",
+    "price": "14.35",
+    "imgURL": "https://images1.vinted.net/t/04_003e6_iUFVvVoUnVZmMRXwcCtkf8Qd/f800/1731843140.jpeg?s=3e1bc95b5646035ef2a62b2447e3062efdfd3619",
+    "itemURL": "https://www.vinted.fr/items/5396149201-lego-technic-monster-jam-monster-mutt-dalmatian-42150",
+    "publication": 1731843140,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -537,16 +446,138 @@
     "price": "8.58",
     "imgURL": "https://images1.vinted.net/t/03_00704_MqAeVsvRhYrmt2wpRgz1f5XD/f800/1721931676.jpeg?s=5d0e19d02db07b28d816bf0c1131e6eb7601c9ed",
     "itemURL": "https://www.vinted.fr/items/4809190904-lego-technic-42150-monster-truck",
-    "publication": 1721931676
+    "publication": 1721931676,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 5122411010,
-    "title": "Lego technic voiture 42150",
+    "id": 5029133977,
+    "title": "Lego Technic",
     "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/03_004cb_LF6Tv8hfsV7VYCSjGn2GphuB/f800/1727535185.jpeg?s=3f942682f3753bd6219aab524d515fcd1200e137",
-    "itemURL": "https://www.vinted.fr/items/5122411010-lego-technic-voiture-42150",
-    "publication": 1727535185
+    "imgURL": "https://images1.vinted.net/t/03_01ae1_ffZHQKyo3RXzHhC4CPiefTVB/f800/1726133805.jpeg?s=7c425733b1e193c95886132a9f50bf7538c6446f",
+    "itemURL": "https://www.vinted.fr/items/5029133977-lego-technic",
+    "publication": 1726133805,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5103993890,
+    "title": "Lego technic",
+    "price": "14.88",
+    "imgURL": "https://images1.vinted.net/t/01_020f4_fAbUSxppnfg1MYTZbgd7oMzf/f800/1727253550.jpeg?s=aedb65d3a82d284c1ffb266187ba591edae045e8",
+    "itemURL": "https://www.vinted.fr/items/5103993890-lego-technic",
+    "publication": 1727253550,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5081671483,
+    "title": "Lego technic",
+    "price": "17.5",
+    "imgURL": "https://images1.vinted.net/t/01_011b0_Vf6ssFbz8SGX6d3r67XHAu4A/f800/1726925538.jpeg?s=1dd81119c86e91deac4e7d9ab10e7e71e41c83a8",
+    "itemURL": "https://www.vinted.fr/items/5081671483-lego-technic",
+    "publication": 1726925538,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5008701048,
+    "title": "Lot Lego technic",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/01_0219a_cyRaXVHrcN7sw5uCWkt7UzfG/f800/1726509023.jpeg?s=50f8baee267d118425dc743b6aed82a0d52ddcfc",
+    "itemURL": "https://www.vinted.fr/items/5008701048-lot-lego-technic",
+    "publication": 1726509023,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5339749957,
+    "title": "Lego 42150 nuovo",
+    "price": "15.4",
+    "imgURL": "https://images1.vinted.net/t/03_01f12_SdxTJXMZ2d6Ec2Wjy8E5AQTH/f800/1730912657.jpeg?s=3d372484c2cb5552514fe2a50f3ef441ffacd8f3",
+    "itemURL": "https://www.vinted.fr/items/5339749957-lego-42150-nuovo",
+    "publication": 1730912657,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5311535436,
+    "title": "Lego technic",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/04_00e8b_qEnvAhgqUU5si8SKmGY6dixU/f800/1730467796.jpeg?s=21db9a3bfe9f8d317246ac0cf0401ef1dd260162",
+    "itemURL": "https://www.vinted.fr/items/5311535436-lego-technic",
+    "publication": 1730467796,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5342949526,
+    "title": "Lego technic Monster truck",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/03_00b7d_KWVH618dUYK2eHkq8xwY3BkJ/f800/1730982775.jpeg?s=c9f79771540c8d640552a3a124317b22db8d8f1d",
+    "itemURL": "https://www.vinted.fr/items/5342949526-lego-technic-monster-truck",
+    "publication": 1730982775,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4150511808,
+    "title": "Lego technic Monster jam",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/01_026d5_mSf5mdQEdfu3vXdGjYozqn2C/f800/1708950603.jpeg?s=fa25d9d03b4d9fcf7131d20c17eb7d7513448b22",
+    "itemURL": "https://www.vinted.fr/items/4150511808-lego-technic-monster-jam",
+    "publication": 1708950603,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5318462524,
+    "title": "Lego technic 42150 neuf",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/04_018fd_7jnKRS8jFhczoHrxX1kgan9y/f800/1730567890.jpeg?s=3d1d62fb8aa16a8bdf9d77d85798b017071b7671",
+    "itemURL": "https://www.vinted.fr/items/5318462524-lego-technic-42150-neuf",
+    "publication": 1730567890,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4976040670,
+    "title": "LEGO 42150 Monster Jam Dalmatian",
+    "price": "17.5",
+    "imgURL": "https://images1.vinted.net/t/02_00330_oZaaNV15z5gzQWBdWcrohTGg/f800/1725277358.jpeg?s=07f1bbd28f22228ba898c6fe5edea77eab4c1157",
+    "itemURL": "https://www.vinted.fr/items/4976040670-lego-42150-monster-jam-dalmatian",
+    "publication": 1725277358,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5277759585,
+    "title": "Lego 42150 Monster truck dalmatien",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/04_00cf4_WaLKeNDFxUmdB4kaTECEqbmf/f800/1729891483.jpeg?s=3c76efe20714afe736fd7c2721f88ce7ff9765ab",
+    "itemURL": "https://www.vinted.fr/items/5277759585-lego-42150-monster-truck-dalmatien",
+    "publication": 1729891483,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5420290811,
+    "title": "LEGO Technic 42150 Monster Truck",
+    "price": "14.35",
+    "imgURL": "https://images1.vinted.net/t/04_0017b_QUaqMjxY156Bhh7vDYzVLWES/f800/1732207014.jpeg?s=2a9f85d2b92c7e20023c13b023c1524bb53f868e",
+    "itemURL": "https://www.vinted.fr/items/5420290811-lego-technic-42150-monster-truck",
+    "publication": 1732207014,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5283496427,
+    "title": "Monster Jam 42150",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/04_01630_a9X4GrjcfyvcKkGib3hRgVF5/f800/1730015428.jpeg?s=80187fb3e350ac70615ee68002d36b58c1e507b5",
+    "itemURL": "https://www.vinted.fr/items/5283496427-monster-jam-42150",
+    "publication": 1730015428,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -555,52 +586,8 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/04_017af_8T8Mckc9YuApgxsUM3Wh4pBm/f800/1731172436.jpeg?s=a87ecc85b33f28bd13e60b32fa7e48e54a28b04b",
     "itemURL": "https://www.vinted.fr/items/5354246871-lego-technic-42150",
-    "publication": 1731172436
-  },
-  {
-    "legoid": 42150,
-    "id": 5428578179,
-    "title": "LEGO 42150",
-    "price": "19.6",
-    "imgURL": "https://images1.vinted.net/t/04_01fa2_U1auk8pychJzH6hi7rcTijc6/f800/1732368869.jpeg?s=6fe1ac0069c4b8fab436d8825803e6abf47dcd49",
-    "itemURL": "https://www.vinted.fr/items/5428578179-lego-42150",
-    "publication": 1732368869
-  },
-  {
-    "legoid": 42150,
-    "id": 5312248642,
-    "title": "Lego Technic 42150 Monster Truck",
-    "price": "15.4",
-    "imgURL": "https://images1.vinted.net/t/04_0026c_7myFTRr2s6vA3b4JBsF3nC22/f800/1730473859.jpeg?s=9ac4c91be46349aa98ba7717c4651528f6567bbf",
-    "itemURL": "https://www.vinted.fr/items/5312248642-lego-technic-42150-monster-truck",
-    "publication": 1730473859
-  },
-  {
-    "legoid": 42150,
-    "id": 5293214439,
-    "title": "Lego complet 42150 technic monster truck jam",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/04_00968_Ay2dosAJjxbxhfw9H4nN4WUB/f800/1730128888.jpeg?s=95f4fbad046331709091b2bd8731d34c72d5a6c6",
-    "itemURL": "https://www.vinted.fr/items/5293214439-lego-complet-42150-technic-monster-truck-jam",
-    "publication": 1730128888
-  },
-  {
-    "legoid": 42150,
-    "id": 5367361203,
-    "title": "Lego munster Jam, Mutt, Dalmatien",
-    "price": "21.7",
-    "imgURL": "https://images1.vinted.net/t/03_0114f_5YEMQPxn3DnuhPCcGwFSFcDb/f800/1731344235.jpeg?s=35dbdf2b0876013bcc00e2778af32253b24cd706",
-    "itemURL": "https://www.vinted.fr/items/5367361203-lego-munster-jam-mutt-dalmatien",
-    "publication": 1731344235
-  },
-  {
-    "legoid": 42150,
-    "id": 5231008312,
-    "title": "Lego Technic 42150 7+",
-    "price": "14.35",
-    "imgURL": "https://images1.vinted.net/t/03_01727_qaScTJvXGJrEFyoyp1njvoBL/f800/1729156375.jpeg?s=77a1f11199353349623d5dbbccfd7b7fa400e71e",
-    "itemURL": "https://www.vinted.fr/items/5231008312-lego-technic-42150-7",
-    "publication": 1729156375
+    "publication": 1731172436,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -609,97 +596,28 @@
     "price": "17.5",
     "imgURL": "https://images1.vinted.net/t/01_01547_knMJ4keftvUaiMB7471XWyie/f800/1724702244.jpeg?s=7a971a37aa92b1dc621e126217aa75803cce1e65",
     "itemURL": "https://www.vinted.fr/items/4944621288-lego-42150",
-    "publication": 1724702244
+    "publication": 1724702244,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 5293669916,
-    "title": "Lego technic 42150 Monster Jam",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/04_01097_A2P6w9NtWL7T6Bmun8gnDQnd/f800/1730132915.jpeg?s=b717192d6c4565f6ec2f63b65ed5eeb382722159",
-    "itemURL": "https://www.vinted.fr/items/5293669916-lego-technic-42150-monster-jam",
-    "publication": 1730132915
+    "id": 5122411010,
+    "title": "Lego technic voiture 42150",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/03_004cb_LF6Tv8hfsV7VYCSjGn2GphuB/f800/1727535185.jpeg?s=3f942682f3753bd6219aab524d515fcd1200e137",
+    "itemURL": "https://www.vinted.fr/items/5122411010-lego-technic-voiture-42150",
+    "publication": 1727535185,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 4532961958,
-    "title": "Lego technic 42150",
-    "price": "14.35",
-    "imgURL": "https://images1.vinted.net/t/03_02008_fnLfayADjxXGqdexfc1cqvMD/f800/1716236280.jpeg?s=4242595793a97b129b234b85ca60b1890579d7aa",
-    "itemURL": "https://www.vinted.fr/items/4532961958-lego-technic-42150",
-    "publication": 1716236280
-  },
-  {
-    "legoid": 42150,
-    "id": 4083551116,
-    "title": "Lego technic 42150",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/03_01d8b_SdUETRV1hFZdD2DDTGkafxhn/f800/1707568090.jpeg?s=c3d7de0969ffe083fab45fcc9317d68e12f7d7f8",
-    "itemURL": "https://www.vinted.fr/items/4083551116-lego-technic-42150",
-    "publication": 1707568090
-  },
-  {
-    "legoid": 42150,
-    "id": 5399936582,
-    "title": "Lego Technic 42150",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/03_0108c_9u3RXjQprWgyUyE4JrB9RntL/f800/1731864704.jpeg?s=09c4669b47091d7459e99b4c22774f5babd2d06a",
-    "itemURL": "https://www.vinted.fr/items/5399936582-lego-technic-42150",
-    "publication": 1731864704
-  },
-  {
-    "legoid": 42150,
-    "id": 5278047266,
-    "title": "Lego technic 42150 Monster Jam neuf",
-    "price": "15.4",
-    "imgURL": "https://images1.vinted.net/t/03_0152e_naFdymtw6US1ewSJ7Fu8DyJ3/f800/1729924416.jpeg?s=021a9ce971f422a9e79ff2267110b46f8da2e5ab",
-    "itemURL": "https://www.vinted.fr/items/5278047266-lego-technic-42150-monster-jam-neuf",
-    "publication": 1729924416
-  },
-  {
-    "legoid": 42150,
-    "id": 5360919933,
-    "title": "Lego 42150, Weihnachtsgeschenk?",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/02_0141b_NteNpmnj8nuj6gSbVJaxx3H6/f800/r3/1731259833.jpeg?s=ea44e99fb2dcb55c2b6dd120488e2637faf2e0fe",
-    "itemURL": "https://www.vinted.fr/items/5360919933-lego-42150-weihnachtsgeschenk",
-    "publication": 1731259833
-  },
-  {
-    "legoid": 42150,
-    "id": 4860513543,
-    "title": "Lego technic 42150",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/03_0226f_R1BXq2Q4EJsS1hQWGGHXYeMc/f800/1723054321.jpeg?s=9151921b62d35aeabe06fb05a08138923ef45ce2",
-    "itemURL": "https://www.vinted.fr/items/4860513543-lego-technic-42150",
-    "publication": 1723054321
-  },
-  {
-    "legoid": 42150,
-    "id": 5258900034,
-    "title": "Lego technic set 42150 monster mutt dalmatian",
-    "price": "17.5",
-    "imgURL": "https://images1.vinted.net/t/03_003cd_4v4eyMV4auha2dU2Pobyp4NQ/f800/1729584036.jpeg?s=6b3725119b2ffef70bd99d3138c6b7cabbbfb35b",
-    "itemURL": "https://www.vinted.fr/items/5258900034-lego-technic-set-42150-monster-mutt-dalmatian",
-    "publication": 1729584036
-  },
-  {
-    "legoid": 42150,
-    "id": 4995857218,
-    "title": "Lego 42150 neuf",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/01_004ad_a1nYtR7KAmAF9tLsuvZUWjy6/f800/1725630264.jpeg?s=dc612810b53ce5dd2da958787cdd898e4e157959",
-    "itemURL": "https://www.vinted.fr/items/4995857218-lego-42150-neuf",
-    "publication": 1725630264
-  },
-  {
-    "legoid": 42150,
-    "id": 5302054152,
-    "title": "Lego technic",
-    "price": "17.5",
-    "imgURL": "https://images1.vinted.net/t/01_023a6_CX96BoxVTcQ83W5VjqvdmrEQ/f800/1730289273.jpeg?s=8be0bcda46dbc10f6e8d78a48b700d5d0a44b9da",
-    "itemURL": "https://www.vinted.fr/items/5302054152-lego-technic",
-    "publication": 1730289273
+    "id": 5375906181,
+    "title": "Lego Technic",
+    "price": "21.7",
+    "imgURL": "https://images1.vinted.net/t/04_01a2b_xe12dDnRhG3PuLdMHH8Ki6Pu/f800/1731499017.jpeg?s=ee39317098e304370093a9af8df3be2aac1469b4",
+    "itemURL": "https://www.vinted.fr/items/5375906181-lego-technic",
+    "publication": 1731499017,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -708,25 +626,158 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/01_007f0_y454nzchuNGbZGzhRZ7c2ViK/f800/1721984692.jpeg?s=defb586695f82caf946530aff4226be0776fbab2",
     "itemURL": "https://www.vinted.fr/items/4810460251-lego-technique-42150",
-    "publication": 1721984692
+    "publication": 1721984692,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 5126830808,
-    "title": "Lego technic 42150 Monster jam monster mutt dalmatian",
-    "price": "11.2",
-    "imgURL": "https://images1.vinted.net/t/02_023c3_DD6biMtAQTTHgsYmodCN6cD1/f800/1727607499.jpeg?s=5b014b20837cba367579b20f2c75f0b429b0c766",
-    "itemURL": "https://www.vinted.fr/items/5126830808-lego-technic-42150-monster-jam-monster-mutt-dalmatian",
-    "publication": 1727607499
+    "id": 5231008312,
+    "title": "Lego Technic 42150 7+",
+    "price": "14.35",
+    "imgURL": "https://images1.vinted.net/t/03_01727_qaScTJvXGJrEFyoyp1njvoBL/f800/1729156375.jpeg?s=77a1f11199353349623d5dbbccfd7b7fa400e71e",
+    "itemURL": "https://www.vinted.fr/items/5231008312-lego-technic-42150-7",
+    "publication": 1729156375,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
-    "id": 3875812549,
-    "title": "Lego 42150",
+    "id": 5293669916,
+    "title": "Lego technic 42150 Monster Jam",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/04_01097_A2P6w9NtWL7T6Bmun8gnDQnd/f800/1730132915.jpeg?s=b717192d6c4565f6ec2f63b65ed5eeb382722159",
+    "itemURL": "https://www.vinted.fr/items/5293669916-lego-technic-42150-monster-jam",
+    "publication": 1730132915,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5428578179,
+    "title": "LEGO 42150",
+    "price": "19.6",
+    "imgURL": "https://images1.vinted.net/t/04_01fa2_U1auk8pychJzH6hi7rcTijc6/f800/1732368869.jpeg?s=6fe1ac0069c4b8fab436d8825803e6abf47dcd49",
+    "itemURL": "https://www.vinted.fr/items/5428578179-lego-42150",
+    "publication": 1732368869,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5293214439,
+    "title": "Lego complet 42150 technic monster truck jam",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/04_00968_Ay2dosAJjxbxhfw9H4nN4WUB/f800/1730128888.jpeg?s=95f4fbad046331709091b2bd8731d34c72d5a6c6",
+    "itemURL": "https://www.vinted.fr/items/5293214439-lego-complet-42150-technic-monster-truck-jam",
+    "publication": 1730128888,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4532961958,
+    "title": "Lego technic 42150",
+    "price": "14.35",
+    "imgURL": "https://images1.vinted.net/t/03_02008_fnLfayADjxXGqdexfc1cqvMD/f800/1716236280.jpeg?s=4242595793a97b129b234b85ca60b1890579d7aa",
+    "itemURL": "https://www.vinted.fr/items/4532961958-lego-technic-42150",
+    "publication": 1716236280,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4083551116,
+    "title": "Lego technic 42150",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/03_01d8b_SdUETRV1hFZdD2DDTGkafxhn/f800/1707568090.jpeg?s=c3d7de0969ffe083fab45fcc9317d68e12f7d7f8",
+    "itemURL": "https://www.vinted.fr/items/4083551116-lego-technic-42150",
+    "publication": 1707568090,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5312248642,
+    "title": "Lego Technic 42150 Monster Truck",
+    "price": "15.4",
+    "imgURL": "https://images1.vinted.net/t/04_0026c_7myFTRr2s6vA3b4JBsF3nC22/f800/1730473859.jpeg?s=9ac4c91be46349aa98ba7717c4651528f6567bbf",
+    "itemURL": "https://www.vinted.fr/items/5312248642-lego-technic-42150-monster-truck",
+    "publication": 1730473859,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5278047266,
+    "title": "Lego technic 42150 Monster Jam neuf",
+    "price": "15.4",
+    "imgURL": "https://images1.vinted.net/t/03_0152e_naFdymtw6US1ewSJ7Fu8DyJ3/f800/1729924416.jpeg?s=021a9ce971f422a9e79ff2267110b46f8da2e5ab",
+    "itemURL": "https://www.vinted.fr/items/5278047266-lego-technic-42150-monster-jam-neuf",
+    "publication": 1729924416,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5367361203,
+    "title": "Lego munster Jam, Mutt, Dalmatien",
+    "price": "21.7",
+    "imgURL": "https://images1.vinted.net/t/03_0114f_5YEMQPxn3DnuhPCcGwFSFcDb/f800/1731344235.jpeg?s=35dbdf2b0876013bcc00e2778af32253b24cd706",
+    "itemURL": "https://www.vinted.fr/items/5367361203-lego-munster-jam-mutt-dalmatien",
+    "publication": 1731344235,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5360919933,
+    "title": "Lego 42150, Weihnachtsgeschenk?",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/02_0141b_NteNpmnj8nuj6gSbVJaxx3H6/f800/r3/1731259833.jpeg?s=ea44e99fb2dcb55c2b6dd120488e2637faf2e0fe",
+    "itemURL": "https://www.vinted.fr/items/5360919933-lego-42150-weihnachtsgeschenk",
+    "publication": 1731259833,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5399936582,
+    "title": "Lego Technic 42150",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/03_0108c_9u3RXjQprWgyUyE4JrB9RntL/f800/1731864704.jpeg?s=09c4669b47091d7459e99b4c22774f5babd2d06a",
+    "itemURL": "https://www.vinted.fr/items/5399936582-lego-technic-42150",
+    "publication": 1731864704,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4860513543,
+    "title": "Lego technic 42150",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/03_0226f_R1BXq2Q4EJsS1hQWGGHXYeMc/f800/1723054321.jpeg?s=9151921b62d35aeabe06fb05a08138923ef45ce2",
+    "itemURL": "https://www.vinted.fr/items/4860513543-lego-technic-42150",
+    "publication": 1723054321,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5258900034,
+    "title": "Lego technic set 42150 monster mutt dalmatian",
     "price": "17.5",
-    "imgURL": "https://images1.vinted.net/t/02_01f5f_z9nNsHTq8YoUCwztyyhgFCfx/f800/1702396999.jpeg?s=604de3105944d0c6d1630fa4b26d7426bafcd198",
-    "itemURL": "https://www.vinted.fr/items/3875812549-lego-42150",
-    "publication": 1702396999
+    "imgURL": "https://images1.vinted.net/t/03_003cd_4v4eyMV4auha2dU2Pobyp4NQ/f800/1729584036.jpeg?s=6b3725119b2ffef70bd99d3138c6b7cabbbfb35b",
+    "itemURL": "https://www.vinted.fr/items/5258900034-lego-technic-set-42150-monster-mutt-dalmatian",
+    "publication": 1729584036,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4995857218,
+    "title": "Lego 42150 neuf",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/01_004ad_a1nYtR7KAmAF9tLsuvZUWjy6/f800/1725630264.jpeg?s=dc612810b53ce5dd2da958787cdd898e4e157959",
+    "itemURL": "https://www.vinted.fr/items/4995857218-lego-42150-neuf",
+    "publication": 1725630264,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5302054152,
+    "title": "Lego technic",
+    "price": "17.5",
+    "imgURL": "https://images1.vinted.net/t/01_023a6_CX96BoxVTcQ83W5VjqvdmrEQ/f800/1730289273.jpeg?s=8be0bcda46dbc10f6e8d78a48b700d5d0a44b9da",
+    "itemURL": "https://www.vinted.fr/items/5302054152-lego-technic",
+    "publication": 1730289273,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -735,7 +786,8 @@
     "price": "19.08",
     "imgURL": "https://images1.vinted.net/t/02_00aa3_LH5Yax4QY9qYFcUfmCTWwWTt/f800/1715334389.jpeg?s=4fdb95d6638665ff1930c0a4d5296415c45460cc",
     "itemURL": "https://www.vinted.fr/items/4483537536-lego-technic-42150-monster-jam-monster-mutt-dalmation",
-    "publication": 1715334389
+    "publication": 1715334389,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -744,7 +796,18 @@
     "price": "15.4",
     "imgURL": "https://images1.vinted.net/t/02_0164a_CZysGzKeUmkWNzyLMvfps97U/f800/1709555207.jpeg?s=835aa56b0b771cd452ffeefceccbcb9c29ce815f",
     "itemURL": "https://www.vinted.fr/items/4180427171-lego-technic-42150",
-    "publication": 1709555207
+    "publication": 1709555207,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5126830808,
+    "title": "Lego technic 42150 Monster jam monster mutt dalmatian",
+    "price": "11.2",
+    "imgURL": "https://images1.vinted.net/t/02_023c3_DD6biMtAQTTHgsYmodCN6cD1/f800/1727607499.jpeg?s=5b014b20837cba367579b20f2c75f0b429b0c766",
+    "itemURL": "https://www.vinted.fr/items/5126830808-lego-technic-42150-monster-jam-monster-mutt-dalmatian",
+    "publication": 1727607499,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -753,16 +816,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/01_0000b_QBLr7Shht5LBo9HjuFt7o8n4/f800/1724491842.jpeg?s=56a18572ea1e03f2b364b0dc4e3d4f9f502d84b2",
     "itemURL": "https://www.vinted.fr/items/4930075330-lego-technic-42150",
-    "publication": 1724491842
-  },
-  {
-    "legoid": 42150,
-    "id": 5304863434,
-    "title": "Lego technic neuf 42150",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/04_013f3_EdKfJZqkwEieVVtWadzAefzK/f800/1730326012.jpeg?s=75da6f64f94a306618a117dbd6d3406fb0d34e72",
-    "itemURL": "https://www.vinted.fr/items/5304863434-lego-technic-neuf-42150",
-    "publication": 1730326012
+    "publication": 1724491842,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -771,7 +826,18 @@
     "price": "15.4",
     "imgURL": "https://images1.vinted.net/t/01_00442_W8B8LCTN58X5Ph7ULqmju68Z/f800/1724059780.jpeg?s=41a9c7f8e604493cfdfe5858c0a187f8b16197db",
     "itemURL": "https://www.vinted.fr/items/4906484488-lego-42150",
-    "publication": 1724059780
+    "publication": 1724059780,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5304863434,
+    "title": "Lego technic neuf 42150",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/04_013f3_EdKfJZqkwEieVVtWadzAefzK/f800/1730326012.jpeg?s=75da6f64f94a306618a117dbd6d3406fb0d34e72",
+    "itemURL": "https://www.vinted.fr/items/5304863434-lego-technic-neuf-42150",
+    "publication": 1730326012,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -780,25 +846,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/02_01897_7xnjcqzLivGaKCPdvd1FZGzA/f800/1720036487.jpeg?s=54f502b186c5f56c31fd89e04da670a17eb9dffc",
     "itemURL": "https://www.vinted.fr/items/4720498255-lego-technic-42150-monster-jam-monster-mutt-dalmatian",
-    "publication": 1720036487
-  },
-  {
-    "legoid": 42150,
-    "id": 4937933801,
-    "title": "Lego Technic 2 in 1 42150",
-    "price": "20.65",
-    "imgURL": "https://images1.vinted.net/t/01_0176e_DJs2TfKJ9G95E7ScF711NpyF/f800/1724602691.jpeg?s=be643d605d5fc589ad9fbd2e95f6bc32db24bf56",
-    "itemURL": "https://www.vinted.fr/items/4937933801-lego-technic-2-in-1-42150",
-    "publication": 1724602691
-  },
-  {
-    "legoid": 42150,
-    "id": 4667727095,
-    "title": "Lego 42150 monster jam",
-    "price": "19.6",
-    "imgURL": "https://images1.vinted.net/t/01_01ea0_L8vEKojNS54u56EKZQ3azCLN/f800/1718903874.jpeg?s=ce9d2fef47ebdad77d276c90dccec7ad974b682d",
-    "itemURL": "https://www.vinted.fr/items/4667727095-lego-42150-monster-jam",
-    "publication": 1718903874
+    "publication": 1720036487,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -807,16 +856,8 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/01_01a25_E35sHt4JFrawG2pBffF37xRe/f800/1711639696.jpeg?s=51e14541ad605e013f51bec316e8f9c10c28c452",
     "itemURL": "https://www.vinted.fr/items/4284920996-lego-42150",
-    "publication": 1711639696
-  },
-  {
-    "legoid": 42150,
-    "id": 4100862158,
-    "title": "Lego 42150",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/02_01ab5_ALLj2SPYtciNeW5N4aaNwzHG/f800/1707921318.jpeg?s=9e91ef4efb6484effef7b9870b22f851408475d8",
-    "itemURL": "https://www.vinted.fr/items/4100862158-lego-42150",
-    "publication": 1707921318
+    "publication": 1711639696,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -825,7 +866,18 @@
     "price": "13.3",
     "imgURL": "https://images1.vinted.net/t/02_01c2b_oAW86Wdur8EZauLbVDbzpW7R/f800/1731156821.jpeg?s=db5dcb7561cfbe3f1be4e7716027ecaeed05ceb2",
     "itemURL": "https://www.vinted.fr/items/5352308491-lego-technic-42150-voiture-dalmatien",
-    "publication": 1731156821
+    "publication": 1731156821,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4100862158,
+    "title": "Lego 42150",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/02_01ab5_ALLj2SPYtciNeW5N4aaNwzHG/f800/1707921318.jpeg?s=9e91ef4efb6484effef7b9870b22f851408475d8",
+    "itemURL": "https://www.vinted.fr/items/4100862158-lego-42150",
+    "publication": 1707921318,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -834,7 +886,18 @@
     "price": "19.6",
     "imgURL": "https://images1.vinted.net/t/03_01205_CD9sXPGXzE5TLNENv7wMNb6Z/f800/1728411845.jpeg?s=ac623bfa0610650e4791f82da1f4b4241a005d68",
     "itemURL": "https://www.vinted.fr/items/5183980079-lego-technic-42150-monster-jam-monster-matt-dalmatien-7",
-    "publication": 1728411845
+    "publication": 1728411845,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4667727095,
+    "title": "Lego 42150 monster jam",
+    "price": "19.6",
+    "imgURL": "https://images1.vinted.net/t/01_01ea0_L8vEKojNS54u56EKZQ3azCLN/f800/1718903874.jpeg?s=ce9d2fef47ebdad77d276c90dccec7ad974b682d",
+    "itemURL": "https://www.vinted.fr/items/4667727095-lego-42150-monster-jam",
+    "publication": 1718903874,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -843,7 +906,8 @@
     "price": "12.25",
     "imgURL": "https://images1.vinted.net/t/04_01692_bTD9A9qa3F5PSgL6JNGi5Pd3/f800/1730213410.jpeg?s=fac9e1ff430e5b14893b914daab0ce1ba219445b",
     "itemURL": "https://www.vinted.fr/items/5298212549-lego-technic-42150-monster-jam",
-    "publication": 1730213410
+    "publication": 1730213410,
+    "scraping_data": 1732471174
   },
   {
     "legoid": 42150,
@@ -852,6 +916,37 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/04_00d2c_7pGPHXjJsGfSHKtwCCDPt33p/f800/1730647318.jpeg?s=1415d36f2838e5e1c69136bfdfb81adf5a640b71",
     "itemURL": "https://www.vinted.fr/items/5323911434-lego-technik-auto-42150",
-    "publication": 1730647318
+    "publication": 1730647318,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5384622865,
+    "title": "Lego Technic Monster mutt monster J 42150",
+    "price": "19.6",
+    "imgURL": "https://images1.vinted.net/t/04_00ee4_jGQ8MfyKryDhVexeDtVxTyKK/f800/1731658227.jpeg?s=3551d232197b3412edf4bb9f6e08f0d5173ce102",
+    "itemURL": "https://www.vinted.fr/items/5384622865-lego-technic-monster-mutt-monster-j-42150",
+    "publication": 1731658227,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 5312763145,
+    "title": "Lego Monster Jam",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/04_00e5d_YB6LjrUXrndKrFnoY2uuPBoV/f800/1730478470.jpeg?s=39bb0949a650618f923597c70119948e43a96365",
+    "itemURL": "https://www.vinted.fr/items/5312763145-lego-monster-jam",
+    "publication": 1730478470,
+    "scraping_data": 1732471174
+  },
+  {
+    "legoid": 42150,
+    "id": 4865152484,
+    "title": "Lego 42150 Monster Jam Dalmatian",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/02_02562_C5NgectpVXAw4fgNMdseC98M/f800/1723146535.jpeg?s=4b5d8ee6a9964d95472eb53a7aed22d7a089c1d6",
+    "itemURL": "https://www.vinted.fr/items/4865152484-lego-42150-monster-jam-dalmatian",
+    "publication": 1723146535,
+    "scraping_data": 1732471174
   }
 ]

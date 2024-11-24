@@ -6,7 +6,8 @@
     "price": "18.55",
     "imgURL": "https://images1.vinted.net/t/04_00fb2_5iWgaA9fXbC9Q8ecYKqnWavn/f800/1732441835.jpeg?s=7daa66714eeda9e682a4a70a7454cd3d2cf4caa6",
     "itemURL": "https://www.vinted.fr/items/5432512605-calendrier-de-lavent-lego-friends",
-    "publication": 1732441835
+    "publication": 1732441835,
+    "scraping_data": 1732471019
   },
   {
     "legoid": 42637,
@@ -15,7 +16,8 @@
     "price": "21.7",
     "imgURL": "https://images1.vinted.net/t/04_01fde_dWw3PtPkAd5APAdJQBJfyEXx/f800/1730575426.jpeg?s=5e4d5217cf3bae171d20165e75fd7e9949b94d00",
     "itemURL": "https://www.vinted.fr/items/5319108628-calendrier-de-lavant-lego-friends-42637-neuf",
-    "publication": 1730575426
+    "publication": 1730575426,
+    "scraping_data": 1732471019
   },
   {
     "legoid": 42637,
@@ -24,7 +26,8 @@
     "price": "21.7",
     "imgURL": "https://images1.vinted.net/t/03_020fb_8Nwm8BXmioqTxoeV6gQ5AH81/f800/1731516779.jpeg?s=9cc8a9cb01cd3683be7780a2378c276cbbc21cab",
     "itemURL": "https://www.vinted.fr/items/5377797038-lego-friends-42637-adventskalender-2024",
-    "publication": 1731516779
+    "publication": 1731516779,
+    "scraping_data": 1732471019
   },
   {
     "legoid": 42637,
@@ -33,7 +36,8 @@
     "price": "23.8",
     "imgURL": "https://images1.vinted.net/t/02_00cbf_a5MRfNL2S1HmGn9YDfdq2ySW/f800/1730541837.jpeg?s=8e3dc89a4876d8cb0b3ae7167ef36d596c4c051b",
     "itemURL": "https://www.vinted.fr/items/5315233936-lego-friends-42637-adventkalender-2024-6",
-    "publication": 1730541837
+    "publication": 1730541837,
+    "scraping_data": 1732471019
   },
   {
     "legoid": 42637,
@@ -42,6 +46,7 @@
     "price": "20.65",
     "imgURL": "https://images1.vinted.net/t/03_013a8_QqmegXMM8KgBZVbNqDiq9aSY/f800/1731841182.jpeg?s=fca72e215ecaa8c0aeb3da9b0958cf048830de50",
     "itemURL": "https://www.vinted.fr/items/5183116879-lego-42637-friends-adventskalender-2024",
-    "publication": 1731841182
+    "publication": 1731841182,
+    "scraping_data": 1732471019
   }
 ]

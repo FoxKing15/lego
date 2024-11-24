@@ -6,7 +6,8 @@
     "price": "25.9",
     "imgURL": "https://images1.vinted.net/t/04_01e41_CKjuHPyMhp2CbqAFoRTqGUEZ/f800/1730135089.jpeg?s=1d888016e8ff7751a10e39445925c92a5d432e3e",
     "itemURL": "https://www.vinted.fr/items/5293895265-lego-10369",
-    "publication": 1730135089
+    "publication": 1730135089,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -15,7 +16,8 @@
     "price": "24.85",
     "imgURL": "https://images1.vinted.net/t/04_00559_e1n6FWGVgh45rcmupCxP6tj6/f800/1732166442.jpeg?s=dc0bb1dbe495ab2920d8e15d2452476a9260cede",
     "itemURL": "https://www.vinted.fr/items/5417391549-lego-10369",
-    "publication": 1732166442
+    "publication": 1732166442,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -24,7 +26,8 @@
     "price": "18.55",
     "imgURL": "https://images1.vinted.net/t/04_0096c_w3AQZPEg9VhFqvtn9mv5RiMX/f800/1732356491.jpeg?s=24f03319311041b184a9525671d118d99992fd25",
     "itemURL": "https://www.vinted.fr/items/5427185363-lego-10369",
-    "publication": 1732356491
+    "publication": 1732356491,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -33,7 +36,8 @@
     "price": "3.85",
     "imgURL": "https://images1.vinted.net/t/02_0123f_w4DAWHBzifV2zKypo6sFqfTV/f800/1727815537.jpeg?s=5a1754f4ec2ad8be58aa1720fb80d1dc5630ca16",
     "itemURL": "https://www.vinted.fr/items/5143596008-manuel-lego-botanical-10369",
-    "publication": 1727815537
+    "publication": 1727815537,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -42,7 +46,8 @@
     "price": "5.95",
     "imgURL": "https://images1.vinted.net/t/02_01c71_e5WAdbfk9YoaTLc3v9Mor1i5/f800/1724687188.jpeg?s=ee9024de44a40d432aebb57a3f019d52c37d521b",
     "itemURL": "https://www.vinted.fr/items/4943096989-lego-10369-only-box",
-    "publication": 1724687188
+    "publication": 1724687188,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -51,16 +56,8 @@
     "price": "26.95",
     "imgURL": "https://images1.vinted.net/t/04_010ab_7mdvxBULvx74hBNzfp219V5b/f800/1731743631.jpeg?s=bc3abc2f34cc6e0491f4e7c0813738c38c8e9b99",
     "itemURL": "https://www.vinted.fr/items/5389019523-lego-10369-plum-blossom-botanical-collection",
-    "publication": 1731743631
-  },
-  {
-    "legoid": 10369,
-    "id": 5143596017,
-    "title": "Boite vide lego botanical  10369",
-    "price": "5.95",
-    "imgURL": "https://images1.vinted.net/t/02_00fde_j231ah4zy38FvvEYehauSyDP/f800/1727815537.jpeg?s=c25add508142abf004ea332e0ae52868fb5fcda2",
-    "itemURL": "https://www.vinted.fr/items/5143596017-boite-vide-lego-botanical-10369",
-    "publication": 1727815537
+    "publication": 1731743631,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -69,7 +66,8 @@
     "price": "32.2",
     "imgURL": "https://images1.vinted.net/t/04_00f76_QdtJ7rq4vuFXDGK6vs9YndKj/f800/1732178527.jpeg?s=0e49491c942f48de9a61b3f8520f34be4773b5fe",
     "itemURL": "https://www.vinted.fr/items/5417687656-lego-icons-le-chrysantheme",
-    "publication": 1732178527
+    "publication": 1732178527,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -78,7 +76,18 @@
     "price": "26.85",
     "imgURL": "https://images1.vinted.net/t/01_01fc3_qKkoZHBcwEoMvtfopnR4MU3C/f800/1731930020.jpeg?s=c5f9c380d5a48065a180cf93db4c72ae02444deb",
     "itemURL": "https://www.vinted.fr/items/5403314739-10369-flor-de-ciruelo-lego-new",
-    "publication": 1731930020
+    "publication": 1731930020,
+    "scraping_data": 1732471407
+  },
+  {
+    "legoid": 10369,
+    "id": 5143596017,
+    "title": "Boite vide lego botanical  10369",
+    "price": "5.95",
+    "imgURL": "https://images1.vinted.net/t/02_00fde_j231ah4zy38FvvEYehauSyDP/f800/1727815537.jpeg?s=c25add508142abf004ea332e0ae52868fb5fcda2",
+    "itemURL": "https://www.vinted.fr/items/5143596017-boite-vide-lego-botanical-10369",
+    "publication": 1727815537,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -87,16 +96,8 @@
     "price": "32.2",
     "imgURL": "https://images1.vinted.net/t/04_00e33_321ZZENTm66BCTMpgEDw9tr5/f800/1732404540.jpeg?s=f0c11d3b8c8d70d68074b11f9d1c3419bc72358e",
     "itemURL": "https://www.vinted.fr/items/5431727583-lego-10369-flor-de-ameixa",
-    "publication": 1732404540
-  },
-  {
-    "legoid": 10369,
-    "id": 5385729825,
-    "title": "Lego Botanical Collection 10369 Albicocco Giapponese Plum Blossom Nuovo New",
-    "price": "32.19",
-    "imgURL": "https://images1.vinted.net/t/02_01925_d2AwnGF8uGGVQBk2yeQ3GHFh/f800/1731672242.jpeg?s=acc8eca18690e8849f6af43f3676e2d4e42fafd6",
-    "itemURL": "https://www.vinted.fr/items/5385729825-lego-botanical-collection-10369-albicocco-giapponese-plum-blossom-nuovo-new",
-    "publication": 1731672242
+    "publication": 1732404540,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -105,7 +106,18 @@
     "price": "26.95",
     "imgURL": "https://images1.vinted.net/t/03_00b78_t3eAx2pCuqK6t3W4w5Kn8QnU/f800/1727953881.jpeg?s=556ea68ed6c597eaafc1907d5bded0f590d487f0",
     "itemURL": "https://www.vinted.fr/items/5150920328-lego-10369",
-    "publication": 1727953881
+    "publication": 1727953881,
+    "scraping_data": 1732471407
+  },
+  {
+    "legoid": 10369,
+    "id": 5385729825,
+    "title": "Lego Botanical Collection 10369 Albicocco Giapponese Plum Blossom Nuovo New",
+    "price": "32.19",
+    "imgURL": "https://images1.vinted.net/t/02_01925_d2AwnGF8uGGVQBk2yeQ3GHFh/f800/1731672242.jpeg?s=acc8eca18690e8849f6af43f3676e2d4e42fafd6",
+    "itemURL": "https://www.vinted.fr/items/5385729825-lego-botanical-collection-10369-albicocco-giapponese-plum-blossom-nuovo-new",
+    "publication": 1731672242,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -114,7 +126,8 @@
     "price": "21.7",
     "imgURL": "https://images1.vinted.net/t/01_00bdd_ctM1YoE62fR7TrBLLwEJa3eN/f800/1727737930.jpeg?s=2e2d6ec7fa4d049aaa95841cafcbce995461b3b3",
     "itemURL": "https://www.vinted.fr/items/5138461352-lego-plum-blossom-10369",
-    "publication": 1727737930
+    "publication": 1727737930,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -123,7 +136,8 @@
     "price": "3.85",
     "imgURL": "https://images1.vinted.net/t/02_01de3_V2j5LiEyZcnjwPE7WVC8jH6W/f800/1723312873.jpeg?s=e03db77f4947042ee8f3564e7177181dd2c1fc62",
     "itemURL": "https://www.vinted.fr/items/4871968646-boite-vide-lego-plum-blossom",
-    "publication": 1723312873
+    "publication": 1723312873,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -132,7 +146,8 @@
     "price": "29.05",
     "imgURL": "https://images1.vinted.net/t/04_02147_UYhrheuXppYKw1KUAgxYsopj/f800/1731336932.jpeg?s=8f1397b8f5f63464b83e8242c6978cd084fb5428",
     "itemURL": "https://www.vinted.fr/items/5366301705-lego-plum-blossom-10369",
-    "publication": 1731336932
+    "publication": 1731336932,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -141,7 +156,8 @@
     "price": "30.1",
     "imgURL": "https://images1.vinted.net/t/02_019bf_ziUqXgTnzP8XcTmHtzu2X2my/f800/1730316625.jpeg?s=bb78aefadb20d4cea367372c0877ff721d33f615",
     "itemURL": "https://www.vinted.fr/items/5304634549-lego-botanical-collection-10369-plum-blossom",
-    "publication": 1730316625
+    "publication": 1730316625,
+    "scraping_data": 1732471407
   },
   {
     "legoid": 10369,
@@ -150,6 +166,7 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/04_002df_pJCnuNagbLwWmJH62Bwk2w8m/f800/1731919253.jpeg?s=4b005801fdfafc609385ad5ef12516ac59729bfb",
     "itemURL": "https://www.vinted.fr/items/5402335561-10369-lego-plum-blossom",
-    "publication": 1731919253
+    "publication": 1731919253,
+    "scraping_data": 1732471407
   }
 ]

@@ -6,7 +6,8 @@
     "price": "9.1",
     "imgURL": "https://images1.vinted.net/t/02_010ef_h58iukJq89y9BiaTZTpjsZYo/f800/1653312142.jpeg?s=f33e89d2527966f71616fc22faa651c2594a44c1",
     "itemURL": "https://www.vinted.fr/items/1897519601-manuale-di-istruzioni-notice-di-lego-21332-mappamondo",
-    "publication": 1653312142
+    "publication": 1653312142,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -15,7 +16,8 @@
     "price": "3.75",
     "imgURL": "https://images1.vinted.net/t/02_02674_or7xJCEpDKWKKPdGDP1msYNh/f800/1673949028.jpeg?s=bf48054db4ebeb5308a2eef6a77556c1ed4c3260",
     "itemURL": "https://www.vinted.fr/items/2598304555-libro-delle-istruzioni-lego-the-globe-21332",
-    "publication": 1673949028
+    "publication": 1673949028,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -24,7 +26,8 @@
     "price": "198.1",
     "imgURL": "https://images1.vinted.net/t/02_01fcd_zYMxdacrUcMgrfGBFkiKFfBG/f800/1730972216.jpeg?s=fbf737c16ccdf94210a145b4cf9500a910779a31",
     "itemURL": "https://www.vinted.fr/items/5341982030-lego-ideas-the-globe-21332",
-    "publication": 1730972216
+    "publication": 1730972216,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -33,7 +36,8 @@
     "price": "184.45",
     "imgURL": "https://images1.vinted.net/t/03_00882_CZaRDUArj7ZkbqFNndj39MvK/f800/1731441415.jpeg?s=4307e08f9002f832f7852ddbc8167c8dace42f39",
     "itemURL": "https://www.vinted.fr/items/5373663941-lego-21332",
-    "publication": 1731441415
+    "publication": 1731441415,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -42,7 +46,8 @@
     "price": "205.45",
     "imgURL": "https://images1.vinted.net/t/04_00b98_EJsJDvzYXwTo6WnrZwNwfPRu/f800/1732373213.jpeg?s=ce305bab8df3d8afc2bd62c22e8e34e787e76fa1",
     "itemURL": "https://www.vinted.fr/items/5429183585-lego-21332-le-globe-terrestre",
-    "publication": 1732373213
+    "publication": 1732373213,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -51,7 +56,8 @@
     "price": "3.33",
     "imgURL": "https://images1.vinted.net/t/01_0212f_8HV9Hqz2tFusMddsSXioQXuL/f800/1729190952.jpeg?s=beacd3606387cb6329154e700accb734a030bc30",
     "itemURL": "https://www.vinted.fr/items/5234329681-lego-lot-2-pieces-de-rechange-10x10-gris-avec-stickers-8016-hyena-droide-bomber-star-wars",
-    "publication": 1729190952
+    "publication": 1729190952,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -60,7 +66,8 @@
     "price": "210.69",
     "imgURL": "https://images1.vinted.net/t/04_00bc9_1LUtcZZbRye9woCPYRbVXQ2Q/f800/1731193976.jpeg?s=04807f2e61a05cd6523c04790164f1fb970c8ecd",
     "itemURL": "https://www.vinted.fr/items/5355701834-lego-21332-ideas-il-mappamondo-nuovo",
-    "publication": 1731193976
+    "publication": 1731193976,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -69,7 +76,8 @@
     "price": "4.9",
     "imgURL": "https://images1.vinted.net/t/02_0080c_1bJ4QyhUjkV8ZhkencM4H8p7/f800/1729190750.jpeg?s=dbdc524712c5089f73ca1d4469c17a993f209aa0",
     "itemURL": "https://www.vinted.fr/items/5234313225-lego-lot-4-pieces-de-rechange-10x10-gris-clair-star-wars-ou-nombeux-autres-sets-espace",
-    "publication": 1729190750
+    "publication": 1729190750,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -78,7 +86,8 @@
     "price": "210.7",
     "imgURL": "https://images1.vinted.net/t/01_016ba_Y71GgwgMtvisfpacJu4L2pSb/f800/1731423771.jpeg?s=2e08337335485577a2ca67d73d1b44a6070116cb",
     "itemURL": "https://www.vinted.fr/items/5371996607-lego-21332-globe",
-    "publication": 1731423771
+    "publication": 1731423771,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -87,16 +96,8 @@
     "price": "221.2",
     "imgURL": "https://images1.vinted.net/t/01_02591_vJbLcPYfNWF16FiDSenzPG8a/f800/1728312790.jpeg?s=0548e6aa1a5d9f4a7a4c19672f542af7e1c3bd82",
     "itemURL": "https://www.vinted.fr/items/5177012270-lego-misb-21332-the-globe-mappamondo",
-    "publication": 1728312790
-  },
-  {
-    "legoid": 21332,
-    "id": 5389760778,
-    "title": "Lego Ideas mappamondo 21332",
-    "price": "247.45",
-    "imgURL": "https://images1.vinted.net/t/04_00c50_fd9GJQo9yoJa2JtwfAMpP3uH/f800/1731753078.jpeg?s=b9b438d4fa1f67ccbd1c2c3b9c36029e6653dee7",
-    "itemURL": "https://www.vinted.fr/items/5389760778-lego-ideas-mappamondo-21332",
-    "publication": 1731753078
+    "publication": 1728312790,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -105,7 +106,18 @@
     "price": "168.7",
     "imgURL": "https://images1.vinted.net/t/04_00957_nKWFTf6BE4BQUpZc5wBn4yLS/f800/1730641150.jpeg?s=d2e1a49cebd8cc8622e0cd4cb7f2a07c13bd97b4",
     "itemURL": "https://www.vinted.fr/items/5322824609-lego-ideas-cuusoo-009-21301-birdsvogels-nieuw",
-    "publication": 1730641150
+    "publication": 1730641150,
+    "scraping_data": 1732470929
+  },
+  {
+    "legoid": 21332,
+    "id": 5389760778,
+    "title": "Lego Ideas mappamondo 21332",
+    "price": "247.45",
+    "imgURL": "https://images1.vinted.net/t/04_00c50_fd9GJQo9yoJa2JtwfAMpP3uH/f800/1731753078.jpeg?s=b9b438d4fa1f67ccbd1c2c3b9c36029e6653dee7",
+    "itemURL": "https://www.vinted.fr/items/5389760778-lego-ideas-mappamondo-21332",
+    "publication": 1731753078,
+    "scraping_data": 1732470929
   },
   {
     "legoid": 21332,
@@ -114,6 +126,7 @@
     "price": "231.7",
     "imgURL": "https://images1.vinted.net/t/03_009a2_wxN6Nm6yq7Yc1pJsqpi8osxh/f800/1730772927.jpeg?s=58dd60e7e64bdae36d4b955d264afb762a7651ab",
     "itemURL": "https://www.vinted.fr/items/5332065671-lego-ideas-21332-the-globe",
-    "publication": 1730772927
+    "publication": 1730772927,
+    "scraping_data": 1732470929
   }
 ]

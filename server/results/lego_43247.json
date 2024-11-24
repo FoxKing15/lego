@@ -6,7 +6,8 @@
     "price": "100.45",
     "imgURL": "https://images1.vinted.net/t/01_011b0_FaHmQzxKFHHKe9N4VwDt5xye/f800/1732448214.jpeg?s=c72f2739855e33a57400724390b1c013ae334b51",
     "itemURL": "https://www.vinted.fr/items/5433428394-lego-43247-le-roi-lion",
-    "publication": 1732448214
+    "publication": 1732448214,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -15,16 +16,8 @@
     "price": "93.63",
     "imgURL": "https://images1.vinted.net/t/03_00a92_9KXVT6fxeBKgiSFW8c6ALeeb/f800/1732373351.jpeg?s=34973bc9eced054abec2be9ba677fe2ad98d1534",
     "itemURL": "https://www.vinted.fr/items/5429202272-lego-43247-simba-el-joven-rey-leon-lego-disney-classic",
-    "publication": 1732373351
-  },
-  {
-    "legoid": 43247,
-    "id": 5435347734,
-    "title": "LEGO Disney 43247 le roi lion simba neuf",
-    "price": "100.45",
-    "imgURL": "https://images1.vinted.net/t/04_009cd_TubmwiejqtTW55n9k9oRvNMx/f800/1732459966.jpeg?s=0cba74397b34d6122e6c7a40fe7b986569a08fc1",
-    "itemURL": "https://www.vinted.fr/items/5435347734-lego-disney-43247-le-roi-lion-simba-neuf",
-    "publication": 1732459966
+    "publication": 1732373351,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -33,7 +26,8 @@
     "price": "110.95",
     "imgURL": "https://images1.vinted.net/t/01_026f2_t9EGDPMcSrXQemryDiZu2M8S/f800/1731961999.jpeg?s=04df1568bf4aa74f5b11460873dcbecbc344b855",
     "itemURL": "https://www.vinted.fr/items/5406646890-nieuw-sets-43247-en-43243-lego-disney-jonge-simba-de-leeuwenkoning-43247",
-    "publication": 1731961999
+    "publication": 1731961999,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -42,7 +36,8 @@
     "price": "110.95",
     "imgURL": "https://images1.vinted.net/t/01_026fa_c8NizMtrY5p1mah49jK3kwWu/f800/1727433139.jpeg?s=b7144244ac0490d6349ba01c8e2f55cda263eab8",
     "itemURL": "https://www.vinted.fr/items/5115275790-lego-disney-le-roi-lion-numero-43247-jamais-ouvert-prix-ferme",
-    "publication": 1727433139
+    "publication": 1727433139,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -51,7 +46,8 @@
     "price": "96.2",
     "imgURL": "https://images1.vinted.net/t/02_0217b_oZx3xKf6sxxdRy7jhoP2A8in/f800/1732392632.jpeg?s=ef35f50576cc59044e45b3a6c11cb487ae306e99",
     "itemURL": "https://www.vinted.fr/items/5431139484-lego-43247",
-    "publication": 1732392632
+    "publication": 1732392632,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -60,7 +56,8 @@
     "price": "110.95",
     "imgURL": "https://images1.vinted.net/t/01_00d76_mb4aiLbmDHTN7r9hWp8xmUcH/f800/1731671192.jpeg?s=0a42990348fea6ff58ea10a62ebf0143aa96280a",
     "itemURL": "https://www.vinted.fr/items/5385635603-lego-43247-le-roi-lion",
-    "publication": 1731671192
+    "publication": 1731671192,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -69,25 +66,18 @@
     "price": "104.65",
     "imgURL": "https://images1.vinted.net/t/04_00d3c_Mro1KKvG2hemVwiH5hKCkb4V/f800/1732399264.jpeg?s=24a9d0b72625851ce862d0fb20c0e8df3b72d73a",
     "itemURL": "https://www.vinted.fr/items/5431545368-lego-disney-simba-43247-neuf",
-    "publication": 1732399264
+    "publication": 1732399264,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
-    "id": 5427873803,
-    "title": "LEGO 43247 Young Simba the Lion King",
-    "price": "104.65",
-    "imgURL": "https://images1.vinted.net/t/03_026fd_wBqmfV3z2xoDuUw4T64WXUt9/f800/1732362420.jpeg?s=8210786ee10507d57983aed12cf5aec5518e3d01",
-    "itemURL": "https://www.vinted.fr/items/5427873803-lego-43247-young-simba-the-lion-king",
-    "publication": 1732362420
-  },
-  {
-    "legoid": 43247,
-    "id": 5320718338,
-    "title": "Lego Disney 43247 Jonge Simba de Leeuwenkoning",
-    "price": "109.9",
-    "imgURL": "https://images1.vinted.net/t/04_023b9_Nu1baLriT729MtvWH99jVX8R/f800/1730627489.jpeg?s=aa8a62be23486b35c214ec80ab97a56189fea60b",
-    "itemURL": "https://www.vinted.fr/items/5320718338-lego-disney-43247-jonge-simba-de-leeuwenkoning",
-    "publication": 1730627489
+    "id": 5435347734,
+    "title": "LEGO Disney 43247 le roi lion simba neuf",
+    "price": "100.45",
+    "imgURL": "https://images1.vinted.net/t/04_009cd_TubmwiejqtTW55n9k9oRvNMx/f800/1732459966.jpeg?s=0cba74397b34d6122e6c7a40fe7b986569a08fc1",
+    "itemURL": "https://www.vinted.fr/items/5435347734-lego-disney-43247-le-roi-lion-simba-neuf",
+    "publication": 1732459966,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -96,7 +86,28 @@
     "price": "97.3",
     "imgURL": "https://images1.vinted.net/t/01_00383_krjgcxuFLsH5dvShgaFzCsHA/f800/1732374550.jpeg?s=ae3774ec1e2407605a48ae2dc8b18ce1c7906335",
     "itemURL": "https://www.vinted.fr/items/5429363072-lego-simba-43247",
-    "publication": 1732374550
+    "publication": 1732374550,
+    "scraping_data": 1732471385
+  },
+  {
+    "legoid": 43247,
+    "id": 5427873803,
+    "title": "LEGO 43247 Young Simba the Lion King",
+    "price": "104.65",
+    "imgURL": "https://images1.vinted.net/t/03_026fd_wBqmfV3z2xoDuUw4T64WXUt9/f800/1732362420.jpeg?s=8210786ee10507d57983aed12cf5aec5518e3d01",
+    "itemURL": "https://www.vinted.fr/items/5427873803-lego-43247-young-simba-the-lion-king",
+    "publication": 1732362420,
+    "scraping_data": 1732471385
+  },
+  {
+    "legoid": 43247,
+    "id": 5320718338,
+    "title": "Lego Disney 43247 Jonge Simba de Leeuwenkoning",
+    "price": "109.9",
+    "imgURL": "https://images1.vinted.net/t/04_023b9_Nu1baLriT729MtvWH99jVX8R/f800/1730627489.jpeg?s=aa8a62be23486b35c214ec80ab97a56189fea60b",
+    "itemURL": "https://www.vinted.fr/items/5320718338-lego-disney-43247-jonge-simba-de-leeuwenkoning",
+    "publication": 1730627489,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -105,7 +116,8 @@
     "price": "110.95",
     "imgURL": "https://images1.vinted.net/t/04_005a0_SXiRHqFqY5ys63B8NDvPDj9h/f800/1730746098.jpeg?s=5b2d0af336a3068cccb66feafef3c29954c695d3",
     "itemURL": "https://www.vinted.fr/items/5330912051-lego-disney-43247",
-    "publication": 1730746098
+    "publication": 1730746098,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -114,7 +126,8 @@
     "price": "110.95",
     "imgURL": "https://images1.vinted.net/t/04_020db_ALqtQTVBMZVPVbFBaoP8V44u/f800/1731009622.jpeg?s=bc3bdcd9a2c287fa34b0087d435a99fdd7da2923",
     "itemURL": "https://www.vinted.fr/items/5345311774-lego-the-lion-king-43247",
-    "publication": 1731009622
+    "publication": 1731009622,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -123,7 +136,8 @@
     "price": "116.2",
     "imgURL": "https://images1.vinted.net/t/03_01f01_gDQktCmobJLXXWhjDKirhH6K/f800/1732197165.jpeg?s=1c33a5dc3f0591d01e2a35e6d9c60a1b7f681a0f",
     "itemURL": "https://www.vinted.fr/items/5419345673-lego-disney-simba-43247",
-    "publication": 1732197165
+    "publication": 1732197165,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -132,7 +146,8 @@
     "price": "110.95",
     "imgURL": "https://images1.vinted.net/t/01_00d25_xBxFQL2o1kTKDtiGrnfM5mh7/f800/1727543485.jpeg?s=7d3e15051418cb8f4388f10ed46c32622c3f4916",
     "itemURL": "https://www.vinted.fr/items/5123498603-lego-simba",
-    "publication": 1727543485
+    "publication": 1727543485,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -141,7 +156,8 @@
     "price": "137.2",
     "imgURL": "https://images1.vinted.net/t/01_00740_ZDCbqYKi3nK7BaFMTkchUHex/f800/1718114125.jpeg?s=7f384114f9752b0e1d11142c4940ebf4910d54d8",
     "itemURL": "https://www.vinted.fr/items/4628746739-lego-disney-43247-simba-le-jeune-roi-lion",
-    "publication": 1718114125
+    "publication": 1718114125,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -150,7 +166,8 @@
     "price": "126.7",
     "imgURL": "https://images1.vinted.net/t/03_01d9c_j2cTxw3AKoHXk8zdM2t3uojV/f800/1728899025.jpeg?s=33fdbc2952d09e2ea22d830f10cb011591d5100f",
     "itemURL": "https://www.vinted.fr/items/5215013336-lego-disney-43247-giovane-simba-re-leone",
-    "publication": 1728899025
+    "publication": 1728899025,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -159,7 +176,8 @@
     "price": "122.5",
     "imgURL": "https://images1.vinted.net/t/02_012cf_VSuNzbAxUDf1YPBVdzrNbJeX/f800/1725022028.jpeg?s=56ff7cbb7586a41e77312fc09f74262ec00ea69e",
     "itemURL": "https://www.vinted.fr/items/4961312386-lego-43247-disney-lion-king-simba-new-and-sealed",
-    "publication": 1725022028
+    "publication": 1725022028,
+    "scraping_data": 1732471385
   },
   {
     "legoid": 43247,
@@ -168,6 +186,7 @@
     "price": "116.2",
     "imgURL": "https://images1.vinted.net/t/02_02657_LXYArwrt1dXYPMWT5PYAwWJS/f800/1728555261.jpeg?s=94247d4212916a6d483ccb1936c4b640d9896d3a",
     "itemURL": "https://www.vinted.fr/items/5190095488-lego-disney-young-simba",
-    "publication": 1728555261
+    "publication": 1728555261,
+    "scraping_data": 1732471385
   }
 ]

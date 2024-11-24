@@ -1,30 +1,13 @@
 [
   {
     "legoid": 75352,
-    "id": 5329124391,
-    "title": "LEGO Emperor’s Throne Room 75352",
-    "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/04_022a6_MnbsqEwipHwgp1D6kbnXcFzy/f800/1730728142.jpeg?s=0a962371843107a114c6db9f0b8e3a08299cf5b6",
-    "itemURL": "https://www.vinted.fr/items/5329124391-lego-emperors-throne-room-75352",
-    "publication": 1730728142
-  },
-  {
-    "legoid": 75352,
     "id": 4842431680,
     "title": "BOITE Lego 75352",
     "price": "13.3",
     "imgURL": "https://images1.vinted.net/t/03_01fad_ESKMKvA4xM7qjwiN8x6e6SwC/f800/1722699593.jpeg?s=24734482312f782ad06d15b16b9a24a5bd8fd532",
     "itemURL": "https://www.vinted.fr/items/4842431680-boite-lego-75352",
-    "publication": 1722699593
-  },
-  {
-    "legoid": 75352,
-    "id": 4692443220,
-    "title": "Lot de boîte et notice lego star wars",
-    "price": "21.7",
-    "imgURL": "https://images1.vinted.net/t/03_0011a_zeadKFvfzuUcVZXYqivqg2xP/f800/1719463781.jpeg?s=48c83b8cc88166ab8a24f14ead8ba90431b724df",
-    "itemURL": "https://www.vinted.fr/items/4692443220-lot-de-boite-et-notice-lego-star-wars",
-    "publication": 1719463781
+    "publication": 1722699593,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -33,7 +16,8 @@
     "price": "42.7",
     "imgURL": "https://images1.vinted.net/t/03_00442_RwRR94bALYhYS8mpHrEQPyPn/f800/1732461196.jpeg?s=01872cd4e97bbb0c71be09eb7e5db10b91b8793d",
     "itemURL": "https://www.vinted.fr/items/5435562231-lego-starwars",
-    "publication": 1732461196
+    "publication": 1732461196,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -42,7 +26,18 @@
     "price": "13.3",
     "imgURL": "https://images1.vinted.net/t/03_01e72_9v9xwrjYWmuvhrXbZ7echT5Z/f800/1727707698.jpeg?s=41150ff36e18796a510ae38074b22061566485f7",
     "itemURL": "https://www.vinted.fr/items/5135961476-lego-star-wars",
-    "publication": 1727707698
+    "publication": 1727707698,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4692443220,
+    "title": "Lot de boîte et notice lego star wars",
+    "price": "21.7",
+    "imgURL": "https://images1.vinted.net/t/03_0011a_zeadKFvfzuUcVZXYqivqg2xP/f800/1719463781.jpeg?s=48c83b8cc88166ab8a24f14ead8ba90431b724df",
+    "itemURL": "https://www.vinted.fr/items/4692443220-lot-de-boite-et-notice-lego-star-wars",
+    "publication": 1719463781,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -51,34 +46,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/04_0041f_5nouW7N8Ez1V1tnAfNi6ghyE/f800/1731424308.jpeg?s=97c79b697891363c989a564cc07c1bc749bcfb99",
     "itemURL": "https://www.vinted.fr/items/5372050748-lego-star-wars-75352-comme-neuf-avec-boite-et-notice",
-    "publication": 1731424308
-  },
-  {
-    "legoid": 75352,
-    "id": 5369719493,
-    "title": "LOT de 10 notices LEGO",
-    "price": "13.3",
-    "imgURL": "https://images1.vinted.net/t/02_01fec_gQb2smHUwoqNkDKEwtHzi2WB/f800/1731607481.jpeg?s=8b912145e029f5269a32fe40b2f72442c2565705",
-    "itemURL": "https://www.vinted.fr/items/5369719493-lot-de-10-notices-lego",
-    "publication": 1731607481
-  },
-  {
-    "legoid": 75352,
-    "id": 4702338612,
-    "title": "Lego star wars 75352",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/03_01438_tA3J8ZWxoFWnBZuFAd9BwPyq/f800/1732087623.jpeg?s=42384e100521ee9fb0cf45818f9515d0d59fc80e",
-    "itemURL": "https://www.vinted.fr/items/4702338612-lego-star-wars-75352",
-    "publication": 1732087623
-  },
-  {
-    "legoid": 75352,
-    "id": 5370874002,
-    "title": "Lego star wars 75352",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/04_004ef_cHyEDcrSYDSRdSJYvGSRxfCw/f800/1731413056.jpeg?s=d60d864cc3b0e93d2d554754893de02bf040db84",
-    "itemURL": "https://www.vinted.fr/items/5370874002-lego-star-wars-75352",
-    "publication": 1731413056
+    "publication": 1731424308,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -87,16 +56,48 @@
     "price": "73.15",
     "imgURL": "https://images1.vinted.net/t/03_007f9_waz6jwDeppQBXvu9L4r7e7ua/f800/1731857699.jpeg?s=95c4ed2def6b7652e7e652db75aaf454f860efbd",
     "itemURL": "https://www.vinted.fr/items/5398754767-lego-star-wars-75352-emperors-throne-room-diorama-neuf-new",
-    "publication": 1731857699
+    "publication": 1731857699,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
-    "id": 5418961549,
-    "title": "Lego Star Wars 75352: Emperor´s Throne Room.",
-    "price": "74.15",
-    "imgURL": "https://images1.vinted.net/t/04_00cca_g9b4msYT6sYBHK4jmmfeDmAR/f800/1732193297.jpeg?s=1bd85cf8437ff5dc17f180289cf4cfb08dba1bcd",
-    "itemURL": "https://www.vinted.fr/items/5418961549-lego-star-wars-75352-emperors-throne-room",
-    "publication": 1732193297
+    "id": 5370874002,
+    "title": "Lego star wars 75352",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/04_004ef_cHyEDcrSYDSRdSJYvGSRxfCw/f800/1731413056.jpeg?s=d60d864cc3b0e93d2d554754893de02bf040db84",
+    "itemURL": "https://www.vinted.fr/items/5370874002-lego-star-wars-75352",
+    "publication": 1731413056,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 5329124391,
+    "title": "LEGO Emperor’s Throne Room 75352",
+    "price": "79.45",
+    "imgURL": "https://images1.vinted.net/t/04_022a6_MnbsqEwipHwgp1D6kbnXcFzy/f800/1730728142.jpeg?s=0a962371843107a114c6db9f0b8e3a08299cf5b6",
+    "itemURL": "https://www.vinted.fr/items/5329124391-lego-emperors-throne-room-75352",
+    "publication": 1730728142,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 5369719493,
+    "title": "LOT de 10 notices LEGO",
+    "price": "13.3",
+    "imgURL": "https://images1.vinted.net/t/02_01fec_gQb2smHUwoqNkDKEwtHzi2WB/f800/1731607481.jpeg?s=8b912145e029f5269a32fe40b2f72442c2565705",
+    "itemURL": "https://www.vinted.fr/items/5369719493-lot-de-10-notices-lego",
+    "publication": 1731607481,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4702338612,
+    "title": "Lego star wars 75352",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/03_01438_tA3J8ZWxoFWnBZuFAd9BwPyq/f800/1732087623.jpeg?s=42384e100521ee9fb0cf45818f9515d0d59fc80e",
+    "itemURL": "https://www.vinted.fr/items/4702338612-lego-star-wars-75352",
+    "publication": 1732087623,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -105,7 +106,18 @@
     "price": "89.95",
     "imgURL": "https://images1.vinted.net/t/04_01037_94afBfncmCbhQag8XUeMiEM3/f800/1732358625.jpeg?s=f31abede2c33a20904ece14950516a271d0d1a14",
     "itemURL": "https://www.vinted.fr/items/5427419903-lego-75352",
-    "publication": 1732358625
+    "publication": 1732358625,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 5418961549,
+    "title": "Lego Star Wars 75352: Emperor´s Throne Room.",
+    "price": "74.15",
+    "imgURL": "https://images1.vinted.net/t/04_00cca_g9b4msYT6sYBHK4jmmfeDmAR/f800/1732193297.jpeg?s=1bd85cf8437ff5dc17f180289cf4cfb08dba1bcd",
+    "itemURL": "https://www.vinted.fr/items/5418961549-lego-star-wars-75352-emperors-throne-room",
+    "publication": 1732193297,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -114,16 +126,8 @@
     "price": "68.95",
     "imgURL": "https://images1.vinted.net/t/04_005e4_ooLUzqopmoVYXvy6ZURqiXwt/f800/1732386079.jpeg?s=dfdcdd1021338ac82eaba9a2d2dd3a7c89b126f7",
     "itemURL": "https://www.vinted.fr/items/5430624489-lego-75352-sala-del-trono",
-    "publication": 1732386079
-  },
-  {
-    "legoid": 75352,
-    "id": 5380100288,
-    "title": "Lego 75352 Star Wars",
-    "price": "74.2",
-    "imgURL": "https://images1.vinted.net/t/04_0000b_zBByfS3HtTq4EoqZ45AFAjDm/f800/1731575811.jpeg?s=706a15a958e9d9d51a5ff9c50c6cafda93870605",
-    "itemURL": "https://www.vinted.fr/items/5380100288-lego-75352-star-wars",
-    "publication": 1731575811
+    "publication": 1732386079,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -132,43 +136,8 @@
     "price": "70.0",
     "imgURL": "https://images1.vinted.net/t/02_010bc_DL8JZzx3GPrv7ypATfXnByx9/f800/1730936139.jpeg?s=cab4b43f87f2066ee6b855780b2d0806f5cd0f9f",
     "itemURL": "https://www.vinted.fr/items/5341340725-lego-star-wars-75352",
-    "publication": 1730936139
-  },
-  {
-    "legoid": 75352,
-    "id": 4348778987,
-    "title": "Lego Star Wars 75352 Emperor's throne room diorama🚀",
-    "price": "74.2",
-    "imgURL": "https://images1.vinted.net/t/02_01607_qA9hoix7kmnUFsFhK9LoB4ra/f800/1712840245.jpeg?s=2b63bedfe2c48451036ae44cea17904078243e77",
-    "itemURL": "https://www.vinted.fr/items/4348778987-lego-star-wars-75352-emperors-throne-room-diorama",
-    "publication": 1712840245
-  },
-  {
-    "legoid": 75352,
-    "id": 4163298679,
-    "title": "Vendo lego 75352  ",
-    "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/01_00b2f_g45WsRGYwnsExFatXcdBmgjQ/f800/1709215879.jpeg?s=1b8c50b8d9da57ffa8b91862c77e306d24f844f3",
-    "itemURL": "https://www.vinted.fr/items/4163298679-vendo-lego-75352",
-    "publication": 1709215879
-  },
-  {
-    "legoid": 75352,
-    "id": 4703249821,
-    "title": "Lego Star Wars",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/03_007f2_VDii79J7SPKm7rVQ5Ni8q5X4/f800/1719736731.jpeg?s=ae97faa0e20b59d65faf2becad943315ac6eaf5b",
-    "itemURL": "https://www.vinted.fr/items/4703249821-lego-star-wars",
-    "publication": 1719736731
-  },
-  {
-    "legoid": 75352,
-    "id": 4678138982,
-    "title": "Lego Star Wars 75093 Death Star Final Duel",
-    "price": "53.2",
-    "imgURL": "https://images1.vinted.net/t/01_0117f_2znMjWQGgygGG7S67Wb7k4eZ/f800/1719149139.jpeg?s=22b55e61af67913df7c422a097a73ed0f7c681aa",
-    "itemURL": "https://www.vinted.fr/items/4678138982-lego-star-wars-75093-death-star-final-duel",
-    "publication": 1719149139
+    "publication": 1730936139,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -177,142 +146,8 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/01_0130f_z9kTAiqzKrkuuN8xQpXyY2E1/f800/1704640364.jpeg?s=04d1daadcb8c2f528d554024d3df6e79bc61c1fe",
     "itemURL": "https://www.vinted.fr/items/3951440711-lego-star-wars-salle-du-trone-75352",
-    "publication": 1704640364
-  },
-  {
-    "legoid": 75352,
-    "id": 3970905142,
-    "title": "Lego star wars 75352 new! ",
-    "price": "74.2",
-    "imgURL": "https://images1.vinted.net/t/02_010e9_t6xVQrXGYwbSAdqDTzLLiHVh/f800/1705093770.jpeg?s=66c4a111c72b6f6427c33a68887e3b46c367db12",
-    "itemURL": "https://www.vinted.fr/items/3970905142-lego-star-wars-75352-new",
-    "publication": 1705093770
-  },
-  {
-    "legoid": 75352,
-    "id": 4780641693,
-    "title": "LEGO Star Wars 75352 Diorama Sala del trono dell’imperatore",
-    "price": "73.15",
-    "imgURL": "https://images1.vinted.net/t/01_020f6_nJew2cWKsvvo1X3X2X7x7Wrv/f800/1721314222.jpeg?s=a1a5db959939c57f828a7980725818ee8d8f0272",
-    "itemURL": "https://www.vinted.fr/items/4780641693-lego-star-wars-75352-diorama-sala-del-trono-dellimperatore",
-    "publication": 1721314222
-  },
-  {
-    "legoid": 75352,
-    "id": 3786844568,
-    "title": "Lego Star Wars Emperor’s Throne room set 75352",
-    "price": "74.2",
-    "imgURL": "https://images1.vinted.net/t/03_003c1_S4uH3rYtb7zrKU3Gwd5A6MkW/f800/1700492860.jpeg?s=48e84d1dba9480dede65c891a6a76e38ad48c7f2",
-    "itemURL": "https://www.vinted.fr/items/3786844568-lego-star-wars-emperors-throne-room-set-75352",
-    "publication": 1700492860
-  },
-  {
-    "legoid": 75352,
-    "id": 5310743051,
-    "title": "Lego 75352 Star Wars",
-    "price": "76.3",
-    "imgURL": "https://images1.vinted.net/t/01_0111a_JJzmwFbkNbbzt9EBRGxZt12D/f800/1730460585.jpeg?s=807e007cebebf07896cea045e57108ae6f9f5e3e",
-    "itemURL": "https://www.vinted.fr/items/5310743051-lego-75352-star-wars",
-    "publication": 1730460585
-  },
-  {
-    "legoid": 75352,
-    "id": 4865178838,
-    "title": "LEGO StarWars Diorama Sala del Emperador - 75352",
-    "price": "73.15",
-    "imgURL": "https://images1.vinted.net/t/01_00cb4_bmeDCoxwNvnTdxkdyvFv5Tdi/f800/1723146976.jpeg?s=9824ef66825ba83fca396c5aa38e0d3d9e20f4cb",
-    "itemURL": "https://www.vinted.fr/items/4865178838-lego-starwars-diorama-sala-del-emperador-75352",
-    "publication": 1723146976
-  },
-  {
-    "legoid": 75352,
-    "id": 3872824029,
-    "title": "Sala del Trono dell'Imperatore Diorama\n75352  Star Wars",
-    "price": "74.2",
-    "imgURL": "https://images1.vinted.net/t/03_0233d_X657FvMGYi1Yn3ezyQWfiRxV/f800/1702320227.jpeg?s=333546b8b4478cb4884e936727e6433e52c0140f",
-    "itemURL": "https://www.vinted.fr/items/3872824029-sala-del-trono-dellimperatore-diorama-75352-star-wars",
-    "publication": 1702320227
-  },
-  {
-    "legoid": 75352,
-    "id": 3639018298,
-    "title": "Lego star wars n.75352 salle de l empereur ",
-    "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/02_0150e_iYoGJ7jGDMEfC17jJEraJHXe/f800/1697841842.jpeg?s=68d560dad518c11b283ebc8a6b0676710df56886",
-    "itemURL": "https://www.vinted.fr/items/3639018298-lego-star-wars-n75352-salle-de-l-empereur",
-    "publication": 1697841842
-  },
-  {
-    "legoid": 75352,
-    "id": 4784203371,
-    "title": "Lego star wars emperor's Throne room 75352",
-    "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/03_00a59_ssHCzPuEx467JHSh4syJXFih/f800/1721403967.jpeg?s=8d29316608e2a6bfe16040a5e3eb72f9bf6f00c3",
-    "itemURL": "https://www.vinted.fr/items/4784203371-lego-star-wars-emperors-throne-room-75352",
-    "publication": 1721403967
-  },
-  {
-    "legoid": 75352,
-    "id": 5319359891,
-    "title": "Lego 75352 Emperor's Throne Room Diorama Nieuw in doos met handtekening van de ontwerper",
-    "price": "116.2",
-    "imgURL": "https://images1.vinted.net/t/03_006e9_RRh2sdtwqriL4iwxWqkrgryi/f800/1730578997.jpeg?s=ef3790521e9d2ef96af4260a2cfffee02cb11df5",
-    "itemURL": "https://www.vinted.fr/items/5319359891-lego-75352-emperors-throne-room-diorama-nieuw-in-doos-met-handtekening-van-de-ontwerper",
-    "publication": 1730578997
-  },
-  {
-    "legoid": 75352,
-    "id": 4186075463,
-    "title": "Lego 75352 Emperor’s Throne Room",
-    "price": "94.15",
-    "imgURL": "https://images1.vinted.net/t/02_00c1d_CF8MZXHUX6YLEVMLwMkSxH9R/f800/1709658947.jpeg?s=dcd36b52ad78065601f0eed7cb2f9868875e54ea",
-    "itemURL": "https://www.vinted.fr/items/4186075463-lego-75352-emperors-throne-room",
-    "publication": 1709658947
-  },
-  {
-    "legoid": 75352,
-    "id": 4938848335,
-    "title": "Star Wars Lego Emperor’s Throne Room Diorama\nRef:75352",
-    "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/03_0199e_5Azq3kcDVEDPE2t26UtKeXBv/f800/1724610570.jpeg?s=9a451df5a1ba7504fdea740fe1cce8875a3de4a2",
-    "itemURL": "https://www.vinted.fr/items/4938848335-star-wars-lego-emperors-throne-room-diorama-ref75352",
-    "publication": 1724610570
-  },
-  {
-    "legoid": 75352,
-    "id": 3871885057,
-    "title": "LEGO 75352 camera del trono star wars Nuovo A",
-    "price": "95.2",
-    "imgURL": "https://images1.vinted.net/t/01_012b5_3oSx319TrPdVXWkoYX3YwGed/f800/1702306823.jpeg?s=2a43669b3a41693c740545e56cefea465b89f5db",
-    "itemURL": "https://www.vinted.fr/items/3871885057-lego-75352-camera-del-trono-star-wars-nuovo-a",
-    "publication": 1702306823
-  },
-  {
-    "legoid": 75352,
-    "id": 5347563946,
-    "title": "LEGO 75352 Emperor's Throne Room Diorama",
-    "price": "89.95",
-    "imgURL": "https://images1.vinted.net/t/04_000dd_4hx31JRUUsLmukC4dJvCvzn6/f800/1731069931.jpeg?s=d8ef90d3fd4470b77c5c89306d633e8091d3a7bb",
-    "itemURL": "https://www.vinted.fr/items/5347563946-lego-75352-emperors-throne-room-diorama",
-    "publication": 1731069931
-  },
-  {
-    "legoid": 75352,
-    "id": 5335548807,
-    "title": "🩶 Neuf! Set Lego Star Wars #75352 : Diorama de la salle du Trône de l’Empereur",
-    "price": "95.2",
-    "imgURL": "https://images1.vinted.net/t/03_01204_zg2Gpj5dKxG2uH18cE7KsZi4/f800/1730830729.jpeg?s=e3754d8ef5f0f06808a620758b81ddfb28159405",
-    "itemURL": "https://www.vinted.fr/items/5335548807-neuf-set-lego-star-wars-75352-diorama-de-la-salle-du-trone-de-lempereur",
-    "publication": 1730830729
-  },
-  {
-    "legoid": 75352,
-    "id": 5211380970,
-    "title": "Star Wars . Salle du trône de l'empereur (75352).  Emperor’s Throne room",
-    "price": "99.4",
-    "imgURL": "https://images1.vinted.net/t/02_0194c_8WAoxNxAgMni19mkUPjraoW7/f800/1728834321.jpeg?s=5751c16502066631e13b6c93d55cd81e51ced9aa",
-    "itemURL": "https://www.vinted.fr/items/5211380970-star-wars-salle-du-trone-de-lempereur-75352-emperors-throne-room",
-    "publication": 1728834321
+    "publication": 1704640364,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -321,34 +156,168 @@
     "price": "231.7",
     "imgURL": "https://images1.vinted.net/t/02_0006f_8ENGVymRnaDq5aSfL4aNRSxC/f800/1731888130.jpeg?s=ca09423c72d830cd89b19c7b79c4ced14326f66c",
     "itemURL": "https://www.vinted.fr/items/5401958958-lot-de-4-sets-lego-star-wars-75347-75352-75353-75376",
-    "publication": 1731888130
+    "publication": 1731888130,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
-    "id": 4060586856,
-    "title": "Lego 75352 75360 misb nuovo sigillato",
-    "price": "95.2",
-    "imgURL": "https://images1.vinted.net/t/02_023cb_Cjzyqqj7Mr32BDVYP7tS1wPc/f800/1707050669.jpeg?s=1caa100491512e92d7030b83baa8c28ee3aaef94",
-    "itemURL": "https://www.vinted.fr/items/4060586856-lego-75352-75360-misb-nuovo-sigillato",
-    "publication": 1707050669
+    "id": 4348778987,
+    "title": "Lego Star Wars 75352 Emperor's throne room diorama🚀",
+    "price": "74.2",
+    "imgURL": "https://images1.vinted.net/t/02_01607_qA9hoix7kmnUFsFhK9LoB4ra/f800/1712840245.jpeg?s=2b63bedfe2c48451036ae44cea17904078243e77",
+    "itemURL": "https://www.vinted.fr/items/4348778987-lego-star-wars-75352-emperors-throne-room-diorama",
+    "publication": 1712840245,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
-    "id": 3116028027,
-    "title": "Lego 75352 La salle du trône de l'empereur",
-    "price": "84.7",
-    "imgURL": "https://images1.vinted.net/t/02_00f5c_h8kAvck8EwgEUppo8ezMhMdh/f800/1686291091.jpeg?s=d2ce6764dbf6c365bbc70e63b7d5475043baf505",
-    "itemURL": "https://www.vinted.fr/items/3116028027-lego-75352-la-salle-du-trone-de-lempereur",
-    "publication": 1686291091
+    "id": 4678138982,
+    "title": "Lego Star Wars 75093 Death Star Final Duel",
+    "price": "53.2",
+    "imgURL": "https://images1.vinted.net/t/01_0117f_2znMjWQGgygGG7S67Wb7k4eZ/f800/1719149139.jpeg?s=22b55e61af67913df7c422a097a73ed0f7c681aa",
+    "itemURL": "https://www.vinted.fr/items/4678138982-lego-star-wars-75093-death-star-final-duel",
+    "publication": 1719149139,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
-    "id": 5044634942,
-    "title": "Lego 75352 Star Wars Diorama Salle du trône",
+    "id": 4703249821,
+    "title": "Lego Star Wars",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/03_007f2_VDii79J7SPKm7rVQ5Ni8q5X4/f800/1719736731.jpeg?s=ae97faa0e20b59d65faf2becad943315ac6eaf5b",
+    "itemURL": "https://www.vinted.fr/items/4703249821-lego-star-wars",
+    "publication": 1719736731,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4163298679,
+    "title": "Vendo lego 75352  ",
     "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/02_005fa_zJZSbu6wQA6aJJwSyoYGDpYE/f800/1726348844.jpeg?s=60a7f687b18ea8010133b69b87944ae373277fda",
-    "itemURL": "https://www.vinted.fr/items/5044634942-lego-75352-star-wars-diorama-salle-du-trone",
-    "publication": 1726348844
+    "imgURL": "https://images1.vinted.net/t/01_00b2f_g45WsRGYwnsExFatXcdBmgjQ/f800/1709215879.jpeg?s=1b8c50b8d9da57ffa8b91862c77e306d24f844f3",
+    "itemURL": "https://www.vinted.fr/items/4163298679-vendo-lego-75352",
+    "publication": 1709215879,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4865178838,
+    "title": "LEGO StarWars Diorama Sala del Emperador - 75352",
+    "price": "73.15",
+    "imgURL": "https://images1.vinted.net/t/01_00cb4_bmeDCoxwNvnTdxkdyvFv5Tdi/f800/1723146976.jpeg?s=9824ef66825ba83fca396c5aa38e0d3d9e20f4cb",
+    "itemURL": "https://www.vinted.fr/items/4865178838-lego-starwars-diorama-sala-del-emperador-75352",
+    "publication": 1723146976,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4780641693,
+    "title": "LEGO Star Wars 75352 Diorama Sala del trono dell’imperatore",
+    "price": "73.15",
+    "imgURL": "https://images1.vinted.net/t/01_020f6_nJew2cWKsvvo1X3X2X7x7Wrv/f800/1721314222.jpeg?s=a1a5db959939c57f828a7980725818ee8d8f0272",
+    "itemURL": "https://www.vinted.fr/items/4780641693-lego-star-wars-75352-diorama-sala-del-trono-dellimperatore",
+    "publication": 1721314222,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3786844568,
+    "title": "Lego Star Wars Emperor’s Throne room set 75352",
+    "price": "74.2",
+    "imgURL": "https://images1.vinted.net/t/03_003c1_S4uH3rYtb7zrKU3Gwd5A6MkW/f800/1700492860.jpeg?s=48e84d1dba9480dede65c891a6a76e38ad48c7f2",
+    "itemURL": "https://www.vinted.fr/items/3786844568-lego-star-wars-emperors-throne-room-set-75352",
+    "publication": 1700492860,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 5319359891,
+    "title": "Lego 75352 Emperor's Throne Room Diorama Nieuw in doos met handtekening van de ontwerper",
+    "price": "116.2",
+    "imgURL": "https://images1.vinted.net/t/03_006e9_RRh2sdtwqriL4iwxWqkrgryi/f800/1730578997.jpeg?s=ef3790521e9d2ef96af4260a2cfffee02cb11df5",
+    "itemURL": "https://www.vinted.fr/items/5319359891-lego-75352-emperors-throne-room-diorama-nieuw-in-doos-met-handtekening-van-de-ontwerper",
+    "publication": 1730578997,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 5310743051,
+    "title": "Lego 75352 Star Wars",
+    "price": "76.3",
+    "imgURL": "https://images1.vinted.net/t/01_0111a_JJzmwFbkNbbzt9EBRGxZt12D/f800/1730460585.jpeg?s=807e007cebebf07896cea045e57108ae6f9f5e3e",
+    "itemURL": "https://www.vinted.fr/items/5310743051-lego-75352-star-wars",
+    "publication": 1730460585,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3970905142,
+    "title": "Lego star wars 75352 new! ",
+    "price": "74.2",
+    "imgURL": "https://images1.vinted.net/t/02_010e9_t6xVQrXGYwbSAdqDTzLLiHVh/f800/1705093770.jpeg?s=66c4a111c72b6f6427c33a68887e3b46c367db12",
+    "itemURL": "https://www.vinted.fr/items/3970905142-lego-star-wars-75352-new",
+    "publication": 1705093770,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4938848335,
+    "title": "Star Wars Lego Emperor’s Throne Room Diorama\nRef:75352",
+    "price": "79.45",
+    "imgURL": "https://images1.vinted.net/t/03_0199e_5Azq3kcDVEDPE2t26UtKeXBv/f800/1724610570.jpeg?s=9a451df5a1ba7504fdea740fe1cce8875a3de4a2",
+    "itemURL": "https://www.vinted.fr/items/4938848335-star-wars-lego-emperors-throne-room-diorama-ref75352",
+    "publication": 1724610570,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4784203371,
+    "title": "Lego star wars emperor's Throne room 75352",
+    "price": "79.45",
+    "imgURL": "https://images1.vinted.net/t/03_00a59_ssHCzPuEx467JHSh4syJXFih/f800/1721403967.jpeg?s=8d29316608e2a6bfe16040a5e3eb72f9bf6f00c3",
+    "itemURL": "https://www.vinted.fr/items/4784203371-lego-star-wars-emperors-throne-room-75352",
+    "publication": 1721403967,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 5211380970,
+    "title": "Star Wars . Salle du trône de l'empereur (75352).  Emperor’s Throne room",
+    "price": "99.4",
+    "imgURL": "https://images1.vinted.net/t/02_0194c_8WAoxNxAgMni19mkUPjraoW7/f800/1728834321.jpeg?s=5751c16502066631e13b6c93d55cd81e51ced9aa",
+    "itemURL": "https://www.vinted.fr/items/5211380970-star-wars-salle-du-trone-de-lempereur-75352-emperors-throne-room",
+    "publication": 1728834321,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 5347563946,
+    "title": "LEGO 75352 Emperor's Throne Room Diorama",
+    "price": "89.95",
+    "imgURL": "https://images1.vinted.net/t/04_000dd_4hx31JRUUsLmukC4dJvCvzn6/f800/1731069931.jpeg?s=d8ef90d3fd4470b77c5c89306d633e8091d3a7bb",
+    "itemURL": "https://www.vinted.fr/items/5347563946-lego-75352-emperors-throne-room-diorama",
+    "publication": 1731069931,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3639018298,
+    "title": "Lego star wars n.75352 salle de l empereur ",
+    "price": "79.45",
+    "imgURL": "https://images1.vinted.net/t/02_0150e_iYoGJ7jGDMEfC17jJEraJHXe/f800/1697841842.jpeg?s=68d560dad518c11b283ebc8a6b0676710df56886",
+    "itemURL": "https://www.vinted.fr/items/3639018298-lego-star-wars-n75352-salle-de-l-empereur",
+    "publication": 1697841842,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 5335548807,
+    "title": "🩶 Neuf! Set Lego Star Wars #75352 : Diorama de la salle du Trône de l’Empereur",
+    "price": "95.2",
+    "imgURL": "https://images1.vinted.net/t/03_01204_zg2Gpj5dKxG2uH18cE7KsZi4/f800/1730830729.jpeg?s=e3754d8ef5f0f06808a620758b81ddfb28159405",
+    "itemURL": "https://www.vinted.fr/items/5335548807-neuf-set-lego-star-wars-75352-diorama-de-la-salle-du-trone-de-lempereur",
+    "publication": 1730830729,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -357,16 +326,28 @@
     "price": "105.7",
     "imgURL": "https://images1.vinted.net/t/03_02189_4Lvx4ZgNPZcqSdsyD3fRdkpH/f800/1716033017.jpeg?s=4eb1b453a3ca4481aca0ce2a7381268330514c16",
     "itemURL": "https://www.vinted.fr/items/4519286313-lego-75352",
-    "publication": 1716033017
+    "publication": 1716033017,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
-    "id": 3887350726,
-    "title": "Lego Star Wars #75352 Emperor‘s Throne Room",
-    "price": "89.95",
-    "imgURL": "https://images1.vinted.net/t/02_000ee_eph45LVz2uk6dMYb8bLRpuSp/f800/1702731071.jpeg?s=93008ed8c52ca2d3b5f8a2fb7f3727e4eddfde00",
-    "itemURL": "https://www.vinted.fr/items/3887350726-lego-star-wars-75352-emperors-throne-room",
-    "publication": 1702731071
+    "id": 3872824029,
+    "title": "Sala del Trono dell'Imperatore Diorama\n75352  Star Wars",
+    "price": "74.2",
+    "imgURL": "https://images1.vinted.net/t/03_0233d_X657FvMGYi1Yn3ezyQWfiRxV/f800/1702320227.jpeg?s=333546b8b4478cb4884e936727e6433e52c0140f",
+    "itemURL": "https://www.vinted.fr/items/3872824029-sala-del-trono-dellimperatore-diorama-75352-star-wars",
+    "publication": 1702320227,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3116028027,
+    "title": "Lego 75352 La salle du trône de l'empereur",
+    "price": "84.7",
+    "imgURL": "https://images1.vinted.net/t/02_00f5c_h8kAvck8EwgEUppo8ezMhMdh/f800/1686291091.jpeg?s=d2ce6764dbf6c365bbc70e63b7d5475043baf505",
+    "itemURL": "https://www.vinted.fr/items/3116028027-lego-75352-la-salle-du-trone-de-lempereur",
+    "publication": 1686291091,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -375,79 +356,28 @@
     "price": "95.2",
     "imgURL": "https://images1.vinted.net/t/03_020fc_tS2UkxiwAsULgAo6QHNBovoU/f800/1732088626.jpeg?s=aed59350bbf97502f147869a3fc183e9a993385f",
     "itemURL": "https://www.vinted.fr/items/5412461269-lego-le-chasseur-tie-sith-neuf",
-    "publication": 1732088626
+    "publication": 1732088626,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
-    "id": 4965216249,
-    "title": "Lego Troonzaal van de keizer 75352",
+    "id": 4060586856,
+    "title": "Lego 75352 75360 misb nuovo sigillato",
     "price": "95.2",
-    "imgURL": "https://images1.vinted.net/t/03_021aa_7YzALq3JVDkk7YKXP4iBusPw/f800/1725102782.jpeg?s=4d1e11b5b407e67fcd2dfaa42714a9a5c5ef7b1e",
-    "itemURL": "https://www.vinted.fr/items/4965216249-lego-troonzaal-van-de-keizer-75352",
-    "publication": 1725102782
+    "imgURL": "https://images1.vinted.net/t/02_023cb_Cjzyqqj7Mr32BDVYP7tS1wPc/f800/1707050669.jpeg?s=1caa100491512e92d7030b83baa8c28ee3aaef94",
+    "itemURL": "https://www.vinted.fr/items/4060586856-lego-75352-75360-misb-nuovo-sigillato",
+    "publication": 1707050669,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
-    "id": 4057923255,
-    "title": "Lego star wars new! 75352 75346",
-    "price": "95.2",
-    "imgURL": "https://images1.vinted.net/t/02_008fe_JqCny9bgvMBV6ghiE44XjJGV/f800/1706983187.jpeg?s=90a0026011646b2323c9f73095453583bed0515d",
-    "itemURL": "https://www.vinted.fr/items/4057923255-lego-star-wars-new-75352-75346",
-    "publication": 1706983187
-  },
-  {
-    "legoid": 75352,
-    "id": 3293054818,
-    "title": "Diorama de la salle du trône de l'Empereur lego star wars 75352",
-    "price": "104.65",
-    "imgURL": "https://images1.vinted.net/t/03_00550_Ye5WHmqdJs2aHA7ubCbGfqsK/f800/1690717183.jpeg?s=318c0f17b8736d9ac5e916cbad502968407d7ae7",
-    "itemURL": "https://www.vinted.fr/items/3293054818-diorama-de-la-salle-du-trone-de-lempereur-lego-star-wars-75352",
-    "publication": 1690717183
-  },
-  {
-    "legoid": 75352,
-    "id": 3808462447,
-    "title": "Lego star wars 75352",
-    "price": "84.7",
-    "imgURL": "https://images1.vinted.net/t/01_01985_rGyB7WXNuDn2dvh5c4JTnXzA/f800/1700936847.jpeg?s=c684d546a749c35aa6a8b568ee02a163414730d5",
-    "itemURL": "https://www.vinted.fr/items/3808462447-lego-star-wars-75352",
-    "publication": 1700936847
-  },
-  {
-    "legoid": 75352,
-    "id": 3490071384,
-    "title": "Lego Star Wars Emperor's Throne Room 75352",
-    "price": "105.69",
-    "imgURL": "https://images1.vinted.net/t/03_00826_xLwupcrYJGKgsz2yQC3GNfiv/f800/1695047422.jpeg?s=b8197683ae2c324e7a6dec1c74c82dc47302cabc",
-    "itemURL": "https://www.vinted.fr/items/3490071384-lego-star-wars-emperors-throne-room-75352",
-    "publication": 1695047422
-  },
-  {
-    "legoid": 75352,
-    "id": 3662236959,
-    "title": "Lego Star Wars 75352 new in box",
-    "price": "131.95",
-    "imgURL": "https://images1.vinted.net/t/02_00de2_EyETrf6GLU4qS4JHs6f1KGM2/f800/1698229218.jpeg?s=f9be9bfba7f488528df4b47accae30060207b921",
-    "itemURL": "https://www.vinted.fr/items/3662236959-lego-star-wars-75352-new-in-box",
-    "publication": 1698229218
-  },
-  {
-    "legoid": 75352,
-    "id": 4968144557,
-    "title": "LEGO 75352 Emperor’s Throne Room Diorama",
-    "price": "89.43",
-    "imgURL": "https://images1.vinted.net/t/02_01aa9_k2zoNaS98nbekmr1YLhhzddD/f800/1725135932.jpeg?s=da3df4deecbc5b2ae810d05f83a371a6fddb3262",
-    "itemURL": "https://www.vinted.fr/items/4968144557-lego-75352-emperors-throne-room-diorama",
-    "publication": 1725135932
-  },
-  {
-    "legoid": 75352,
-    "id": 3936208094,
-    "title": "LEGO | Star Wars 75352",
-    "price": "89.95",
-    "imgURL": "https://images1.vinted.net/t/03_01412_RTxFPkTjjtf91w8qK2sWshvJ/f800/1704314263.jpeg?s=44ebf55ce720b159a0141019620e083bba7008c0",
-    "itemURL": "https://www.vinted.fr/items/3936208094-lego-star-wars-75352",
-    "publication": 1704314263
+    "id": 4186075463,
+    "title": "Lego 75352 Emperor’s Throne Room",
+    "price": "94.15",
+    "imgURL": "https://images1.vinted.net/t/02_00c1d_CF8MZXHUX6YLEVMLwMkSxH9R/f800/1709658947.jpeg?s=dcd36b52ad78065601f0eed7cb2f9868875e54ea",
+    "itemURL": "https://www.vinted.fr/items/4186075463-lego-75352-emperors-throne-room",
+    "publication": 1709658947,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -456,7 +386,28 @@
     "price": "147.7",
     "imgURL": "https://images1.vinted.net/t/04_00b94_BrTvaEo6S3knvqkvnuowb3k9/f800/1729922872.jpeg?s=88d1ff3d415bcf0fde6123a833fab087e85c1388",
     "itemURL": "https://www.vinted.fr/items/5278014950-lego-75352-star-wars-emperors-throne-room-salle-du-trone-de-lempereur-neuf-scelle",
-    "publication": 1729922872
+    "publication": 1729922872,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3871885057,
+    "title": "LEGO 75352 camera del trono star wars Nuovo A",
+    "price": "95.2",
+    "imgURL": "https://images1.vinted.net/t/01_012b5_3oSx319TrPdVXWkoYX3YwGed/f800/1702306823.jpeg?s=2a43669b3a41693c740545e56cefea465b89f5db",
+    "itemURL": "https://www.vinted.fr/items/3871885057-lego-75352-camera-del-trono-star-wars-nuovo-a",
+    "publication": 1702306823,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4968144557,
+    "title": "LEGO 75352 Emperor’s Throne Room Diorama",
+    "price": "89.43",
+    "imgURL": "https://images1.vinted.net/t/02_01aa9_k2zoNaS98nbekmr1YLhhzddD/f800/1725135932.jpeg?s=da3df4deecbc5b2ae810d05f83a371a6fddb3262",
+    "itemURL": "https://www.vinted.fr/items/4968144557-lego-75352-emperors-throne-room-diorama",
+    "publication": 1725135932,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -465,16 +416,48 @@
     "price": "104.65",
     "imgURL": "https://images1.vinted.net/t/04_00320_he7xHgwffRJ9EFdZ3p1ygt61/f800/1732088829.jpeg?s=b7cb376e998428b89014279aeeaae4acb6de0945",
     "itemURL": "https://www.vinted.fr/items/5412468591-lego-star-wars-lenfant-ref75318",
-    "publication": 1732088829
+    "publication": 1732088829,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
-    "id": 5226072062,
-    "title": "Lego StarWars diorama’s",
-    "price": "315.7",
-    "imgURL": "https://images1.vinted.net/t/01_01091_sKZMMoL322hmUvjo1GkjJftR/f800/1729073032.jpeg?s=6137cf7209dbfcfca7bc742677cef483d08cde4b",
-    "itemURL": "https://www.vinted.fr/items/5226072062-lego-starwars-dioramas",
-    "publication": 1729073032
+    "id": 3887350726,
+    "title": "Lego Star Wars #75352 Emperor‘s Throne Room",
+    "price": "89.95",
+    "imgURL": "https://images1.vinted.net/t/02_000ee_eph45LVz2uk6dMYb8bLRpuSp/f800/1702731071.jpeg?s=93008ed8c52ca2d3b5f8a2fb7f3727e4eddfde00",
+    "itemURL": "https://www.vinted.fr/items/3887350726-lego-star-wars-75352-emperors-throne-room",
+    "publication": 1702731071,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4965216249,
+    "title": "Lego Troonzaal van de keizer 75352",
+    "price": "95.2",
+    "imgURL": "https://images1.vinted.net/t/03_021aa_7YzALq3JVDkk7YKXP4iBusPw/f800/1725102782.jpeg?s=4d1e11b5b407e67fcd2dfaa42714a9a5c5ef7b1e",
+    "itemURL": "https://www.vinted.fr/items/4965216249-lego-troonzaal-van-de-keizer-75352",
+    "publication": 1725102782,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 5044634942,
+    "title": "Lego 75352 Star Wars Diorama Salle du trône",
+    "price": "79.45",
+    "imgURL": "https://images1.vinted.net/t/02_005fa_zJZSbu6wQA6aJJwSyoYGDpYE/f800/1726348844.jpeg?s=60a7f687b18ea8010133b69b87944ae373277fda",
+    "itemURL": "https://www.vinted.fr/items/5044634942-lego-75352-star-wars-diorama-salle-du-trone",
+    "publication": 1726348844,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3808462447,
+    "title": "Lego star wars 75352",
+    "price": "84.7",
+    "imgURL": "https://images1.vinted.net/t/01_01985_rGyB7WXNuDn2dvh5c4JTnXzA/f800/1700936847.jpeg?s=c684d546a749c35aa6a8b568ee02a163414730d5",
+    "itemURL": "https://www.vinted.fr/items/3808462447-lego-star-wars-75352",
+    "publication": 1700936847,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -483,43 +466,8 @@
     "price": "100.45",
     "imgURL": "https://images1.vinted.net/t/01_0074a_wLBhSHazwYRcZp4fs7iPo1bX/f800/1715186373.jpeg?s=fdc9129c7bbf7094306b64b687bacc28581e26b0",
     "itemURL": "https://www.vinted.fr/items/4476842876-lego-star-wars-75352-diorama-sala-del-trono-dellimperatore",
-    "publication": 1715186373
-  },
-  {
-    "legoid": 75352,
-    "id": 3970939612,
-    "title": "Lego star wars 75352 75329 new!",
-    "price": "147.7",
-    "imgURL": "https://images1.vinted.net/t/01_02498_kk9P6LCRXgV29snwNErMKoFA/f800/1705094619.jpeg?s=512af6fa1b2da895a5998791a992c723bb6fa7b3",
-    "itemURL": "https://www.vinted.fr/items/3970939612-lego-star-wars-75352-75329-new",
-    "publication": 1705094619
-  },
-  {
-    "legoid": 75352,
-    "id": 1400391406,
-    "title": "75352 Lego Star Wars - Emperor's Throne Room Diorama",
-    "price": "95.2",
-    "imgURL": "https://images1.vinted.net/t/01_0187d_mhfoLUNmuFHTFGmZtxTfXvPS/f800/1697209797.jpeg?s=a753831f1cef83833f8275d54f4a9becfb6761d4",
-    "itemURL": "https://www.vinted.fr/items/1400391406-75352-lego-star-wars-emperors-throne-room-diorama",
-    "publication": 1697209797
-  },
-  {
-    "legoid": 75352,
-    "id": 4176002336,
-    "title": "Lego Star Wars ultimate Bundle of Seven too StarWars",
-    "price": "336.7",
-    "imgURL": "https://images1.vinted.net/t/02_00f82_HJ8NBEc6jpC8qYegjA9pyXut/f800/1709475900.jpeg?s=58a8aa325e7a8cc13f9cb94dafd9d0bbb7c49636",
-    "itemURL": "https://www.vinted.fr/items/4176002336-lego-star-wars-ultimate-bundle-of-seven-too-starwars",
-    "publication": 1709475900
-  },
-  {
-    "legoid": 75352,
-    "id": 4176039558,
-    "title": "Star Wars Bundle of 7 ultimate Lego Collection! Check all photos",
-    "price": "273.7",
-    "imgURL": "https://images1.vinted.net/t/02_01187_zdV8sq6qVB9iyR3ji6jvF4st/f800/1709476183.jpeg?s=76819f7c4c571a5e51ca32a9918718ea93f2bd56",
-    "itemURL": "https://www.vinted.fr/items/4176039558-star-wars-bundle-of-7-ultimate-lego-collection-check-all-photos",
-    "publication": 1709476183
+    "publication": 1715186373,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -528,7 +476,108 @@
     "price": "158.2",
     "imgURL": "https://images1.vinted.net/t/02_013b4_z8XenYpX9fxF2rsgYrKZ1MTY/f800/1732089739.jpeg?s=3ebef78f579ffffe94705138d6ff31c29a29cabe",
     "itemURL": "https://www.vinted.fr/items/5412504640-lego-x-wing-starfighter",
-    "publication": 1732089739
+    "publication": 1732089739,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3936208094,
+    "title": "LEGO | Star Wars 75352",
+    "price": "89.95",
+    "imgURL": "https://images1.vinted.net/t/03_01412_RTxFPkTjjtf91w8qK2sWshvJ/f800/1704314263.jpeg?s=44ebf55ce720b159a0141019620e083bba7008c0",
+    "itemURL": "https://www.vinted.fr/items/3936208094-lego-star-wars-75352",
+    "publication": 1704314263,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3662236959,
+    "title": "Lego Star Wars 75352 new in box",
+    "price": "131.95",
+    "imgURL": "https://images1.vinted.net/t/02_00de2_EyETrf6GLU4qS4JHs6f1KGM2/f800/1698229218.jpeg?s=f9be9bfba7f488528df4b47accae30060207b921",
+    "itemURL": "https://www.vinted.fr/items/3662236959-lego-star-wars-75352-new-in-box",
+    "publication": 1698229218,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3490071384,
+    "title": "Lego Star Wars Emperor's Throne Room 75352",
+    "price": "105.69",
+    "imgURL": "https://images1.vinted.net/t/03_00826_xLwupcrYJGKgsz2yQC3GNfiv/f800/1695047422.jpeg?s=b8197683ae2c324e7a6dec1c74c82dc47302cabc",
+    "itemURL": "https://www.vinted.fr/items/3490071384-lego-star-wars-emperors-throne-room-75352",
+    "publication": 1695047422,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4176002336,
+    "title": "Lego Star Wars ultimate Bundle of Seven too StarWars",
+    "price": "336.7",
+    "imgURL": "https://images1.vinted.net/t/02_00f82_HJ8NBEc6jpC8qYegjA9pyXut/f800/1709475900.jpeg?s=58a8aa325e7a8cc13f9cb94dafd9d0bbb7c49636",
+    "itemURL": "https://www.vinted.fr/items/4176002336-lego-star-wars-ultimate-bundle-of-seven-too-starwars",
+    "publication": 1709475900,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3293054818,
+    "title": "Diorama de la salle du trône de l'Empereur lego star wars 75352",
+    "price": "104.65",
+    "imgURL": "https://images1.vinted.net/t/03_00550_Ye5WHmqdJs2aHA7ubCbGfqsK/f800/1690717183.jpeg?s=318c0f17b8736d9ac5e916cbad502968407d7ae7",
+    "itemURL": "https://www.vinted.fr/items/3293054818-diorama-de-la-salle-du-trone-de-lempereur-lego-star-wars-75352",
+    "publication": 1690717183,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4057923255,
+    "title": "Lego star wars new! 75352 75346",
+    "price": "95.2",
+    "imgURL": "https://images1.vinted.net/t/02_008fe_JqCny9bgvMBV6ghiE44XjJGV/f800/1706983187.jpeg?s=90a0026011646b2323c9f73095453583bed0515d",
+    "itemURL": "https://www.vinted.fr/items/4057923255-lego-star-wars-new-75352-75346",
+    "publication": 1706983187,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 1400391406,
+    "title": "75352 Lego Star Wars - Emperor's Throne Room Diorama",
+    "price": "95.2",
+    "imgURL": "https://images1.vinted.net/t/01_0187d_mhfoLUNmuFHTFGmZtxTfXvPS/f800/1697209797.jpeg?s=a753831f1cef83833f8275d54f4a9becfb6761d4",
+    "itemURL": "https://www.vinted.fr/items/1400391406-75352-lego-star-wars-emperors-throne-room-diorama",
+    "publication": 1697209797,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 3970939612,
+    "title": "Lego star wars 75352 75329 new!",
+    "price": "147.7",
+    "imgURL": "https://images1.vinted.net/t/01_02498_kk9P6LCRXgV29snwNErMKoFA/f800/1705094619.jpeg?s=512af6fa1b2da895a5998791a992c723bb6fa7b3",
+    "itemURL": "https://www.vinted.fr/items/3970939612-lego-star-wars-75352-75329-new",
+    "publication": 1705094619,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 5226072062,
+    "title": "Lego StarWars diorama’s",
+    "price": "315.7",
+    "imgURL": "https://images1.vinted.net/t/01_01091_sKZMMoL322hmUvjo1GkjJftR/f800/1729073032.jpeg?s=6137cf7209dbfcfca7bc742677cef483d08cde4b",
+    "itemURL": "https://www.vinted.fr/items/5226072062-lego-starwars-dioramas",
+    "publication": 1729073032,
+    "scraping_data": 1732470738
+  },
+  {
+    "legoid": 75352,
+    "id": 4176039558,
+    "title": "Star Wars Bundle of 7 ultimate Lego Collection! Check all photos",
+    "price": "273.7",
+    "imgURL": "https://images1.vinted.net/t/02_01187_zdV8sq6qVB9iyR3ji6jvF4st/f800/1709476183.jpeg?s=76819f7c4c571a5e51ca32a9918718ea93f2bd56",
+    "itemURL": "https://www.vinted.fr/items/4176039558-star-wars-bundle-of-7-ultimate-lego-collection-check-all-photos",
+    "publication": 1709476183,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -537,7 +586,8 @@
     "price": "294.7",
     "imgURL": "https://images1.vinted.net/t/03_02181_co83RhAqk1WNgYKPRqph2mHp/f800/1709475594.jpeg?s=729ed9e792b45d97cb35e901531e53e1ab3be068",
     "itemURL": "https://www.vinted.fr/items/4175962002-lego-star-wars-set-if-5-bundle",
-    "publication": 1709475594
+    "publication": 1709475594,
+    "scraping_data": 1732470738
   },
   {
     "legoid": 75352,
@@ -546,6 +596,7 @@
     "price": "499.45",
     "imgURL": "https://images1.vinted.net/t/03_004e2_6wvWqLxyBCcQeE8rjJww4RaV/f800/1708613219.jpeg?s=7065036034e90fbc93371e24f0115a82cb7493b2",
     "itemURL": "https://www.vinted.fr/items/2306750688-lego-pack-star-wars",
-    "publication": 1708613219
+    "publication": 1708613219,
+    "scraping_data": 1732470738
   }
 ]

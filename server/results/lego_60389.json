@@ -1,57 +1,13 @@
 [
   {
     "legoid": 60389,
-    "id": 5324067223,
-    "title": "Doos van Lego city set 60389",
-    "price": "2.8",
-    "imgURL": "https://images1.vinted.net/t/03_026ce_zEKV8BtjCEFJ7YVK15pAvhiH/f800/1730648198.jpeg?s=b0cb36081e765d0bfb35a866de6edd085e071331",
-    "itemURL": "https://www.vinted.fr/items/5324067223-doos-van-lego-city-set-60389",
-    "publication": 1730648198
-  },
-  {
-    "legoid": 60389,
-    "id": 5393593077,
-    "title": "Lego 60389",
-    "price": "21.7",
-    "imgURL": "https://images1.vinted.net/t/04_021d7_BT4LCiCVBfsFyQ3xcEYzA15E/f800/1731785824.jpeg?s=5834288835fd48a91cc5e333f1ed41eda272a7f6",
-    "itemURL": "https://www.vinted.fr/items/5393593077-lego-60389",
-    "publication": 1731785824
-  },
-  {
-    "legoid": 60389,
-    "id": 5423712730,
-    "title": "Lego City Le garage de customisation",
-    "price": "28.0",
-    "imgURL": "https://images1.vinted.net/t/04_007c4_Eozucpa8oMxXuCV7nS9h7gXD/f800/1732280914.jpeg?s=1c3fbb3a2577a304b18d24fb93fd24925f067ed5",
-    "itemURL": "https://www.vinted.fr/items/5423712730-lego-city-le-garage-de-customisation",
-    "publication": 1732280914
-  },
-  {
-    "legoid": 60389,
-    "id": 5433720545,
-    "title": "Garage lego city",
-    "price": "36.4",
-    "imgURL": "https://images1.vinted.net/t/04_02656_aAy9kGJ4AEWtgWkTZ8mzMxDe/f800/1732450122.jpeg?s=93453e05de95f1430cc5b94676b643c5ca4447fe",
-    "itemURL": "https://www.vinted.fr/items/5433720545-garage-lego-city",
-    "publication": 1732450122
-  },
-  {
-    "legoid": 60389,
     "id": 4872658111,
     "title": "LEGO® City 60389 Autowerkstatt",
     "price": "24.85",
     "imgURL": "https://images1.vinted.net/t/02_022fe_tQMiGHCdhRobnfjneshMnvtX/f800/1723342040.jpeg?s=7d9c3d6a7ceab8cda537470f34fdb4057053e720",
     "itemURL": "https://www.vinted.fr/items/4872658111-legor-city-60389-autowerkstatt",
-    "publication": 1723342040
-  },
-  {
-    "legoid": 60389,
-    "id": 5392094247,
-    "title": "Lego 60389 le garage de customisation",
-    "price": "42.7",
-    "imgURL": "https://images1.vinted.net/t/02_00630_LRLpaFbWyyys5q7MYGz6WtPT/f800/1731771071.jpeg?s=8d209f5c3c676285b128e89abb01ad656bc0cda2",
-    "itemURL": "https://www.vinted.fr/items/5392094247-lego-60389-le-garage-de-customisation",
-    "publication": 1731771071
+    "publication": 1723342040,
+    "scraping_data": 1732471124
   },
   {
     "legoid": 60389,
@@ -60,7 +16,58 @@
     "price": "22.75",
     "imgURL": "https://images1.vinted.net/t/01_006f4_NtshPvAY4uJw1q58oZosc785/f800/1725245332.jpeg?s=0bc47d6d9baa8cc65e8505cbbdc15cce73862e6f",
     "itemURL": "https://www.vinted.fr/items/4974577509-lego-city-60389-custom-auto-garage",
-    "publication": 1725245332
+    "publication": 1725245332,
+    "scraping_data": 1732471124
+  },
+  {
+    "legoid": 60389,
+    "id": 5324067223,
+    "title": "Doos van Lego city set 60389",
+    "price": "2.8",
+    "imgURL": "https://images1.vinted.net/t/03_026ce_zEKV8BtjCEFJ7YVK15pAvhiH/f800/1730648198.jpeg?s=b0cb36081e765d0bfb35a866de6edd085e071331",
+    "itemURL": "https://www.vinted.fr/items/5324067223-doos-van-lego-city-set-60389",
+    "publication": 1730648198,
+    "scraping_data": 1732471124
+  },
+  {
+    "legoid": 60389,
+    "id": 5393593077,
+    "title": "Lego 60389",
+    "price": "21.7",
+    "imgURL": "https://images1.vinted.net/t/04_021d7_BT4LCiCVBfsFyQ3xcEYzA15E/f800/1731785824.jpeg?s=5834288835fd48a91cc5e333f1ed41eda272a7f6",
+    "itemURL": "https://www.vinted.fr/items/5393593077-lego-60389",
+    "publication": 1731785824,
+    "scraping_data": 1732471124
+  },
+  {
+    "legoid": 60389,
+    "id": 5423712730,
+    "title": "Lego City Le garage de customisation",
+    "price": "28.0",
+    "imgURL": "https://images1.vinted.net/t/04_007c4_Eozucpa8oMxXuCV7nS9h7gXD/f800/1732280914.jpeg?s=1c3fbb3a2577a304b18d24fb93fd24925f067ed5",
+    "itemURL": "https://www.vinted.fr/items/5423712730-lego-city-le-garage-de-customisation",
+    "publication": 1732280914,
+    "scraping_data": 1732471124
+  },
+  {
+    "legoid": 60389,
+    "id": 5433720545,
+    "title": "Garage lego city",
+    "price": "36.4",
+    "imgURL": "https://images1.vinted.net/t/04_02656_aAy9kGJ4AEWtgWkTZ8mzMxDe/f800/1732450122.jpeg?s=93453e05de95f1430cc5b94676b643c5ca4447fe",
+    "itemURL": "https://www.vinted.fr/items/5433720545-garage-lego-city",
+    "publication": 1732450122,
+    "scraping_data": 1732471124
+  },
+  {
+    "legoid": 60389,
+    "id": 5392094247,
+    "title": "Lego 60389 le garage de customisation",
+    "price": "42.7",
+    "imgURL": "https://images1.vinted.net/t/02_00630_LRLpaFbWyyys5q7MYGz6WtPT/f800/1731771071.jpeg?s=8d209f5c3c676285b128e89abb01ad656bc0cda2",
+    "itemURL": "https://www.vinted.fr/items/5392094247-lego-60389-le-garage-de-customisation",
+    "publication": 1731771071,
+    "scraping_data": 1732471124
   },
   {
     "legoid": 60389,
@@ -69,25 +76,28 @@
     "price": "35.34",
     "imgURL": "https://images1.vinted.net/t/04_019be_VJMVSZdvNijZrZUGoPRWgNhx/f800/1731866273.jpeg?s=b113cbe89440a9e4774e6943e535dbbbfc7583ef",
     "itemURL": "https://www.vinted.fr/items/5400169553-lego-60389",
-    "publication": 1731866273
+    "publication": 1731866273,
+    "scraping_data": 1732471124
   },
   {
     "legoid": 60389,
-    "id": 3448712464,
-    "title": "LEGO #60389 - Custom Car Garage - Minifigure Soldador",
-    "price": "7.0",
-    "imgURL": "https://images1.vinted.net/t/02_01972_iD5WMGBRaT3AxXjHQ9UxjeoL/f800/1694175102.jpeg?s=a5def457282b19e5b8d0804bdaf2eb53d91619e5",
-    "itemURL": "https://www.vinted.fr/items/3448712464-lego-60389-custom-car-garage-minifigure-soldador",
-    "publication": 1694175102
+    "id": 5436777318,
+    "title": "Lego city 60389 novo",
+    "price": "45.85",
+    "imgURL": "https://images1.vinted.net/t/04_0186c_MDtNPKp4gfARbAR1biQCmv6H/f800/1732468851.jpeg?s=e4a4e765457df1b80844612df279a15c257e1d5a",
+    "itemURL": "https://www.vinted.fr/items/5436777318-lego-city-60389-novo",
+    "publication": 1732468851,
+    "scraping_data": 1732471124
   },
   {
     "legoid": 60389,
-    "id": 5277836059,
-    "title": "Lego City - Garage (60389)",
-    "price": "40.08",
-    "imgURL": "https://images1.vinted.net/t/04_00bb8_AUdRux566SQ13heuK9S8Eceh/f800/1729894297.jpeg?s=93cee9c63746e649303a413c3e417387bb9213f3",
-    "itemURL": "https://www.vinted.fr/items/5277836059-lego-city-garage-60389",
-    "publication": 1729894297
+    "id": 5436536877,
+    "title": "LEGO City 60389 Garagem para carro Personalizado",
+    "price": "47.95",
+    "imgURL": "https://images1.vinted.net/t/03_012d4_QmyjiMN6fYLgAjMqgE6CuiD2/f800/1732467222.jpeg?s=39e0b7b2ff211e308c29d35681c8005ecd3e6fd9",
+    "itemURL": "https://www.vinted.fr/items/5436536877-lego-city-60389-garagem-para-carro-personalizado",
+    "publication": 1732467222,
+    "scraping_data": 1732471124
   },
   {
     "legoid": 60389,
@@ -96,16 +106,8 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/04_014c0_sGbUAz7gLR68PvVJNm9AXpgH/f800/1730377673.jpeg?s=717a186108bdb5c83b3e24b5ef02b7c57937bc07",
     "itemURL": "https://www.vinted.fr/items/5306926508-lego-60389-city",
-    "publication": 1730377673
-  },
-  {
-    "legoid": 60389,
-    "id": 4390126805,
-    "title": "Lego city 60389 garage",
-    "price": "36.4",
-    "imgURL": "https://images1.vinted.net/t/02_0160b_wH8EGtAsD4D81gpT1tqzxQ5L/f800/1713612955.jpeg?s=38b4906d168f990b391f871f498fc12f0ef0c7ae",
-    "itemURL": "https://www.vinted.fr/items/4390126805-lego-city-60389-garage",
-    "publication": 1713612955
+    "publication": 1730377673,
+    "scraping_data": 1732471124
   },
   {
     "legoid": 60389,
@@ -114,16 +116,28 @@
     "price": "42.7",
     "imgURL": "https://images1.vinted.net/t/04_00a17_2qqEQaos3FTmuMSbecks7Xpr/f800/1732321999.jpeg?s=f538902438fcd4367602f2e546c41a70c27ffc7b",
     "itemURL": "https://www.vinted.fr/items/5426416319-lego-60389-nuovo-sigillato",
-    "publication": 1732321999
+    "publication": 1732321999,
+    "scraping_data": 1732471124
   },
   {
     "legoid": 60389,
-    "id": 5259193730,
-    "title": "LEGO 60389 - Le Garage de Customisation - NEUF",
-    "price": "42.7",
-    "imgURL": "https://images1.vinted.net/t/01_01bc7_oCsHd3jvXBHPGeaX9qASxK8o/f800/1729587737.jpeg?s=62c8ef504896af7ac06c81b9fb2e553700a2d626",
-    "itemURL": "https://www.vinted.fr/items/5259193730-lego-60389-le-garage-de-customisation-neuf",
-    "publication": 1729587737
+    "id": 3448712464,
+    "title": "LEGO #60389 - Custom Car Garage - Minifigure Soldador",
+    "price": "7.0",
+    "imgURL": "https://images1.vinted.net/t/02_01972_iD5WMGBRaT3AxXjHQ9UxjeoL/f800/1694175102.jpeg?s=a5def457282b19e5b8d0804bdaf2eb53d91619e5",
+    "itemURL": "https://www.vinted.fr/items/3448712464-lego-60389-custom-car-garage-minifigure-soldador",
+    "publication": 1694175102,
+    "scraping_data": 1732471124
+  },
+  {
+    "legoid": 60389,
+    "id": 5277836059,
+    "title": "Lego City - Garage (60389)",
+    "price": "40.08",
+    "imgURL": "https://images1.vinted.net/t/04_00bb8_AUdRux566SQ13heuK9S8Eceh/f800/1729894297.jpeg?s=93cee9c63746e649303a413c3e417387bb9213f3",
+    "itemURL": "https://www.vinted.fr/items/5277836059-lego-city-garage-60389",
+    "publication": 1729894297,
+    "scraping_data": 1732471124
   },
   {
     "legoid": 60389,
@@ -132,7 +146,28 @@
     "price": "37.45",
     "imgURL": "https://images1.vinted.net/t/03_0188c_bRAZLsMhvG1Min4XdddnwerX/f800/1709987553.jpeg?s=089596f7707afc568144a54153120d992fee5830",
     "itemURL": "https://www.vinted.fr/items/4200054013-garage-lego-60389",
-    "publication": 1709987553
+    "publication": 1709987553,
+    "scraping_data": 1732471124
+  },
+  {
+    "legoid": 60389,
+    "id": 4390126805,
+    "title": "Lego city 60389 garage",
+    "price": "36.4",
+    "imgURL": "https://images1.vinted.net/t/02_0160b_wH8EGtAsD4D81gpT1tqzxQ5L/f800/1713612955.jpeg?s=38b4906d168f990b391f871f498fc12f0ef0c7ae",
+    "itemURL": "https://www.vinted.fr/items/4390126805-lego-city-60389-garage",
+    "publication": 1713612955,
+    "scraping_data": 1732471124
+  },
+  {
+    "legoid": 60389,
+    "id": 5259193730,
+    "title": "LEGO 60389 - Le Garage de Customisation - NEUF",
+    "price": "42.7",
+    "imgURL": "https://images1.vinted.net/t/01_01bc7_oCsHd3jvXBHPGeaX9qASxK8o/f800/1729587737.jpeg?s=62c8ef504896af7ac06c81b9fb2e553700a2d626",
+    "itemURL": "https://www.vinted.fr/items/5259193730-lego-60389-le-garage-de-customisation-neuf",
+    "publication": 1729587737,
+    "scraping_data": 1732471124
   },
   {
     "legoid": 60389,
@@ -141,7 +176,8 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/02_014b4_iHbyBYnP7EbmoLGsuecHcbQp/f800/1725995137.jpeg?s=e7d5e891d72f4e440eab6ce3628afccb3d2fb2ad",
     "itemURL": "https://www.vinted.fr/items/5021131113-lego-60389-le-garage-tuning-neuf",
-    "publication": 1725995137
+    "publication": 1725995137,
+    "scraping_data": 1732471124
   },
   {
     "legoid": 60389,
@@ -150,6 +186,7 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/01_00abb_kwCkCiYYnVr2aViAACShfvCk/f800/1728206005.jpeg?s=edf274227f354bdaf8bc0e58fb3962a15b2a3ac1",
     "itemURL": "https://www.vinted.fr/items/5166569467-lego-city-60389-taller-para-customizar",
-    "publication": 1728206005
+    "publication": 1728206005,
+    "scraping_data": 1732471124
   }
 ]

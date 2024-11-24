@@ -6,7 +6,8 @@
     "price": "10.15",
     "imgURL": "https://images1.vinted.net/t/03_01bdb_vexLMZm4oYVkixkxHRtBLz9N/f800/1728148517.jpeg?s=cc515e9f1789815f0b36d5d69882079c41f0808a",
     "itemURL": "https://www.vinted.fr/items/5164272356-lego-friends-42633",
-    "publication": 1728148517
+    "publication": 1728148517,
+    "scraping_data": 1732470454
   },
   {
     "legoid": 42633,
@@ -15,7 +16,8 @@
     "price": "3.85",
     "imgURL": "https://images1.vinted.net/t/03_015c8_ShvYvRD1fPwUXZsbhwj8ycdc/f800/1720360899.jpeg?s=ce37aecbf9b5f450ccf1ff24cb35ba1de17a1694",
     "itemURL": "https://www.vinted.fr/items/4734930173-boite-lego-vide-42633",
-    "publication": 1720360899
+    "publication": 1720360899,
+    "scraping_data": 1732470454
   },
   {
     "legoid": 42633,
@@ -24,7 +26,8 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/02_0219f_ATjtC1BVoS3y7W7xiCgv2qAd/f800/1726492646.jpeg?s=eef72b863616f8edeacc8555e68b28bb06ad3e7c",
     "itemURL": "https://www.vinted.fr/items/5055433108-lego-42633-camion-perritos-calientes",
-    "publication": 1726492646
+    "publication": 1726492646,
+    "scraping_data": 1732470454
   },
   {
     "legoid": 42633,
@@ -33,7 +36,8 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/01_00567_iakDK11coX3CtzHKMXNNRQTX/f800/1731442688.jpeg?s=230c7a451a6baa568bc164a0ac5bba1e576e4559",
     "itemURL": "https://www.vinted.fr/items/5373779982-lego-friends-42633",
-    "publication": 1731442688
+    "publication": 1731442688,
+    "scraping_data": 1732470454
   },
   {
     "legoid": 42633,
@@ -42,7 +46,8 @@
     "price": "10.15",
     "imgURL": "https://images1.vinted.net/t/04_013c5_BvD2pmwPAK4fq5KgB46gtpEU/f800/1730874869.jpeg?s=ae6de1bec9266af9bfbc17efdade3562c34a782d",
     "itemURL": "https://www.vinted.fr/items/5336841880-lego-friends-42633",
-    "publication": 1730874869
+    "publication": 1730874869,
+    "scraping_data": 1732470454
   },
   {
     "legoid": 42633,
@@ -51,7 +56,8 @@
     "price": "5.95",
     "imgURL": "https://images1.vinted.net/t/02_00857_UWfsRxCas2anfXhesfRcuCjo/f800/1721585389.jpeg?s=d807b5e754c5c0ea00a1c8c5f77b8c7eb511eb67",
     "itemURL": "https://www.vinted.fr/items/4792499261-lego-42633",
-    "publication": 1721585389
+    "publication": 1721585389,
+    "scraping_data": 1732470454
   },
   {
     "legoid": 42633,
@@ -60,7 +66,8 @@
     "price": "17.5",
     "imgURL": "https://images1.vinted.net/t/03_00556_kqXNiwjJUyqcb3ziHFmmRSdS/f800/1717781538.jpeg?s=aebe5e6f48f266b17c1e0dc207dc8ff7267e1944",
     "itemURL": "https://www.vinted.fr/items/4611511716-gioco-lego-42633-nuovo-sigillato-misb",
-    "publication": 1717781538
+    "publication": 1717781538,
+    "scraping_data": 1732470454
   },
   {
     "legoid": 42633,
@@ -69,6 +76,7 @@
     "price": "24.85",
     "imgURL": "https://images1.vinted.net/t/03_015cc_iK34QiPBYmFp7HR6Tw3fDY3T/f800/1707230843.jpeg?s=85da0b5e2b152e0c46c31ad31a522ce3ebcb52fc",
     "itemURL": "https://www.vinted.fr/items/4070011137-lego-food-truck-de-cachorro-quente",
-    "publication": 1707230843
+    "publication": 1707230843,
+    "scraping_data": 1732470454
   }
 ]

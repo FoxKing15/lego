@@ -6,16 +6,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/04_017a5_kdjKEKKRJsC32jTDK4eAFbGr/f800/1732304048.jpeg?s=2844364b800ca0bf3df40860bb8a66141e3fd949",
     "itemURL": "https://www.vinted.fr/items/5425675143-lego-marvel-76287-iron-man-bike",
-    "publication": 1732304048
-  },
-  {
-    "legoid": 76287,
-    "id": 5371993372,
-    "title": "LEGO 76287 - Iron Man with Bike and The Hulk",
-    "price": "14.34",
-    "imgURL": "https://images1.vinted.net/t/04_0100f_xhffRwX2TDFSjpLJDL1MFPSc/f800/1731423740.jpeg?s=ed098baca1c38563768b76c4c29ed5631d306e1d",
-    "itemURL": "https://www.vinted.fr/items/5371993372-lego-76287-iron-man-with-bike-and-the-hulk",
-    "publication": 1731423740
+    "publication": 1732304048,
+    "scraping_data": 1732471411
   },
   {
     "legoid": 76287,
@@ -24,7 +16,8 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/04_00218_dAr7DyGXz7xwDU5itayqMzWe/f800/1730802041.jpeg?s=b67aadddeffb7f40d2629476923000065bc77979",
     "itemURL": "https://www.vinted.fr/items/5332872208-lego-et-playmobil",
-    "publication": 1730802041
+    "publication": 1730802041,
+    "scraping_data": 1732471411
   },
   {
     "legoid": 76287,
@@ -33,7 +26,8 @@
     "price": "26.95",
     "imgURL": "https://images1.vinted.net/t/02_0032b_XzCg5rdo2NbomWP2gbpCaEgJ/f800/1725032194.jpeg?s=dbdbc576cd9d6b3e8c113686997d532a4f62cc0f",
     "itemURL": "https://www.vinted.fr/items/4962293412-lotto-lego-marvel-iron-man",
-    "publication": 1725032194
+    "publication": 1725032194,
+    "scraping_data": 1732471411
   },
   {
     "legoid": 76287,
@@ -42,6 +36,7 @@
     "price": "17.5",
     "imgURL": "https://images1.vinted.net/t/03_00433_k6gmVhjhG3MYQEmcAakJv3g1/f800/1727717858.jpeg?s=c1ed61bd88ae9e0440b08eba7a02d053f65d7b9a",
     "itemURL": "https://www.vinted.fr/items/5137168403-lego-marvel",
-    "publication": 1727717858
+    "publication": 1727717858,
+    "scraping_data": 1732471411
   }
 ]

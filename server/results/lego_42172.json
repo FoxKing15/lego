@@ -6,7 +6,8 @@
     "price": "22.75",
     "imgURL": "https://images1.vinted.net/t/01_009de_iCaqaWMZ4f2aigeH5cPBNwQ9/f800/1728680934.jpeg?s=f857e6bd17b2af1ee3249df3afd1b1e0c02e8f1f",
     "itemURL": "https://www.vinted.fr/items/5200146862-staffa-wall-mount-lego-mclaren-p1-42172",
-    "publication": 1728680934
+    "publication": 1728680934,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
@@ -15,16 +16,8 @@
     "price": "346.66",
     "imgURL": "https://images1.vinted.net/t/04_02240_w3Sni2iWvsG5sE9QCtARx4wT/f800/1731486361.jpeg?s=d27d14e2ca8563a0b93f14d0b819c160a7ff1148",
     "itemURL": "https://www.vinted.fr/items/5374786551-lego-technic-42172-mclaren-p1",
-    "publication": 1731486361
-  },
-  {
-    "legoid": 42172,
-    "id": 5357635218,
-    "title": "McLaren P1 Lego Compatible 42172",
-    "price": "221.2",
-    "imgURL": "https://images1.vinted.net/t/02_0160a_2ca85mPBpboEp9F2cBKrum5t/f800/1731239818.jpeg?s=331073f875cb57d51dab925d746538a9022f2ec0",
-    "itemURL": "https://www.vinted.fr/items/5357635218-mclaren-p1-lego-compatible-42172",
-    "publication": 1731239818
+    "publication": 1731486361,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
@@ -33,16 +26,8 @@
     "price": "336.7",
     "imgURL": "https://images1.vinted.net/t/04_0105f_4a5WKfSTDGM9zEYbAB2rk8Tw/f800/1732045618.jpeg?s=2392064150b038f93fa1affc09bc91d507556339",
     "itemURL": "https://www.vinted.fr/items/5411407800-lego-42172-mclaren-p1-neuf",
-    "publication": 1732045618
-  },
-  {
-    "legoid": 42172,
-    "id": 5318132437,
-    "title": "LEGO Technic 42172 - McLaren P1",
-    "price": "352.45",
-    "imgURL": "https://images1.vinted.net/t/04_01041_Lo9Q2MMMKkkEwb3GbxbR2cRS/f800/1730564861.jpeg?s=c666df7b0adec0a900ad6a92a6ea570bd7cea801",
-    "itemURL": "https://www.vinted.fr/items/5318132437-lego-technic-42172-mclaren-p1",
-    "publication": 1730564861
+    "publication": 1732045618,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
@@ -51,7 +36,28 @@
     "price": "335.65",
     "imgURL": "https://images1.vinted.net/t/04_017ce_NxZZMaXrLnMQ6tdZPatpNGyy/f800/1732450734.jpeg?s=5b7564e7e2e35dec0b906b4c5850062582b4a1f8",
     "itemURL": "https://www.vinted.fr/items/5348232776-lego-technic-42172-mclaren-p1",
-    "publication": 1732450734
+    "publication": 1732450734,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5357635218,
+    "title": "McLaren P1 Lego Compatible 42172",
+    "price": "221.2",
+    "imgURL": "https://images1.vinted.net/t/02_0160a_2ca85mPBpboEp9F2cBKrum5t/f800/1731239818.jpeg?s=331073f875cb57d51dab925d746538a9022f2ec0",
+    "itemURL": "https://www.vinted.fr/items/5357635218-mclaren-p1-lego-compatible-42172",
+    "publication": 1731239818,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5318132437,
+    "title": "LEGO Technic 42172 - McLaren P1",
+    "price": "352.45",
+    "imgURL": "https://images1.vinted.net/t/04_01041_Lo9Q2MMMKkkEwb3GbxbR2cRS/f800/1730564861.jpeg?s=c666df7b0adec0a900ad6a92a6ea570bd7cea801",
+    "itemURL": "https://www.vinted.fr/items/5318132437-lego-technic-42172-mclaren-p1",
+    "publication": 1730564861,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
@@ -60,25 +66,8 @@
     "price": "425.95",
     "imgURL": "https://images1.vinted.net/t/04_01ac8_GTWsQruMUtzsKNhNYLqHUn7A/f800/1732306009.jpeg?s=a951e834d252dc97afdb3f7f677704906bae7ffa",
     "itemURL": "https://www.vinted.fr/items/5425809044-lego-technic-mclaren-p1-set-42172",
-    "publication": 1732306009
-  },
-  {
-    "legoid": 42172,
-    "id": 5419719960,
-    "title": "Maclaren p1 42172 neuve lego",
-    "price": "368.2",
-    "imgURL": "https://images1.vinted.net/t/04_00ce6_2oH1nAbMeNkVecWFU5bC2SLR/f800/1732200819.jpeg?s=28b9bee48ce6efe3d7dd8cb11940ddbce1953beb",
-    "itemURL": "https://www.vinted.fr/items/5419719960-maclaren-p1-42172-neuve-lego",
-    "publication": 1732200819
-  },
-  {
-    "legoid": 42172,
-    "id": 5366188940,
-    "title": "Lego McLaren 42172",
-    "price": "368.2",
-    "imgURL": "https://images1.vinted.net/t/04_01bf4_vHR7mvBczEGXi8T8V646nf3k/f800/1731336217.jpeg?s=65d9bba474840b06ae7781533d5066f5af758ea4",
-    "itemURL": "https://www.vinted.fr/items/5366188940-lego-mclaren-42172",
-    "publication": 1731336217
+    "publication": 1732306009,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
@@ -87,7 +76,18 @@
     "price": "357.7",
     "imgURL": "https://images1.vinted.net/t/04_007fd_Kv7VAbWyeXjrGggYpFoy1NqP/f800/1730449212.jpeg?s=7663346ebd61d8ad6d270ae3311574f7f34eb3dd",
     "itemURL": "https://www.vinted.fr/items/5309685219-lego-42172-p1-mclaren-technic-neuf",
-    "publication": 1730449212
+    "publication": 1730449212,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5366188940,
+    "title": "Lego McLaren 42172",
+    "price": "368.2",
+    "imgURL": "https://images1.vinted.net/t/04_01bf4_vHR7mvBczEGXi8T8V646nf3k/f800/1731336217.jpeg?s=65d9bba474840b06ae7781533d5066f5af758ea4",
+    "itemURL": "https://www.vinted.fr/items/5366188940-lego-mclaren-42172",
+    "publication": 1731336217,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
@@ -96,79 +96,18 @@
     "price": "389.2",
     "imgURL": "https://images1.vinted.net/t/03_0224b_mkoHvCYkPbK87vK2Yuugbdhw/f800/1732217601.jpeg?s=936ebaa82ac0ee328a447a7ad6da36303a449926",
     "itemURL": "https://www.vinted.fr/items/5421195189-lego-42172-p1-meclaren",
-    "publication": 1732217601
+    "publication": 1732217601,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
-    "id": 5276898609,
-    "title": "LEGO 42172 McLaren",
+    "id": 5419719960,
+    "title": "Maclaren p1 42172 neuve lego",
     "price": "368.2",
-    "imgURL": "https://images1.vinted.net/t/03_02174_eA3HLx7Brdkia9C6mLfuxH8s/f800/1729876622.jpeg?s=f58f61ee73b7e8ce3e4c4abd7cabf42c1bdf4400",
-    "itemURL": "https://www.vinted.fr/items/5276898609-lego-42172-mclaren",
-    "publication": 1729876622
-  },
-  {
-    "legoid": 42172,
-    "id": 5234196737,
-    "title": "Lego 42172 mac laren P1",
-    "price": "410.2",
-    "imgURL": "https://images1.vinted.net/t/03_0127d_yx7sT39MuMC9xTU5NjRXbrLL/f800/1729189335.jpeg?s=9ce3ae2edab4efe8186a3d6436c022446d64dc86",
-    "itemURL": "https://www.vinted.fr/items/5234196737-lego-42172-mac-laren-p1",
-    "publication": 1729189335
-  },
-  {
-    "legoid": 42172,
-    "id": 5367777439,
-    "title": "Nieuw lego set 42172\nMclaren",
-    "price": "394.45",
-    "imgURL": "https://images1.vinted.net/t/04_0248d_KSHYPfW9p19hxkxtKs5aS6cH/f800/1731347490.jpeg?s=4c599e8aca6b1f1012798d33ecdedaf4c5ae8742",
-    "itemURL": "https://www.vinted.fr/items/5367777439-nieuw-lego-set-42172-mclaren",
-    "publication": 1731347490
-  },
-  {
-    "legoid": 42172,
-    "id": 5183266152,
-    "title": "LEGO Technic McLaren P1 42172",
-    "price": "368.2",
-    "imgURL": "https://images1.vinted.net/t/03_00aa6_FmXkcD8GNV78KKtxmF82rwDA/f800/1728404840.jpeg?s=ec9a15544b4b8115125acf076ba30de9d11ce728",
-    "itemURL": "https://www.vinted.fr/items/5183266152-lego-technic-mclaren-p1-42172",
-    "publication": 1728404840
-  },
-  {
-    "legoid": 42172,
-    "id": 5233816414,
-    "title": "LEGO Technic McLaren P1 42172",
-    "price": "389.2",
-    "imgURL": "https://images1.vinted.net/t/02_0001b_ToKafLQWYF1QsyYYuReqA5cE/f800/1729184782.jpeg?s=2a41329a4ceb8712c0a386d2056b853320096a2d",
-    "itemURL": "https://www.vinted.fr/items/5233816414-lego-technic-mclaren-p1-42172",
-    "publication": 1729184782
-  },
-  {
-    "legoid": 42172,
-    "id": 5270882103,
-    "title": "LEGO 42172 McLaren",
-    "price": "420.7",
-    "imgURL": "https://images1.vinted.net/t/04_00ab7_dKU68pkMcAiY66Kqzn8bcGf4/f800/1729775573.jpeg?s=406e64a29f8ac4330df8ff159c7e580a59680368",
-    "itemURL": "https://www.vinted.fr/items/5270882103-lego-42172-mclaren",
-    "publication": 1729775573
-  },
-  {
-    "legoid": 42172,
-    "id": 5432240831,
-    "title": "42172 LEGO Technic McLaren P1",
-    "price": "341.95",
-    "imgURL": "https://images1.vinted.net/t/03_01783_eJ3UPgmb5JEaC3CkcVLWgDbw/f800/1732439130.jpeg?s=cf2a9b9ffe6e47dc6603b45e0ff16d519e6fa2b9",
-    "itemURL": "https://www.vinted.fr/items/5432240831-42172-lego-technic-mclaren-p1",
-    "publication": 1732439130
-  },
-  {
-    "legoid": 42172,
-    "id": 5387759764,
-    "title": "Lego 42172 McLaren P1",
-    "price": "365.58",
-    "imgURL": "https://images1.vinted.net/t/04_00d37_dbB19RtzUNwaWF77J5WHFWYp/f800/1731694950.jpeg?s=c74c20e1fafc8313334ea8e717b0f254415b663c",
-    "itemURL": "https://www.vinted.fr/items/5387759764-lego-42172-mclaren-p1",
-    "publication": 1731694950
+    "imgURL": "https://images1.vinted.net/t/04_00ce6_2oH1nAbMeNkVecWFU5bC2SLR/f800/1732200819.jpeg?s=28b9bee48ce6efe3d7dd8cb11940ddbce1953beb",
+    "itemURL": "https://www.vinted.fr/items/5419719960-maclaren-p1-42172-neuve-lego",
+    "publication": 1732200819,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
@@ -177,16 +116,58 @@
     "price": "378.7",
     "imgURL": "https://images1.vinted.net/t/02_01315_GtdbZrudRRTz9pn3SiTrM192/f800/1730975620.jpeg?s=ec4a99ca9c908883d198b9ba5e05176ad8b0cc5f",
     "itemURL": "https://www.vinted.fr/items/5342282403-lego-technic-42172-mclaren-p1",
-    "publication": 1730975620
+    "publication": 1730975620,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
-    "id": 5078676675,
-    "title": "Lego 42172",
-    "price": "419.65",
-    "imgURL": "https://images1.vinted.net/t/02_00c16_wqQqpkoppbXb8X4eHjsEK9rD/f800/1726865647.jpeg?s=54edc0e4f64a1c4c441dccf9a52d6d017488feb0",
-    "itemURL": "https://www.vinted.fr/items/5078676675-lego-42172",
-    "publication": 1726865647
+    "id": 5183266152,
+    "title": "LEGO Technic McLaren P1 42172",
+    "price": "368.2",
+    "imgURL": "https://images1.vinted.net/t/03_00aa6_FmXkcD8GNV78KKtxmF82rwDA/f800/1728404840.jpeg?s=ec9a15544b4b8115125acf076ba30de9d11ce728",
+    "itemURL": "https://www.vinted.fr/items/5183266152-lego-technic-mclaren-p1-42172",
+    "publication": 1728404840,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5234196737,
+    "title": "Lego 42172 mac laren P1",
+    "price": "410.2",
+    "imgURL": "https://images1.vinted.net/t/03_0127d_yx7sT39MuMC9xTU5NjRXbrLL/f800/1729189335.jpeg?s=9ce3ae2edab4efe8186a3d6436c022446d64dc86",
+    "itemURL": "https://www.vinted.fr/items/5234196737-lego-42172-mac-laren-p1",
+    "publication": 1729189335,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5233816414,
+    "title": "LEGO Technic McLaren P1 42172",
+    "price": "389.2",
+    "imgURL": "https://images1.vinted.net/t/02_0001b_ToKafLQWYF1QsyYYuReqA5cE/f800/1729184782.jpeg?s=2a41329a4ceb8712c0a386d2056b853320096a2d",
+    "itemURL": "https://www.vinted.fr/items/5233816414-lego-technic-mclaren-p1-42172",
+    "publication": 1729184782,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5270882103,
+    "title": "LEGO 42172 McLaren",
+    "price": "420.7",
+    "imgURL": "https://images1.vinted.net/t/04_00ab7_dKU68pkMcAiY66Kqzn8bcGf4/f800/1729775573.jpeg?s=406e64a29f8ac4330df8ff159c7e580a59680368",
+    "itemURL": "https://www.vinted.fr/items/5270882103-lego-42172-mclaren",
+    "publication": 1729775573,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5276898609,
+    "title": "LEGO 42172 McLaren",
+    "price": "368.2",
+    "imgURL": "https://images1.vinted.net/t/03_02174_eA3HLx7Brdkia9C6mLfuxH8s/f800/1729876622.jpeg?s=f58f61ee73b7e8ce3e4c4abd7cabf42c1bdf4400",
+    "itemURL": "https://www.vinted.fr/items/5276898609-lego-42172-mclaren",
+    "publication": 1729876622,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
@@ -195,7 +176,28 @@
     "price": "410.2",
     "imgURL": "https://images1.vinted.net/t/03_00e89_WxUTtBD8GYucfjaYdALxazJs/f800/1729496303.jpeg?s=f6ce986879859c8002593309e9fe601a4c0e6c3d",
     "itemURL": "https://www.vinted.fr/items/5253271155-mclaren-lego-technic-42172",
-    "publication": 1729496303
+    "publication": 1729496303,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5432240831,
+    "title": "42172 LEGO Technic McLaren P1",
+    "price": "341.95",
+    "imgURL": "https://images1.vinted.net/t/03_01783_eJ3UPgmb5JEaC3CkcVLWgDbw/f800/1732439130.jpeg?s=cf2a9b9ffe6e47dc6603b45e0ff16d519e6fa2b9",
+    "itemURL": "https://www.vinted.fr/items/5432240831-42172-lego-technic-mclaren-p1",
+    "publication": 1732439130,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5367777439,
+    "title": "Nieuw lego set 42172\nMclaren",
+    "price": "394.45",
+    "imgURL": "https://images1.vinted.net/t/04_0248d_KSHYPfW9p19hxkxtKs5aS6cH/f800/1731347490.jpeg?s=4c599e8aca6b1f1012798d33ecdedaf4c5ae8742",
+    "itemURL": "https://www.vinted.fr/items/5367777439-nieuw-lego-set-42172-mclaren",
+    "publication": 1731347490,
+    "scraping_data": 1732471273
   },
   {
     "legoid": 42172,
@@ -204,6 +206,27 @@
     "price": "368.2",
     "imgURL": "https://images1.vinted.net/t/02_00e9f_kHMBEA665esGtvS2LBhc34R3/f800/1729351729.jpeg?s=8a0a11fbfee20df3c469e79899dc07a6bf651ad7",
     "itemURL": "https://www.vinted.fr/items/5243519751-lego-42172-mclaren",
-    "publication": 1729351729
+    "publication": 1729351729,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5387759764,
+    "title": "Lego 42172 McLaren P1",
+    "price": "365.58",
+    "imgURL": "https://images1.vinted.net/t/04_00d37_dbB19RtzUNwaWF77J5WHFWYp/f800/1731694950.jpeg?s=c74c20e1fafc8313334ea8e717b0f254415b663c",
+    "itemURL": "https://www.vinted.fr/items/5387759764-lego-42172-mclaren-p1",
+    "publication": 1731694950,
+    "scraping_data": 1732471273
+  },
+  {
+    "legoid": 42172,
+    "id": 5078676675,
+    "title": "Lego 42172",
+    "price": "419.65",
+    "imgURL": "https://images1.vinted.net/t/02_00c16_wqQqpkoppbXb8X4eHjsEK9rD/f800/1726865647.jpeg?s=54edc0e4f64a1c4c441dccf9a52d6d017488feb0",
+    "itemURL": "https://www.vinted.fr/items/5078676675-lego-42172",
+    "publication": 1726865647,
+    "scraping_data": 1732471273
   }
 ]

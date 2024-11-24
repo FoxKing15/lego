@@ -1,21 +1,23 @@
 [
   {
     "legoid": 10316,
-    "id": 5280202589,
-    "title": "Minifigurines Sam Lego 10316",
-    "price": "17.4",
-    "imgURL": "https://images1.vinted.net/t/02_00b5e_vQ6SKCKmsiqZf2BasdCSobiG/f800/1729947130.jpeg?s=e1fefd11ebb6da25e91f09e03b780ba0df9bdc72",
-    "itemURL": "https://www.vinted.fr/items/5280202589-minifigurines-sam-lego-10316",
-    "publication": 1729947130
-  },
-  {
-    "legoid": 10316,
     "id": 5230103213,
     "title": "Lego Seigneur des anneaux, Gloin the dwarf lor118",
     "price": "13.3",
     "imgURL": "https://images1.vinted.net/t/02_02220_RmoVdmFRCihg3icBLhL3LAah/f800/1729115581.jpeg?s=0fa4dd27f32db1730722a372e3e133a307dd9172",
     "itemURL": "https://www.vinted.fr/items/5230103213-lego-seigneur-des-anneaux-gloin-the-dwarf-lor118",
-    "publication": 1729115581
+    "publication": 1729115581,
+    "scraping_data": 1732470538
+  },
+  {
+    "legoid": 10316,
+    "id": 5280202589,
+    "title": "Minifigurines Sam Lego 10316",
+    "price": "17.4",
+    "imgURL": "https://images1.vinted.net/t/02_00b5e_vQ6SKCKmsiqZf2BasdCSobiG/f800/1729947130.jpeg?s=e1fefd11ebb6da25e91f09e03b780ba0df9bdc72",
+    "itemURL": "https://www.vinted.fr/items/5280202589-minifigurines-sam-lego-10316",
+    "publication": 1729947130,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -24,7 +26,8 @@
     "price": "37.45",
     "imgURL": "https://images1.vinted.net/t/03_00936_LU5Dxz3nbBWrLQ8ccgrtoqfo/f800/1716913264.jpeg?s=954baf589d64a573ddf8005c5291f213f8813dc9",
     "itemURL": "https://www.vinted.fr/items/4567410681-lego-seigneur-des-anneaux-10316",
-    "publication": 1716913264
+    "publication": 1716913264,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -33,16 +36,8 @@
     "price": "17.4",
     "imgURL": "https://images1.vinted.net/t/02_01499_RjtdjKgDLhAn1bPygUrpwBi6/f800/1729946859.jpeg?s=0833553623ada095a74331c2a1e64f1608b020bd",
     "itemURL": "https://www.vinted.fr/items/5280168245-minifigurines-gloin-lego-10316",
-    "publication": 1729946859
-  },
-  {
-    "legoid": 10316,
-    "id": 5385350370,
-    "title": "Figurine Lego Aragorn set 10316 Rivendell - Le seigneur des anneaux",
-    "price": "21.7",
-    "imgURL": "https://images1.vinted.net/t/04_0152f_sB8w2amayVvSg8ULq5uHmZLf/f800/1731668018.jpeg?s=11fcde9e0544586706b694db8c44547104acb890",
-    "itemURL": "https://www.vinted.fr/items/5385350370-figurine-lego-aragorn-set-10316-rivendell-le-seigneur-des-anneaux",
-    "publication": 1731668018
+    "publication": 1729946859,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -51,7 +46,8 @@
     "price": "17.4",
     "imgURL": "https://images1.vinted.net/t/02_00eca_eTDUG6qWQVytcDyeCcXEQyiQ/f800/1729947248.jpeg?s=6ef6451bbcbabe95c6917cd765c2d95fc096b3f2",
     "itemURL": "https://www.vinted.fr/items/5280217641-minifigurines-bilbo-bilbon-lego-10316",
-    "publication": 1729947248
+    "publication": 1729947248,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -60,16 +56,8 @@
     "price": "21.18",
     "imgURL": "https://images1.vinted.net/t/01_00eb4_2xcs3s3tzyVHqfvQFWLUcou6/f800/1729934863.jpeg?s=2f34cc2488e43d0668e9d37c6bfb5672dc8f160f",
     "itemURL": "https://www.vinted.fr/items/5278743254-lego-lotr-samwise-gamgee-sam-light-nougat-feet-sand-blue-cape-lor113",
-    "publication": 1729934863
-  },
-  {
-    "legoid": 10316,
-    "id": 5380850885,
-    "title": "Lego set rivendell 10316 mobili ideale per moc",
-    "price": "25.9",
-    "imgURL": "https://images1.vinted.net/t/04_00757_rh2Tc6pvsgMX3paANRUvAGZ9/f800/1731584138.jpeg?s=dbefcae6dfeb68ff04acf7d0eae5bd8ae6fe41af",
-    "itemURL": "https://www.vinted.fr/items/5380850885-lego-set-rivendell-10316-mobili-ideale-per-moc",
-    "publication": 1731584138
+    "publication": 1729934863,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -78,7 +66,18 @@
     "price": "21.7",
     "imgURL": "https://images1.vinted.net/t/03_01a08_Kc7Vjxz9KiDvFVqa4PhjBu7V/f800/1729081079.jpeg?s=9643f6aca36be97fa96ecb0e985a5a4fe4347e91",
     "itemURL": "https://www.vinted.fr/items/5226852913-lego-lotr-boromir-dark-blue-legs-lor126",
-    "publication": 1729081079
+    "publication": 1729081079,
+    "scraping_data": 1732470538
+  },
+  {
+    "legoid": 10316,
+    "id": 5380850885,
+    "title": "Lego set rivendell 10316 mobili ideale per moc",
+    "price": "25.9",
+    "imgURL": "https://images1.vinted.net/t/04_00757_rh2Tc6pvsgMX3paANRUvAGZ9/f800/1731584138.jpeg?s=dbefcae6dfeb68ff04acf7d0eae5bd8ae6fe41af",
+    "itemURL": "https://www.vinted.fr/items/5380850885-lego-set-rivendell-10316-mobili-ideale-per-moc",
+    "publication": 1731584138,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -87,7 +86,8 @@
     "price": "18.55",
     "imgURL": "https://images1.vinted.net/t/04_00842_XzNuthssCB31HrV9jHseDqr1/f800/1729947472.jpeg?s=f892de71a67e37713274f5cdeaacb6226d05dc1f",
     "itemURL": "https://www.vinted.fr/items/5280246255-minifigurines-homme-elfe-lego-10316",
-    "publication": 1729947472
+    "publication": 1729947472,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -96,7 +96,8 @@
     "price": "18.55",
     "imgURL": "https://images1.vinted.net/t/03_00e36_W2bhffujP5J2hjXceqwpEso1/f800/1729081660.jpeg?s=d6a48c56891bb7456c5fa280e123c0985a14bf50",
     "itemURL": "https://www.vinted.fr/items/5226929716-lego-lotr-rivendell-elf-male-dark-bluish-gray-shirt-and-legs-lor122",
-    "publication": 1729081660
+    "publication": 1729081660,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -105,7 +106,8 @@
     "price": "21.7",
     "imgURL": "https://images1.vinted.net/t/01_00f83_BXYxBwwvR72D1K3qqgWTvoCk/f800/1726767162.jpeg?s=f04a4503ec9f9fdc5fea50416d9614437cf72696",
     "itemURL": "https://www.vinted.fr/items/5073133551-lego-10316-figures",
-    "publication": 1726767162
+    "publication": 1726767162,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -114,7 +116,8 @@
     "price": "31.15",
     "imgURL": "https://images1.vinted.net/t/03_0044a_N4c2EvtAncwMKki4SMcBkgVh/f800/1731583875.jpeg?s=3353662238e47dc9e148f52baaae9f71018864dc",
     "itemURL": "https://www.vinted.fr/items/5380826406-lego-rivendell-10316-solo-torre-ideale-per-moc",
-    "publication": 1731583875
+    "publication": 1731583875,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -123,7 +126,8 @@
     "price": "19.6",
     "imgURL": "https://images1.vinted.net/t/03_01235_L2WwH4yVyxWBYgg3poeTAJPe/f800/1729081637.jpeg?s=524beeef5099070eaddcb2f5e3fe780aed730bcb",
     "itemURL": "https://www.vinted.fr/items/5226921113-lego-lotr-gloin-the-dwarf-white-hair-lor118",
-    "publication": 1729081637
+    "publication": 1729081637,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -132,16 +136,8 @@
     "price": "21.7",
     "imgURL": "https://images1.vinted.net/t/02_009ea_8s2BYKF5hPV8LLUJkhgbzd3e/f800/1712496733.jpeg?s=3b845c6d7cb4f90a9efc4cf91dbffcf2d3e55f3f",
     "itemURL": "https://www.vinted.fr/items/4329387816-arwen-lego-minifigure-set-10316-rivendell",
-    "publication": 1712496733
-  },
-  {
-    "legoid": 10316,
-    "id": 5226895612,
-    "title": "Lego LOTR - Bilbo Baggins - White Hair - lor117",
-    "price": "17.5",
-    "imgURL": "https://images1.vinted.net/t/01_01c29_8oSFjP63ptcsiWNdCCybhkv5/f800/1729081124.jpeg?s=593e7737b64017001d76561d45e0cd958dea4ddf",
-    "itemURL": "https://www.vinted.fr/items/5226895612-lego-lotr-bilbo-baggins-white-hair-lor117",
-    "publication": 1729081124
+    "publication": 1712496733,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -150,7 +146,18 @@
     "price": "26.95",
     "imgURL": "https://images1.vinted.net/t/01_01712_QEajxcznbVZ1TDkqYjJaYMnN/f800/1719329922.jpeg?s=baf6c5b5474ec48ca6bc63e37fa05b3e0c76b80a",
     "itemURL": "https://www.vinted.fr/items/4687193501-aragorn-lego-10316",
-    "publication": 1719329922
+    "publication": 1719329922,
+    "scraping_data": 1732470538
+  },
+  {
+    "legoid": 10316,
+    "id": 5226895612,
+    "title": "Lego LOTR - Bilbo Baggins - White Hair - lor117",
+    "price": "17.5",
+    "imgURL": "https://images1.vinted.net/t/01_01c29_8oSFjP63ptcsiWNdCCybhkv5/f800/1729081124.jpeg?s=593e7737b64017001d76561d45e0cd958dea4ddf",
+    "itemURL": "https://www.vinted.fr/items/5226895612-lego-lotr-bilbo-baggins-white-hair-lor117",
+    "publication": 1729081124,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -159,7 +166,8 @@
     "price": "15.4",
     "imgURL": "https://images1.vinted.net/t/03_016a6_YL8gwqyiKQMMUJUffmzkMovf/f800/1696165979.jpeg?s=7e41d6cbd25933ead50d654d82e5bb51763a5df4",
     "itemURL": "https://www.vinted.fr/items/3547968510-minifigurine-serie-24-orc",
-    "publication": 1696165979
+    "publication": 1696165979,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -168,7 +176,8 @@
     "price": "310.45",
     "imgURL": "https://images1.vinted.net/t/04_01b08_TrvtQnAALZzrF7DJa75G4Hfu/f800/1731435432.jpeg?s=edab3dbe2840bc3f7bb506b671c89047075c36e6",
     "itemURL": "https://www.vinted.fr/items/5373117485-rivendel-lego-compatible-10316",
-    "publication": 1731435432
+    "publication": 1731435432,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -177,7 +186,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/02_00fb9_SnWn6B8SjoDXc1EpbyQL7oms/f800/1730710039.jpeg?s=aaa3c6154d60ef742273185caf158cce29ae13f3",
     "itemURL": "https://www.vinted.fr/items/5327398703-lego-brickheadz-40630-frodo-gollum-autografato-dal-designer",
-    "publication": 1730710039
+    "publication": 1730710039,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -186,7 +196,8 @@
     "price": "446.95",
     "imgURL": "https://images1.vinted.net/t/04_005e7_ruKfXAEDmJ2ahwJccMA6QHjc/f800/1732198211.jpeg?s=125e82751ddb86543396973856fb18da869cd728",
     "itemURL": "https://www.vinted.fr/items/5419453156-lego-10316-seigneur-des-anneaux-fondcombe",
-    "publication": 1732198211
+    "publication": 1732198211,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -195,7 +206,8 @@
     "price": "278.95",
     "imgURL": "https://images1.vinted.net/t/04_01cdf_VsA37TWcRkzTzVAWrFmxKNRE/f800/1731271279.jpeg?s=ea15ea6d142b662782e20d86fbcbb28870787ff7",
     "itemURL": "https://www.vinted.fr/items/5362259256-rivendel-10316-sin-caja",
-    "publication": 1731271279
+    "publication": 1731271279,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -204,7 +216,8 @@
     "price": "483.7",
     "imgURL": "https://images1.vinted.net/t/04_0192d_6fsDvmCJAaeLkhCFDrR5tRvm/f800/1732221230.jpeg?s=905d9c725247e0a4c17bdb86811c57740e6321de",
     "itemURL": "https://www.vinted.fr/items/5421483490-rivendell-gran-burrone",
-    "publication": 1732221230
+    "publication": 1732221230,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -213,7 +226,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/01_00ff0_PBkNsqG9DkFYf8UTJJhTFQf2/f800/1685644109.jpeg?s=ec508a6b0299d37efdb091db54992651f9312c2f",
     "itemURL": "https://www.vinted.fr/items/2848489467-lego-10316-minifig-statue-nuove",
-    "publication": 1685644109
+    "publication": 1685644109,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -222,7 +236,8 @@
     "price": "494.2",
     "imgURL": "https://images1.vinted.net/t/03_0247e_22R72h9yCkzkkyYfxjZtPTv8/f800/1700908339.jpeg?s=05e820a2a65d5a9cd915c045f646b647f14d3829",
     "itemURL": "https://www.vinted.fr/items/3805824508-lego-10316-rivendell",
-    "publication": 1700908339
+    "publication": 1700908339,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -231,7 +246,8 @@
     "price": "83.65",
     "imgURL": "https://images1.vinted.net/t/01_00531_Nwk7ijMeBF8iitBgVdZavgW8/f800/1688018514.jpeg?s=1af4c863a018dda1c300c39dc9db87f45dc337b9",
     "itemURL": "https://www.vinted.fr/items/3186915581-lego-oficial-lord-rings-10316-rivendel",
-    "publication": 1688018514
+    "publication": 1688018514,
+    "scraping_data": 1732470538
   },
   {
     "legoid": 10316,
@@ -240,6 +256,7 @@
     "price": "524.65",
     "imgURL": "https://images1.vinted.net/t/03_01d16_nxgVFu8FsdzJiduL8G1XFQgE/f800/1709055316.jpeg?s=be68877451da17aad2bd0a82b0d62654e5f5c91b",
     "itemURL": "https://www.vinted.fr/items/4156288186-lego-100-originale-porsche-911-gt3-rs-42056",
-    "publication": 1709055316
+    "publication": 1709055316,
+    "scraping_data": 1732470538
   }
 ]

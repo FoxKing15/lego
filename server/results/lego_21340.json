@@ -6,7 +6,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/02_00150_Xs2p6GPTusGECFCtRKVKLw3x/f800/1732046671.jpeg?s=7e9e8ef2afe7a659bf2524cd3c9d7066d5eeb8f4",
     "itemURL": "https://www.vinted.fr/items/5411502410-lego-21340-ideas-neuf",
-    "publication": 1732046671
+    "publication": 1732046671,
+    "scraping_data": 1732470937
   },
   {
     "legoid": 21340,
@@ -15,7 +16,8 @@
     "price": "3.33",
     "imgURL": "https://images1.vinted.net/t/02_01b59_i37UEHF2qyJpYEnPN2BzwzCF/f800/1715067646.jpeg?s=2b3a995b301b05775945fec96d4a180b279cad21",
     "itemURL": "https://www.vinted.fr/items/4469628840-lego-21340-instructions",
-    "publication": 1715067646
+    "publication": 1715067646,
+    "scraping_data": 1732470937
   },
   {
     "legoid": 21340,
@@ -24,7 +26,8 @@
     "price": "68.95",
     "imgURL": "https://images1.vinted.net/t/02_0073e_GgSw2toF2zstEcUhxnZAZncw/f800/1729256611.jpeg?s=40d29d3225bbad8ab30319849c9407494b788b33",
     "itemURL": "https://www.vinted.fr/items/5237201276-lego-ideas-21340-wilde-verhalen-uit-de-ruimte-tales-of-the-space-age-set",
-    "publication": 1729256611
+    "publication": 1729256611,
+    "scraping_data": 1732470937
   },
   {
     "legoid": 21340,
@@ -33,7 +36,8 @@
     "price": "68.95",
     "imgURL": "https://images1.vinted.net/t/03_00457_YG316wxMcDvsJjV2knN42Gtp/f800/1710937337.jpeg?s=cbaa852e4c548b2cf58b7a31db2e940102da9068",
     "itemURL": "https://www.vinted.fr/items/4248523700-21340-lego-ideas-tales-of-the-space-age",
-    "publication": 1710937337
+    "publication": 1710937337,
+    "scraping_data": 1732470937
   },
   {
     "legoid": 21340,
@@ -42,6 +46,7 @@
     "price": "168.7",
     "imgURL": "https://images1.vinted.net/t/04_00957_nKWFTf6BE4BQUpZc5wBn4yLS/f800/1730641150.jpeg?s=d2e1a49cebd8cc8622e0cd4cb7f2a07c13bd97b4",
     "itemURL": "https://www.vinted.fr/items/5322824609-lego-ideas-cuusoo-009-21301-birdsvogels-nieuw",
-    "publication": 1730641150
+    "publication": 1730641150,
+    "scraping_data": 1732470937
   }
 ]

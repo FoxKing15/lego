@@ -6,16 +6,8 @@
     "price": "9.1",
     "imgURL": "https://images1.vinted.net/t/01_0095a_83SGQdDqDbCH28SawgsZQueQ/f800/1702999104.jpeg?s=2f4437d13f5b7231eb10f1173a5695d7a0cf906a",
     "itemURL": "https://www.vinted.fr/items/3896698556-bloc-de-feuilles-lego-21327",
-    "publication": 1702999104
-  },
-  {
-    "legoid": 21327,
-    "id": 5332197487,
-    "title": "Lego 21327 typewriter",
-    "price": "210.7",
-    "imgURL": "https://images1.vinted.net/t/03_005b9_dG3r3j7KZUp2PVPh6TkA2C86/f800/1730791143.jpeg?s=cde47960ab79997b901d7c402f9ffcf0344f0b36",
-    "itemURL": "https://www.vinted.fr/items/5332197487-lego-21327-typewriter",
-    "publication": 1730791143
+    "publication": 1702999104,
+    "scraping_data": 1732470815
   },
   {
     "legoid": 21327,
@@ -24,7 +16,18 @@
     "price": "268.45",
     "imgURL": "https://images1.vinted.net/t/02_00de0_xJwUwR6ATBGrwPJx32pRgaGp/f800/1732358171.jpeg?s=37e39aa63c286cec57d78046d0c21d23f0649a8f",
     "itemURL": "https://www.vinted.fr/items/5427367818-lego-21327-machine-a-ecrire",
-    "publication": 1732358171
+    "publication": 1732358171,
+    "scraping_data": 1732470815
+  },
+  {
+    "legoid": 21327,
+    "id": 5332197487,
+    "title": "Lego 21327 typewriter",
+    "price": "210.7",
+    "imgURL": "https://images1.vinted.net/t/03_005b9_dG3r3j7KZUp2PVPh6TkA2C86/f800/1730791143.jpeg?s=cde47960ab79997b901d7c402f9ffcf0344f0b36",
+    "itemURL": "https://www.vinted.fr/items/5332197487-lego-21327-typewriter",
+    "publication": 1730791143,
+    "scraping_data": 1732470815
   },
   {
     "legoid": 21327,
@@ -33,61 +36,8 @@
     "price": "230.65",
     "imgURL": "https://images1.vinted.net/t/04_01e5b_DXfy1LDWFYaxGbcTqpPkzPrL/f800/1731446898.jpeg?s=64e9b5cdf581e6bec9d74876f0102bdd5a1ab614",
     "itemURL": "https://www.vinted.fr/items/5374120849-lego-ideas-typewriter-21327",
-    "publication": 1731446898
-  },
-  {
-    "legoid": 21327,
-    "id": 5044360207,
-    "title": "Lego 21327",
-    "price": "209.65",
-    "imgURL": "https://images1.vinted.net/t/02_005ec_ar5Qpr27ENHu8RLwrREx8HrK/f800/1726343835.jpeg?s=0ff36d14e4d5fd4886e6e9b3ca22996e19e50c27",
-    "itemURL": "https://www.vinted.fr/items/5044360207-lego-21327",
-    "publication": 1726343835
-  },
-  {
-    "legoid": 21327,
-    "id": 5322824609,
-    "title": "LEGO Ideas (CUUSOO) #009 21301 Birds/Vogels NIEUW",
-    "price": "168.7",
-    "imgURL": "https://images1.vinted.net/t/04_00957_nKWFTf6BE4BQUpZc5wBn4yLS/f800/1730641150.jpeg?s=d2e1a49cebd8cc8622e0cd4cb7f2a07c13bd97b4",
-    "itemURL": "https://www.vinted.fr/items/5322824609-lego-ideas-cuusoo-009-21301-birdsvogels-nieuw",
-    "publication": 1730641150
-  },
-  {
-    "legoid": 21327,
-    "id": 4823082210,
-    "title": "Lego 21327",
-    "price": "231.7",
-    "imgURL": "https://images1.vinted.net/t/01_01d16_rLUaMNA7qv4t6DY67o4jTiYN/f800/1722259599.jpeg?s=c0a98abc2819b496f30f1799bbe346260bb30a85",
-    "itemURL": "https://www.vinted.fr/items/4823082210-lego-21327",
-    "publication": 1722259599
-  },
-  {
-    "legoid": 21327,
-    "id": 3963233532,
-    "title": "Lego Máquina de escribir 21327",
-    "price": "226.45",
-    "imgURL": "https://images1.vinted.net/t/01_01fec_ZowoZ3D4a9fTkgy2PvmV65ek/f800/1704904014.jpeg?s=520c796ed178255af37c414ef92ecc41aceeddf2",
-    "itemURL": "https://www.vinted.fr/items/3963233532-lego-maquina-de-escribir-21327",
-    "publication": 1704904014
-  },
-  {
-    "legoid": 21327,
-    "id": 5001486557,
-    "title": "Lego Macchina da Scrivere 21327",
-    "price": "314.65",
-    "imgURL": "https://images1.vinted.net/t/01_00723_HfPvW7NukmdtL3ZFi1cpE5Xm/f800/1725723804.jpeg?s=10e1ebba50e161a6ac563bbe349b8d301e4b4fef",
-    "itemURL": "https://www.vinted.fr/items/5001486557-lego-macchina-da-scrivere-21327",
-    "publication": 1725723804
-  },
-  {
-    "legoid": 21327,
-    "id": 4813816986,
-    "title": "Lego Ideas 21327 - Typewritter",
-    "price": "231.7",
-    "imgURL": "https://images1.vinted.net/t/01_0100a_3NPpZDJj5y7qwtUNub1WC6T2/f800/1722069637.jpeg?s=e41fdaa58a1794db39f332b27c0886a690165a67",
-    "itemURL": "https://www.vinted.fr/items/4813816986-lego-ideas-21327-typewritter",
-    "publication": 1722069637
+    "publication": 1731446898,
+    "scraping_data": 1732470815
   },
   {
     "legoid": 21327,
@@ -96,16 +46,38 @@
     "price": "262.66",
     "imgURL": "https://images1.vinted.net/t/03_00f75_Af7RY6stpkpbwhc8pRRpgKrs/f800/1717312051.jpeg?s=a9e9611639bf0c94499a6e746c24bd68388cdb88",
     "itemURL": "https://www.vinted.fr/items/4586335108-lego-ideas-21327-typewriter",
-    "publication": 1717312051
+    "publication": 1717312051,
+    "scraping_data": 1732470815
   },
   {
     "legoid": 21327,
-    "id": 4253175783,
-    "title": "LEGO 21327 Ideas",
+    "id": 4813816986,
+    "title": "Lego Ideas 21327 - Typewritter",
     "price": "231.7",
-    "imgURL": "https://images1.vinted.net/t/01_02393_ZL8vMvV6rfQuqwj6eCqECra8/f800/1711030443.jpeg?s=12648234a065e6754b022ab4ec32ffb6fcf18cfb",
-    "itemURL": "https://www.vinted.fr/items/4253175783-lego-21327-ideas",
-    "publication": 1711030443
+    "imgURL": "https://images1.vinted.net/t/01_0100a_3NPpZDJj5y7qwtUNub1WC6T2/f800/1722069637.jpeg?s=e41fdaa58a1794db39f332b27c0886a690165a67",
+    "itemURL": "https://www.vinted.fr/items/4813816986-lego-ideas-21327-typewritter",
+    "publication": 1722069637,
+    "scraping_data": 1732470815
+  },
+  {
+    "legoid": 21327,
+    "id": 5044360207,
+    "title": "Lego 21327",
+    "price": "209.65",
+    "imgURL": "https://images1.vinted.net/t/02_005ec_ar5Qpr27ENHu8RLwrREx8HrK/f800/1726343835.jpeg?s=0ff36d14e4d5fd4886e6e9b3ca22996e19e50c27",
+    "itemURL": "https://www.vinted.fr/items/5044360207-lego-21327",
+    "publication": 1726343835,
+    "scraping_data": 1732470815
+  },
+  {
+    "legoid": 21327,
+    "id": 5001486557,
+    "title": "Lego Macchina da Scrivere 21327",
+    "price": "314.65",
+    "imgURL": "https://images1.vinted.net/t/01_00723_HfPvW7NukmdtL3ZFi1cpE5Xm/f800/1725723804.jpeg?s=10e1ebba50e161a6ac563bbe349b8d301e4b4fef",
+    "itemURL": "https://www.vinted.fr/items/5001486557-lego-macchina-da-scrivere-21327",
+    "publication": 1725723804,
+    "scraping_data": 1732470815
   },
   {
     "legoid": 21327,
@@ -114,7 +86,48 @@
     "price": "247.45",
     "imgURL": "https://images1.vinted.net/t/03_0233d_TQakvM3pgH2nhQ6TQu2z1fQF/f800/1730513950.jpeg?s=89a949d18b76a892933b88dcf7197b04fbcd10a5",
     "itemURL": "https://www.vinted.fr/items/5314481925-lego-21327-maquina-de-escrever",
-    "publication": 1730513950
+    "publication": 1730513950,
+    "scraping_data": 1732470815
+  },
+  {
+    "legoid": 21327,
+    "id": 4823082210,
+    "title": "Lego 21327",
+    "price": "231.7",
+    "imgURL": "https://images1.vinted.net/t/01_01d16_rLUaMNA7qv4t6DY67o4jTiYN/f800/1722259599.jpeg?s=c0a98abc2819b496f30f1799bbe346260bb30a85",
+    "itemURL": "https://www.vinted.fr/items/4823082210-lego-21327",
+    "publication": 1722259599,
+    "scraping_data": 1732470815
+  },
+  {
+    "legoid": 21327,
+    "id": 3963233532,
+    "title": "Lego Máquina de escribir 21327",
+    "price": "226.45",
+    "imgURL": "https://images1.vinted.net/t/01_01fec_ZowoZ3D4a9fTkgy2PvmV65ek/f800/1704904014.jpeg?s=520c796ed178255af37c414ef92ecc41aceeddf2",
+    "itemURL": "https://www.vinted.fr/items/3963233532-lego-maquina-de-escribir-21327",
+    "publication": 1704904014,
+    "scraping_data": 1732470815
+  },
+  {
+    "legoid": 21327,
+    "id": 5322824609,
+    "title": "LEGO Ideas (CUUSOO) #009 21301 Birds/Vogels NIEUW",
+    "price": "168.7",
+    "imgURL": "https://images1.vinted.net/t/04_00957_nKWFTf6BE4BQUpZc5wBn4yLS/f800/1730641150.jpeg?s=d2e1a49cebd8cc8622e0cd4cb7f2a07c13bd97b4",
+    "itemURL": "https://www.vinted.fr/items/5322824609-lego-ideas-cuusoo-009-21301-birdsvogels-nieuw",
+    "publication": 1730641150,
+    "scraping_data": 1732470815
+  },
+  {
+    "legoid": 21327,
+    "id": 4253175783,
+    "title": "LEGO 21327 Ideas",
+    "price": "231.7",
+    "imgURL": "https://images1.vinted.net/t/01_02393_ZL8vMvV6rfQuqwj6eCqECra8/f800/1711030443.jpeg?s=12648234a065e6754b022ab4ec32ffb6fcf18cfb",
+    "itemURL": "https://www.vinted.fr/items/4253175783-lego-21327-ideas",
+    "publication": 1711030443,
+    "scraping_data": 1732470815
   },
   {
     "legoid": 21327,
@@ -123,16 +136,8 @@
     "price": "263.19",
     "imgURL": "https://images1.vinted.net/t/02_00436_6UHMQSrJ36zQE2zJ8GAPRu9o/f800/1715254858.jpeg?s=a7befed1271d806762c1fc4a82656a9ade3a3715",
     "itemURL": "https://www.vinted.fr/items/4479764172-lego-21327-ideas-typewriter",
-    "publication": 1715254858
-  },
-  {
-    "legoid": 21327,
-    "id": 4601414577,
-    "title": "LEGO Ideas Typemachine 21327",
-    "price": "226.45",
-    "imgURL": "https://images1.vinted.net/t/03_020a6_3pBgUwxvVW11Fhf6iEY23GXS/f800/1717581527.jpeg?s=1648acd367fd0ca931008336ccbe11878cccf50c",
-    "itemURL": "https://www.vinted.fr/items/4601414577-lego-ideas-typemachine-21327",
-    "publication": 1717581527
+    "publication": 1715254858,
+    "scraping_data": 1732470815
   },
   {
     "legoid": 21327,
@@ -141,7 +146,18 @@
     "price": "284.2",
     "imgURL": "https://images1.vinted.net/t/02_0021d_sjFsEHXGqzTZrZfmjEtkfRM7/f800/1719169742.jpeg?s=a9391d97e14ea3ad090bf4b535843c9aa44af49b",
     "itemURL": "https://www.vinted.fr/items/4680229575-lego-misb-21327",
-    "publication": 1719169742
+    "publication": 1719169742,
+    "scraping_data": 1732470815
+  },
+  {
+    "legoid": 21327,
+    "id": 4601414577,
+    "title": "LEGO Ideas Typemachine 21327",
+    "price": "226.45",
+    "imgURL": "https://images1.vinted.net/t/03_020a6_3pBgUwxvVW11Fhf6iEY23GXS/f800/1717581527.jpeg?s=1648acd367fd0ca931008336ccbe11878cccf50c",
+    "itemURL": "https://www.vinted.fr/items/4601414577-lego-ideas-typemachine-21327",
+    "publication": 1717581527,
+    "scraping_data": 1732470815
   },
   {
     "legoid": 21327,
@@ -150,7 +166,8 @@
     "price": "257.95",
     "imgURL": "https://images1.vinted.net/t/01_020d0_K9PVZBHLDNxi2TixoaG8MmmQ/f800/1700300402.jpeg?s=354c279d31bd03ca9ffb3e0de6996157c002ee4f",
     "itemURL": "https://www.vinted.fr/items/3774186358-set-lego-typewriter-21327-sigillato",
-    "publication": 1700300402
+    "publication": 1700300402,
+    "scraping_data": 1732470815
   },
   {
     "legoid": 21327,
@@ -159,6 +176,7 @@
     "price": "263.2",
     "imgURL": "https://images1.vinted.net/t/03_02382_hfF7UAjDspAjXXqTGCj5WJwc/f800/1706348118.jpeg?s=ccf56105fd26c7ff4bcb474a45be48eca3fcfbcf",
     "itemURL": "https://www.vinted.fr/items/2741894374-lego-ideas-21327-maquina-de-escrever-typewriter",
-    "publication": 1706348118
+    "publication": 1706348118,
+    "scraping_data": 1732470815
   }
 ]

@@ -6,7 +6,8 @@
     "price": "5.95",
     "imgURL": "https://images1.vinted.net/t/01_00b9c_2YyPpbKkNiCGd9fYAMKWNwjV/f800/1724336001.jpeg?s=6493d205d3f3ea6f7d5fbc59215184ffd5f93d1f",
     "itemURL": "https://www.vinted.fr/items/4922741455-lego-friends",
-    "publication": 1724336001
+    "publication": 1724336001,
+    "scraping_data": 1732470743
   },
   {
     "legoid": 21341,
@@ -15,7 +16,8 @@
     "price": "7.63",
     "imgURL": "https://images1.vinted.net/t/02_00c81_VwvYmBTFyC9QuqKtJ8xS4U1h/f800/1702041888.jpeg?s=308ec55de89517166b9b45886f955fe6fea356e1",
     "itemURL": "https://www.vinted.fr/items/3858981842-figurine-lego-ideas-disney-max-dennison-idea159-21341",
-    "publication": 1702041888
+    "publication": 1702041888,
+    "scraping_data": 1732470743
   },
   {
     "legoid": 21341,
@@ -24,7 +26,8 @@
     "price": "200.2",
     "imgURL": "https://images1.vinted.net/t/04_00a17_PwTY2FN5KP4389jnchDEvCS1/f800/1732448743.jpeg?s=e27f7abcf305f4fafff09eb88d18d23830785b7f",
     "itemURL": "https://www.vinted.fr/items/5433509417-lego-21341-hocus-pocus",
-    "publication": 1732448743
+    "publication": 1732448743,
+    "scraping_data": 1732470743
   },
   {
     "legoid": 21341,
@@ -33,16 +36,8 @@
     "price": "200.2",
     "imgURL": "https://images1.vinted.net/t/04_000d8_xXv1oPN4bkVWauw4pAkXuAYG/f800/1729773180.jpeg?s=62a87809d27e2c61244c2a8ef74221409d0fa600",
     "itemURL": "https://www.vinted.fr/items/5270634467-lego-ideas-21341-hocus-pocus-neuf",
-    "publication": 1729773180
-  },
-  {
-    "legoid": 21341,
-    "id": 5426560029,
-    "title": "Lego ideas 21341",
-    "price": "199.15",
-    "imgURL": "https://images1.vinted.net/t/03_009f6_J43geavNY5b8unm4LvLvFSQV/f800/1732346278.jpeg?s=ffa2b094604a4969746a7878ddd648c1758ee49a",
-    "itemURL": "https://www.vinted.fr/items/5426560029-lego-ideas-21341",
-    "publication": 1732346278
+    "publication": 1729773180,
+    "scraping_data": 1732470743
   },
   {
     "legoid": 21341,
@@ -51,7 +46,8 @@
     "price": "200.2",
     "imgURL": "https://images1.vinted.net/t/04_01aaa_9eQu5Zob6n5zEKyhRY57bePK/f800/1730820381.jpeg?s=25e18b3ff65800f7145c32270400a3fc45f51358",
     "itemURL": "https://www.vinted.fr/items/5334644962-lego-21341-hocus-pocus",
-    "publication": 1730820381
+    "publication": 1730820381,
+    "scraping_data": 1732470743
   },
   {
     "legoid": 21341,
@@ -60,7 +56,18 @@
     "price": "210.7",
     "imgURL": "https://images1.vinted.net/t/01_0076b_akxCabzqcUKysmw8YjfHWN5K/f800/1732371668.jpeg?s=1bc6427fecf89a0a25fac70527b2bd950742f1bb",
     "itemURL": "https://www.vinted.fr/items/5428971164-lego-21341-disney",
-    "publication": 1732371668
+    "publication": 1732371668,
+    "scraping_data": 1732470743
+  },
+  {
+    "legoid": 21341,
+    "id": 5426560029,
+    "title": "Lego ideas 21341",
+    "price": "199.15",
+    "imgURL": "https://images1.vinted.net/t/03_009f6_J43geavNY5b8unm4LvLvFSQV/f800/1732346278.jpeg?s=ffa2b094604a4969746a7878ddd648c1758ee49a",
+    "itemURL": "https://www.vinted.fr/items/5426560029-lego-ideas-21341",
+    "publication": 1732346278,
+    "scraping_data": 1732470743
   },
   {
     "legoid": 21341,
@@ -69,16 +76,8 @@
     "price": "210.7",
     "imgURL": "https://images1.vinted.net/t/01_0265f_Nx1DC64wyCKxVg9GmxtZvs8c/f800/1708883998.jpeg?s=456242ffe90c949b590c74f318fac6b5ff0b58de",
     "itemURL": "https://www.vinted.fr/items/4147894839-lego-21341-hocus-pocus-nuovo",
-    "publication": 1708883998
-  },
-  {
-    "legoid": 21341,
-    "id": 5322824609,
-    "title": "LEGO Ideas (CUUSOO) #009 21301 Birds/Vogels NIEUW",
-    "price": "168.7",
-    "imgURL": "https://images1.vinted.net/t/04_00957_nKWFTf6BE4BQUpZc5wBn4yLS/f800/1730641150.jpeg?s=d2e1a49cebd8cc8622e0cd4cb7f2a07c13bd97b4",
-    "itemURL": "https://www.vinted.fr/items/5322824609-lego-ideas-cuusoo-009-21301-birdsvogels-nieuw",
-    "publication": 1730641150
+    "publication": 1708883998,
+    "scraping_data": 1732470743
   },
   {
     "legoid": 21341,
@@ -87,7 +86,18 @@
     "price": "210.7",
     "imgURL": "https://images1.vinted.net/t/02_01624_2NV1aN4wYDkSvPJYzzY1kaDo/f800/1720264407.jpeg?s=abb654dfec77a343be1d7224c37dad9fbf1dc218",
     "itemURL": "https://www.vinted.fr/items/4729676457-lego-hocus-pocus-in-brown-box-21341",
-    "publication": 1720264407
+    "publication": 1720264407,
+    "scraping_data": 1732470743
+  },
+  {
+    "legoid": 21341,
+    "id": 5322824609,
+    "title": "LEGO Ideas (CUUSOO) #009 21301 Birds/Vogels NIEUW",
+    "price": "168.7",
+    "imgURL": "https://images1.vinted.net/t/04_00957_nKWFTf6BE4BQUpZc5wBn4yLS/f800/1730641150.jpeg?s=d2e1a49cebd8cc8622e0cd4cb7f2a07c13bd97b4",
+    "itemURL": "https://www.vinted.fr/items/5322824609-lego-ideas-cuusoo-009-21301-birdsvogels-nieuw",
+    "publication": 1730641150,
+    "scraping_data": 1732470743
   },
   {
     "legoid": 21341,
@@ -96,7 +106,8 @@
     "price": "215.95",
     "imgURL": "https://images1.vinted.net/t/01_007e0_axGxktbE727eMA5dMWyv3r6J/f800/1729756066.jpeg?s=401ab7d074cae4fedf8ebc777a7702a7cafeadb0",
     "itemURL": "https://www.vinted.fr/items/5269078310-lego-ideas-disney-hocus-pocus-21341",
-    "publication": 1729756066
+    "publication": 1729756066,
+    "scraping_data": 1732470743
   },
   {
     "legoid": 21341,
@@ -105,6 +116,7 @@
     "price": "242.2",
     "imgURL": "https://images1.vinted.net/t/01_007d3_tzcXQUJppU1YrHh9hy3A5j1g/f800/r1/1691839426.jpeg?s=1eb9b5cb31a201c17deb53006e1843f2415827f2",
     "itemURL": "https://www.vinted.fr/items/3341926983-lego-ideas-icons-21341-disney-hocus-pocus-the-sanderson-sisters-cottage",
-    "publication": 1691839426
+    "publication": 1691839426,
+    "scraping_data": 1732470743
   }
 ]

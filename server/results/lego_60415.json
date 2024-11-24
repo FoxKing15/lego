@@ -6,7 +6,8 @@
     "price": "9.1",
     "imgURL": "https://images1.vinted.net/t/03_01cd3_hPwCx9FYDAhDomRnKsE9uTcZ/f800/1731401513.jpeg?s=8da9226de7c0f014b598a7d5eb647abd33a6e19a",
     "itemURL": "https://www.vinted.fr/items/5369847261-lego-60415",
-    "publication": 1731401513
+    "publication": 1731401513,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -15,7 +16,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/01_000a1_JiW1VwAYkgiM9ZrkGjTznQkf/f800/1731399124.jpeg?s=d2c9cd8322c0eade1dc69b75a3ecc4814e8a9ada",
     "itemURL": "https://www.vinted.fr/items/5369717020-lego-60415-neuf-et-scelle",
-    "publication": 1731399124
+    "publication": 1731399124,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -24,7 +26,8 @@
     "price": "11.2",
     "imgURL": "https://images1.vinted.net/t/04_014ea_k5qsLBLJGHBPwZ222sbRwvdD/f800/1732114983.jpeg?s=f54e942751c9572d1544e12227c09086d94b51f8",
     "itemURL": "https://www.vinted.fr/items/5414873433-lego-city-60415",
-    "publication": 1732114983
+    "publication": 1732114983,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -33,7 +36,8 @@
     "price": "15.93",
     "imgURL": "https://images1.vinted.net/t/02_0133b_95zkfzhCB1TZcYbtZZaGFTAf/f800/1732309944.jpeg?s=192b22e63af68cb0ae0bc87a66cca16b8bf3f05d",
     "itemURL": "https://www.vinted.fr/items/5426061464-set-lego-city-60415-la-course-poursuite-entre-la-voiture-de-police-et-la-super-voiture",
-    "publication": 1732309944
+    "publication": 1732309944,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -42,7 +46,8 @@
     "price": "7.0",
     "imgURL": "https://images1.vinted.net/t/04_01726_Ayx38uwhykEBdcUz93SR45zN/f800/1731273512.jpeg?s=e4677e51acd6cd552d25c9efffb0f7b3ef94af60",
     "itemURL": "https://www.vinted.fr/items/5362455589-lego-60415-city",
-    "publication": 1731273512
+    "publication": 1731273512,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -51,7 +56,8 @@
     "price": "14.34",
     "imgURL": "https://images1.vinted.net/t/04_00e20_Jo8ibUR29BQZ1P4pcms84LKt/f800/1730145651.jpeg?s=0dd71f29c398a4bf23e1db53148f510355ca5852",
     "itemURL": "https://www.vinted.fr/items/5294850590-lego-city-60415-police-car-and-muscle-car-chade",
-    "publication": 1730145651
+    "publication": 1730145651,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -60,7 +66,8 @@
     "price": "14.88",
     "imgURL": "https://images1.vinted.net/t/03_00bc1_BcE9innrex8vzpkH2ssjCU74/f800/1724857231.jpeg?s=c2f395b3e7776e8f5019d823e447aa534992a6b8",
     "itemURL": "https://www.vinted.fr/items/4952878381-lego-city-60415",
-    "publication": 1724857231
+    "publication": 1724857231,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -69,7 +76,8 @@
     "price": "14.25",
     "imgURL": "https://images1.vinted.net/t/04_009e7_95iXAh8cCHwSorrdMQpaQSrY/f800/1731767627.jpeg?s=12ac15783be49b078e662ec1c1479a84953447e6",
     "itemURL": "https://www.vinted.fr/items/4904627448-lego-city-policier",
-    "publication": 1731767627
+    "publication": 1731767627,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -78,25 +86,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/02_004b9_N4hpNbCL8LJVuTGnxdoRusSp/f800/1713793601.jpeg?s=91cf922f109ce81b0d510c6c394d87d0b32bf2de",
     "itemURL": "https://www.vinted.fr/items/4402197056-jeu-lego-city-60415",
-    "publication": 1713793601
-  },
-  {
-    "legoid": 60415,
-    "id": 5009700269,
-    "title": "Lego 60415",
-    "price": "16.45",
-    "imgURL": "https://images1.vinted.net/t/02_001c5_JcouHeCTx5NjSDi84h4XeaJm/f800/1725822436.jpeg?s=e64f1091aa5a7791776b9f456b2db9c2f1d04c94",
-    "itemURL": "https://www.vinted.fr/items/5009700269-lego-60415",
-    "publication": 1725822436
-  },
-  {
-    "legoid": 60415,
-    "id": 5179731734,
-    "title": "Lego City 60415",
-    "price": "14.88",
-    "imgURL": "https://images1.vinted.net/t/01_020b1_SVhM2D7tpCKdoUqAQR31jNsG/f800/1728368093.jpeg?s=dca6213ad6f4ca7490af6fb5f6093724ee9b9f32",
-    "itemURL": "https://www.vinted.fr/items/5179731734-lego-city-60415",
-    "publication": 1728368093
+    "publication": 1713793601,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -105,7 +96,28 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/04_02035_NsbFZjaMQ8KZcEA6tHKkxGve/f800/1732357354.jpeg?s=3f25fc26f7338668e7ca9dcccf0fb4758eb10b8f",
     "itemURL": "https://www.vinted.fr/items/5427277234-lego-60415-voiture-police-voleur",
-    "publication": 1732357354
+    "publication": 1732357354,
+    "scraping_data": 1732471371
+  },
+  {
+    "legoid": 60415,
+    "id": 5009700269,
+    "title": "Lego 60415",
+    "price": "16.45",
+    "imgURL": "https://images1.vinted.net/t/02_001c5_JcouHeCTx5NjSDi84h4XeaJm/f800/1725822436.jpeg?s=e64f1091aa5a7791776b9f456b2db9c2f1d04c94",
+    "itemURL": "https://www.vinted.fr/items/5009700269-lego-60415",
+    "publication": 1725822436,
+    "scraping_data": 1732471371
+  },
+  {
+    "legoid": 60415,
+    "id": 5179731734,
+    "title": "Lego City 60415",
+    "price": "14.88",
+    "imgURL": "https://images1.vinted.net/t/01_020b1_SVhM2D7tpCKdoUqAQR31jNsG/f800/1728368093.jpeg?s=dca6213ad6f4ca7490af6fb5f6093724ee9b9f32",
+    "itemURL": "https://www.vinted.fr/items/5179731734-lego-city-60415",
+    "publication": 1728368093,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -114,7 +126,8 @@
     "price": "21.18",
     "imgURL": "https://images1.vinted.net/t/03_009dc_Ar2j7vheyzQ82qeFnZ5JYARq/f800/1709287018.jpeg?s=e4cdaa2bb25bf9e6195f79cff03422119af3b479",
     "itemURL": "https://www.vinted.fr/items/4165945752-lego-60415",
-    "publication": 1709287018
+    "publication": 1709287018,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -123,16 +136,8 @@
     "price": "20.65",
     "imgURL": "https://images1.vinted.net/t/01_00925_Eq4Svt96GLvrfY95oFZv7KVK/f800/1718291675.jpeg?s=37086b14b90cee741605df475bbbff7abb67a24b",
     "itemURL": "https://www.vinted.fr/items/4637863430-lego-60415-la-course-poursuite",
-    "publication": 1718291675
-  },
-  {
-    "legoid": 60415,
-    "id": 5331465924,
-    "title": "Lego city 60415",
-    "price": "20.65",
-    "imgURL": "https://images1.vinted.net/t/01_00803_9G8ksk4AZDQmWFRaYyNSnNq2/f800/1730752280.jpeg?s=d5ae2d96f01caa55de25834b1d9d24fd5106b89d",
-    "itemURL": "https://www.vinted.fr/items/5331465924-lego-city-60415",
-    "publication": 1730752280
+    "publication": 1718291675,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -141,7 +146,18 @@
     "price": "21.7",
     "imgURL": "https://images1.vinted.net/t/01_01d6d_L9gcwhg3AKVfLaXzaoVEPZvB/f800/1731407427.jpeg?s=bf0bf2a190091b7329eaba7fde9308251b703e70",
     "itemURL": "https://www.vinted.fr/items/5370329819-lego-la-course-poursuite-entre-la-voiture-de-police-et-la-super-voiture",
-    "publication": 1731407427
+    "publication": 1731407427,
+    "scraping_data": 1732471371
+  },
+  {
+    "legoid": 60415,
+    "id": 5331465924,
+    "title": "Lego city 60415",
+    "price": "20.65",
+    "imgURL": "https://images1.vinted.net/t/01_00803_9G8ksk4AZDQmWFRaYyNSnNq2/f800/1730752280.jpeg?s=d5ae2d96f01caa55de25834b1d9d24fd5106b89d",
+    "itemURL": "https://www.vinted.fr/items/5331465924-lego-city-60415",
+    "publication": 1730752280,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -150,7 +166,8 @@
     "price": "18.55",
     "imgURL": "https://images1.vinted.net/t/02_024e5_9PzSGrRfU31znrtEXXJ4UEWz/f800/1729621831.jpeg?s=3df29674b40fd182d3f7030eefc473c8bb4d3e5b",
     "itemURL": "https://www.vinted.fr/items/5262705144-lego-city-60415-police-car-and-muscle-bar",
-    "publication": 1729621831
+    "publication": 1729621831,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -159,7 +176,8 @@
     "price": "16.45",
     "imgURL": "https://images1.vinted.net/t/02_01752_JfJivJrvx7CVu2C5UmPC1pEg/f800/1710237453.jpeg?s=cf89da8b73e7033699e480c790b1cde729a64326",
     "itemURL": "https://www.vinted.fr/items/4213334840-lego-city-60415-polizei-police",
-    "publication": 1710237453
+    "publication": 1710237453,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -168,7 +186,8 @@
     "price": "21.7",
     "imgURL": "https://images1.vinted.net/t/03_012cd_wz5j27cnpVGuCKERejswpADH/f800/1724768283.jpeg?s=000b1226af7190c02f6767ac779f6885e6fc2f08",
     "itemURL": "https://www.vinted.fr/items/4947652591-lego-60415",
-    "publication": 1724768283
+    "publication": 1724768283,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -177,7 +196,8 @@
     "price": "20.13",
     "imgURL": "https://images1.vinted.net/t/01_00025_vbBqHZKpxDoReRSrRqLxveWt/f800/1727515343.jpeg?s=26010a79a20d8de60e733a098875f04eebd6f9e7",
     "itemURL": "https://www.vinted.fr/items/5119785029-lego-politie-achtervolging-set-60415",
-    "publication": 1727515343
+    "publication": 1727515343,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -186,7 +206,8 @@
     "price": "21.7",
     "imgURL": "https://images1.vinted.net/t/04_00c99_VgEhDbqnh2STnYT2oxMtLjN5/f800/1731622011.jpeg?s=35d5d9294a540eebb895795d4cbe889b0132b68b",
     "itemURL": "https://www.vinted.fr/items/5384167130-lego-60415",
-    "publication": 1731622011
+    "publication": 1731622011,
+    "scraping_data": 1732471371
   },
   {
     "legoid": 60415,
@@ -195,6 +216,7 @@
     "price": "116.2",
     "imgURL": "https://images1.vinted.net/t/03_0011e_JYPK6zHqqYHi8AMULoAnaZZ7/f800/1715616244.jpeg?s=56af8377a43f077c3a77526ca3456a76061277de",
     "itemURL": "https://www.vinted.fr/items/4498784338-lot-de-lego-neuf-scelle-et-pack-de-demarrage-disney-infinity-neuf",
-    "publication": 1715616244
+    "publication": 1715616244,
+    "scraping_data": 1732471371
   }
 ]

@@ -6,7 +6,8 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/03_00b19_NYvanarfgLggZ8wLTeYTQLhe/f800/1728040135.jpeg?s=f27d1365f0331add6860481a1a88d057410183a6",
     "itemURL": "https://www.vinted.fr/items/5156174784-lego-creator-31151-le-t-rex-le-triceratops-le-pteranodon",
-    "publication": 1728040135
+    "publication": 1728040135,
+    "scraping_data": 1732470533
   },
   {
     "legoid": 31151,
@@ -15,7 +16,8 @@
     "price": "46.9",
     "imgURL": "https://images1.vinted.net/t/01_0218b_VaTffxxJ6MJy9AD6f4iUi5XN/f800/1725459372.jpeg?s=498e471aaf6a7543ee67b29540f65274eed04d4c",
     "itemURL": "https://www.vinted.fr/items/4986712858-lego-creator-31151",
-    "publication": 1725459372
+    "publication": 1725459372,
+    "scraping_data": 1732470533
   },
   {
     "legoid": 31151,
@@ -24,7 +26,8 @@
     "price": "47.95",
     "imgURL": "https://images1.vinted.net/t/02_00635_HvUNdKB12dKwwQsuzuspjR9W/f800/1730632741.jpeg?s=0f08aae98142c5570e1f6b45fb1679bad515702f",
     "itemURL": "https://www.vinted.fr/items/5321495603-lego-creator-t-rex-31151",
-    "publication": 1730632741
+    "publication": 1730632741,
+    "scraping_data": 1732470533
   },
   {
     "legoid": 31151,
@@ -33,7 +36,8 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/04_0018c_zfz3To8CzingSSJZUmei36Ev/f800/1731153545.jpeg?s=abd381563b1b5ac87d748d1a3abc663e31d60266",
     "itemURL": "https://www.vinted.fr/items/5351914292-lego-creator-3en1-31151",
-    "publication": 1731153545
+    "publication": 1731153545,
+    "scraping_data": 1732470533
   },
   {
     "legoid": 31151,
@@ -42,15 +46,7 @@
     "price": "47.94",
     "imgURL": "https://images1.vinted.net/t/02_02688_9XWA1bJuZZ4dg6m3CSLh4Vum/f800/1727018963.jpeg?s=74b4d2b1b9ca762a25290b15520805585c1bb154",
     "itemURL": "https://www.vinted.fr/items/5089443858-lego-31151",
-    "publication": 1727018963
-  },
-  {
-    "legoid": 31151,
-    "id": 5434325199,
-    "title": "Lego 31151 Rex",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_001f1_EsuE7ad1iK4CS39LM7G9nUvV/f800/1732453961.jpeg?s=df9e1a3e3bfae9602a7d105d99e7d644434c9402",
-    "itemURL": "https://www.vinted.fr/items/5434325199-lego-31151-rex",
-    "publication": 1732453961
+    "publication": 1727018963,
+    "scraping_data": 1732470533
   }
 ]

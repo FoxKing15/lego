@@ -6,16 +6,8 @@
     "price": "28.51",
     "imgURL": "https://images1.vinted.net/t/04_02056_i8FA8Y9nphCkAPDthka1pe9q/f800/1732041551.jpeg?s=28d68106ad91cea16f20c7222fa7f87b2498ed61",
     "itemURL": "https://www.vinted.fr/items/5411048839-lego-76429-talking-sorting-hat-harry-potter-ovp",
-    "publication": 1732041551
-  },
-  {
-    "legoid": 76429,
-    "id": 5379860284,
-    "title": "Lego Harry Potter Talking sorting hat (76429)",
-    "price": "27.97",
-    "imgURL": "https://images1.vinted.net/t/04_0037e_7uh3YHwtzfugdGp7nMP1qzEN/f800/1731571826.jpeg?s=ef914dda4cf49d9494a49616d62bfe1ab6d7d2a9",
-    "itemURL": "https://www.vinted.fr/items/5379860284-lego-harry-potter-talking-sorting-hat-76429",
-    "publication": 1731571826
+    "publication": 1732041551,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -24,7 +16,8 @@
     "price": "61.6",
     "imgURL": "https://images1.vinted.net/t/04_00b6c_acEA8GZs6sQKFZPutHAuFSKu/f800/1732435181.jpeg?s=4f9da652696a88f1739a8fb2d8342ae479ff2d26",
     "itemURL": "https://www.vinted.fr/items/5432004454-lego-harry-potter-76429",
-    "publication": 1732435181
+    "publication": 1732435181,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -33,7 +26,8 @@
     "price": "73.15",
     "imgURL": "https://images1.vinted.net/t/03_00aa8_cRUxXv8KguuP8ttH17JyjnQV/f800/1731580029.jpeg?s=7123bde2df5709cd494679752caf4b2eab2235b8",
     "itemURL": "https://www.vinted.fr/items/5380462430-lego-76429-neuf",
-    "publication": 1731580029
+    "publication": 1731580029,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -42,7 +36,8 @@
     "price": "68.94",
     "imgURL": "https://images1.vinted.net/t/03_01abf_7WHRFKQ3LKnvDicuTXHLNUUD/f800/1732019648.jpeg?s=cd9f1524c18e70881852ea0a1b03771ed2965f99",
     "itemURL": "https://www.vinted.fr/items/5408877711-lego-harry-potter-76429-talking-sorting-hat",
-    "publication": 1732019648
+    "publication": 1732019648,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -51,7 +46,8 @@
     "price": "83.65",
     "imgURL": "https://images1.vinted.net/t/01_01844_MyU7KcLMgyDtSCJRis1ZZAVF/f800/1732317589.jpeg?s=19c57e25f435ea0203c2e3745d7a8719546c0cbe",
     "itemURL": "https://www.vinted.fr/items/5426355980-lego-76429-talking-sorting-hat-harry-potter",
-    "publication": 1732317589
+    "publication": 1732317589,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -60,16 +56,18 @@
     "price": "74.15",
     "imgURL": "https://images1.vinted.net/t/03_014c7_SRwuBXZQvJuvuSdFAsfkcbnD/f800/1732203576.jpeg?s=9cd50eec87859a654cd9c42a83a0d27ec2d11b0b",
     "itemURL": "https://www.vinted.fr/items/5419982966-lego-harry-potter-76429-talking-sorting-hat",
-    "publication": 1732203576
+    "publication": 1732203576,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
-    "id": 4473773058,
-    "title": "Lego Harry potter le choixpeau magique 76429",
-    "price": "84.7",
-    "imgURL": "https://images1.vinted.net/t/01_01c58_ySZV1ZiS3Pf7UFSkKKMs7kbC/f800/1715147462.jpeg?s=44bdebf9d2d5cd4ff48903bc1d376bdb9b8f4870",
-    "itemURL": "https://www.vinted.fr/items/4473773058-lego-harry-potter-le-choixpeau-magique-76429",
-    "publication": 1715147462
+    "id": 5379860284,
+    "title": "Lego Harry Potter Talking sorting hat (76429)",
+    "price": "27.97",
+    "imgURL": "https://images1.vinted.net/t/04_0037e_7uh3YHwtzfugdGp7nMP1qzEN/f800/1731571826.jpeg?s=ef914dda4cf49d9494a49616d62bfe1ab6d7d2a9",
+    "itemURL": "https://www.vinted.fr/items/5379860284-lego-harry-potter-talking-sorting-hat-76429",
+    "publication": 1731571826,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -78,7 +76,8 @@
     "price": "79.45",
     "imgURL": "https://images1.vinted.net/t/04_01ca3_faAxqrFpTEitDD8XG1GVmQQW/f800/1730636728.jpeg?s=151f0937990b3b7cb16b89cb363143d1b257cd0b",
     "itemURL": "https://www.vinted.fr/items/5322111141-lego-76429-neuf-harry-potter-talking-sorting-hat",
-    "publication": 1730636728
+    "publication": 1730636728,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -87,7 +86,18 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/04_00a12_iHHSG96wXetLgzLA6SoPXqME/f800/1729688867.jpeg?s=bec305ce8cc1424dbf46cb4067e34ca1cebcc778",
     "itemURL": "https://www.vinted.fr/items/5265862653-lego-harry-potter-76429-scelle",
-    "publication": 1729688867
+    "publication": 1729688867,
+    "scraping_data": 1732471183
+  },
+  {
+    "legoid": 76429,
+    "id": 4473773058,
+    "title": "Lego Harry potter le choixpeau magique 76429",
+    "price": "84.7",
+    "imgURL": "https://images1.vinted.net/t/01_01c58_ySZV1ZiS3Pf7UFSkKKMs7kbC/f800/1715147462.jpeg?s=44bdebf9d2d5cd4ff48903bc1d376bdb9b8f4870",
+    "itemURL": "https://www.vinted.fr/items/4473773058-lego-harry-potter-le-choixpeau-magique-76429",
+    "publication": 1715147462,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -96,7 +106,8 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/04_021f4_vjvKHWE78fUEB3G69G1vgoV4/f800/1730627381.jpeg?s=1cb73a7c589ce6c7e502df07ab95fff1d4a8bf56",
     "itemURL": "https://www.vinted.fr/items/5320704720-lego-talking-sorting-hat-harry-potter-76429-novo",
-    "publication": 1730627381
+    "publication": 1730627381,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -105,7 +116,8 @@
     "price": "89.95",
     "imgURL": "https://images1.vinted.net/t/04_0077f_C7CwL45TQaU8EtwwPmp9aCBU/f800/1732211388.jpeg?s=d499671e03c8273c4c6f5554abad387297eab87d",
     "itemURL": "https://www.vinted.fr/items/5420680125-lego-76429",
-    "publication": 1732211388
+    "publication": 1732211388,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -114,16 +126,8 @@
     "price": "73.15",
     "imgURL": "https://images1.vinted.net/t/01_006bd_N5HTtQapk4vgZtCdsdDqtm6Y/f800/1715775897.jpeg?s=9e98d43dbd0324027be9023bd8097ceb576e8007",
     "itemURL": "https://www.vinted.fr/items/4506724459-lego-harry-potter-76429",
-    "publication": 1715775897
-  },
-  {
-    "legoid": 76429,
-    "id": 5071506458,
-    "title": "76429 - Lego Harry Potter Le choixpeau Magique qui parle",
-    "price": "95.2",
-    "imgURL": "https://images1.vinted.net/t/03_01131_fDoByQGJXpwHAGJbxULJj1me/f800/1726751257.jpeg?s=5d28e0bf55d721c66ed37f53bdc833b96c8f3c8c",
-    "itemURL": "https://www.vinted.fr/items/5071506458-76429-lego-harry-potter-le-choixpeau-magique-qui-parle",
-    "publication": 1726751257
+    "publication": 1715775897,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -132,7 +136,8 @@
     "price": "79.45",
     "imgURL": "https://images1.vinted.net/t/02_006df_eXu5vPiWTvgYGXb23AnnXD1b/f800/1728769117.jpeg?s=25ff2f1e164830e73a403b663e90ef32c979bcc4",
     "itemURL": "https://www.vinted.fr/items/5206150830-lego-harry-potter",
-    "publication": 1728769117
+    "publication": 1728769117,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -141,7 +146,8 @@
     "price": "78.4",
     "imgURL": "https://images1.vinted.net/t/03_02615_cQ1TGUwH16fnew8Qiv2x8pwM/f800/1731175813.jpeg?s=439bced5e3bd5f047e8c64362c2322be5712f6c8",
     "itemURL": "https://www.vinted.fr/items/5354570737-lego-76429",
-    "publication": 1731175813
+    "publication": 1731175813,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -150,7 +156,8 @@
     "price": "79.45",
     "imgURL": "https://images1.vinted.net/t/03_014d9_mdpgzyVRaCQxJSefCH1d6Jqn/f800/1730483306.jpeg?s=fa4bd034a8b992643a9ebae0f7a544ff52df2155",
     "itemURL": "https://www.vinted.fr/items/5313225199-lego-talking-sorting-hat-set-76429",
-    "publication": 1730483306
+    "publication": 1730483306,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -159,7 +166,18 @@
     "price": "79.45",
     "imgURL": "https://images1.vinted.net/t/02_0058c_WrLnvVMSBWib9fWPxSJSfbi7/f800/1725566627.jpeg?s=f2c2049900e2db8c10dfc66a36f7ad1416263d5b",
     "itemURL": "https://www.vinted.fr/items/4993250628-lego-harry-potter-76429-new",
-    "publication": 1725566627
+    "publication": 1725566627,
+    "scraping_data": 1732471183
+  },
+  {
+    "legoid": 76429,
+    "id": 5071506458,
+    "title": "76429 - Lego Harry Potter Le choixpeau Magique qui parle",
+    "price": "95.2",
+    "imgURL": "https://images1.vinted.net/t/03_01131_fDoByQGJXpwHAGJbxULJj1me/f800/1726751257.jpeg?s=5d28e0bf55d721c66ed37f53bdc833b96c8f3c8c",
+    "itemURL": "https://www.vinted.fr/items/5071506458-76429-lego-harry-potter-le-choixpeau-magique-qui-parle",
+    "publication": 1726751257,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -168,7 +186,8 @@
     "price": "74.2",
     "imgURL": "https://images1.vinted.net/t/04_01caf_C7gF7yspYTqZm8ob11MyZdHs/f800/1731945378.jpeg?s=251b91daf964e830da24005063967211750625ef",
     "itemURL": "https://www.vinted.fr/items/5404980580-lego-harry-potter-pratende-sorteerhoed",
-    "publication": 1731945378
+    "publication": 1731945378,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -177,25 +196,8 @@
     "price": "89.95",
     "imgURL": "https://images1.vinted.net/t/04_01190_Enyxx6fWqubE36g8Ay37pqEZ/f800/1732352956.jpeg?s=4d4e30b241d93c421e87944caa55e9e3f34d81bd",
     "itemURL": "https://www.vinted.fr/items/5426871710-lego-harry-potter",
-    "publication": 1732352956
-  },
-  {
-    "legoid": 76429,
-    "id": 5426981428,
-    "title": "Lego Harry Potter 76429",
-    "price": "79.45",
-    "imgURL": "https://images1.vinted.net/t/03_026b7_K5uz6fkhBipAamSw7XKz1YcG/f800/1732354325.jpeg?s=aee0bda0cc825a4fa26ec70630154e1adf2976b2",
-    "itemURL": "https://www.vinted.fr/items/5426981428-lego-harry-potter-76429",
-    "publication": 1732354325
-  },
-  {
-    "legoid": 76429,
-    "id": 5363969537,
-    "title": "Lego harry potter 76429",
-    "price": "84.7",
-    "imgURL": "https://images1.vinted.net/t/04_008ee_d489xHUyt1kh8DBhDwZbdpuF/f800/1731321152.jpeg?s=deb617b9ac8475410a16f1adc9f3c916f83d5644",
-    "itemURL": "https://www.vinted.fr/items/5363969537-lego-harry-potter-76429",
-    "publication": 1731321152
+    "publication": 1732352956,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -204,7 +206,18 @@
     "price": "95.2",
     "imgURL": "https://images1.vinted.net/t/03_00be2_tLzwMawaBsXqqwEeZBxYHfqv/f800/1715353143.jpeg?s=f9ea6d6421f964097adc9126d4426996236ae390",
     "itemURL": "https://www.vinted.fr/items/4484966697-lego-harry-potter-76429-cappello-parlante",
-    "publication": 1715353143
+    "publication": 1715353143,
+    "scraping_data": 1732471183
+  },
+  {
+    "legoid": 76429,
+    "id": 5426981428,
+    "title": "Lego Harry Potter 76429",
+    "price": "79.45",
+    "imgURL": "https://images1.vinted.net/t/03_026b7_K5uz6fkhBipAamSw7XKz1YcG/f800/1732354325.jpeg?s=aee0bda0cc825a4fa26ec70630154e1adf2976b2",
+    "itemURL": "https://www.vinted.fr/items/5426981428-lego-harry-potter-76429",
+    "publication": 1732354325,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -213,34 +226,18 @@
     "price": "77.34",
     "imgURL": "https://images1.vinted.net/t/02_011ae_JjD2yG9pFd9zs63TTZu4NE58/f800/1718824242.jpeg?s=75911084f72e787faef8465e6b4e5e30743db908",
     "itemURL": "https://www.vinted.fr/items/4664401555-lego-76429-talking-sorting-hat",
-    "publication": 1718824242
+    "publication": 1718824242,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
-    "id": 5392288489,
-    "title": "Lego harry potter",
+    "id": 5363969537,
+    "title": "Lego harry potter 76429",
     "price": "84.7",
-    "imgURL": "https://images1.vinted.net/t/04_0063e_EAVg4DfHUGqW1Z2C7pZSy6WS/f800/1731772603.jpeg?s=23d6580018dc344a2f25622fa2a872ff5d412c1a",
-    "itemURL": "https://www.vinted.fr/items/5392288489-lego-harry-potter",
-    "publication": 1731772603
-  },
-  {
-    "legoid": 76429,
-    "id": 5383822986,
-    "title": "Lego Harry Potter 76429",
-    "price": "89.95",
-    "imgURL": "https://images1.vinted.net/t/01_0053c_VEQwQJXz1WmzZvMt4CKVtpMT/f800/1731616615.jpeg?s=b9cbdf9146213be2d166d20371af335346233911",
-    "itemURL": "https://www.vinted.fr/items/5383822986-lego-harry-potter-76429",
-    "publication": 1731616615
-  },
-  {
-    "legoid": 76429,
-    "id": 5378733039,
-    "title": "Lego harry Potter 76429 talking sorting hat",
-    "price": "84.7",
-    "imgURL": "https://images1.vinted.net/t/01_01d08_mWoRNwSTpcWZHcozKXiLzWr9/f800/1731526895.jpeg?s=f9f0e665bbbeaeaee9e745233fba81bb1b979aa5",
-    "itemURL": "https://www.vinted.fr/items/5378733039-lego-harry-potter-76429-talking-sorting-hat",
-    "publication": 1731526895
+    "imgURL": "https://images1.vinted.net/t/04_008ee_d489xHUyt1kh8DBhDwZbdpuF/f800/1731321152.jpeg?s=deb617b9ac8475410a16f1adc9f3c916f83d5644",
+    "itemURL": "https://www.vinted.fr/items/5363969537-lego-harry-potter-76429",
+    "publication": 1731321152,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -249,7 +246,8 @@
     "price": "79.45",
     "imgURL": "https://images1.vinted.net/t/01_00ee5_MXqjYxbpRUjpoDCfd7xrxhF5/f800/1712842735.jpeg?s=65387fb163ff7c8fd8891871e875635db333a075",
     "itemURL": "https://www.vinted.fr/items/4348999122-lego-76429-harry-potter-hat",
-    "publication": 1712842735
+    "publication": 1712842735,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -258,7 +256,28 @@
     "price": "84.7",
     "imgURL": "https://images1.vinted.net/t/03_00c2f_aDNYNvkiLqZ8iu8mayCrhMtz/f800/1714249676.jpeg?s=90c1981b7bc4a1bd28667b9e95846cbead93d7f1",
     "itemURL": "https://www.vinted.fr/items/4425992343-lego-76429-harry-potter-head",
-    "publication": 1714249676
+    "publication": 1714249676,
+    "scraping_data": 1732471183
+  },
+  {
+    "legoid": 76429,
+    "id": 5383822986,
+    "title": "Lego Harry Potter 76429",
+    "price": "89.95",
+    "imgURL": "https://images1.vinted.net/t/01_0053c_VEQwQJXz1WmzZvMt4CKVtpMT/f800/1731616615.jpeg?s=b9cbdf9146213be2d166d20371af335346233911",
+    "itemURL": "https://www.vinted.fr/items/5383822986-lego-harry-potter-76429",
+    "publication": 1731616615,
+    "scraping_data": 1732471183
+  },
+  {
+    "legoid": 76429,
+    "id": 5378733039,
+    "title": "Lego harry Potter 76429 talking sorting hat",
+    "price": "84.7",
+    "imgURL": "https://images1.vinted.net/t/01_01d08_mWoRNwSTpcWZHcozKXiLzWr9/f800/1731526895.jpeg?s=f9f0e665bbbeaeaee9e745233fba81bb1b979aa5",
+    "itemURL": "https://www.vinted.fr/items/5378733039-lego-harry-potter-76429-talking-sorting-hat",
+    "publication": 1731526895,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -267,7 +286,8 @@
     "price": "79.45",
     "imgURL": "https://images1.vinted.net/t/03_01cb6_gcyWEnQBfAwHFiHx1c8quDir/f800/1730570775.jpeg?s=3ee5e59008c6f82958ec89a17767f7d0aa02451d",
     "itemURL": "https://www.vinted.fr/items/5318737632-lego-harry-potter-talking-sorting-hat-76429",
-    "publication": 1730570775
+    "publication": 1730570775,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -276,7 +296,18 @@
     "price": "89.95",
     "imgURL": "https://images1.vinted.net/t/04_0115b_G296KxKh7ArTxNYhRtWSHbZQ/f800/1731151531.jpeg?s=218f536f98bec3d1f1e2ed2d8a1eac6c3bb3d2fa",
     "itemURL": "https://www.vinted.fr/items/5351677108-lego-harry-potter-76429",
-    "publication": 1731151531
+    "publication": 1731151531,
+    "scraping_data": 1732471183
+  },
+  {
+    "legoid": 76429,
+    "id": 5392288489,
+    "title": "Lego harry potter",
+    "price": "84.7",
+    "imgURL": "https://images1.vinted.net/t/04_0063e_EAVg4DfHUGqW1Z2C7pZSy6WS/f800/1731772603.jpeg?s=23d6580018dc344a2f25622fa2a872ff5d412c1a",
+    "itemURL": "https://www.vinted.fr/items/5392288489-lego-harry-potter",
+    "publication": 1731772603,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -285,7 +316,8 @@
     "price": "84.7",
     "imgURL": "https://images1.vinted.net/t/01_0243b_CWmrVghNCmFh2tszXZovQkor/f800/1725404412.jpeg?s=626c84ea6790f0a60992362a3b623263ff7c46ce",
     "itemURL": "https://www.vinted.fr/items/4984112825-lego-76429-harry-potter-talking-sorting-hat",
-    "publication": 1725404412
+    "publication": 1725404412,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -294,7 +326,8 @@
     "price": "105.7",
     "imgURL": "https://images1.vinted.net/t/01_00587_RTvrS3Peics5BwbuXg6kasw4/f800/1714921604.jpeg?s=898fec53e2e9f08596bef6700e4eb28c44267a65",
     "itemURL": "https://www.vinted.fr/items/4461732331-lego-harry-potter-76429-le-choixpeau-magique-qui-parle",
-    "publication": 1714921604
+    "publication": 1714921604,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -303,7 +336,8 @@
     "price": "105.7",
     "imgURL": "https://images1.vinted.net/t/03_00e30_zZWq19GUVtJ2EmF74QL15zFq/f800/1721461559.jpeg?s=0dd490b37c146a8223f7405b4812b6ea4bd1da43",
     "itemURL": "https://www.vinted.fr/items/4785533182-le-choixpeau-magique-qui-parle-lego-76429-harry-potter",
-    "publication": 1721461559
+    "publication": 1721461559,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -312,7 +346,8 @@
     "price": "105.69",
     "imgURL": "https://images1.vinted.net/t/01_01238_SUM6aoeiWVj5RGSHWzyMzrSw/f800/1729415405.jpeg?s=c19ab2d5e3fb52448034a58b5825485b934d9bf0",
     "itemURL": "https://www.vinted.fr/items/5246363746-76429-lego-il-cappello-parlante",
-    "publication": 1729415405
+    "publication": 1729415405,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -321,7 +356,8 @@
     "price": "184.45",
     "imgURL": "https://images1.vinted.net/t/01_020e2_gBX7tkKra3GLvaiP9Xf6v41e/f800/1725875084.jpeg?s=5041c9b123ecc43d443a4568dad0d4cd495436f3",
     "itemURL": "https://www.vinted.fr/items/5011303347-new-unopened-76429-lego",
-    "publication": 1725875084
+    "publication": 1725875084,
+    "scraping_data": 1732471183
   },
   {
     "legoid": 76429,
@@ -330,6 +366,7 @@
     "price": "89.95",
     "imgURL": "https://images1.vinted.net/t/01_00f0c_5pgm5moVfnBg6j186djH2EHN/f800/1724670475.jpeg?s=18f454a0f019c8f5af1f05ef3edf6e6b95f03825",
     "itemURL": "https://www.vinted.fr/items/4941105114-lego-harry-potter-76429",
-    "publication": 1724670475
+    "publication": 1724670475,
+    "scraping_data": 1732471183
   }
 ]

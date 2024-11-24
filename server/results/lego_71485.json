@@ -6,7 +6,8 @@
     "price": "100.45",
     "imgURL": "https://images1.vinted.net/t/04_000bd_SvdtK6rgMzoihmXZDJUNgY1K/f800/1731952973.jpeg?s=3f3c6043a26290782a80ad7671272db32efe0f72",
     "itemURL": "https://www.vinted.fr/items/5405767961-lego-dreamz-71485-mateo-and-z-blob-the-knight-battle-mech",
-    "publication": 1731952973
+    "publication": 1731952973,
+    "scraping_data": 1732470970
   },
   {
     "legoid": 71485,
@@ -15,7 +16,8 @@
     "price": "100.45",
     "imgURL": "https://images1.vinted.net/t/04_0270e_DoosRvvWV1fbnmEqqXjyMNiZ/f800/1731064685.jpeg?s=b1b052d57bb3d74828a2c5bd5335af7accfa4bd2",
     "itemURL": "https://www.vinted.fr/items/5347102203-lego-71485-dreamzzz-mateo-y-z-blob",
-    "publication": 1731064685
+    "publication": 1731064685,
+    "scraping_data": 1732470970
   },
   {
     "legoid": 71485,
@@ -24,7 +26,8 @@
     "price": "116.2",
     "imgURL": "https://images1.vinted.net/t/04_008d5_FPmvh9jhHdJe9PaEmvSz4QVT/f800/1731062335.jpeg?s=36e308be889da27d517751a048c33faee40e2934",
     "itemURL": "https://www.vinted.fr/items/5346892931-set-lego-dreamzzz-71485-robot",
-    "publication": 1731062335
+    "publication": 1731062335,
+    "scraping_data": 1732470970
   },
   {
     "legoid": 71485,
@@ -33,6 +36,7 @@
     "price": "108.85",
     "imgURL": "https://images1.vinted.net/t/04_00217_DN9KyvLki9z7mpsi9nP6HiRW/f800/1730464435.jpeg?s=7e11126edb7ae9a0f2c4f3408498bb93ed24e74d",
     "itemURL": "https://www.vinted.fr/items/5311160592-lego-71485-dreamzzz-mateo-y-z-blob-caballero-meca-de-combate",
-    "publication": 1730464435
+    "publication": 1730464435,
+    "scraping_data": 1732470970
   }
 ]

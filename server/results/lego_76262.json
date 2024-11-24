@@ -6,7 +6,8 @@
     "price": "42.7",
     "imgURL": "https://images1.vinted.net/t/02_01c08_1t9zo4aoirVqzn7hjeJ657tr/f800/1726338137.jpeg?s=21083d153ec36208d1982134c32b51f0a13cba34",
     "itemURL": "https://www.vinted.fr/items/5043923119-lego-capitain-america-shield-76262-solo-box",
-    "publication": 1726338137
+    "publication": 1726338137,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -15,7 +16,18 @@
     "price": "7.53",
     "imgURL": "https://images1.vinted.net/t/04_01bb8_RFmG9bRLawXQfPFhHk8uGp1K/f800/1731929536.jpeg?s=7b232b5db5c26264442d944be1ee2f989cec9b73",
     "itemURL": "https://www.vinted.fr/items/5403265710-lego-super-heroes-minifigure-capitan-america-sh736-da-set-76260-76189-76262-marvel",
-    "publication": 1731929536
+    "publication": 1731929536,
+    "scraping_data": 1732471178
+  },
+  {
+    "legoid": 76262,
+    "id": 5437048600,
+    "title": "Lego neuf 76262 bouclier captain America",
+    "price": "158.2",
+    "imgURL": "https://images1.vinted.net/t/02_01b86_NfQtw4zf8wGXTVtXjuNawRj1/f800/1732470792.jpeg?s=e247aedba6bebe50661a069f2e1f7f76d791cfb5",
+    "itemURL": "https://www.vinted.fr/items/5437048600-lego-neuf-76262-bouclier-captain-america",
+    "publication": 1732470792,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -24,7 +36,8 @@
     "price": "142.44",
     "imgURL": "https://images1.vinted.net/t/03_01385_bqvDb9X5tXAzDMYmLpgdMx7B/f800/1732137482.jpeg?s=31ce8e4c21f3a99de7f7a6da2024d2f4a7b329c5",
     "itemURL": "https://www.vinted.fr/items/5416960667-neuf-lego-marvel-le-bouclier-de-captain-america-76262",
-    "publication": 1732137482
+    "publication": 1732137482,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -33,16 +46,28 @@
     "price": "179.2",
     "imgURL": "https://images1.vinted.net/t/04_01fee_2Fe1uvvS7gxehz5fGhjSRCTJ/f800/1731840298.jpeg?s=565e3a6498fca9b45f5ff78bbcaab85d48b1adac",
     "itemURL": "https://www.vinted.fr/items/5395677771-lego-marvel-76262-le-bouclier-de-captain-america-neuf-scelle",
-    "publication": 1731840298
+    "publication": 1731840298,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
-    "id": 5411367176,
-    "title": "Lego bouclier captain américain 76262 Marvel",
-    "price": "149.8",
-    "imgURL": "https://images1.vinted.net/t/04_00b29_5P2YmV1eM76vipUFsyPiqcCY/f800/1732045118.jpeg?s=f9918a2d1982c10293f5504a3d65d01560b5e715",
-    "itemURL": "https://www.vinted.fr/items/5411367176-lego-bouclier-captain-americain-76262-marvel",
-    "publication": 1732045118
+    "id": 5436992061,
+    "title": "76262 Lego Marvel Le Bouclier de Captain America",
+    "price": "136.15",
+    "imgURL": "https://images1.vinted.net/t/04_00420_4xW2v6xhzzqvLaF1XwUhHqRb/f800/1732470623.jpeg?s=e8c50c2a67a49e2189e52df7bcd1b64e50ef78ca",
+    "itemURL": "https://www.vinted.fr/items/5436992061-76262-lego-marvel-le-bouclier-de-captain-america",
+    "publication": 1732470623,
+    "scraping_data": 1732471178
+  },
+  {
+    "legoid": 76262,
+    "id": 5384309297,
+    "title": "Lego 76262",
+    "price": "137.2",
+    "imgURL": "https://images1.vinted.net/t/01_01114_5YF2z7LVkbFYRAsJxuGofJ9E/f800/1731626702.jpeg?s=acd4f8cfb0a39c54e85aed8d8e0e0769c0e09104",
+    "itemURL": "https://www.vinted.fr/items/5384309297-lego-76262",
+    "publication": 1731626702,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -51,7 +76,8 @@
     "price": "179.2",
     "imgURL": "https://images1.vinted.net/t/02_014ad_2S53HLDtA3CwgsHh6xpwRn1r/f800/1731598626.jpeg?s=186ba9073ccb66364ac8bcde7529474d306b2c89",
     "itemURL": "https://www.vinted.fr/items/5382265684-lego-76262-marvel-neuf-le-bouclier-de-captain-america",
-    "publication": 1731598626
+    "publication": 1731598626,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -60,7 +86,8 @@
     "price": "173.95",
     "imgURL": "https://images1.vinted.net/t/01_01bfd_r9T42ogGViGySKBKuMbvwbg7/f800/1729517197.jpeg?s=d158f5bd39587bc0037923cdf2d73b865b950152",
     "itemURL": "https://www.vinted.fr/items/5255425446-lego-marvel-76262",
-    "publication": 1729517197
+    "publication": 1729517197,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -69,7 +96,8 @@
     "price": "168.7",
     "imgURL": "https://images1.vinted.net/t/04_00a5d_xDrtFkV5VSmDYAdayQkovTbg/f800/1730648499.jpeg?s=748976d1d9637f312d684ec7fe163de487dd1896",
     "itemURL": "https://www.vinted.fr/items/5324063672-lego-bouclier-captain-america-76262",
-    "publication": 1730648499
+    "publication": 1730648499,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -78,25 +106,8 @@
     "price": "158.2",
     "imgURL": "https://images1.vinted.net/t/04_014df_oH7Pj57NphbyE4ireJ8ZbzCn/f800/1732292317.jpeg?s=9b38762c880249e30013853538ece860af3eaf7d",
     "itemURL": "https://www.vinted.fr/items/5424769308-lego-76262",
-    "publication": 1732292317
-  },
-  {
-    "legoid": 76262,
-    "id": 4418786430,
-    "title": "Lego Bouclier Captain America 76262 neuf sceller",
-    "price": "179.2",
-    "imgURL": "https://images1.vinted.net/t/01_011bd_NdzgUjtpKxPc3y61iceHxT8n/f800/1714126489.jpeg?s=620da85137684724e7d4c1217a0e594365395dec",
-    "itemURL": "https://www.vinted.fr/items/4418786430-lego-bouclier-captain-america-76262-neuf-sceller",
-    "publication": 1714126489
-  },
-  {
-    "legoid": 76262,
-    "id": 5091255897,
-    "title": "LEGO Icons Vespa 10298 [Novo/Selado]",
-    "price": "89.95",
-    "imgURL": "https://images1.vinted.net/t/01_01227_K3Hoyeq1TbEnqrU8Z8mbCruN/f800/1727030504.jpeg?s=3e0dd44279d5b5861efe6c3cd0eb1a114f85a42a",
-    "itemURL": "https://www.vinted.fr/items/5091255897-lego-icons-vespa-10298-novoselado",
-    "publication": 1727030504
+    "publication": 1732292317,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -105,16 +116,8 @@
     "price": "179.2",
     "imgURL": "https://images1.vinted.net/t/03_00b87_4TpksGTYAkB2848RYReEwq1Q/f800/1727704791.jpeg?s=823ac3833c677647c3f09a5bd3ffeeafb8f2c0e1",
     "itemURL": "https://www.vinted.fr/items/5135616009-lego-marvel-76262",
-    "publication": 1727704791
-  },
-  {
-    "legoid": 76262,
-    "id": 5091176516,
-    "title": "LEGO Harry Potter Castle and Grounds 76149 [Novo/Selado]",
-    "price": "147.7",
-    "imgURL": "https://images1.vinted.net/t/02_00a8b_AR4i18EZfHp2LoNFTSzKp3g4/f800/1727029807.jpeg?s=6140a21e5b30e3f91d830e4ed95a87136288f4c7",
-    "itemURL": "https://www.vinted.fr/items/5091176516-lego-harry-potter-castle-and-grounds-76149-novoselado",
-    "publication": 1727029807
+    "publication": 1727704791,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -123,7 +126,38 @@
     "price": "210.7",
     "imgURL": "https://images1.vinted.net/t/02_01c92_cL3SQ8VRS4wYGgbzzcKsmfd6/f800/1729599266.jpeg?s=0c9ed56857b0f3488facb74122c530ef6b6668b4",
     "itemURL": "https://www.vinted.fr/items/5260359596-lego-scudo-capitan-america",
-    "publication": 1729599266
+    "publication": 1729599266,
+    "scraping_data": 1732471178
+  },
+  {
+    "legoid": 76262,
+    "id": 5091255897,
+    "title": "LEGO Icons Vespa 10298 [Novo/Selado]",
+    "price": "89.95",
+    "imgURL": "https://images1.vinted.net/t/01_01227_K3Hoyeq1TbEnqrU8Z8mbCruN/f800/1727030504.jpeg?s=3e0dd44279d5b5861efe6c3cd0eb1a114f85a42a",
+    "itemURL": "https://www.vinted.fr/items/5091255897-lego-icons-vespa-10298-novoselado",
+    "publication": 1727030504,
+    "scraping_data": 1732471178
+  },
+  {
+    "legoid": 76262,
+    "id": 4418786430,
+    "title": "Lego Bouclier Captain America 76262 neuf sceller",
+    "price": "179.2",
+    "imgURL": "https://images1.vinted.net/t/01_011bd_NdzgUjtpKxPc3y61iceHxT8n/f800/1714126489.jpeg?s=620da85137684724e7d4c1217a0e594365395dec",
+    "itemURL": "https://www.vinted.fr/items/4418786430-lego-bouclier-captain-america-76262-neuf-sceller",
+    "publication": 1714126489,
+    "scraping_data": 1732471178
+  },
+  {
+    "legoid": 76262,
+    "id": 5091176516,
+    "title": "LEGO Harry Potter Castle and Grounds 76149 [Novo/Selado]",
+    "price": "147.7",
+    "imgURL": "https://images1.vinted.net/t/02_00a8b_AR4i18EZfHp2LoNFTSzKp3g4/f800/1727029807.jpeg?s=6140a21e5b30e3f91d830e4ed95a87136288f4c7",
+    "itemURL": "https://www.vinted.fr/items/5091176516-lego-harry-potter-castle-and-grounds-76149-novoselado",
+    "publication": 1727029807,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -132,7 +166,8 @@
     "price": "189.7",
     "imgURL": "https://images1.vinted.net/t/02_025e8_G5v3rFmHXp1Bm2ZqHnrZ3KhA/f800/1699782395.jpeg?s=9b67ff359819e0bf0f571ab85cb976fde05827ce",
     "itemURL": "https://www.vinted.fr/items/3746686779-lego-76262-bouclier-du-captain-america",
-    "publication": 1699782395
+    "publication": 1699782395,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -141,16 +176,8 @@
     "price": "200.2",
     "imgURL": "https://images1.vinted.net/t/02_013a1_9eT2LAfzBcQkgBtXNtMQiodo/f800/1720990905.jpeg?s=06716f4c666286b634641b1b679ae7bcba18f4bb",
     "itemURL": "https://www.vinted.fr/items/4766124617-lego-marvel-bouclier-avengers-76262",
-    "publication": 1720990905
-  },
-  {
-    "legoid": 76262,
-    "id": 4873160247,
-    "title": "Lego 76262 Captain America’S Shield Misb New Sigillato",
-    "price": "179.19",
-    "imgURL": "https://images1.vinted.net/t/02_0260b_hPkwRc12uWuS9429r8DY58X9/f800/1723367323.jpeg?s=8ecd0ab9379b17035a1e01d5108e81f225dbdcbf",
-    "itemURL": "https://www.vinted.fr/items/4873160247-lego-76262-captain-americas-shield-misb-new-sigillato",
-    "publication": 1723367323
+    "publication": 1720990905,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -159,7 +186,18 @@
     "price": "205.45",
     "imgURL": "https://images1.vinted.net/t/03_0084c_Utak2hEv9v7h6MgHDxSHyfGN/f800/r2/1718355314.jpeg?s=f848e5c2e885be9fc57049336532610060a94bfd",
     "itemURL": "https://www.vinted.fr/items/4640090061-lego-76262-shield-of-captain-america-marvel",
-    "publication": 1718355314
+    "publication": 1718355314,
+    "scraping_data": 1732471178
+  },
+  {
+    "legoid": 76262,
+    "id": 4873160247,
+    "title": "Lego 76262 Captain America’S Shield Misb New Sigillato",
+    "price": "179.19",
+    "imgURL": "https://images1.vinted.net/t/02_0260b_hPkwRc12uWuS9429r8DY58X9/f800/1723367323.jpeg?s=8ecd0ab9379b17035a1e01d5108e81f225dbdcbf",
+    "itemURL": "https://www.vinted.fr/items/4873160247-lego-76262-captain-americas-shield-misb-new-sigillato",
+    "publication": 1723367323,
+    "scraping_data": 1732471178
   },
   {
     "legoid": 76262,
@@ -168,6 +206,7 @@
     "price": "189.7",
     "imgURL": "https://images1.vinted.net/t/03_0014e_czCvkZqpXjQcaRbmMyrUWkmk/f800/1727030593.jpeg?s=c8d03ec4ae0da151ac548169aa86bbd383d08588",
     "itemURL": "https://www.vinted.fr/items/5091266067-lego-technic-yamaha-mt-10-sp-42159-novoselado",
-    "publication": 1727030593
+    "publication": 1727030593,
+    "scraping_data": 1732471178
   }
 ]

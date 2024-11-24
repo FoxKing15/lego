@@ -1,48 +1,13 @@
 [
   {
     "legoid": 43249,
-    "id": 5434888657,
-    "title": "Lego Stitch Disney 43249",
-    "price": "51.1",
-    "imgURL": "https://images1.vinted.net/t/04_00953_pEkWofaFV97V3jP8rjtb3qcD/f800/1732457330.jpeg?s=b0508fce38c04974a77e08549e128ba31df1a186",
-    "itemURL": "https://www.vinted.fr/items/5434888657-lego-stitch-disney-43249",
-    "publication": 1732457330
-  },
-  {
-    "legoid": 43249,
     "id": 5360966820,
     "title": "Juego de construcción Lego Disney Stitch 43249",
     "price": "52.15",
     "imgURL": "https://images1.vinted.net/t/04_00102_Xrwrm8xmv84mvYqyR1jsa1Pg/f800/1731260165.jpeg?s=f822c3fb74ce27c65f3e6502e707deae87dad114",
     "itemURL": "https://www.vinted.fr/items/5360966820-juego-de-construccion-lego-disney-stitch-43249",
-    "publication": 1731260165
-  },
-  {
-    "legoid": 43249,
-    "id": 5422252292,
-    "title": "Lego stitch neuf",
-    "price": "52.68",
-    "imgURL": "https://images1.vinted.net/t/04_01c97_VHAkKhid4yJkSJRYb2xzNz5q/f800/1732262573.jpeg?s=05af0b732e1195893465ce91736cd8903657db13",
-    "itemURL": "https://www.vinted.fr/items/5422252292-lego-stitch-neuf",
-    "publication": 1732262573
-  },
-  {
-    "legoid": 43249,
-    "id": 5411033171,
-    "title": "Lego 43249 stich",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/01_01947_XKQEyKJnGFd32AKBnXbX7aJL/f800/1732041377.jpeg?s=243eecede938ad65c9d84cd0029ed656cfc4a89d",
-    "itemURL": "https://www.vinted.fr/items/5411033171-lego-43249-stich",
-    "publication": 1732041377
-  },
-  {
-    "legoid": 43249,
-    "id": 5411614064,
-    "title": "Lego 43249 STITCH neuf",
-    "price": "59.5",
-    "imgURL": "https://images1.vinted.net/t/04_01c76_EERyuPG1GCXZxZv3y89RfpKn/f800/1732047914.jpeg?s=4c48cf5fa696699f45bc789d1cd149f662f37e2b",
-    "itemURL": "https://www.vinted.fr/items/5411614064-lego-43249-stitch-neuf",
-    "publication": 1732047914
+    "publication": 1731260165,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
@@ -51,25 +16,28 @@
     "price": "52.15",
     "imgURL": "https://images1.vinted.net/t/04_023f2_BdeBiwL319FXxMDjAjDvvS4X/f800/1732394094.jpeg?s=fa8c62d07c50edf22fc4c0633cad243626dfcb79",
     "itemURL": "https://www.vinted.fr/items/5431241154-lego-43249",
-    "publication": 1732394094
+    "publication": 1732394094,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
-    "id": 5414364563,
-    "title": "lego stitch disney",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_0226f_j3Mv83WkQF76wjpfjMmDu2JV/f800/1732110472.jpeg?s=0bc105bceee06a58d127a31b06edbae5104efaa3",
-    "itemURL": "https://www.vinted.fr/items/5414364563-lego-stitch-disney",
-    "publication": 1732110472
+    "id": 5422252292,
+    "title": "Lego stitch neuf",
+    "price": "52.68",
+    "imgURL": "https://images1.vinted.net/t/04_01c97_VHAkKhid4yJkSJRYb2xzNz5q/f800/1732262573.jpeg?s=05af0b732e1195893465ce91736cd8903657db13",
+    "itemURL": "https://www.vinted.fr/items/5422252292-lego-stitch-neuf",
+    "publication": 1732262573,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
-    "id": 5399897049,
-    "title": "Lego 43249 Disney Stitch Nuovo",
+    "id": 5411033171,
+    "title": "Lego 43249 stich",
     "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_0208b_JuStWT9EXSGsxejHnkceuhte/f800/1731864448.jpeg?s=c88bc4685b8c96656694a800f3b05f4135809161",
-    "itemURL": "https://www.vinted.fr/items/5399897049-lego-43249-disney-stitch-nuovo",
-    "publication": 1731864448
+    "imgURL": "https://images1.vinted.net/t/01_01947_XKQEyKJnGFd32AKBnXbX7aJL/f800/1732041377.jpeg?s=243eecede938ad65c9d84cd0029ed656cfc4a89d",
+    "itemURL": "https://www.vinted.fr/items/5411033171-lego-43249-stich",
+    "publication": 1732041377,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
@@ -78,7 +46,18 @@
     "price": "57.4",
     "imgURL": "https://images1.vinted.net/t/03_0267e_MAmyiyxNnYEUHRJnE48nuVox/f800/1731336705.jpeg?s=1a089f9388181ea35ee10a453aa8472498219fa1",
     "itemURL": "https://www.vinted.fr/items/5366265955-lego-disney-stitch-43249",
-    "publication": 1731336705
+    "publication": 1731336705,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 5411614064,
+    "title": "Lego 43249 STITCH neuf",
+    "price": "59.5",
+    "imgURL": "https://images1.vinted.net/t/04_01c76_EERyuPG1GCXZxZv3y89RfpKn/f800/1732047914.jpeg?s=4c48cf5fa696699f45bc789d1cd149f662f37e2b",
+    "itemURL": "https://www.vinted.fr/items/5411614064-lego-43249-stitch-neuf",
+    "publication": 1732047914,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
@@ -87,52 +66,18 @@
     "price": "58.45",
     "imgURL": "https://images1.vinted.net/t/03_02024_gvebHEGHaNAUmmrvxLrWpVkZ/f800/1732285153.jpeg?s=162b636b37cb02b84719700cb7313cc44351e2f4",
     "itemURL": "https://www.vinted.fr/items/5424119282-lego-43249-stich-neuf",
-    "publication": 1732285153
+    "publication": 1732285153,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
-    "id": 5432079961,
-    "title": "Lego Disney 43249 stitch neuf",
+    "id": 5399897049,
+    "title": "Lego 43249 Disney Stitch Nuovo",
     "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_020e6_mGZQCfAZeqW9Mfa6wXXKXRrt/f800/1732436794.jpeg?s=ad6c16da98f491646997db29efbc9b60a4892682",
-    "itemURL": "https://www.vinted.fr/items/5432079961-lego-disney-43249-stitch-neuf",
-    "publication": 1732436794
-  },
-  {
-    "legoid": 43249,
-    "id": 5353826285,
-    "title": "Lego Stitch 43249",
-    "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_010b8_49VrL8JprXEwhhMbLt9pfU8X/f800/1731168612.jpeg?s=c70e6897ba44dc0bc59546d4ad958c507fccc1ce",
-    "itemURL": "https://www.vinted.fr/items/5353826285-lego-stitch-43249",
-    "publication": 1731168612
-  },
-  {
-    "legoid": 43249,
-    "id": 5378905732,
-    "title": "Lego Disney 43249 Stitch",
-    "price": "61.6",
-    "imgURL": "https://images1.vinted.net/t/04_00dac_ACZgyttf7FRvV2eMnV6ZB4XW/f800/1731528830.jpeg?s=48233beb967ae7243edbe3f94f2fab6f6d4afa45",
-    "itemURL": "https://www.vinted.fr/items/5378905732-lego-disney-43249-stitch",
-    "publication": 1731528830
-  },
-  {
-    "legoid": 43249,
-    "id": 5376994857,
-    "title": "Lego 43249 Stitch",
-    "price": "57.4",
-    "imgURL": "https://images1.vinted.net/t/04_00ff4_9yZfAGEW88PbzuFNwXpGZBSb/f800/1731509075.jpeg?s=c565dfdd4362fed81921455f7f49a2d532572b0b",
-    "itemURL": "https://www.vinted.fr/items/5376994857-lego-43249-stitch",
-    "publication": 1731509075
-  },
-  {
-    "legoid": 43249,
-    "id": 5092349162,
-    "title": "LEGO 43249 Stitch lilo disney Expert Nuovo *A",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/02_00db4_ek5uXoY5PQadV2V4zDQSHFTp/f800/1727068869.jpeg?s=bde85bd8cf665a6808723790f80b664646fdfdf8",
-    "itemURL": "https://www.vinted.fr/items/5092349162-lego-43249-stitch-lilo-disney-expert-nuovo-a",
-    "publication": 1727068869
+    "imgURL": "https://images1.vinted.net/t/04_0208b_JuStWT9EXSGsxejHnkceuhte/f800/1731864448.jpeg?s=c88bc4685b8c96656694a800f3b05f4135809161",
+    "itemURL": "https://www.vinted.fr/items/5399897049-lego-43249-disney-stitch-nuovo",
+    "publication": 1731864448,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
@@ -141,25 +86,48 @@
     "price": "53.2",
     "imgURL": "https://images1.vinted.net/t/04_00a62_NfDubP42hjfyK7DgzaAbgTw2/f800/1731790390.jpeg?s=bdb7f6a1118919ced4b3d12e8d1eac1b91cf9a32",
     "itemURL": "https://www.vinted.fr/items/5393930378-lego-43249-sealed",
-    "publication": 1731790390
+    "publication": 1731790390,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
-    "id": 5419062418,
-    "title": "Lego 43249",
+    "id": 5432079961,
+    "title": "Lego Disney 43249 stitch neuf",
     "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_00bc7_MpoC5r4CL4sViH6CsHSi3yUG/f800/1732194335.jpeg?s=9039d75ee52d552c69c6e99722d3331a032be62f",
-    "itemURL": "https://www.vinted.fr/items/5419062418-lego-43249",
-    "publication": 1732194335
+    "imgURL": "https://images1.vinted.net/t/04_020e6_mGZQCfAZeqW9Mfa6wXXKXRrt/f800/1732436794.jpeg?s=ad6c16da98f491646997db29efbc9b60a4892682",
+    "itemURL": "https://www.vinted.fr/items/5432079961-lego-disney-43249-stitch-neuf",
+    "publication": 1732436794,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
-    "id": 5425687187,
-    "title": "Lego Stitch",
+    "id": 5414364563,
+    "title": "lego stitch disney",
     "price": "58.45",
-    "imgURL": "https://images1.vinted.net/t/04_016e9_n43bKuXHcuKYMG9LxoXmh5aH/f800/1732304224.jpeg?s=35cf98cc1266fada9b172ad254b00e4debe83d04",
-    "itemURL": "https://www.vinted.fr/items/5425687187-lego-stitch",
-    "publication": 1732304224
+    "imgURL": "https://images1.vinted.net/t/04_0226f_j3Mv83WkQF76wjpfjMmDu2JV/f800/1732110472.jpeg?s=0bc105bceee06a58d127a31b06edbae5104efaa3",
+    "itemURL": "https://www.vinted.fr/items/5414364563-lego-stitch-disney",
+    "publication": 1732110472,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 5376994857,
+    "title": "Lego 43249 Stitch",
+    "price": "57.4",
+    "imgURL": "https://images1.vinted.net/t/04_00ff4_9yZfAGEW88PbzuFNwXpGZBSb/f800/1731509075.jpeg?s=c565dfdd4362fed81921455f7f49a2d532572b0b",
+    "itemURL": "https://www.vinted.fr/items/5376994857-lego-43249-stitch",
+    "publication": 1731509075,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 5353826285,
+    "title": "Lego Stitch 43249",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/04_010b8_49VrL8JprXEwhhMbLt9pfU8X/f800/1731168612.jpeg?s=c70e6897ba44dc0bc59546d4ad958c507fccc1ce",
+    "itemURL": "https://www.vinted.fr/items/5353826285-lego-stitch-43249",
+    "publication": 1731168612,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
@@ -168,25 +136,38 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/04_0190e_wLxvHjpGgJf6ipiynJMcCHzZ/f800/1730561732.jpeg?s=64032263eff8482d7b7ec4e3220cc31196b15f9d",
     "itemURL": "https://www.vinted.fr/items/5317747881-lego-stich-43249",
-    "publication": 1730561732
+    "publication": 1730561732,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
-    "id": 5415399186,
-    "title": "Lego - Disney Stitch 43249",
-    "price": "62.65",
-    "imgURL": "https://images1.vinted.net/t/01_00b21_9119CmNukr3EtsWNGq1ktvBQ/f800/1732120026.jpeg?s=7342301bcb6cf591b5ae05a5660833323fcfb7b1",
-    "itemURL": "https://www.vinted.fr/items/5415399186-lego-disney-stitch-43249",
-    "publication": 1732120026
+    "id": 5419062418,
+    "title": "Lego 43249",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/04_00bc7_MpoC5r4CL4sViH6CsHSi3yUG/f800/1732194335.jpeg?s=9039d75ee52d552c69c6e99722d3331a032be62f",
+    "itemURL": "https://www.vinted.fr/items/5419062418-lego-43249",
+    "publication": 1732194335,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
-    "id": 5423164091,
-    "title": "Lego Stitch 43249 neuf",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/04_00766_vPaB2WSpMBqPMax7S3XQaRaL/f800/1732274805.jpeg?s=6dbba254edaa6a31530c29c05921740b821672b1",
-    "itemURL": "https://www.vinted.fr/items/5423164091-lego-stitch-43249-neuf",
-    "publication": 1732274805
+    "id": 5425687187,
+    "title": "Lego Stitch",
+    "price": "58.45",
+    "imgURL": "https://images1.vinted.net/t/04_016e9_n43bKuXHcuKYMG9LxoXmh5aH/f800/1732304224.jpeg?s=35cf98cc1266fada9b172ad254b00e4debe83d04",
+    "itemURL": "https://www.vinted.fr/items/5425687187-lego-stitch",
+    "publication": 1732304224,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 5378905732,
+    "title": "Lego Disney 43249 Stitch",
+    "price": "61.6",
+    "imgURL": "https://images1.vinted.net/t/04_00dac_ACZgyttf7FRvV2eMnV6ZB4XW/f800/1731528830.jpeg?s=48233beb967ae7243edbe3f94f2fab6f6d4afa45",
+    "itemURL": "https://www.vinted.fr/items/5378905732-lego-disney-43249-stitch",
+    "publication": 1731528830,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
@@ -195,7 +176,38 @@
     "price": "62.65",
     "imgURL": "https://images1.vinted.net/t/04_01579_CcFLoJqRns1b9JFS1iJJawSz/f800/1730664415.jpeg?s=14301482c4ccdd140b430b57c45a9f9cb6ff9270",
     "itemURL": "https://www.vinted.fr/items/5326254115-43249-stitch",
-    "publication": 1730664415
+    "publication": 1730664415,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 5423164091,
+    "title": "Lego Stitch 43249 neuf",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/04_00766_vPaB2WSpMBqPMax7S3XQaRaL/f800/1732274805.jpeg?s=6dbba254edaa6a31530c29c05921740b821672b1",
+    "itemURL": "https://www.vinted.fr/items/5423164091-lego-stitch-43249-neuf",
+    "publication": 1732274805,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 5415399186,
+    "title": "Lego - Disney Stitch 43249",
+    "price": "62.65",
+    "imgURL": "https://images1.vinted.net/t/01_00b21_9119CmNukr3EtsWNGq1ktvBQ/f800/1732120026.jpeg?s=7342301bcb6cf591b5ae05a5660833323fcfb7b1",
+    "itemURL": "https://www.vinted.fr/items/5415399186-lego-disney-stitch-43249",
+    "publication": 1732120026,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 5092349162,
+    "title": "LEGO 43249 Stitch lilo disney Expert Nuovo *A",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/02_00db4_ek5uXoY5PQadV2V4zDQSHFTp/f800/1727068869.jpeg?s=bde85bd8cf665a6808723790f80b664646fdfdf8",
+    "itemURL": "https://www.vinted.fr/items/5092349162-lego-43249-stitch-lilo-disney-expert-nuovo-a",
+    "publication": 1727068869,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
@@ -204,52 +216,8 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/03_0205c_q3aJNo8DZRskyiKegcg4SRYM/f800/1724581308.jpeg?s=2d33105a247cd556902faaef45b5f7399a5060c7",
     "itemURL": "https://www.vinted.fr/items/4935132997-lego-43249-stitch-nuovo-mai-aperto-60eu",
-    "publication": 1724581308
-  },
-  {
-    "legoid": 43249,
-    "id": 5359129141,
-    "title": "Lego 43249",
-    "price": "74.2",
-    "imgURL": "https://images1.vinted.net/t/01_025e8_ndGnEKwt7Fjh1GEou464E8WU/f800/1731248919.jpeg?s=9b29f46714990b8f561715ccad76e6397473dd76",
-    "itemURL": "https://www.vinted.fr/items/5359129141-lego-43249",
-    "publication": 1731248919
-  },
-  {
-    "legoid": 43249,
-    "id": 4192338210,
-    "title": "Lego Stitch 43249",
-    "price": "95.2",
-    "imgURL": "https://images1.vinted.net/t/03_0268c_1G1wu2AmGpWeUtY5T2DN9Qn7/f800/1709810421.jpeg?s=6966840395edd772498e0e836cd35ba2d23148bd",
-    "itemURL": "https://www.vinted.fr/items/4192338210-lego-stitch-43249",
-    "publication": 1709810421
-  },
-  {
-    "legoid": 43249,
-    "id": 4377227113,
-    "title": "Lego 43249 stitch / Brickh’eadz  / Lego stitch disney",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/01_00bf5_BZXUEo9g1VoQ4bMcmqbvgUcH/f800/1713357562.jpeg?s=eb1a6828f8ba4edc6af578cf0af01d6ce311111d",
-    "itemURL": "https://www.vinted.fr/items/4377227113-lego-43249-stitch-brickheadz-lego-stitch-disney",
-    "publication": 1713357562
-  },
-  {
-    "legoid": 43249,
-    "id": 4355135585,
-    "title": "43249",
-    "price": "68.95",
-    "imgURL": "https://images1.vinted.net/t/01_00425_fLpCf2MfciPoB76xBDBNB4cc/f800/1712958279.jpeg?s=4fc0868b64a48856fa1581d23cf2a7962d32f9ab",
-    "itemURL": "https://www.vinted.fr/items/4355135585-43249",
-    "publication": 1712958279
-  },
-  {
-    "legoid": 43249,
-    "id": 4986816948,
-    "title": "Lego 43249 STITCH",
-    "price": "63.7",
-    "imgURL": "https://images1.vinted.net/t/02_00ae5_BraEXt3MGZBPGxUPBRJGRuC3/f800/1725460366.jpeg?s=6b477a096e319522ea2e71e8d729163a905bf5d7",
-    "itemURL": "https://www.vinted.fr/items/4986816948-lego-43249-stitch",
-    "publication": 1725460366
+    "publication": 1724581308,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
@@ -258,16 +226,58 @@
     "price": "63.7",
     "imgURL": "https://images1.vinted.net/t/02_00424_waNFkJGxiBzE1jFYGkn3YXHu/f800/1714766533.jpeg?s=ac4ab0fe329bf1ff7b7af0dd8cc4cf582d149dec",
     "itemURL": "https://www.vinted.fr/items/4453244645-lego-stitch-43249",
-    "publication": 1714766533
+    "publication": 1714766533,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
-    "id": 4288457380,
+    "id": 4377227113,
+    "title": "Lego 43249 stitch / Brickh’eadz  / Lego stitch disney",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/01_00bf5_BZXUEo9g1VoQ4bMcmqbvgUcH/f800/1713357562.jpeg?s=eb1a6828f8ba4edc6af578cf0af01d6ce311111d",
+    "itemURL": "https://www.vinted.fr/items/4377227113-lego-43249-stitch-brickheadz-lego-stitch-disney",
+    "publication": 1713357562,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 5359129141,
+    "title": "Lego 43249",
+    "price": "74.2",
+    "imgURL": "https://images1.vinted.net/t/01_025e8_ndGnEKwt7Fjh1GEou464E8WU/f800/1731248919.jpeg?s=9b29f46714990b8f561715ccad76e6397473dd76",
+    "itemURL": "https://www.vinted.fr/items/5359129141-lego-43249",
+    "publication": 1731248919,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 4355135585,
+    "title": "43249",
+    "price": "68.95",
+    "imgURL": "https://images1.vinted.net/t/01_00425_fLpCf2MfciPoB76xBDBNB4cc/f800/1712958279.jpeg?s=4fc0868b64a48856fa1581d23cf2a7962d32f9ab",
+    "itemURL": "https://www.vinted.fr/items/4355135585-43249",
+    "publication": 1712958279,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 4192338210,
     "title": "Lego Stitch 43249",
     "price": "95.2",
-    "imgURL": "https://images1.vinted.net/t/01_006c4_ML22CXpbMASWhiGyTXf6QP13/f800/1711720736.jpeg?s=8f00d85c1bee6ffc4cf6aaa17e81f5f03e8dc103",
-    "itemURL": "https://www.vinted.fr/items/4288457380-lego-stitch-43249",
-    "publication": 1711720736
+    "imgURL": "https://images1.vinted.net/t/03_0268c_1G1wu2AmGpWeUtY5T2DN9Qn7/f800/1709810421.jpeg?s=6966840395edd772498e0e836cd35ba2d23148bd",
+    "itemURL": "https://www.vinted.fr/items/4192338210-lego-stitch-43249",
+    "publication": 1709810421,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 4986816948,
+    "title": "Lego 43249 STITCH",
+    "price": "63.7",
+    "imgURL": "https://images1.vinted.net/t/02_00ae5_BraEXt3MGZBPGxUPBRJGRuC3/f800/1725460366.jpeg?s=6b477a096e319522ea2e71e8d729163a905bf5d7",
+    "itemURL": "https://www.vinted.fr/items/4986816948-lego-43249-stitch",
+    "publication": 1725460366,
+    "scraping_data": 1732470487
   },
   {
     "legoid": 43249,
@@ -276,6 +286,17 @@
     "price": "74.15",
     "imgURL": "https://images1.vinted.net/t/01_018ef_RFQv7WxaSJc9nbJFoxhEkD5S/f800/1718113893.jpeg?s=e33c52a07d8176a627ffbd126f22084d252f3675",
     "itemURL": "https://www.vinted.fr/items/4628725658-lego-43249-stitch-disney-classic",
-    "publication": 1718113893
+    "publication": 1718113893,
+    "scraping_data": 1732470487
+  },
+  {
+    "legoid": 43249,
+    "id": 4288457380,
+    "title": "Lego Stitch 43249",
+    "price": "95.2",
+    "imgURL": "https://images1.vinted.net/t/01_006c4_ML22CXpbMASWhiGyTXf6QP13/f800/1711720736.jpeg?s=8f00d85c1bee6ffc4cf6aaa17e81f5f03e8dc103",
+    "itemURL": "https://www.vinted.fr/items/4288457380-lego-stitch-43249",
+    "publication": 1711720736,
+    "scraping_data": 1732470487
   }
 ]
