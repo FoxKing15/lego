@@ -5,7 +5,7 @@ import {scrape} from './websites/vinted.js';
 
 async function sandbox () {
   try {
-    console.log(`🕵️‍♀️  browsing Vinted API ...`);
+    console.log(`🚗⚡  Je suis rapide ...`);
 
     const deals = await scrape();
     //const deals = await avenuedelabrique.scrape(website);
