@@ -79,12 +79,9 @@ export async function sandboxDL(website = 'https://www.dealabs.com/groupe/lego?&
         const scrapedDeals = await scrapeDL(website); // Ne pas réattribuer deals directement
         console.log(scrapedDeals);
         console.log('done');
-        process.exit(0);
     } catch (e) {
         console.error(e);
-        process.exit(1);
     }
 }
 
-// Appeler la fonction d'entrée ici
-sandboxDL();
+

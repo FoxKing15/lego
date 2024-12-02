@@ -1,24 +1,22 @@
-
 import { MongoClient } from 'mongodb';
 import fs from 'fs';
 import path from 'path';
+import dotenv from "dotenv";
 
-// Utilisation de l'importation dynamique de JSON dans un module ES
+// Assurez-vous que dotenv est configuré si vous utilisez des variables d'environnement
+dotenv.config();
 
-
-const MONGODB_URI = 'mongodb+srv://embourassin:kpndsUEIL9ThR0UH@cluster0.huob4.mongodb.net/<DATABASE>';
-const MONGODB_DB_NAME='lego';
-
+const MONGODB_URI = `mongodb+srv://embourassin:${process.env.SECRET_KEY}@cluster0.huob4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
+const MONGODB_DB_NAME = 'lego';
 
 export async function deleteAllCollections() {
-
- let client; 
+  let client;
 
   try {
-    client = await MongoClient.connect(MONGODB_URI, {'useNewUrlParser': true});
+    client = new MongoClient(MONGODB_URI);
     await client.connect();
     console.log("✅ Connecté à la base de données.");
-    const db =  client.db(MONGODB_DB_NAME);
+    const db = client.db(MONGODB_DB_NAME);
 
     // Liste toutes les collections
     const collections = await db.listCollections().toArray();
@@ -40,8 +38,10 @@ export async function deleteAllCollections() {
   } catch (err) {
     console.error("Erreur :", err);
   } finally {
-    await client.close();
-    console.log("🔒 Connexion fermée.");
+    if (client) {
+      await client.close();
+      console.log("🔒 Connexion fermée.");
+    }
   }
 }
 
@@ -53,7 +53,7 @@ export async function main(data,name){
     let client;
 
     try{
-        client = await MongoClient.connect(MONGODB_URI, {'useNewUrlParser': true});
+        client = await MongoClient.connect(MONGODB_URI);
         console.log('Connected to MongoDB ! ');
         const db =  client.db(MONGODB_DB_NAME);
         const collection = db.collection(name);
@@ -206,4 +206,5 @@ async function salesForLegoId(legoId){
 //sortedByDateDesc();
 //salesForLegoId('21061');
 //salesLessThan3WeeksOld();
+
 

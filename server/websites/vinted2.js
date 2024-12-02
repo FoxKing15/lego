@@ -3,8 +3,11 @@ import fs from 'fs/promises';
 import fetch from 'node-fetch';
 import { MongoClient } from 'mongodb';
 import { main } from './MongoDB.js';
+import dotenv from "dotenv";
 
-const MONGODB_URI = 'mongodb+srv://embourassin:kpndsUEIL9ThR0UH@cluster0.huob4.mongodb.net/<DATABASE>';
+dotenv.config();
+
+const MONGODB_URI = `mongodb+srv://embourassin:${process.env.SECRET_KEY}@cluster0.huob4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
 const MONGODB_DB_NAME='lego';
 const COLLECTION_NAME = "deals";             // Remplacez par le nom de votre collection
 
@@ -152,4 +155,4 @@ export async function sandboxV() {
     }
 }
 
-sandboxV();
+
