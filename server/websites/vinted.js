@@ -73,8 +73,7 @@ async function parseAndSaveLegoData(legoId, cookieString) {
             price: item.total_item_price.amount,
             imgURL: item.photo.url,
             itemURL: item.url,
-            publication: item.photo.high_resolution.timestamp,
-            scraping_data: scrapingDate,
+            published: item.photo.high_resolution.timestamp,
         }));
 
         allResults.push(...items);
